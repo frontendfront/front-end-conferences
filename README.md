@@ -26,6 +26,10 @@ Norwich City, **UK**
 April 22, 2015  
 Newcastle upon Tyne, **UK**
 
+**[JS Unconf](http://2015.jsunconf.eu/)**  
+April 25-26, 2015  
+Hamburg, **Germany**
+
 **[Future of Web Design London](https://futureofwebdesign.com/london-2015/)**  
 April 27-29, 2015  
 London, **UK**
@@ -44,7 +48,7 @@ Dusseldorf, **Germany**
 
 **[CSSDay](http://cssday.nl/)**  
 June 12, 2015  
-Amsterdam, **Netherlands**
+Amsterdam, **The Netherlands**
 
 ##North America
 
@@ -71,6 +75,10 @@ Los Angeles, **USA**
 **[An Event Apart Boston](http://aneventapart.com/event/boston-2015)**  
 May 11-13, 2015  
 Boston, **USA**
+
+**[Front End Design Conference](http://frontenddesignconference.com/)**
+May 21-22, 2015
+St. Petersburg, **USA**
 
 **[An Event Apart San Diego](http://aneventapart.com/event/san-diego-2015)**  
 June 8-10, 2015  
