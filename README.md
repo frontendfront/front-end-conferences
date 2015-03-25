@@ -46,6 +46,10 @@ Edinburgh, **Scotland**
 May 11-13, 2015  
 Dusseldorf, **Germany**
 
+**[UpFront Conference](http://upfrontconf.com/)**  
+May 19, 2015  
+Manchester, **UK**
+
 **[CSSDay](http://cssday.nl/)**  
 June 12, 2015  
 Amsterdam, **The Netherlands**
@@ -95,3 +99,7 @@ New York, **USA**
 **[BDConf](http://bdconf.com/)**  
 June 19-20, 2015  
 Nashville, **USA**
+
+**[Responsive Field Day](http://www.responsivefieldday.com/)**  
+September 25, 2015  
+Portland, **USA**
