@@ -76,9 +76,9 @@ Los Angeles, **USA**
 May 11-13, 2015  
 Boston, **USA**
 
-**[Front End Design Conference](http://frontenddesignconference.com/)**
-May 21-22, 2015
-St. Petersburg, **USA**
+**[Front End Design Conference](http://frontenddesignconference.com/)**  
+May 21-22, 2015  
+St. Petersburg, **USA**  
 
 **[An Event Apart San Diego](http://aneventapart.com/event/san-diego-2015)**  
 June 8-10, 2015  
