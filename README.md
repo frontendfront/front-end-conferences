@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Europe
 
-**[Mobilism](http://mobilism.nl/2015)**  
-March 27, 2015  
-Amsterdam, **Netherlands**
-
 **[DotYork](http://dotyork.com/conference)**  
 April 9, 2015  
 York, **UK**
