@@ -42,6 +42,10 @@ Edinburgh, **Scotland**
 May 11-13, 2015  
 Dusseldorf, **Germany**
 
+**[JSConf.Budapest](http://jsconfbp.com/)**  
+May 14-15, 2015  
+Budapest, **Hungary**
+
 **[UpFront Conference](http://upfrontconf.com/)**  
 May 19, 2015  
 Manchester, **UK**
@@ -91,6 +95,10 @@ New York, **USA**
 **[BDConf](http://bdconf.com/)**  
 June 19-20, 2015  
 Nashville, **USA**
+
+**[jQuerySF](http://jquerysf.com/)**  
+June 22-23, 2015  
+San Francisco, **USA**
 
 **[Responsive Field Day](http://www.responsivefieldday.com/)**  
 September 25, 2015  
