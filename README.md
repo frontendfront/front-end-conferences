@@ -52,10 +52,6 @@ Amsterdam, **The Netherlands**
 
 ##North America
 
-**[An Event Apart Seattle](http://aneventapart.com/event/seattle-2015)**  
-March 30-April 1, 2015  
-Seattle, **USA**
-
 **[FITC Toronto](http://fitc.ca/event/to15/)**  
 April 12-14, 2015  
 Toronto, **Canada**
