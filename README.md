@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Europe
 
-**[DotYork](http://dotyork.com/conference)**  
-April 9, 2015  
-York, **UK**
-
 **[Bulgaria Web Summit](http://bulgariawebsummit.com/)**  
 April 18, 2015  
 Sofia, **Bulgaria**
@@ -53,6 +49,10 @@ Manchester, **UK**
 **[CSSDay](http://cssday.nl/)**  
 June 12, 2015  
 Amsterdam, **The Netherlands**
+
+**[MediterráneaJS](http://mediterraneajs.eu/)**  
+June 22-23, 2015  
+Barcelona, **Spain**
 
 ##North America
 
