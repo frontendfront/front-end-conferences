@@ -54,6 +54,10 @@ Amsterdam, **The Netherlands**
 June 22-23, 2015  
 Barcelona, **Spain**
 
+**[AngularConnect](http://angularconnect.com/)**  
+October 20-21, 2015  
+London, **UK**
+
 ##North America
 
 **[FITC Toronto](http://fitc.ca/event/to15/)**  
