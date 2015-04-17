@@ -60,10 +60,6 @@ London, **UK**
 
 ##North America
 
-**[FITC Toronto](http://fitc.ca/event/to15/)**  
-April 12-14, 2015  
-Toronto, **Canada**
-
 **[Generate NYC](http://www.generateconf.com/new-york-2015)**  
 April 17, 2015  
 New York, **USA**
