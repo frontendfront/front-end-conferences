@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Europe
 
-**[Bulgaria Web Summit](http://bulgariawebsummit.com/)**  
-April 18, 2015  
-Sofia, **Bulgaria**
-
 **[Naked.js](http://naked-js.com/)**  
 April 22, 2015  
 Norwich City, **UK**
@@ -55,10 +51,6 @@ June 22-23, 2015
 Barcelona, **Spain**
 
 ##North America
-
-**[Generate NYC](http://www.generateconf.com/new-york-2015)**  
-April 17, 2015  
-New York, **USA**
 
 **[O’Reilly Fluent Conference](http://fluentconf.com/)**  
 April 20-22, 2015  
