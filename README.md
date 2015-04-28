@@ -6,18 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Europe
 
-**[Naked.js](http://naked-js.com/)**  
-April 22, 2015  
-Norwich City, **UK**
-
-**[Industry Conf](http://2015.industryconf.com/)**  
-April 22, 2015  
-Newcastle upon Tyne, **UK**
-
-**[JS Unconf](http://2015.jsunconf.eu/)**  
-April 25-26, 2015  
-Hamburg, **Germany**
-
 **[Future of Web Design London](https://futureofwebdesign.com/london-2015/)**  
 April 27-29, 2015  
 London, **UK**
@@ -55,10 +43,6 @@ October 20-21, 2015
 London, **UK**
 
 ##North America
-
-**[O’Reilly Fluent Conference](http://fluentconf.com/)**  
-April 20-22, 2015  
-San Francisco, **USA**
 
 **[SmashingConf LA](http://www.smashingconf.com/)**  
 April 28-29, 2015  
