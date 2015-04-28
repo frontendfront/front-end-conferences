@@ -34,9 +34,17 @@ Manchester, **UK**
 June 12, 2015  
 Amsterdam, **The Netherlands**
 
+**[Responsive Day Out 3](http://responsiveconf.com/)**  
+June 19, 2015  
+Brighton, **UK**
+
 **[MediterráneaJS](http://mediterraneajs.eu/)**  
 June 22-23, 2015  
 Barcelona, **Spain**
+
+**[Edge Conference](https://edgeconf.com/2015-london)**  
+June 27, 2015  
+London, **UK**
 
 **[AngularConnect](http://angularconnect.com/)**  
 October 20-21, 2015  
