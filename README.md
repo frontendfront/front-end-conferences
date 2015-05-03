@@ -7,55 +7,55 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 ##Europe
 
 [**Front-Trends**](http://front-trends.com/)  
-May 6-8, 2015  
+6-8 May, 2015  
 Warsaw, **Poland**
 
 [**Scotland JS**](http://scotlandjs.com/)  
-May 7-8, 2015  
+7-8 May, 2015  
 Edinburgh, **Scotland**
 
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
-May 11-13, 2015  
+11-13 May, 2015  
 Dusseldorf, **Germany**
 
 [**JSConf.Budapest**](http://jsconfbp.com/)  
-May 14-15, 2015  
+14-15 May, 2015  
 Budapest, **Hungary**
 
 [**UpFront Conference**](http://upfrontconf.com/)  
-May 19, 2015  
+19 May, 2015  
 Manchester, **England**
 
 [**CSSDay**](http://cssday.nl/)  
-June 12, 2015  
+12 June, 2015  
 Amsterdam, **The Netherlands**
 
 [**Responsive Day Out 3**](http://responsiveconf.com/)  
-June 19, 2015  
+19 June, 2015  
 Brighton, **England**
 
 [**MediterráneaJS**](http://mediterraneajs.eu/)  
-June 22-23, 2015  
+22-23 June, 2015  
 Barcelona, **Spain**
 
 [**Edge Conference**](https://edgeconf.com/2015-london)  
-June 27, 2015  
+27 June, 2015  
 London, **England**
 
 [**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
-September 14-16, 2015  
+14-16 September, 2015  
 Freiburg, **Germany**
 
 [**AngularConnect**](http://angularconnect.com/)  
-October 20-21, 2015  
+20-21 October, 2015  
 London, **England**
 
 [**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
-October 20-21, 2015  
+20-21 October, 2015  
 Barcelona, **Spain**
 
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
-November 2-4, 2015  
+2-4 November, 2015  
 Berlin, **Germany**
 
 
