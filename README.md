@@ -22,7 +22,7 @@ Dusseldorf, **Germany**
 May 14-15, 2015  
 Budapest, **Hungary**
 
-[UpFront Conference](http://upfrontconf.com/)  
+[**UpFront Conference**](http://upfrontconf.com/)  
 May 19, 2015  
 Manchester, **England**
 
