@@ -42,7 +42,7 @@ Barcelona, **Spain**
 27 June, 2015  
 London, **England**
 
-[**ReactEurope**](http://lanyrd.com/2015/reacteurope/)  
+[**ReactEurope**](https://www.react-europe.org/)  
 2-3 July, 2015  
 Paris, **France**
 
@@ -50,7 +50,7 @@ Paris, **France**
 14-16 September, 2015  
 Freiburg, **Germany**
 
-[**From The Front**](http://fromthefront.it/)  
+[**From fhe Front**](http://fromthefront.it/)  
 17-18 September, 2015  
 Bologna, **Italy**
 
