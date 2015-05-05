@@ -50,7 +50,7 @@ Paris, **France**
 14-16 September, 2015  
 Freiburg, **Germany**
 
-[**From fhe Front**](http://fromthefront.it/)  
+[**From the Front**](http://fromthefront.it/)  
 17-18 September, 2015  
 Bologna, **Italy**
 
