@@ -4,6 +4,20 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [http://frontendfront.com/conferences](http://frontendfront.com/conferences).*
 
+##Africa
+
+[**JSinSA**](http://www.jsinsa.com/jsinsa/2015/index.html)  
+11 July, 2015  
+Johannesburg, **South Africa**
+
+
+##Australia
+
+[**WDCNZ 2015**](http://www.wdcnz.com/)  
+23 July, 2015  
+Wellington, **New Zealand**
+
+
 ##Europe
 
 [**Front-Trends**](http://front-trends.com/)  
@@ -60,6 +74,10 @@ Berlin, **Germany**
 
 [**AngularConnect**](http://angularconnect.com/)  
 20-21 October, 2015  
+London, **England**
+
+[**Future of Web Apps**](https://futureofwebapps.com/london-2015/)  
+5-7 October, 2015  
 London, **England**
 
 [**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
@@ -128,3 +146,7 @@ Portland, Oregon **USA**
 [**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
 October 26-28, 2015  
 Long Beach, California **USA**
+
+[**Future of Web Design New York**](https://futureofwebdesign.com/nyc-2015/)  
+November 2-4, 2015  
+New York City, New York **USA**
