@@ -61,7 +61,7 @@ London, **England**
 Paris, **France**
 
 [**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
-14-16 September, 2015  
+14-15 September, 2015  
 Freiburg, **Germany**
 
 [**From the Front**](http://fromthefront.it/)  
