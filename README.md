@@ -20,14 +20,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**Front-Trends**](http://front-trends.com/)  
-6-8 May, 2015  
-Warsaw, **Poland**
-
-[**Scotland JS**](http://scotlandjs.com/)  
-7-8 May, 2015  
-Edinburgh, **Scotland**
-
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
 11-13 May, 2015  
 Dusseldorf, **Germany**
@@ -90,10 +82,6 @@ Berlin, **Germany**
 
 
 ##North America
-
-[**SmashingConf LA**](http://www.smashingconf.com/)  
-April 28-29, 2015  
-Los Angeles, California **USA**
 
 [**An Event Apart Boston**](http://aneventapart.com/event/boston-2015)  
 May 11-13, 2015  
