@@ -20,10 +20,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**beyond tellerrand**](http://beyondtellerrand.com/)  
-11-13 May, 2015  
-Dusseldorf, **Germany**
-
 [**JSConf.Budapest**](http://jsconfbp.com/)  
 14-15 May, 2015  
 Budapest, **Hungary**
@@ -31,6 +27,22 @@ Budapest, **Hungary**
 [**UpFront Conference**](http://upfrontconf.com/)  
 19 May, 2015  
 Manchester, **England**
+
+[**UX London**](http://2015.uxlondon.com/)  
+20-22 May, 2015  
+London, **England**
+
+[**AtTheFrontend**](http://www.atthefrontend.com/)  
+27 May, 2015  
+Copenhagen, **Denmark**
+
+[**JSCamp Romania 2015**](http://www.jscamp.ro/)  
+2 June, 2015  
+Bucharest, **Romania**
+
+[**Frontend United Bristol**](http://frontendunited.org/)  
+5-7 June, 2015  
+Bristol, **England**
 
 [**CSSDay**](http://cssday.nl/)  
 12 June, 2015  
@@ -51,6 +63,10 @@ London, **England**
 [**ReactEurope**](https://www.react-europe.org/)  
 2-3 July, 2015  
 Paris, **France**
+
+[**Frontend Conference Zurich 2015**](http://2015.frontendconf.ch/en/)  
+27-28 August, 2015  
+Freiburg, **Germany**
 
 [**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
 14-15 September, 2015  
@@ -83,10 +99,6 @@ Berlin, **Germany**
 
 ##North America
 
-[**An Event Apart Boston**](http://aneventapart.com/event/boston-2015)  
-May 11-13, 2015  
-Boston, Massachusetts **USA**
-
 [**Front End Design Conference**](http://frontenddesignconference.com)  
 May 21-22, 2015  
 St. Petersburg, Florida **USA**  
@@ -102,6 +114,10 @@ Las Vegas, Nevada, **USA**
 [**An Event Apart San Diego**](http://aneventapart.com/event/san-diego-2015)  
 June 8-10, 2015  
 San Diego, California **USA**
+
+[**Web Design Day 2015**](http://www.webdesignday.com/)  
+June 12, 2015  
+Pittsburgh, Pennsylvania **USA**
 
 [**SmashingConf New York**](http://www.smashingconf.com/)  
 June 15-18, 2015  
@@ -138,3 +154,9 @@ Long Beach, California **USA**
 [**Future of Web Design New York**](https://futureofwebdesign.com/nyc-2015/)  
 November 2-4, 2015  
 New York City, New York **USA**
+
+
+## Online
+
+[**Frontend Summit 2015**](http://environmentsforhumans.com/2015/frontend-summit/)  
+June 2, 2015
