@@ -11,6 +11,13 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 Johannesburg, **South Africa**
 
 
+##Asia
+
+[**JSConf.Asia**](http://2015.jsconf.asia/)  
+19-20 November, 2015  
+TBD, **Singapore**
+
+
 ##Australia
 
 [**WDCNZ 2015**](http://www.wdcnz.com/)  
@@ -19,10 +26,6 @@ Wellington, **New Zealand**
 
 
 ##Europe
-
-[**JSConf.Budapest**](http://jsconfbp.com/)  
-14-15 May, 2015  
-Budapest, **Hungary**
 
 [**UpFront Conference**](http://upfrontconf.com/)  
 19 May, 2015  
@@ -142,6 +145,10 @@ Blaine, Washington **USA**
 [**Cascadia JSFest 2015**](http://2015.cascadiajs.com/)  
 July 8-10, 2015  
 Blaine, Washington **USA**
+
+[**Forward 3 Web Technology Summit**](http://forwardjs.com/)  
+July 27-31, 2015  
+San Francisco, California **USA**
 
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
