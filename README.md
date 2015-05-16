@@ -91,6 +91,9 @@ London, **England**
 5-7 October, 2015  
 London, **England**
 
+[**Fronteers 2015**](https://fronteers.nl/congres/2015)  
+Amsterdam, **The Netherlands**
+
 [**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
 20-21 October, 2015  
 Barcelona, **Spain**
