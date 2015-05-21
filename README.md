@@ -27,14 +27,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**UpFront Conference**](http://upfrontconf.com/)  
-19 May, 2015  
-Manchester, **England**
-
-[**UX London**](http://2015.uxlondon.com/)  
-20-22 May, 2015  
-London, **England**
-
 [**AtTheFrontend**](http://www.atthefrontend.com/)  
 27 May, 2015  
 Copenhagen, **Denmark**
@@ -79,16 +71,24 @@ Freiburg, **Germany**
 17-18 September, 2015  
 Bologna, **Italy**
 
-[**JSconf.EU**](http://2015.jsconf.eu/)  
-27-29 September, 2015  
+[**JSConf.EU**](http://2015.jsconf.eu/)  
+25, 27 September, 2015  
 Berlin, **Germany**
 
-[**AngularConnect**](http://angularconnect.com/)  
-20-21 October, 2015  
-London, **England**
+[**CSSConf.EU**](http://2015.cssconf.eu/)  
+26 September, 2015  
+Berlin, **Germany**
 
 [**Future of Web Apps**](https://futureofwebapps.com/london-2015/)  
 5-7 October, 2015  
+London, **England**
+
+[**Fronteers 2015**](https://fronteers.nl/congres/2015)  
+8-9 October, 2015  
+Amsterdam, **The Netherlands**
+
+[**AngularConnect**](http://angularconnect.com/)  
+20-21 October, 2015  
 London, **England**
 
 [**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
@@ -101,10 +101,6 @@ Berlin, **Germany**
 
 
 ##North America
-
-[**Front End Design Conference**](http://frontenddesignconference.com)  
-May 21-22, 2015  
-St. Petersburg, Florida **USA**  
 
 [**JSConf.US**](http://2015.jsconf.us/)  
 May 27-29, 2015  
@@ -167,3 +163,6 @@ New York City, New York **USA**
 
 [**Frontend Summit 2015**](http://environmentsforhumans.com/2015/frontend-summit/)  
 June 2, 2015
+
+[**CSS Summit**](http://environmentsforhumans.com/2015/css-summit/)  
+July 7-9, 2015
