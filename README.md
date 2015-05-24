@@ -27,14 +27,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**UpFront Conference**](http://upfrontconf.com/)  
-19 May, 2015  
-Manchester, **England**
-
-[**UX London**](http://2015.uxlondon.com/)  
-20-22 May, 2015  
-London, **England**
-
 [**AtTheFrontend**](http://www.atthefrontend.com/)  
 27 May, 2015  
 Copenhagen, **Denmark**
@@ -101,10 +93,6 @@ Berlin, **Germany**
 
 
 ##North America
-
-[**Front End Design Conference**](http://frontenddesignconference.com)  
-May 21-22, 2015  
-St. Petersburg, Florida **USA**  
 
 [**JSConf.US**](http://2015.jsconf.us/)  
 May 27-29, 2015  
