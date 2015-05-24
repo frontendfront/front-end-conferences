@@ -67,9 +67,9 @@ London, **England**
 2-3 July, 2015  
 Paris, **France**
 
-[**Frontend Conference Zurich 2015**](http://2015.frontendconf.ch/en/)  
+[**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
-Freiburg, **Germany**
+Zurich, **Switzerland**
 
 [**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
 14-15 September, 2015  
