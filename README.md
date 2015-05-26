@@ -72,15 +72,19 @@ Freiburg, **Germany**
 Bologna, **Italy**
 
 [**JSconf.EU**](http://2015.jsconf.eu/)  
-27-29 September, 2015  
+25-27 September, 2015  
 Berlin, **Germany**
 
-[**AngularConnect**](http://angularconnect.com/)  
-20-21 October, 2015  
-London, **England**
+[**CSSConf.EU**](http://2015.cssconf.eu/)  
+26 September, 2015  
+Berlin, **Germany**
 
 [**Future of Web Apps**](https://futureofwebapps.com/london-2015/)  
 5-7 October, 2015  
+London, **England**
+
+[**AngularConnect**](http://angularconnect.com/)  
+20-21 October, 2015  
 London, **England**
 
 [**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
@@ -155,3 +159,6 @@ New York City, New York **USA**
 
 [**Frontend Summit 2015**](http://environmentsforhumans.com/2015/frontend-summit/)  
 June 2, 2015
+
+[**CSS Summit**](http://environmentsforhumans.com/2015/css-summit/)  
+July 7-9, 2015
