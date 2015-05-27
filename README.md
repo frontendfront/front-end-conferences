@@ -27,10 +27,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**AtTheFrontend**](http://www.atthefrontend.com/)  
-27 May, 2015  
-Copenhagen, **Denmark**
-
 [**JSCamp Romania 2015**](http://www.jscamp.ro/)  
 2 June, 2015  
 Bucharest, **Romania**
