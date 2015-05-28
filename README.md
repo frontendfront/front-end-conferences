@@ -13,6 +13,10 @@ Johannesburg, **South Africa**
 
 ##Asia
 
+[**Velocity**](http://velocity.oreilly.com.cn/2015/)  
+11-12 August, 2015  
+Beijing, **China**
+
 [**JSConf.Asia**](http://2015.jsconf.asia/)  
 19-20 November, 2015  
 TBD, **Singapore**
@@ -91,6 +95,10 @@ London, **England**
 20-21 October, 2015  
 Barcelona, **Spain**
 
+[**Velocity**](http://velocityconf.com/devops-web-performance-eu-2015)  
+28-30 October, 2015  
+Amsterdam, **The Netherlands**
+
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
 2-4 November, 2015  
 Berlin, **Germany**
@@ -145,6 +153,18 @@ San Francisco, California **USA**
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
 Portland, Oregon **USA**
+
+[**Velocity**](http://velocityconf.com/devops-web-performance-ny-2015)  
+October, 12-14 2015  
+New York City, New York **USA**
+
+[**ConnectJS**](http://connect-js.com/)  
+October 16-17, 2015  
+Atlanta, Georgia **USA**
+
+[**HTML5DevConf Autumn 2015**](http://html5devconf.com/)  
+October 19-20, 2015  
+San Francisco, California **USA**
 
 [**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
 October 26-28, 2015  
