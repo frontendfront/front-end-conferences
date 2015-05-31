@@ -13,9 +13,21 @@ Johannesburg, **South Africa**
 
 ##Asia
 
+[**JSConf.CN (深JS)**](http://jsconf.cn/)  
+11-12 July, 2015  
+Shenzhen, **China**
+
 [**Velocity**](http://velocity.oreilly.com.cn/2015/)  
 11-12 August, 2015  
 Beijing, **China**
+
+[**JSFoo**](https://jsfoo.in/)  
+18-19 September, 2015  
+Bangalore, **India**
+
+[**JSDC**](http://jsdc.tw/)  
+3-4 October, 2015  
+Taipei City, **Taiwan**
 
 [**JSConf.Asia**](http://2015.jsconf.asia/)  
 19-20 November, 2015  
@@ -34,6 +46,10 @@ Wellington, **New Zealand**
 [**JSCamp Romania 2015**](http://www.jscamp.ro/)  
 2 June, 2015  
 Bucharest, **Romania**
+
+[**JavaScript CodeRetreat**](http://jscoderetreat.com/)  
+7 June, 2015  
+Munich, **Germany**
 
 [**Frontend United Bristol**](http://frontendunited.org/)  
 5-7 June, 2015  
@@ -173,6 +189,21 @@ Long Beach, California **USA**
 [**Future of Web Design New York**](https://futureofwebdesign.com/nyc-2015/)  
 November 2-4, 2015  
 New York City, New York **USA**
+
+
+##South America
+
+[**BrazilJS Conf**](http://braziljs.com.br/)  
+21-22 August, 2015  
+Porto Alegre, Rio Grande do Sul **Brazil**  
+
+[**Front in Aracaju**](http://www.frontinaracaju.com.br)  
+5 September, 2015  
+Aracaju, Sergipe **Brazil**
+
+[**JSConf.CO**](http://jsconf.co/)  
+15 October, 2015  
+Medellin, **Columbia**
 
 
 ## Online
