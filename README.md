@@ -122,10 +122,6 @@ Berlin, **Germany**
 
 ##North America
 
-[**JSConf.US**](http://2015.jsconf.us/)  
-May 27-29, 2015  
-Amelia Island, Florida **USA**  
-
 [**Future Insights Live**](https://futureinsightslive.com/las-vegas-2015/)  
 June 1-4, 2015  
 Las Vegas, Nevada, **USA**
