@@ -13,6 +13,10 @@ Johannesburg, **South Africa**
 
 ##Asia
 
+[**YGLF (You Gotta Love Frontend)**](http://yougottalovefrontend.com/)  
+8-9 July, 2015  
+Tel Aviv, **Israel**
+
 [**JSConf.CN (深JS)**](http://jsconf.cn/)  
 11-12 July, 2015  
 Shenzhen, **China**
@@ -43,10 +47,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**JSCamp Romania 2015**](http://www.jscamp.ro/)  
-2 June, 2015  
-Bucharest, **Romania**
-
 [**JavaScript CodeRetreat**](http://jscoderetreat.com/)  
 7 June, 2015  
 Munich, **Germany**
@@ -58,6 +58,10 @@ Bristol, **England**
 [**CSSDay**](http://cssday.nl/)  
 12 June, 2015  
 Amsterdam, **The Netherlands**
+
+[**enterJS 2015**](http://www.enterjs.de/)  
+19 June, 2015  
+Darmstadt, **Germany**
 
 [**Responsive Day Out 3**](http://responsiveconf.com/)  
 19 June, 2015  
@@ -79,6 +83,10 @@ Paris, **France**
 27-28 August, 2015  
 Zurich, **Switzerland**
 
+[**ColdFront 2015**](https://coldfrontconf.com/)  
+3 September, 2015  
+Copenhagen, **Denmark**
+
 [**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
 14-15 September, 2015  
 Freiburg, **Germany**
@@ -86,6 +94,10 @@ Freiburg, **Germany**
 [**From the Front**](http://fromthefront.it/)  
 17-18 September, 2015  
 Bologna, **Italy**
+
+[**Smart Web Conf**](http://www.smartwebconf.com/)  
+22 September, 2015  
+Bologna, **Romania**
 
 [**JSconf.EU**](http://2015.jsconf.eu/)  
 25-27 September, 2015  
@@ -162,9 +174,17 @@ Blaine, Washington **USA**
 July 27-31, 2015  
 San Francisco, California **USA**
 
+[**MidwestJS**](http://midwestjs.com/)  
+August 12-14, 2015  
+Minneapolis, Minnesota **USA**
+
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
 Portland, Oregon **USA**
+
+[**SassConf**](http://sassconf.com/)  
+Fall, 2015  
+Austin, Texas **USA**
 
 [**Velocity**](http://velocityconf.com/devops-web-performance-ny-2015)  
 October, 12-14 2015  
@@ -203,9 +223,6 @@ Medellin, **Columbia**
 
 
 ## Online
-
-[**Frontend Summit 2015**](http://environmentsforhumans.com/2015/frontend-summit/)  
-June 2, 2015
 
 [**CSS Summit**](http://environmentsforhumans.com/2015/css-summit/)  
 July 7-9, 2015
