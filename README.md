@@ -111,6 +111,10 @@ Freiburg, **Germany**
 17-18 September, 2015  
 Bologna, **Italy**
 
+[**Generate London**](http://generateconf.com/london-2015)  
+17-18 September, 2015  
+London, **England**
+
 [**Smart Web Conf**](http://www.smartwebconf.com/)  
 22 September, 2015  
 Bologna, **Romania**
