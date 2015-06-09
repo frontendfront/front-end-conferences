@@ -51,14 +51,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**JavaScript CodeRetreat**](http://jscoderetreat.com/)  
-7 June, 2015  
-Munich, **Germany**
-
-[**Frontend United Bristol**](http://frontendunited.org/)  
-5-7 June, 2015  
-Bristol, **England**
-
 [**CSSDay**](http://cssday.nl/)  
 12 June, 2015  
 Amsterdam, **The Netherlands**
@@ -99,6 +91,10 @@ Barcelona, **Spain**
 3 September, 2015  
 Copenhagen, **Denmark**
 
+[**dConstruct**](http://2015.dconstruct.org/)  
+11 September, 2015  
+Brighton, **England**
+
 [**MOBX**](http://2015.mobxcon.com/)  
 11 September, 2015  
 Berlin, **Germany**
@@ -131,6 +127,10 @@ Berlin, **Germany**
 26 September, 2015  
 Berlin, **Germany**
 
+[**Rebase**](http://rebase.ie/)  
+1-2 October, 2015  
+Dublin, **Ireland**
+
 [**Future of Web Apps**](https://futureofwebapps.com/london-2015/)  
 5-7 October, 2015  
 London, **England**
@@ -161,10 +161,6 @@ Berlin, **Germany**
 
 
 ##North America
-
-[**An Event Apart San Diego**](http://aneventapart.com/event/san-diego-2015)  
-June 8-10, 2015  
-San Diego, California **USA**
 
 [**Web Design Day 2015**](http://www.webdesignday.com/)  
 June 12, 2015  
@@ -198,9 +194,21 @@ Blaine, Washington **USA**
 July 27-31, 2015  
 San Francisco, California **USA**
 
+[**An Event Apart Washington DC**](http://aneventapart.com/event/washington-dc-2015)  
+August 10-12, 2015  
+Washington, D.C. **USA**
+
 [**MidwestJS**](http://midwestjs.com/)  
 August 12-14, 2015  
 Minneapolis, Minnesota **USA**
+
+[**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2015)  
+August 31-September 2, 2015  
+Chicago, Illinois **USA**
+
+[**BlendConf**](http://2015.blendconf.com/)  
+September 2-4, 2015  
+Charlotte, North Carolina **USA**
 
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
@@ -208,6 +216,10 @@ Portland, Oregon **USA**
 
 [**SassConf**](http://sassconf.com/)  
 Fall, 2015  
+Austin, Texas **USA**
+
+[**An Event Apart Austin**](http://aneventapart.com/event/austin-2015)  
+October 5-7, 2015  
 Austin, Texas **USA**
 
 [**Velocity**](http://velocityconf.com/devops-web-performance-ny-2015)  
@@ -228,6 +240,10 @@ Long Beach, California **USA**
 
 [**Future of Web Design San Francisco**](https://futureofwebdesign.com/san-francisco-2015/)  
 October 28-30, 2015  
+San Francisco, California **USA**
+
+[**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2015)  
+November 2-4, 2015  
 San Francisco, California **USA**
 
 [**Future of Web Design NYC**](https://futureofwebdesign.com/nyc-2015/)  
