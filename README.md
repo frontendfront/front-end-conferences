@@ -40,6 +40,10 @@ TBD, **Singapore**
 
 ##Australia
 
+[**Code 2015**](http://www.webdirections.org/code15/)  
+25-26 June, 2015  
+Melbourne, **Australia**
+
 [**WDCNZ 2015**](http://www.wdcnz.com/)  
 23 July, 2015  
 Wellington, **New Zealand**
@@ -79,13 +83,25 @@ London, **England**
 2-3 July, 2015  
 Paris, **France**
 
+[**HybridConf 2015**](https://hybridconf.net/)  
+20-21 August, 2015  
+Dublin, **Ireland**
+
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
 Zurich, **Switzerland**
 
+[**FullStack Fest**](http://fullstackfest.com/)  
+1-5 September, 2015  
+Barcelona, **Spain**
+
 [**ColdFront 2015**](https://coldfrontconf.com/)  
 3 September, 2015  
 Copenhagen, **Denmark**
+
+[**MOBX**](http://2015.mobxcon.com/)  
+11 September, 2015  
+Berlin, **Germany**
 
 [**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
 14-15 September, 2015  
@@ -95,9 +111,17 @@ Freiburg, **Germany**
 17-18 September, 2015  
 Bologna, **Italy**
 
+[**Generate London**](http://generateconf.com/london-2015)  
+17-18 September, 2015  
+London, **England**
+
 [**Smart Web Conf**](http://www.smartwebconf.com/)  
 22 September, 2015  
 Bologna, **Romania**
+
+[**React.JS 2015**](http://rejectjs.org/)  
+24 September, 2015  
+Berlin, **Germany**
 
 [**JSconf.EU**](http://2015.jsconf.eu/)  
 25-27 September, 2015  
@@ -123,6 +147,10 @@ London, **England**
 20-21 October, 2015  
 Barcelona, **Spain**
 
+[**FullStack 2015**](https://skillsmatter.com/conferences/6612-fullstack)  
+26-28 October, 2015  
+London, **England**
+
 [**Velocity**](http://velocityconf.com/devops-web-performance-eu-2015)  
 28-30 October, 2015  
 Amsterdam, **The Netherlands**
@@ -133,10 +161,6 @@ Berlin, **Germany**
 
 
 ##North America
-
-[**Future Insights Live**](https://futureinsightslive.com/las-vegas-2015/)  
-June 1-4, 2015  
-Las Vegas, Nevada, **USA**
 
 [**An Event Apart San Diego**](http://aneventapart.com/event/san-diego-2015)  
 June 8-10, 2015  
@@ -202,9 +226,25 @@ San Francisco, California **USA**
 October 26-28, 2015  
 Long Beach, California **USA**
 
-[**Future of Web Design New York**](https://futureofwebdesign.com/nyc-2015/)  
+[**Future of Web Design San Francisco**](https://futureofwebdesign.com/san-francisco-2015/)  
+October 28-30, 2015  
+San Francisco, California **USA**
+
+[**Future of Web Design NYC**](https://futureofwebdesign.com/nyc-2015/)  
 November 2-4, 2015  
 New York City, New York **USA**
+
+[**Thunder Plains Developer Conference**](http://thunderplainsconf.com/)  
+November 3, 2015  
+Oklahoma City, Oklahoma **USA**
+
+[**NationJS**](http://nationjs.com/)  
+November 12-13, 2015  
+Silver Spring, Maryland **USA**
+
+[**FullStack Toronto**](http://fsto.co/)  
+November 14-15, 2015  
+Toronto, Ontario **Canda**
 
 
 ##South America
