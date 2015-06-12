@@ -51,10 +51,6 @@ Wellington, **New Zealand**
 
 ##Europe
 
-[**CSSDay**](http://cssday.nl/)  
-12 June, 2015  
-Amsterdam, **The Netherlands**
-
 [**enterJS 2015**](http://www.enterjs.de/)  
 19 June, 2015  
 Darmstadt, **Germany**
@@ -161,10 +157,6 @@ Berlin, **Germany**
 
 
 ##North America
-
-[**Web Design Day 2015**](http://www.webdesignday.com/)  
-June 12, 2015  
-Pittsburgh, Pennsylvania **USA**
 
 [**SmashingConf New York**](http://www.smashingconf.com/)  
 June 15-18, 2015  
