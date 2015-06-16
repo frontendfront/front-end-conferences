@@ -63,6 +63,14 @@ Brighton, **England**
 22-23 June, 2015  
 Barcelona, **Spain**
 
+[**JavaScript MasterClass**](http://javascript-masterclass.de/2015/)  
+24-26 June, 2015  
+Munich, **Germany**
+
+[**JavaScript Open Day**](http://jsopenday.azurewebsites.net/)  
+26 June, 2015  
+London, **England**
+
 [**Edge Conference**](https://edgeconf.com/2015-london)  
 27 June, 2015  
 London, **England**
@@ -107,6 +115,10 @@ Bologna, **Italy**
 17-18 September, 2015  
 London, **England**
 
+[**MakingWeb 2.15**](http://makingweb.no/)  
+22-23 September, 2015  
+Oslo, **Norway**
+
 [**Smart Web Conf**](http://www.smartwebconf.com/)  
 22 September, 2015  
 Bologna, **Romania**
@@ -130,6 +142,10 @@ Dublin, **Ireland**
 [**Future of Web Apps**](https://futureofwebapps.com/london-2015/)  
 5-7 October, 2015  
 London, **England**
+
+[**JavaScript Days 2015**](http://javascript-days.de/2015fall/)  
+5-7 October, 2015  
+Berlin, **German**
 
 [**Fronteers 2015**](https://fronteers.nl/congres/2015)  
 8-9 October, 2015  
@@ -182,6 +198,10 @@ Blaine, Washington **USA**
 July 8-10, 2015  
 Blaine, Washington **USA**
 
+[**TXJS**](https://2015.texasjavascript.com/)  
+July 24, 2015  
+Austin, Texas **USA**
+
 [**Forward 3 Web Technology Summit**](http://forwardjs.com/)  
 July 27-31, 2015  
 San Francisco, California **USA**
@@ -226,7 +246,11 @@ Atlanta, Georgia **USA**
 October 19-20, 2015  
 San Francisco, California **USA**
 
-[**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
+[**Front Porch**](http://frontporch.io/)  
+October 20, 2015  
+Dallas, Texas **USA**
+
+[**CSS Dev Conf 2015**](htt://2015.cssdevconf.com/)  
 October 26-28, 2015  
 Long Beach, California **USA**
 
@@ -260,6 +284,10 @@ Toronto, Ontario **Canda**
 [**BrazilJS Conf**](http://braziljs.com.br/)  
 21-22 August, 2015  
 Porto Alegre, Rio Grande do Sul **Brazil**  
+
+[**QCon Rio 2015**](http://qconrio.com/)  
+24-28 August, 2015  
+Rio de Janeiro **Brazil**  
 
 [**Front in Aracaju**](http://www.frontinaracaju.com.br)  
 5 September, 2015  
