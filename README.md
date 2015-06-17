@@ -167,16 +167,24 @@ London, **England**
 28-30 October, 2015  
 Amsterdam, **The Netherlands**
 
+[**Smashing NightConf**](http://www.smashingconf.com)  
+31 October, 2015  
+Llanfairpwllgwyngyll, **Wales**
+
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
 2-4 November, 2015  
 Berlin, **Germany**
 
+[**dotCSS**](http://www.dotcss.io/)  
+4 December, 2015  
+Paris, **France**
+
+[**dotJS**](http://www.dotjs.io/)  
+7 December, 2015  
+Paris, **France**
+
 
 ##North America
-
-[**SmashingConf New York**](http://www.smashingconf.com/)  
-June 15-18, 2015  
-New York City, New York **USA**
 
 [**CSSConf US 2015**](http://2015.cssconf.com/)  
 June 18-19, 2015  
@@ -276,7 +284,11 @@ Silver Spring, Maryland **USA**
 
 [**FullStack Toronto**](http://fsto.co/)  
 November 14-15, 2015  
-Toronto, Ontario **Canda**
+Toronto, Ontario **Canada**
+
+[**CSS Day**](http://cssday.io/)  
+December 5, 2015  
+Phoenix, Arizona **USA**
 
 
 ##South America
@@ -302,3 +314,6 @@ Medellin, **Columbia**
 
 [**CSS Summit**](http://environmentsforhumans.com/2015/css-summit/)  
 July 7-9, 2015
+
+[**CSS Selectors O'Reilly Webcast**](http://www.oreilly.com/pub/e/3461)  
+July 9, 2015
