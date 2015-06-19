@@ -48,6 +48,10 @@ Melbourne, **Australia**
 23 July, 2015  
 Wellington, **New Zealand**
 
+[**MelJS**](http://melbjs.com/)  
+24 July, 2015  
+Melbourne, **Australia**
+
 
 ##Europe
 
@@ -87,6 +91,10 @@ Dublin, **Ireland**
 27-28 August, 2015  
 Zurich, **Switzerland**
 
+[**Front in Amsterdam**](http://frontinamsterdam.nl/)  
+28 August, 2015  
+Amsterdam, **Netherlands**
+
 [**FullStack Fest**](http://fullstackfest.com/)  
 1-5 September, 2015  
 Barcelona, **Spain**
@@ -94,6 +102,14 @@ Barcelona, **Spain**
 [**ColdFront 2015**](https://coldfrontconf.com/)  
 3 September, 2015  
 Copenhagen, **Denmark**
+
+[**Ember Fest 2015**](https://emberfest.eu/)  
+8-10 September, 2015  
+Cambridge, **England**
+
+[**Nordic.js**](http://nordicjs.com/)  
+10-11 September, 2015  
+Stockholm, **Sweden**
 
 [**dConstruct**](http://2015.dconstruct.org/)  
 11 September, 2015  
@@ -159,6 +175,10 @@ London, **England**
 20-21 October, 2015  
 Barcelona, **Spain**
 
+[**WebTech Conference 2015**](https://webtechcon.de/2015/)  
+25-29 October, 2015  
+Munich, **Germany**
+
 [**FullStack 2015**](https://skillsmatter.com/conferences/6612-fullstack)  
 26-28 October, 2015  
 London, **England**
@@ -186,10 +206,6 @@ Paris, **France**
 
 ##North America
 
-[**CSSConf US 2015**](http://2015.cssconf.com/)  
-June 18-19, 2015  
-New York City, New York **USA**
-
 [**BDConf**](http://bdconf.com/)  
 June 19-20, 2015  
 Nashville, Tennessee **USA**
@@ -214,6 +230,10 @@ Austin, Texas **USA**
 July 27-31, 2015  
 San Francisco, California **USA**
 
+[**NEJS Conf 2015**](https://nejsconf.com/)  
+August 7, 2015  
+Omaha, Nebraska **USA**
+
 [**An Event Apart Washington DC**](http://aneventapart.com/event/washington-dc-2015)  
 August 10-12, 2015  
 Washington, D.C. **USA**
@@ -233,6 +253,10 @@ Charlotte, North Carolina **USA**
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
 Portland, Oregon **USA**
+
+[**NCDevCon 2015**](http://ncdevcon.com/)  
+September 26-27, 2015  
+Raleigh, North carolina **USA**
 
 [**SassConf**](http://sassconf.com/)  
 Fall, 2015  
