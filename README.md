@@ -55,14 +55,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**enterJS 2015**](http://www.enterjs.de/)  
-19 June, 2015  
-Darmstadt, **Germany**
-
-[**Responsive Day Out 3**](http://responsiveconf.com/)  
-19 June, 2015  
-Brighton, **England**
-
 [**MediterráneaJS**](http://mediterraneajs.eu/)  
 22-23 June, 2015  
 Barcelona, **Spain**
@@ -102,6 +94,10 @@ Barcelona, **Spain**
 [**ColdFront 2015**](https://coldfrontconf.com/)  
 3 September, 2015  
 Copenhagen, **Denmark**
+
+[**NightlyBuild 2015**](http://www.nightlybuild.io/)  
+4 September, 2015  
+Cologne, **Germany**
 
 [**Ember Fest 2015**](https://emberfest.eu/)  
 8-10 September, 2015  
@@ -166,6 +162,10 @@ Berlin, **German**
 [**Fronteers 2015**](https://fronteers.nl/congres/2015)  
 8-9 October, 2015  
 Amsterdam, **The Netherlands**
+
+[**Italian Node.js Conference**](http://nodejsconf.it/)  
+10 October, 2015  
+Desenzano del Garda, **Italy**
 
 [**AngularConnect**](http://angularconnect.com/)  
 20-21 October, 2015  
