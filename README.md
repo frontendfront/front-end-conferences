@@ -99,9 +99,21 @@ Copenhagen, **Denmark**
 4 September, 2015  
 Cologne, **Germany**
 
+[**JavaScript CodeRetreat**](http://jscoderetreat.com/events.html)  
+5 September, 2015  
+Munich, **Germany**
+
+[**NodeConf EU**](http://nodeconfeu.com/)  
+6-9 September, 2015  
+Waterford, **Ireland**
+
 [**Ember Fest 2015**](https://emberfest.eu/)  
 8-10 September, 2015  
 Cambridge, **England**
+
+[**JavaZone**](http://2015.javazone.no/)  
+9-10 September, 2015  
+Oslo, **Norway**
 
 [**Nordic.js**](http://nordicjs.com/)  
 10-11 September, 2015  
