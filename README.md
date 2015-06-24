@@ -21,6 +21,10 @@ Tel Aviv, **Israel**
 11-12 July, 2015  
 Shenzhen, **China**
 
+[**JSChannel Conference 2015**](http://2015.jschannel.com/)  
+17-18 July, 2015  
+Bangalore, **India**
+
 [**Velocity**](http://velocity.oreilly.com.cn/2015/)  
 11-12 August, 2015  
 Beijing, **China**
@@ -35,7 +39,7 @@ Taipei City, **Taiwan**
 
 [**JSConf.Asia**](http://2015.jsconf.asia/)  
 19-20 November, 2015  
-TBD, **Singapore**
+**Singapore**
 
 
 ##Australia
@@ -74,6 +78,10 @@ London, **England**
 [**ReactEurope**](https://www.react-europe.org/)  
 2-3 July, 2015  
 Paris, **France**
+
+[**SwissJS**](http://www.swissjs.com/)  
+18 July, 2015  
+Berne, **Switzerland**
 
 [**HybridConf 2015**](https://hybridconf.net/)  
 20-21 August, 2015  
@@ -353,3 +361,6 @@ July 7-9, 2015
 
 [**CSS Selectors O'Reilly Webcast**](http://www.oreilly.com/pub/e/3461)  
 July 9, 2015
+
+[**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
+27-28 August, 2015  
