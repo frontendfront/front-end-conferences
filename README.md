@@ -44,10 +44,6 @@ Taipei City, **Taiwan**
 
 ##Australia
 
-[**Code 2015**](http://www.webdirections.org/code15/)  
-25-26 June, 2015  
-Melbourne, **Australia**
-
 [**WDCNZ 2015**](http://www.wdcnz.com/)  
 23 July, 2015  
 Wellington, **New Zealand**
@@ -58,22 +54,6 @@ Melbourne, **Australia**
 
 
 ##Europe
-
-[**MediterráneaJS**](http://mediterraneajs.eu/)  
-22-23 June, 2015  
-Barcelona, **Spain**
-
-[**JavaScript MasterClass**](http://javascript-masterclass.de/2015/)  
-24-26 June, 2015  
-Munich, **Germany**
-
-[**JavaScript Open Day**](http://jsopenday.azurewebsites.net/)  
-26 June, 2015  
-London, **England**
-
-[**Edge Conference**](https://edgeconf.com/2015-london)  
-27 June, 2015  
-London, **England**
 
 [**ReactEurope**](https://www.react-europe.org/)  
 2-3 July, 2015  
@@ -153,7 +133,7 @@ Oslo, **Norway**
 
 [**Smart Web Conf**](http://www.smartwebconf.com/)  
 22 September, 2015  
-Bologna, **Romania**
+Bucharest, **Romania**
 
 [**React.JS 2015**](http://rejectjs.org/)  
 24 September, 2015  
@@ -225,14 +205,6 @@ Paris, **France**
 
 
 ##North America
-
-[**BDConf**](http://bdconf.com/)  
-June 19-20, 2015  
-Nashville, Tennessee **USA**
-
-[**jQuerySF**](http://jquerysf.com/)  
-June 22-23, 2015  
-San Francisco, California **USA**
 
 [**CascadiaCSS**](http://2015.cascadiajs.com/css/)  
 July 8, 2015  
