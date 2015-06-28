@@ -302,7 +302,7 @@ San Francisco, California **USA**
 October 20, 2015  
 Dallas, Texas **USA**
 
-[**CSS Dev Conf 2015**](htt://2015.cssdevconf.com/)  
+[**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
 October 26-28, 2015  
 Long Beach, California **USA**
 
