@@ -242,6 +242,10 @@ Chicago, Illinois **USA**
 September 2-4, 2015  
 Charlotte, North Carolina **USA**
 
+[**Web Unleashed 2015**](http://fitc.ca/event/webu15/)  
+September 16-17, 2015  
+Toronto, Ontario **Canada**
+
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
 Portland, Oregon **USA**
