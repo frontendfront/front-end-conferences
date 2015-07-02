@@ -55,10 +55,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**ReactEurope**](https://www.react-europe.org/)  
-2-3 July, 2015  
-Paris, **France**
-
 [**SwissJS**](http://www.swissjs.com/)  
 18 July, 2015  
 Berne, **Switzerland**
@@ -126,6 +122,10 @@ Bologna, **Italy**
 [**Generate London**](http://generateconf.com/london-2015)  
 17-18 September, 2015  
 London, **England**
+
+[**WebExpo 2015**](http://webexpo.net/prague2015/)  
+19-20 September, 2015  
+Prague, **Czech Republic**
 
 [**MakingWeb 2.15**](http://makingweb.no/)  
 22-23 September, 2015  
@@ -262,6 +262,10 @@ Austin, Texas **USA**
 October 5-7, 2015  
 Austin, Texas **USA**
 
+[**RealtimeConf**](http://realtimeconf.com/)  
+October 6-8, 2015  
+Richland, Washington **USA**
+
 [**Velocity**](http://velocityconf.com/devops-web-performance-ny-2015)  
 October, 12-14 2015  
 New York City, New York **USA**
@@ -324,6 +328,10 @@ Rio de Janeiro **Brazil**
 [**Front in Aracaju**](http://www.frontinaracaju.com.br)  
 5 September, 2015  
 Aracaju, Sergipe **Brazil**
+
+[**Web.br 2015**](http://conferenciaweb.w3c.br/)  
+22-23 September, 2015  
+São Paulo, **Brazil**
 
 [**JSConf.CO**](http://jsconf.co/)  
 15 October, 2015  
