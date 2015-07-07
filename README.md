@@ -52,6 +52,10 @@ Wellington, **New Zealand**
 24 July, 2015  
 Melbourne, **Australia**
 
+[**Web Directions 2015**](http://www.webdirections.org/wd15/)  
+29-30 October, 2015  
+Sydney, **Australia**
+
 
 ##Europe
 
@@ -213,6 +217,10 @@ Blaine, Washington **USA**
 [**Cascadia JSFest 2015**](http://2015.cascadiajs.com/)  
 July 8-10, 2015  
 Blaine, Washington **USA**
+
+[**OSCON**](http://www.oscon.com/open-source-2015/)  
+July 20-24, 2015  
+Portland, Oregon **USA**
 
 [**TXJS**](https://2015.texasjavascript.com/)  
 July 24, 2015  
