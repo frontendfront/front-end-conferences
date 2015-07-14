@@ -13,10 +13,6 @@ Johannesburg, **South Africa**
 
 ##Asia
 
-[**YGLF (You Gotta Love Frontend)**](http://yougottalovefrontend.com/)  
-8-9 July, 2015  
-Tel Aviv, **Israel**
-
 [**JSConf.CN (深JS)**](http://jsconf.cn/)  
 11-12 July, 2015  
 Shenzhen, **China**
@@ -210,14 +206,6 @@ Paris, **France**
 
 ##North America
 
-[**CascadiaCSS**](http://2015.cascadiajs.com/css/)  
-July 8, 2015  
-Blaine, Washington **USA**
-
-[**Cascadia JSFest 2015**](http://2015.cascadiajs.com/)  
-July 8-10, 2015  
-Blaine, Washington **USA**
-
 [**OSCON**](http://www.oscon.com/open-source-2015/)  
 July 20-24, 2015  
 Portland, Oregon **USA**
@@ -347,9 +335,6 @@ Medellin, **Columbia**
 
 
 ## Online
-
-[**CSS Summit**](http://environmentsforhumans.com/2015/css-summit/)  
-July 7-9, 2015
 
 [**CSS Selectors O'Reilly Webcast**](http://www.oreilly.com/pub/e/3461)  
 July 9, 2015
