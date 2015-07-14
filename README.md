@@ -13,10 +13,6 @@ Johannesburg, **South Africa**
 
 ##Asia
 
-[**JSConf.CN (深JS)**](http://jsconf.cn/)  
-11-12 July, 2015  
-Shenzhen, **China**
-
 [**JSChannel Conference 2015**](http://2015.jschannel.com/)  
 17-18 July, 2015  
 Bangalore, **India**
@@ -64,6 +60,10 @@ Berne, **Switzerland**
 Dublin, **Ireland**
 
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
+27-28 August, 2015  
+Zurich, **Switzerland**
+
+[**React Workshop**](http://programmutvikling.no/course/react-workshop/)  
 27-28 August, 2015  
 Zurich, **Switzerland**
 
@@ -238,6 +238,10 @@ Chicago, Illinois **USA**
 September 2-4, 2015  
 Charlotte, North Carolina **USA**
 
+[**DevDesign**](http://fitc.ca/event/webu15/)  
+September 3-5, 2015  
+San José, **Costa Rica**
+
 [**Web Unleashed 2015**](http://fitc.ca/event/webu15/)  
 September 16-17, 2015  
 Toronto, Ontario **Canada**
@@ -328,6 +332,10 @@ Aracaju, Sergipe **Brazil**
 [**Web.br 2015**](http://conferenciaweb.w3c.br/)  
 22-23 September, 2015  
 São Paulo, **Brazil**
+
+[**InkaConf**](https://inkaconf.org/)  
+15 October, 2015  
+Medellin, **Columbia**
 
 [**JSConf.CO**](http://jsconf.co/)  
 15 October, 2015  
