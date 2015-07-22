@@ -4,18 +4,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [http://frontendfront.com/conferences](http://frontendfront.com/conferences).*
 
-##Africa
-
-[**JSinSA**](http://www.jsinsa.com/jsinsa/2015/index.html)  
-11 July, 2015  
-Johannesburg, **South Africa**
-
-
 ##Asia
-
-[**JSChannel Conference 2015**](http://2015.jschannel.com/)  
-17-18 July, 2015  
-Bangalore, **India**
 
 [**Velocity**](http://velocity.oreilly.com.cn/2015/)  
 11-12 August, 2015  
@@ -50,10 +39,6 @@ Sydney, **Australia**
 
 
 ##Europe
-
-[**SwissJS**](http://www.swissjs.com/)  
-18 July, 2015  
-Berne, **Switzerland**
 
 [**HybridConf 2015**](https://hybridconf.net/)  
 20-21 August, 2015  
@@ -252,11 +237,7 @@ Portland, Oregon **USA**
 
 [**NCDevCon 2015**](http://ncdevcon.com/)  
 September 26-27, 2015  
-Raleigh, North carolina **USA**
-
-[**SassConf**](http://sassconf.com/)  
-Fall, 2015  
-Austin, Texas **USA**
+Raleigh, North Carolina **USA**
 
 [**An Event Apart Austin**](http://aneventapart.com/event/austin-2015)  
 October 5-7, 2015  
@@ -302,6 +283,10 @@ New York City, New York **USA**
 November 3, 2015  
 Oklahoma City, Oklahoma **USA**
 
+[**SassConf**](http://sassconf.com/)  
+November 11-14, 2015  
+Austin, Texas **USA**
+
 [**NationJS**](http://nationjs.com/)  
 November 12-13, 2015  
 Silver Spring, Maryland **USA**
@@ -343,9 +328,6 @@ Medellin, **Columbia**
 
 
 ## Online
-
-[**CSS Selectors O'Reilly Webcast**](http://www.oreilly.com/pub/e/3461)  
-July 9, 2015
 
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
