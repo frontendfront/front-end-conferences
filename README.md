@@ -1,4 +1,4 @@
-#Front-end Conferences in 2015
+#Front-End Conferences
 
 This is a list of upcoming front-end related conferences. If you know of any other ones that haven't been listed yet, **fork** this repository and create a new **pull request**.
 
@@ -40,10 +40,13 @@ Sydney, **Australia**
 
 ##Europe
 
+<<<<<<< HEAD
+=======
 [**HybridConf 2015**](https://hybridconf.net/)  
 20-21 August, 2015  
 Dublin, **Ireland**
 
+>>>>>>> origin/frontendfront/master
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
 Zurich, **Switzerland**
@@ -215,6 +218,10 @@ Washington, D.C. **USA**
 August 12-14, 2015  
 Minneapolis, Minnesota **USA**
 
+[**React Rally**](http://www.reactrally.com/)  
+August 24-25, 2015  
+Salt Lake City, Utah **USA**
+
 [**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2015)  
 August 31-September 2, 2015  
 Chicago, Illinois **USA**
@@ -298,6 +305,14 @@ Toronto, Ontario **Canada**
 [**CSS Day**](http://cssday.io/)  
 December 5, 2015  
 Phoenix, Arizona **USA**
+
+[**DevNexus 2016**](http://devnexuys.com)  
+February 15-17, 2016  
+Atlanta, Georgia **USA**
+
+[**O'Reilly Fluent Conference 2016**](http://fluentconf.com)  
+March 8-10, 2016  
+San Francisco, California **USA**
 
 
 ##South America
