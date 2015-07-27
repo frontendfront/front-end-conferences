@@ -25,24 +25,12 @@ Taipei City, **Taiwan**
 
 ##Australia
 
-[**WDCNZ 2015**](http://www.wdcnz.com/)  
-23 July, 2015  
-Wellington, **New Zealand**
-
-[**MelJS**](http://melbjs.com/)  
-24 July, 2015  
-Melbourne, **Australia**
-
 [**Web Directions 2015**](http://www.webdirections.org/wd15/)  
 29-30 October, 2015  
 Sydney, **Australia**
 
 
 ##Europe
-
-[**HybridConf 2015**](https://hybridconf.net/)  
-20-21 August, 2015  
-Dublin, **Ireland**
 
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
@@ -190,14 +178,6 @@ Paris, **France**
 
 
 ##North America
-
-[**OSCON**](http://www.oscon.com/open-source-2015/)  
-July 20-24, 2015  
-Portland, Oregon **USA**
-
-[**TXJS**](https://2015.texasjavascript.com/)  
-July 24, 2015  
-Austin, Texas **USA**
 
 [**Forward 3 Web Technology Summit**](http://forwardjs.com/)  
 July 27-31, 2015  
