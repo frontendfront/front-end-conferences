@@ -100,6 +100,10 @@ London, **England**
 19-20 September, 2015  
 Prague, **Czech Republic**
 
+[**EpicFEL**](http://www.frontendlondon.co.uk/epic/)  
+26 September, 2015  
+London, **England**
+
 [**MakingWeb 2.15**](http://makingweb.no/)  
 22-23 September, 2015  
 Oslo, **Norway**
@@ -168,6 +172,10 @@ Llanfairpwllgwyngyll, **Wales**
 2-4 November, 2015  
 Berlin, **Germany**
 
+[**HalfStack Conf**](http://halfstackconf.com/)  
+13 November, 2015  
+London, **England**
+
 [**dotCSS**](http://www.dotcss.io/)  
 4 December, 2015  
 Paris, **France**
@@ -176,12 +184,24 @@ Paris, **France**
 7 December, 2015  
 Paris, **France**
 
+[**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
+15-16 March, 2016  
+Oxford, **England**
+
+[**Front-Trends 2016**](http://www.dotjs.io/)  
+18-20 May, 2016  
+Warsaw, **Poland**
+
+[**UpFront 2016**](http://upfrontconf.com/)  
+27 May, 2016  
+Manchester, **England**
+
+[**ReactEurope 2016**](https://www.react-europe.org/)  
+2-3 June, 2016  
+Paris, **France**
+
 
 ##North America
-
-[**Forward 3 Web Technology Summit**](http://forwardjs.com/)  
-July 27-31, 2015  
-San Francisco, California **USA**
 
 [**NEJS Conf 2015**](https://nejsconf.com/)  
 August 7, 2015  
@@ -289,6 +309,10 @@ Atlanta, Georgia **USA**
 
 [**O'Reilly Fluent Conference 2016**](http://fluentconf.com)  
 March 8-10, 2016  
+San Francisco, California **USA**
+
+[**SmashingConf San Francisco**](http://smashingconf.com)  
+April 5-6, 2016  
 San Francisco, California **USA**
 
 
