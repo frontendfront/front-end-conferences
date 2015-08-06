@@ -32,6 +32,10 @@ Sydney, **Australia**
 
 ##Europe
 
+[**HybridConf**](https://hybridconf.net/)  
+20-21 August, 2015  
+Dublin, **Ireland**
+
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
 Zurich, **Switzerland**
