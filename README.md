@@ -192,6 +192,10 @@ Paris, **France**
 15-16 March, 2016  
 Oxford, **England**
 
+[**Future of Web Design London**](https://futureofwebdesign.com/london-2016/)  
+April, 2016  
+Oxford, **England**
+
 [**Front-Trends 2016**](http://www.dotjs.io/)  
 18-20 May, 2016  
 Warsaw, **Poland**
@@ -206,10 +210,6 @@ Paris, **France**
 
 
 ##North America
-
-[**NEJS Conf 2015**](https://nejsconf.com/)  
-August 7, 2015  
-Omaha, Nebraska **USA**
 
 [**An Event Apart Washington DC**](http://aneventapart.com/event/washington-dc-2015)  
 August 10-12, 2015  
