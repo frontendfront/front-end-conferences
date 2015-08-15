@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Asia
 
-[**Velocity**](http://velocity.oreilly.com.cn/2015/)  
-11-12 August, 2015  
-Beijing, **China**
-
 [**JSFoo**](https://jsfoo.in/)  
 18-19 September, 2015  
 Bangalore, **India**
@@ -210,14 +206,6 @@ Paris, **France**
 
 
 ##North America
-
-[**An Event Apart Washington DC**](http://aneventapart.com/event/washington-dc-2015)  
-August 10-12, 2015  
-Washington, D.C. **USA**
-
-[**MidwestJS**](http://midwestjs.com/)  
-August 12-14, 2015  
-Minneapolis, Minnesota **USA**
 
 [**React Rally**](http://www.reactrally.com/)  
 August 24-25, 2015  
