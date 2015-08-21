@@ -28,10 +28,6 @@ Sydney, **Australia**
 
 ##Europe
 
-[**HybridConf**](https://hybridconf.net/)  
-20-21 August, 2015  
-Dublin, **Ireland**
-
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
 Zurich, **Switzerland**
@@ -309,10 +305,6 @@ San Francisco, California **USA**
 
 
 ##South America
-
-[**BrazilJS Conf**](http://braziljs.com.br/)  
-21-22 August, 2015  
-Porto Alegre, Rio Grande do Sul **Brazil**  
 
 [**QCon Rio 2015**](http://qconrio.com/)  
 24-28 August, 2015  
