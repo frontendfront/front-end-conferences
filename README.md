@@ -140,6 +140,10 @@ Amsterdam, **The Netherlands**
 10 October, 2015  
 Desenzano del Garda, **Italy**
 
+[**Falsy Values**](https://2015.falsyvalues.com/)  
+12-14 October, 2015  
+Warsaw, **Poland**
+
 [**AngularConnect**](http://angularconnect.com/)  
 20-21 October, 2015  
 London, **England**
@@ -167,6 +171,10 @@ Llanfairpwllgwyngyll, **Wales**
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
 2-4 November, 2015  
 Berlin, **Germany**
+
+[**ffconf**](http://2015.ffconf.org/)  
+6 November, 2015  
+Brighton, **England**
 
 [**HalfStack Conf**](http://halfstackconf.com/)  
 13 November, 2015  
@@ -202,10 +210,6 @@ Paris, **France**
 
 
 ##North America
-
-[**React Rally**](http://www.reactrally.com/)  
-August 24-25, 2015  
-Salt Lake City, Utah **USA**
 
 [**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2015)  
 August 31-September 2, 2015  
@@ -291,6 +295,10 @@ Toronto, Ontario **Canada**
 December 5, 2015  
 Phoenix, Arizona **USA**
 
+[**Forward 4 Web Technology Summit**](http://forwardjs.com/summit)  
+February 8-13, 2016  
+San Francisco, California **USA**
+
 [**DevNexus 2016**](http://devnexuys.com)  
 February 15-17, 2016  
 Atlanta, Georgia **USA**
@@ -302,6 +310,10 @@ San Francisco, California **USA**
 [**SmashingConf San Francisco**](http://smashingconf.com)  
 April 5-6, 2016  
 San Francisco, California **USA**
+
+[**QCon New York 2016**](https://qconnewyork.com/)  
+June 13-17, 2016  
+New York City, New York **USA**
 
 
 ##South America
@@ -331,3 +343,6 @@ Medellin, **Columbia**
 
 [**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
 27-28 August, 2015  
+
+[**Frontend Union Conf**](http://frontend-union.co/)  
+29 August, 2015  
