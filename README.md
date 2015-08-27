@@ -28,18 +28,6 @@ Sydney, **Australia**
 
 ##Europe
 
-[**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
-27-28 August, 2015  
-Zurich, **Switzerland**
-
-[**React Workshop**](http://programmutvikling.no/course/react-workshop/)  
-27-28 August, 2015  
-Zurich, **Switzerland**
-
-[**Front in Amsterdam**](http://frontinamsterdam.nl/)  
-28 August, 2015  
-Amsterdam, **Netherlands**
-
 [**FullStack Fest**](http://fullstackfest.com/)  
 1-5 September, 2015  
 Barcelona, **Spain**
@@ -318,10 +306,6 @@ New York City, New York **USA**
 
 ##South America
 
-[**QCon Rio 2015**](http://qconrio.com/)  
-24-28 August, 2015  
-Rio de Janeiro **Brazil**  
-
 [**Front in Aracaju**](http://www.frontinaracaju.com.br)  
 5 September, 2015  
 Aracaju, Sergipe **Brazil**
@@ -339,10 +323,7 @@ Medellin, **Columbia**
 Medellin, **Columbia**
 
 
-## Online
-
-[**Frontend Conference Zurich 2015**](http://www.frontendconf.ch/)  
-27-28 August, 2015  
+## Online 
 
 [**Frontend Union Conf**](http://frontend-union.co/)  
 29 August, 2015  
