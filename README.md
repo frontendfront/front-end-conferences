@@ -287,7 +287,7 @@ Phoenix, Arizona **USA**
 February 8-13, 2016  
 San Francisco, California **USA**
 
-[**DevNexus 2016**](http://devnexuys.com)  
+[**DevNexus 2016**](http://devnexus.com)  
 February 15-17, 2016  
 Atlanta, Georgia **USA**
 
