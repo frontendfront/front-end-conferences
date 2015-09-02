@@ -199,10 +199,6 @@ Paris, **France**
 
 ##North America
 
-[**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2015)  
-August 31-September 2, 2015  
-Chicago, Illinois **USA**
-
 [**BlendConf**](http://2015.blendconf.com/)  
 September 2-4, 2015  
 Charlotte, North Carolina **USA**
@@ -321,9 +317,3 @@ Medellin, **Columbia**
 [**JSConf.CO**](http://jsconf.co/)  
 15 October, 2015  
 Medellin, **Columbia**
-
-
-## Online 
-
-[**Frontend Union Conf**](http://frontend-union.co/)  
-29 August, 2015  
