@@ -28,18 +28,6 @@ Sydney, **Australia**
 
 ##Europe
 
-[**FullStack Fest**](http://fullstackfest.com/)  
-1-5 September, 2015  
-Barcelona, **Spain**
-
-[**ColdFront 2015**](https://coldfrontconf.com/)  
-3 September, 2015  
-Copenhagen, **Denmark**
-
-[**NightlyBuild 2015**](http://www.nightlybuild.io/)  
-4 September, 2015  
-Cologne, **Germany**
-
 [**JavaScript CodeRetreat**](http://jscoderetreat.com/events.html)  
 5 September, 2015  
 Munich, **Germany**
@@ -198,14 +186,6 @@ Paris, **France**
 
 
 ##North America
-
-[**BlendConf**](http://2015.blendconf.com/)  
-September 2-4, 2015  
-Charlotte, North Carolina **USA**
-
-[**DevDesign**](http://fitc.ca/event/webu15/)  
-September 3-5, 2015  
-San José, **Costa Rica**
 
 [**Web Unleashed 2015**](http://fitc.ca/event/webu15/)  
 September 16-17, 2015  
