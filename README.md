@@ -28,18 +28,6 @@ Sydney, **Australia**
 
 ##Europe
 
-[**JavaScript CodeRetreat**](http://jscoderetreat.com/events.html)  
-5 September, 2015  
-Munich, **Germany**
-
-[**NodeConf EU**](http://nodeconfeu.com/)  
-6-9 September, 2015  
-Waterford, **Ireland**
-
-[**Ember Fest 2015**](https://emberfest.eu/)  
-8-10 September, 2015  
-Cambridge, **England**
-
 [**JavaZone**](http://2015.javazone.no/)  
 9-10 September, 2015  
 Oslo, **Norway**
@@ -195,6 +183,10 @@ Toronto, Ontario **Canada**
 September 25, 2015  
 Portland, Oregon **USA**
 
+[**Rustbelt Refresh**](http://rustbeltrefresh.com/)  
+September 25, 2015  
+Cleveland, Ohio **USA**
+
 [**NCDevCon 2015**](http://ncdevcon.com/)  
 September 26-27, 2015  
 Raleigh, North Carolina **USA**
@@ -282,10 +274,6 @@ New York City, New York **USA**
 
 ##South America
 
-[**Front in Aracaju**](http://www.frontinaracaju.com.br)  
-5 September, 2015  
-Aracaju, Sergipe **Brazil**
-
 [**Web.br 2015**](http://conferenciaweb.w3c.br/)  
 22-23 September, 2015  
 São Paulo, **Brazil**
@@ -297,3 +285,7 @@ Medellin, **Columbia**
 [**JSConf.CO**](http://jsconf.co/)  
 15 October, 2015  
 Medellin, **Columbia**
+
+[**Frontinsampa 2015**](http://www.frontinsampa.com.br/)  
+21 November, 2015  
+São Paulo, **Brazil**
