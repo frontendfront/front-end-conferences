@@ -25,24 +25,12 @@ Taipei City, **Taiwan**
 29-30 October, 2015  
 Sydney, **Australia**
 
+[**CampJS VI**](http://vi.campjs.com/)  
+20-23 November, 2015  
+Springbrook, **Australia**
+
 
 ##Europe
-
-[**JavaZone**](http://2015.javazone.no/)  
-9-10 September, 2015  
-Oslo, **Norway**
-
-[**Nordic.js**](http://nordicjs.com/)  
-10-11 September, 2015  
-Stockholm, **Sweden**
-
-[**dConstruct**](http://2015.dconstruct.org/)  
-11 September, 2015  
-Brighton, **England**
-
-[**MOBX**](http://2015.mobxcon.com/)  
-11 September, 2015  
-Berlin, **Germany**
 
 [**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
 14-15 September, 2015  
@@ -243,6 +231,10 @@ Austin, Texas **USA**
 November 12-13, 2015  
 Silver Spring, Maryland **USA**
 
+[**Nodevember**](http://nodevember.org/)  
+November 14-15, 2015  
+Nashville, Tennessee **USA**
+
 [**FullStack Toronto**](http://fsto.co/)  
 November 14-15, 2015  
 Toronto, Ontario **Canada**
@@ -250,6 +242,10 @@ Toronto, Ontario **Canada**
 [**CSS Day**](http://cssday.io/)  
 December 5, 2015  
 Phoenix, Arizona **USA**
+
+[**Node.js Interactive**](http://events.linuxfoundation.org/events/node-interactive)  
+December 8-9, 2015  
+Portland, Oregon **USA**
 
 [**Forward 4 Web Technology Summit**](http://forwardjs.com/summit)  
 February 8-13, 2016  
@@ -266,6 +262,10 @@ San Francisco, California **USA**
 [**SmashingConf San Francisco**](http://smashingconf.com)  
 April 5-6, 2016  
 San Francisco, California **USA**
+
+[**Future Insights Live**](https://futureinsightslive.com/)  
+May 2-5, 2016  
+Chicago, Illinois **USA**
 
 [**QCon New York 2016**](https://qconnewyork.com/)  
 June 13-17, 2016  
@@ -289,3 +289,9 @@ Medellin, **Columbia**
 [**Frontinsampa 2015**](http://www.frontinsampa.com.br/)  
 21 November, 2015  
 São Paulo, **Brazil**
+
+
+##Online
+
+[**Sass Summit**](https://sasssummit.com/)  
+November 18-19, 2015  
