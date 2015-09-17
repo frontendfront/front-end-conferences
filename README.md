@@ -251,7 +251,7 @@ Portland, Oregon **USA**
 February 8-13, 2016  
 San Francisco, California **USA**
 
-[**DevNexus 2016**](http://devnexuys.com)  
+[**DevNexus 2016**](http://devnexus.com)  
 February 15-17, 2016  
 Atlanta, Georgia **USA**
 
@@ -293,5 +293,10 @@ São Paulo, **Brazil**
 
 ##Online
 
+<<<<<<< HEAD
 [**Sass Summit**](https://sasssummit.com/)  
 November 18-19, 2015  
+=======
+[**Frontend Union Conf**](http://frontend-union.co/)  
+29 August, 2015  
+>>>>>>> frontendfront/master
