@@ -32,18 +32,6 @@ Springbrook, **Australia**
 
 ##Europe
 
-[**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
-14-15 September, 2015  
-Freiburg, **Germany**
-
-[**From the Front**](http://fromthefront.it/)  
-17-18 September, 2015  
-Bologna, **Italy**
-
-[**Generate London**](http://generateconf.com/london-2015)  
-17-18 September, 2015  
-London, **England**
-
 [**WebExpo 2015**](http://webexpo.net/prague2015/)  
 19-20 September, 2015  
 Prague, **Czech Republic**
@@ -162,10 +150,6 @@ Paris, **France**
 
 
 ##North America
-
-[**Web Unleashed 2015**](http://fitc.ca/event/webu15/)  
-September 16-17, 2015  
-Toronto, Ontario **Canada**
 
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
@@ -293,10 +277,5 @@ São Paulo, **Brazil**
 
 ##Online
 
-<<<<<<< HEAD
 [**Sass Summit**](https://sasssummit.com/)  
 November 18-19, 2015  
-=======
-[**Frontend Union Conf**](http://frontend-union.co/)  
-29 August, 2015  
->>>>>>> frontendfront/master
