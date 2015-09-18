@@ -25,60 +25,12 @@ Taipei City, **Taiwan**
 29-30 October, 2015  
 Sydney, **Australia**
 
+[**CampJS VI**](http://vi.campjs.com/)  
+20-23 November, 2015  
+Springbrook, **Australia**
+
 
 ##Europe
-
-[**FullStack Fest**](http://fullstackfest.com/)  
-1-5 September, 2015  
-Barcelona, **Spain**
-
-[**ColdFront 2015**](https://coldfrontconf.com/)  
-3 September, 2015  
-Copenhagen, **Denmark**
-
-[**NightlyBuild 2015**](http://www.nightlybuild.io/)  
-4 September, 2015  
-Cologne, **Germany**
-
-[**JavaScript CodeRetreat**](http://jscoderetreat.com/events.html)  
-5 September, 2015  
-Munich, **Germany**
-
-[**NodeConf EU**](http://nodeconfeu.com/)  
-6-9 September, 2015  
-Waterford, **Ireland**
-
-[**Ember Fest 2015**](https://emberfest.eu/)  
-8-10 September, 2015  
-Cambridge, **England**
-
-[**JavaZone**](http://2015.javazone.no/)  
-9-10 September, 2015  
-Oslo, **Norway**
-
-[**Nordic.js**](http://nordicjs.com/)  
-10-11 September, 2015  
-Stockholm, **Sweden**
-
-[**dConstruct**](http://2015.dconstruct.org/)  
-11 September, 2015  
-Brighton, **England**
-
-[**MOBX**](http://2015.mobxcon.com/)  
-11 September, 2015  
-Berlin, **Germany**
-
-[**SmashingConf Freiburg 2015**](http://www.smashingconf.com)  
-14-15 September, 2015  
-Freiburg, **Germany**
-
-[**From the Front**](http://fromthefront.it/)  
-17-18 September, 2015  
-Bologna, **Italy**
-
-[**Generate London**](http://generateconf.com/london-2015)  
-17-18 September, 2015  
-London, **England**
 
 [**WebExpo 2015**](http://webexpo.net/prague2015/)  
 19-20 September, 2015  
@@ -199,25 +151,13 @@ Paris, **France**
 
 ##North America
 
-[**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2015)  
-August 31-September 2, 2015  
-Chicago, Illinois **USA**
-
-[**BlendConf**](http://2015.blendconf.com/)  
-September 2-4, 2015  
-Charlotte, North Carolina **USA**
-
-[**DevDesign**](http://fitc.ca/event/webu15/)  
-September 3-5, 2015  
-San José, **Costa Rica**
-
-[**Web Unleashed 2015**](http://fitc.ca/event/webu15/)  
-September 16-17, 2015  
-Toronto, Ontario **Canada**
-
 [**Responsive Field Day**](http://www.responsivefieldday.com/)  
 September 25, 2015  
 Portland, Oregon **USA**
+
+[**Rustbelt Refresh**](http://rustbeltrefresh.com/)  
+September 25, 2015  
+Cleveland, Ohio **USA**
 
 [**NCDevCon 2015**](http://ncdevcon.com/)  
 September 26-27, 2015  
@@ -275,6 +215,10 @@ Austin, Texas **USA**
 November 12-13, 2015  
 Silver Spring, Maryland **USA**
 
+[**Nodevember**](http://nodevember.org/)  
+November 14-15, 2015  
+Nashville, Tennessee **USA**
+
 [**FullStack Toronto**](http://fsto.co/)  
 November 14-15, 2015  
 Toronto, Ontario **Canada**
@@ -282,6 +226,10 @@ Toronto, Ontario **Canada**
 [**CSS Day**](http://cssday.io/)  
 December 5, 2015  
 Phoenix, Arizona **USA**
+
+[**Node.js Interactive**](http://events.linuxfoundation.org/events/node-interactive)  
+December 8-9, 2015  
+Portland, Oregon **USA**
 
 [**Forward 4 Web Technology Summit**](http://forwardjs.com/summit)  
 February 8-13, 2016  
@@ -299,16 +247,16 @@ San Francisco, California **USA**
 April 5-6, 2016  
 San Francisco, California **USA**
 
+[**Future Insights Live**](https://futureinsightslive.com/)  
+May 2-5, 2016  
+Chicago, Illinois **USA**
+
 [**QCon New York 2016**](https://qconnewyork.com/)  
 June 13-17, 2016  
 New York City, New York **USA**
 
 
 ##South America
-
-[**Front in Aracaju**](http://www.frontinaracaju.com.br)  
-5 September, 2015  
-Aracaju, Sergipe **Brazil**
 
 [**Web.br 2015**](http://conferenciaweb.w3c.br/)  
 22-23 September, 2015  
@@ -322,8 +270,12 @@ Medellin, **Columbia**
 15 October, 2015  
 Medellin, **Columbia**
 
+[**Frontinsampa 2015**](http://www.frontinsampa.com.br/)  
+21 November, 2015  
+São Paulo, **Brazil**
 
-## Online 
 
-[**Frontend Union Conf**](http://frontend-union.co/)  
-29 August, 2015  
+##Online
+
+[**Sass Summit**](https://sasssummit.com/)  
+November 18-19, 2015  
