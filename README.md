@@ -183,6 +183,10 @@ Cleveland, Ohio **USA**
 September 26-27, 2015  
 Raleigh, North Carolina **USA**
 
+[**Angular Summit**](https://angularsummit.com/)
+September 27-30, 2015  
+Boston, Massachusetts **USA**
+
 [**An Event Apart Austin**](http://aneventapart.com/event/austin-2015)  
 October 5-7, 2015  
 Austin, Texas **USA**
