@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Asia
 
-[**JSFoo**](https://jsfoo.in/)  
-18-19 September, 2015  
-Bangalore, **India**
-
 [**JSDC**](http://jsdc.tw/)  
 3-4 October, 2015  
 Taipei City, **Taiwan**
@@ -31,10 +27,6 @@ Springbrook, **Australia**
 
 
 ##Europe
-
-[**WebExpo 2015**](http://webexpo.net/prague2015/)  
-19-20 September, 2015  
-Prague, **Czech Republic**
 
 [**EpicFEL**](http://www.frontendlondon.co.uk/epic/)  
 26 September, 2015  
@@ -72,9 +64,17 @@ London, **England**
 5-7 October, 2015  
 Berlin, **German**
 
+[**GOTO Copenhagen 2015**](http://gotocon.com/cph-2015/)  
+5-8 October, 2015  
+Copenhagen, **Denmark**
+
 [**Fronteers 2015**](https://fronteers.nl/congres/2015)  
 8-9 October, 2015  
 Amsterdam, **The Netherlands**
+
+[**Digital Visions 2015**](http://digitalvisions.at/)  
+9 October, 2015  
+Vienna, **Austria**
 
 [**Italian Node.js Conference**](http://nodejsconf.it/)  
 10 October, 2015  
@@ -91,6 +91,18 @@ London, **England**
 [**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
 20-21 October, 2015  
 Barcelona, **Spain**
+
+[**418:conf**](http://418conf.co.uk/)  
+22 October, 2015  
+Surrey, **England**
+
+[**push.conference**](http://push-conference.com/2015/)  
+23-24 October, 2015  
+Munich, **Germany**
+
+[**International PHP Conference 2015**](https://phpconference.com/2015/)  
+25-29 October, 2015  
+Munich, **Germany**
 
 [**WebTech Conference 2015**](https://webtechcon.de/2015/)  
 25-29 October, 2015  
@@ -116,9 +128,17 @@ Berlin, **Germany**
 6 November, 2015  
 Brighton, **England**
 
+[**HTML5 MasterClass 2015**](http://html5-master-class.de/2015/)  
+9-11 November, 2015  
+Leipzig, **Germany**
+
 [**HalfStack Conf**](http://halfstackconf.com/)  
 13 November, 2015  
 London, **England**
+
+[**KirovohradJS**](http://kirovohradjs.com/)  
+14 November, 2015  
+Kirovohrad, **Ukraine**
 
 [**dotCSS**](http://www.dotcss.io/)  
 4 December, 2015  
