@@ -28,30 +28,6 @@ Springbrook, **Australia**
 
 ##Europe
 
-[**EpicFEL**](http://www.frontendlondon.co.uk/epic/)  
-26 September, 2015  
-London, **England**
-
-[**MakingWeb 2.15**](http://makingweb.no/)  
-22-23 September, 2015  
-Oslo, **Norway**
-
-[**Smart Web Conf**](http://www.smartwebconf.com/)  
-22 September, 2015  
-Bucharest, **Romania**
-
-[**React.JS 2015**](http://rejectjs.org/)  
-24 September, 2015  
-Berlin, **Germany**
-
-[**JSconf.EU**](http://2015.jsconf.eu/)  
-25-27 September, 2015  
-Berlin, **Germany**
-
-[**CSSConf.EU**](http://2015.cssconf.eu/)  
-26 September, 2015  
-Berlin, **Germany**
-
 [**Rebase**](http://rebase.ie/)  
 1-2 October, 2015  
 Dublin, **Ireland**
@@ -171,18 +147,6 @@ Paris, **France**
 
 ##North America
 
-[**Responsive Field Day**](http://www.responsivefieldday.com/)  
-September 25, 2015  
-Portland, Oregon **USA**
-
-[**Rustbelt Refresh**](http://rustbeltrefresh.com/)  
-September 25, 2015  
-Cleveland, Ohio **USA**
-
-[**NCDevCon 2015**](http://ncdevcon.com/)  
-September 26-27, 2015  
-Raleigh, North Carolina **USA**
-
 [**Angular Summit**](https://angularsummit.com/)
 September 27-30, 2015  
 Boston, Massachusetts **USA**
@@ -281,10 +245,6 @@ New York City, New York **USA**
 
 
 ##South America
-
-[**Web.br 2015**](http://conferenciaweb.w3c.br/)  
-22-23 September, 2015  
-São Paulo, **Brazil**
 
 [**InkaConf**](https://inkaconf.org/)  
 15 October, 2015  
