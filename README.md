@@ -132,7 +132,7 @@ Oxford, **England**
 April, 2016  
 Oxford, **England**
 
-[**Front-Trends 2016**](http://www.dotjs.io/)  
+[**Front-Trends 2016**](http://www.front-trends.com/)  
 18-20 May, 2016  
 Warsaw, **Poland**
 
