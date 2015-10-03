@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Asia
 
-[**JSDC**](http://jsdc.tw/)  
-3-4 October, 2015  
-Taipei City, **Taiwan**
-
 [**JSConf.Asia**](http://2015.jsconf.asia/)  
 19-20 November, 2015  
 **Singapore**
@@ -27,10 +23,6 @@ Springbrook, **Australia**
 
 
 ##Europe
-
-[**Rebase**](http://rebase.ie/)  
-1-2 October, 2015  
-Dublin, **Ireland**
 
 [**Future of Web Apps**](https://futureofwebapps.com/london-2015/)  
 5-7 October, 2015  
@@ -146,10 +138,6 @@ Paris, **France**
 
 
 ##North America
-
-[**Angular Summit**](https://angularsummit.com/)
-September 27-30, 2015  
-Boston, Massachusetts **USA**
 
 [**An Event Apart Austin**](http://aneventapart.com/event/austin-2015)  
 October 5-7, 2015  
