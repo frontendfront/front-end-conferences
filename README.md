@@ -92,6 +92,10 @@ Llanfairpwllgwyngyll, **Wales**
 2-4 November, 2015  
 Berlin, **Germany**
 
+[**Reactive Conference 2015**](https://reactive2015.com/)  
+2-4 November, 2015  
+Bratislava, **Slovakia**
+
 [**ffconf**](http://2015.ffconf.org/)  
 6 November, 2015  
 Brighton, **England**
@@ -116,12 +120,20 @@ Paris, **France**
 7 December, 2015  
 Paris, **France**
 
+[**jDays 2016**](http://www.jdays.se/)  
+8-9 March, 2016  
+Gothenburg, **Sweden**
+
 [**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
 15-16 March, 2016  
 Oxford, **England**
 
 [**Future of Web Design London**](https://futureofwebdesign.com/london-2016/)  
 April, 2016  
+Oxford, **England**
+
+[**Render Conf**](http://www.render-conf.com/)  
+20-21 April, 2016  
 Oxford, **England**
 
 [**Front-Trends 2016**](http://www.front-trends.com/)  
@@ -175,6 +187,10 @@ San Francisco, California **USA**
 November 2-4, 2015  
 San Francisco, California **USA**
 
+[**View Source**](https://viewsourceconf.org/)  
+November 2-4, 2015  
+Portland, Oregon **USA**
+
 [**Future of Web Design NYC**](https://futureofwebdesign.com/nyc-2015/)  
 November 2-4, 2015  
 New York City, New York **USA**
@@ -206,6 +222,10 @@ Phoenix, Arizona **USA**
 [**Node.js Interactive**](http://events.linuxfoundation.org/events/node-interactive)  
 December 8-9, 2015  
 Portland, Oregon **USA**
+
+[**UXDEVSUMMIT**](http://uxdsummit.com/)  
+February 4-6, 2016  
+Fort Lauderdale, Florida **USA**
 
 [**Forward 4 Web Technology Summit**](http://forwardjs.com/summit)  
 February 8-13, 2016  
