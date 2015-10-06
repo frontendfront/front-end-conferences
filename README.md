@@ -136,9 +136,9 @@ Oxford, **England**
 20-21 April, 2016  
 Oxford, **England**
 
-[**CSSConf Budapest**](http://cssconfbp.rocks/)
-11 May, 2016
-Budapest, **Hungary**
+[**CSSConf Budapest**](http://cssconfbp.rocks/)  
+11 May, 2016  
+Budapest, **Hungary**  
 
 [**Front-Trends 2016**](http://www.front-trends.com/)  
 18-20 May, 2016  
@@ -148,9 +148,9 @@ Warsaw, **Poland**
 27 May, 2016  
 Manchester, **England**
 
-[**CSSconf Nordic**](http://cssconf.no/)
-1 June, 2016
-Oslo, **Norway**
+[**CSSconf Nordic**](http://cssconf.no/)  
+1 June, 2016  
+Oslo, **Norway**  
 
 [**ReactEurope 2016**](https://www.react-europe.org/)  
 2-3 June, 2016  
