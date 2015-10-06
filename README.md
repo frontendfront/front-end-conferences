@@ -144,6 +144,10 @@ Warsaw, **Poland**
 27 May, 2016  
 Manchester, **England**
 
+[**CSSconf Nordic**](http://cssconf.no/)
+1 June, 2016
+Oslo, **Norway**
+
 [**ReactEurope 2016**](https://www.react-europe.org/)  
 2-3 June, 2016  
 Paris, **France**
