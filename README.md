@@ -136,6 +136,10 @@ Oxford, **England**
 20-21 April, 2016  
 Oxford, **England**
 
+[**CSSConf Budapest**](http://cssconfbp.rocks/)
+11 May, 2016
+Budapest, **Hungary**
+
 [**Front-Trends 2016**](http://www.front-trends.com/)  
 18-20 May, 2016  
 Warsaw, **Poland**
