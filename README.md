@@ -247,6 +247,14 @@ Atlanta, Georgia **USA**
 March 8-10, 2016  
 San Francisco, California **USA**
 
+[**An Event Apart Nashville**](http://aneventapart.com/event/nashville-2016)  
+March 14-16, 2016  
+Nashville, Tennessee **USA**
+
+[**An Event Apart Seattle**](http://aneventapart.com/event/sseattle-2016)  
+April 4-6, 2016  
+Seattle, Washington **USA**
+
 [**SmashingConf San Francisco**](http://smashingconf.com)  
 April 5-6, 2016  
 San Francisco, California **USA**
@@ -255,9 +263,29 @@ San Francisco, California **USA**
 May 2-5, 2016  
 Chicago, Illinois **USA**
 
+[**An Event Apart Boston**](http://aneventapart.com/event/boston-2016)  
+May 16-18, 2016  
+Boston, Massachusetts **USA**
+
 [**QCon New York 2016**](https://qconnewyork.com/)  
 June 13-17, 2016  
 New York City, New York **USA**
+
+[**An Event Apart Washington D.C.**](http://aneventapart.com/event/washington-dc-2016)  
+July 25-27, 2016  
+Washington, D.C. **USA**
+
+[**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2016)  
+August 29-31, 2016  
+Chicago, Illinois **USA**
+
+[**An Event Apart Orlando**](http://aneventapart.com/event/orlando-2016)  
+October 3-5, 2016  
+Orlando, Florida **USA**
+
+[**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
+October 31-November 2, 2016  
+San Francisco, California **USA**
 
 
 ##South America
