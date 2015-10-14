@@ -100,6 +100,10 @@ Bratislava, **Slovakia**
 6 November, 2015  
 Brighton, **England**
 
+[**Kharkiv.js**](http://kharkivjs.org/)  
+7-8 November, 2015  
+Kharkiv, **Ukraine**
+
 [**HTML5 MasterClass 2015**](http://html5-master-class.de/2015/)  
 9-11 November, 2015  
 Leipzig, **Germany**
