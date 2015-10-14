@@ -88,6 +88,10 @@ Amsterdam, **The Netherlands**
 31 October, 2015  
 Llanfairpwllgwyngyll, **Wales**
 
+[**Web Standards Days**](http://webstandardsdays.ru/2015/10/31/)  
+31 October - 1 November, 2015  
+Minsk, **Belarus**  
+
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
 2-4 November, 2015  
 Berlin, **Germany**
