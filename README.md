@@ -24,34 +24,6 @@ Springbrook, **Australia**
 
 ##Europe
 
-[**Future of Web Apps**](https://futureofwebapps.com/london-2015/)  
-5-7 October, 2015  
-London, **England**
-
-[**JavaScript Days 2015**](http://javascript-days.de/2015fall/)  
-5-7 October, 2015  
-Berlin, **German**
-
-[**GOTO Copenhagen 2015**](http://gotocon.com/cph-2015/)  
-5-8 October, 2015  
-Copenhagen, **Denmark**
-
-[**Fronteers 2015**](https://fronteers.nl/congres/2015)  
-8-9 October, 2015  
-Amsterdam, **The Netherlands**
-
-[**Digital Visions 2015**](http://digitalvisions.at/)  
-9 October, 2015  
-Vienna, **Austria**
-
-[**Italian Node.js Conference**](http://nodejsconf.it/)  
-10 October, 2015  
-Desenzano del Garda, **Italy**
-
-[**Falsy Values**](https://2015.falsyvalues.com/)  
-12-14 October, 2015  
-Warsaw, **Poland**
-
 [**AngularConnect**](http://angularconnect.com/)  
 20-21 October, 2015  
 London, **England**
@@ -167,30 +139,6 @@ Paris, **France**
 
 ##North America
 
-[**An Event Apart Austin**](http://aneventapart.com/event/austin-2015)  
-October 5-7, 2015  
-Austin, Texas **USA**
-
-[**RealtimeConf**](http://realtimeconf.com/)  
-October 6-8, 2015  
-Richland, Washington **USA**
-
-[**Velocity**](http://velocityconf.com/devops-web-performance-ny-2015)  
-October, 12-14 2015  
-New York City, New York **USA**
-
-[**ConnectJS**](http://connect-js.com/)  
-October 16-17, 2015  
-Atlanta, Georgia **USA**
-
-[**HTML5DevConf Autumn 2015**](http://html5devconf.com/)  
-October 19-20, 2015  
-San Francisco, California **USA**
-
-[**Front Porch**](http://frontporch.io/)  
-October 20, 2015  
-Dallas, Texas **USA**
-
 [**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
 October 26-28, 2015  
 Long Beach, California **USA**
@@ -297,14 +245,6 @@ San Francisco, California **USA**
 
 
 ##South America
-
-[**InkaConf**](https://inkaconf.org/)  
-15 October, 2015  
-Medellin, **Columbia**
-
-[**JSConf.CO**](http://jsconf.co/)  
-15 October, 2015  
-Medellin, **Columbia**
 
 [**Frontinsampa 2015**](http://www.frontinsampa.com.br/)  
 21 November, 2015  
