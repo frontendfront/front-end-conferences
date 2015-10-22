@@ -109,8 +109,8 @@ Gothenburg, **Sweden**
 Oxford, **England**
 
 [**Future of Web Design London**](https://futureofwebdesign.com/london-2016/)  
-April, 2016  
-Oxford, **England**
+25-27 April, 2016  
+London, **England**
 
 [**Render Conf**](http://www.render-conf.com/)  
 20-21 April, 2016  
