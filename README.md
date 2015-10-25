@@ -24,22 +24,6 @@ Springbrook, **Australia**
 
 ##Europe
 
-[**AngularConnect**](http://angularconnect.com/)  
-20-21 October, 2015  
-London, **England**
-
-[**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
-20-21 October, 2015  
-Barcelona, **Spain**
-
-[**418:conf**](http://418conf.co.uk/)  
-22 October, 2015  
-Surrey, **England**
-
-[**push.conference**](http://push-conference.com/2015/)  
-23-24 October, 2015  
-Munich, **Germany**
-
 [**International PHP Conference 2015**](https://phpconference.com/2015/)  
 25-29 October, 2015  
 Munich, **Germany**
@@ -119,6 +103,10 @@ Oxford, **England**
 [**CSSConf Budapest**](http://cssconfbp.rocks/)  
 11 May, 2016  
 Budapest, **Hungary**  
+
+[**jsday**](http://2016.jsday.it/)  
+11-12 May, 2016  
+Verona, **Italy**  
 
 [**Front-Trends 2016**](http://www.front-trends.com/)  
 18-20 May, 2016  
