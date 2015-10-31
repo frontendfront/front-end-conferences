@@ -13,40 +13,12 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Australia
 
-[**Web Directions 2015**](http://www.webdirections.org/wd15/)  
-29-30 October, 2015  
-Sydney, **Australia**
-
 [**CampJS VI**](http://vi.campjs.com/)  
 20-23 November, 2015  
 Springbrook, **Australia**
 
 
 ##Europe
-
-[**International PHP Conference 2015**](https://phpconference.com/2015/)  
-25-29 October, 2015  
-Munich, **Germany**
-
-[**WebTech Conference 2015**](https://webtechcon.de/2015/)  
-25-29 October, 2015  
-Munich, **Germany**
-
-[**FullStack 2015**](https://skillsmatter.com/conferences/6612-fullstack)  
-26-28 October, 2015  
-London, **England**
-
-[**Velocity**](http://velocityconf.com/devops-web-performance-eu-2015)  
-28-30 October, 2015  
-Amsterdam, **The Netherlands**
-
-[**Smashing NightConf**](http://www.smashingconf.com)  
-31 October, 2015  
-Llanfairpwllgwyngyll, **Wales**
-
-[**Web Standards Days**](http://webstandardsdays.ru/2015/10/31/)  
-31 October - 1 November, 2015  
-Minsk, **Belarus**  
 
 [**beyond tellerrand**](http://beyondtellerrand.com/)  
 2-4 November, 2015  
@@ -126,14 +98,6 @@ Paris, **France**
 
 
 ##North America
-
-[**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
-October 26-28, 2015  
-Long Beach, California **USA**
-
-[**Future of Web Design San Francisco**](https://futureofwebdesign.com/san-francisco-2015/)  
-October 28-30, 2015  
-San Francisco, California **USA**
 
 [**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2015)  
 November 2-4, 2015  
