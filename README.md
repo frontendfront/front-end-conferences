@@ -56,6 +56,10 @@ Paris, **France**
 7 December, 2015  
 Paris, **France**
 
+[**A Day of REST**](https://feelingrestful.com/)  
+28 January, 2016  
+London, **England**
+
 [**jDays 2016**](http://www.jdays.se/)  
 8-9 March, 2016  
 Gothenburg, **Sweden**
@@ -95,6 +99,10 @@ Oslo, **Norway**
 [**ReactEurope 2016**](https://www.react-europe.org/)  
 2-3 June, 2016  
 Paris, **France**
+
+[**Frontend Conference Zurich**](https://frontendconf.ch/)  
+1-2 September, 2016  
+Zurich, **Germany**
 
 
 ##North America
@@ -166,6 +174,10 @@ Seattle, Washington **USA**
 [**SmashingConf San Francisco**](http://smashingconf.com)  
 April 5-6, 2016  
 San Francisco, California **USA**
+
+[**Generate NYC 2016**](http://generateconf.com/new-york-2016)  
+April 22, 2016  
+New York City, New York **USA**
 
 [**Future Insights Live**](https://futureinsightslive.com/)  
 May 2-5, 2016  
