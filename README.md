@@ -20,18 +20,6 @@ Springbrook, **Australia**
 
 ##Europe
 
-[**beyond tellerrand**](http://beyondtellerrand.com/)  
-2-4 November, 2015  
-Berlin, **Germany**
-
-[**Reactive Conference 2015**](https://reactive2015.com/)  
-2-4 November, 2015  
-Bratislava, **Slovakia**
-
-[**ffconf**](http://2015.ffconf.org/)  
-6 November, 2015  
-Brighton, **England**
-
 [**Kharkiv.js**](http://kharkivjs.org/)  
 7-8 November, 2015  
 Kharkiv, **Ukraine**
@@ -106,22 +94,6 @@ Zurich, **Germany**
 
 
 ##North America
-
-[**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2015)  
-November 2-4, 2015  
-San Francisco, California **USA**
-
-[**View Source**](https://viewsourceconf.org/)  
-November 2-4, 2015  
-Portland, Oregon **USA**
-
-[**Future of Web Design NYC**](https://futureofwebdesign.com/nyc-2015/)  
-November 2-4, 2015  
-New York City, New York **USA**
-
-[**Thunder Plains Developer Conference**](http://thunderplainsconf.com/)  
-November 3, 2015  
-Oklahoma City, Oklahoma **USA**
 
 [**SassConf**](http://sassconf.com/)  
 November 11-14, 2015  
