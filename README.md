@@ -13,76 +13,12 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Australia
 
-[**Web Directions 2015**](http://www.webdirections.org/wd15/)  
-29-30 October, 2015  
-Sydney, **Australia**
-
 [**CampJS VI**](http://vi.campjs.com/)  
 20-23 November, 2015  
 Springbrook, **Australia**
 
 
 ##Europe
-
-[**AngularConnect**](http://angularconnect.com/)  
-20-21 October, 2015  
-London, **England**
-
-[**SmashingConf Barcelona 2015**](http://www.smashingconf.com)  
-20-21 October, 2015  
-Barcelona, **Spain**
-
-[**418:conf**](http://418conf.co.uk/)  
-22 October, 2015  
-Surrey, **England**
-
-[**push.conference**](http://push-conference.com/2015/)  
-23-24 October, 2015  
-Munich, **Germany**
-
-[**International PHP Conference 2015**](https://phpconference.com/2015/)  
-25-29 October, 2015  
-Munich, **Germany**
-
-[**WebTech Conference 2015**](https://webtechcon.de/2015/)  
-25-29 October, 2015  
-Munich, **Germany**
-
-[**FullStack 2015**](https://skillsmatter.com/conferences/6612-fullstack)  
-26-28 October, 2015  
-London, **England**
-
-[**Velocity**](http://velocityconf.com/devops-web-performance-eu-2015)  
-28-30 October, 2015  
-Amsterdam, **The Netherlands**
-
-[**Smashing NightConf**](http://www.smashingconf.com)  
-31 October, 2015  
-Llanfairpwllgwyngyll, **Wales**
-
-[**Web Standards Days**](http://webstandardsdays.ru/2015/10/31/)  
-31 October - 1 November, 2015  
-Minsk, **Belarus**  
-
-[**beyond tellerrand**](http://beyondtellerrand.com/)  
-2-4 November, 2015  
-Berlin, **Germany**
-
-[**Reactive Conference 2015**](https://reactive2015.com/)  
-2-4 November, 2015  
-Bratislava, **Slovakia**
-
-[**ffconf**](http://2015.ffconf.org/)  
-6 November, 2015  
-Brighton, **England**
-
-[**Kharkiv.js**](http://kharkivjs.org/)  
-7-8 November, 2015  
-Kharkiv, **Ukraine**
-
-[**HTML5 MasterClass 2015**](http://html5-master-class.de/2015/)  
-9-11 November, 2015  
-Leipzig, **Germany**
 
 [**HalfStack Conf**](http://halfstackconf.com/)  
 13 November, 2015  
@@ -99,6 +35,10 @@ Paris, **France**
 [**dotJS**](http://www.dotjs.io/)  
 7 December, 2015  
 Paris, **France**
+
+[**A Day of REST**](https://feelingrestful.com/)  
+28 January, 2016  
+London, **England**
 
 [**jDays 2016**](http://www.jdays.se/)  
 8-9 March, 2016  
@@ -120,6 +60,10 @@ Oxford, **England**
 11 May, 2016  
 Budapest, **Hungary**  
 
+[**jsday**](http://2016.jsday.it/)  
+11-12 May, 2016  
+Verona, **Italy**  
+
 [**Front-Trends 2016**](http://www.front-trends.com/)  
 18-20 May, 2016  
 Warsaw, **Poland**
@@ -136,32 +80,12 @@ Oslo, **Norway**
 2-3 June, 2016  
 Paris, **France**
 
+[**Frontend Conference Zurich**](https://frontendconf.ch/)  
+1-2 September, 2016  
+Zurich, **Germany**
+
 
 ##North America
-
-[**CSS Dev Conf 2015**](http://2015.cssdevconf.com/)  
-October 26-28, 2015  
-Long Beach, California **USA**
-
-[**Future of Web Design San Francisco**](https://futureofwebdesign.com/san-francisco-2015/)  
-October 28-30, 2015  
-San Francisco, California **USA**
-
-[**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2015)  
-November 2-4, 2015  
-San Francisco, California **USA**
-
-[**View Source**](https://viewsourceconf.org/)  
-November 2-4, 2015  
-Portland, Oregon **USA**
-
-[**Future of Web Design NYC**](https://futureofwebdesign.com/nyc-2015/)  
-November 2-4, 2015  
-New York City, New York **USA**
-
-[**Thunder Plains Developer Conference**](http://thunderplainsconf.com/)  
-November 3, 2015  
-Oklahoma City, Oklahoma **USA**
 
 [**SassConf**](http://sassconf.com/)  
 November 11-14, 2015  
@@ -214,6 +138,10 @@ Seattle, Washington **USA**
 [**SmashingConf San Francisco**](http://smashingconf.com)  
 April 5-6, 2016  
 San Francisco, California **USA**
+
+[**Generate NYC 2016**](http://generateconf.com/new-york-2016)  
+April 22, 2016  
+New York City, New York **USA**
 
 [**Future Insights Live**](https://futureinsightslive.com/)  
 May 2-5, 2016  
