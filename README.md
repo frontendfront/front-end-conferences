@@ -82,7 +82,7 @@ Paris, **France**
 
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
 1-2 September, 2016  
-Zurich, **Germany**
+Zurich, **Switzerland**
 
 
 ##North America
