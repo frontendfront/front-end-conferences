@@ -20,14 +20,6 @@ Springbrook, **Australia**
 
 ##Europe
 
-[**HalfStack Conf**](http://halfstackconf.com/)  
-13 November, 2015  
-London, **England**
-
-[**KirovohradJS**](http://kirovohradjs.com/)  
-14 November, 2015  
-Kirovohrad, **Ukraine**
-
 [**dotCSS**](http://www.dotcss.io/)  
 4 December, 2015  
 Paris, **France**
@@ -86,22 +78,6 @@ Zurich, **Germany**
 
 
 ##North America
-
-[**SassConf**](http://sassconf.com/)  
-November 11-14, 2015  
-Austin, Texas **USA**
-
-[**NationJS**](http://nationjs.com/)  
-November 12-13, 2015  
-Silver Spring, Maryland **USA**
-
-[**Nodevember**](http://nodevember.org/)  
-November 14-15, 2015  
-Nashville, Tennessee **USA**
-
-[**FullStack Toronto**](http://fsto.co/)  
-November 14-15, 2015  
-Toronto, Ontario **Canada**
 
 [**CSS Day**](http://cssday.io/)  
 December 5, 2015  
