@@ -17,6 +17,10 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 20-23 November, 2015  
 Springbrook, **Australia**
 
+[**NDC Sydney **](http://ndcsydney.com/)  
+1-5 August, 2016  
+Sydney, **Australia**
+
 
 ##Europe
 
@@ -56,9 +60,17 @@ Budapest, **Hungary**
 11-12 May, 2016  
 Verona, **Italy**  
 
+[**JSConf Budapest**](http://jsconfbp.com/)  
+12-13 May, 2016  
+Budapest, **Hungary**  
+
 [**Front-Trends 2016**](http://www.front-trends.com/)  
 18-20 May, 2016  
 Warsaw, **Poland**
+
+[**Frontend United**](frontendunited.org)  
+27 May, 2016  
+Ghent, **Belgium**
 
 [**UpFront 2016**](http://upfrontconf.com/)  
 27 May, 2016  
@@ -72,9 +84,17 @@ Oslo, **Norway**
 2-3 June, 2016  
 Paris, **France**
 
+[**ScotlandJS 2016**](http://scotlandjs.com/)  
+2-3 June, 2016  
+Edinburgh, **Scotland**
+
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
 1-2 September, 2016  
 Zurich, **Switzerland**
+
+[**SmashingConf Freiburg 2016**](http://smashingconf.com/)  
+12-13 September, 2016  
+Freiburg, **Germany**
 
 
 ##North America
@@ -86,6 +106,10 @@ Phoenix, Arizona **USA**
 [**Node.js Interactive**](http://events.linuxfoundation.org/events/node-interactive)  
 December 8-9, 2015  
 Portland, Oregon **USA**
+
+[**PhoneGap Day US 2016**](http://pgday.phonegap.com/)  
+January 28-99, 2016  
+Lehi, Utah **USA**
 
 [**UXDEVSUMMIT**](http://uxdsummit.com/)  
 February 4-6, 2016  
@@ -122,6 +146,10 @@ New York City, New York **USA**
 [**Future Insights Live**](https://futureinsightslive.com/)  
 May 2-5, 2016  
 Chicago, Illinois **USA**
+
+[**Syntax Convention**](http://syntaxcon.com/)  
+May 6-7, 2016  
+Charleston, South Carolina **USA**
 
 [**An Event Apart Boston**](http://aneventapart.com/event/boston-2016)  
 May 16-18, 2016  
