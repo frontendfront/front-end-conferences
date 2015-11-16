@@ -36,6 +36,10 @@ Paris, **France**
 28 January, 2016  
 London, **England**
 
+[**The Rolling Scopes Conference**](http://2016.conf.rollingscopes.com/)  
+20-21 February, 2016  
+Minsk, **Belarus**
+
 [**jDays 2016**](http://www.jdays.se/)  
 8-9 March, 2016  
 Gothenburg, **Sweden**
