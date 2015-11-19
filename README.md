@@ -44,6 +44,10 @@ Minsk, **Belarus**
 8-9 March, 2016  
 Gothenburg, **Sweden**
 
+[**FrontierConf London 2016**](https://www.frontierconf.com/)  
+11 March, 2016  
+London, **England**
+
 [**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
 15-16 March, 2016  
 Oxford, **England**
