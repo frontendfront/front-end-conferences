@@ -4,18 +4,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [http://frontendfront.com/conferences](http://frontendfront.com/conferences).*
 
-##Asia
-
-[**JSConf.Asia**](http://2015.jsconf.asia/)  
-19-20 November, 2015  
-**Singapore**
-
-
 ##Australia
-
-[**CampJS VI**](http://vi.campjs.com/)  
-20-23 November, 2015  
-Springbrook, **Australia**
 
 [**NDC Sydney **](http://ndcsydney.com/)  
 1-5 August, 2016  
@@ -182,16 +171,3 @@ Orlando, Florida **USA**
 [**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
 October 31-November 2, 2016  
 San Francisco, California **USA**
-
-
-##South America
-
-[**Frontinsampa 2015**](http://www.frontinsampa.com.br/)  
-21 November, 2015  
-São Paulo, **Brazil**
-
-
-##Online
-
-[**Sass Summit**](https://sasssummit.com/)  
-November 18-19, 2015  
