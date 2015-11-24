@@ -17,7 +17,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 20-23 November, 2015  
 Springbrook, **Australia**
 
-[**NDC Sydney **](http://ndcsydney.com/)  
+[**NDC Sydney**](http://ndcsydney.com/)  
 1-5 August, 2016  
 Sydney, **Australia**
 
