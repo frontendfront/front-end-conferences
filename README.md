@@ -120,8 +120,8 @@ San Francisco, California **USA**
 February 15-17, 2016  
 Atlanta, Georgia **USA**
 
-[**React.js Conf**](http://conf.reactjs.com/)
-February 22-23, 2016
+[**React.js Conf**](http://conf.reactjs.com/)  
+February 22-23, 2016  
 San Francisco, CA **USA**
 
 [**O'Reilly Fluent Conference 2016**](http://fluentconf.com)  
