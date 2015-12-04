@@ -4,18 +4,21 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [http://frontendfront.com/conferences](http://frontendfront.com/conferences).*
 
+##Africa
+
+[**AltConf**](http://www.alterconf.com/sessions/cape-town-south-africa)  
+27 August, 2016  
+Cape Town, **South Africa**
+
+
 ##Australia
 
-[**NDC Sydney **](http://ndcsydney.com/)  
+[**NDC Sydney**](http://ndcsydney.com/)  
 1-5 August, 2016  
 Sydney, **Australia**
 
 
 ##Europe
-
-[**dotCSS**](http://www.dotcss.io/)  
-4 December, 2015  
-Paris, **France**
 
 [**dotJS**](http://www.dotjs.io/)  
 7 December, 2015  
@@ -144,6 +147,10 @@ San Francisco, California **USA**
 April 22, 2016  
 New York City, New York **USA**
 
+[**Open Vis Conf**](https://openvisconf.com/)  
+April 25-26, 2016  
+Boston, Massachusetts **USA**
+
 [**Future Insights Live**](https://futureinsightslive.com/)  
 May 2-5, 2016  
 Chicago, Illinois **USA**
@@ -159,6 +166,10 @@ Boston, Massachusetts **USA**
 [**QCon New York 2016**](https://qconnewyork.com/)  
 June 13-17, 2016  
 New York City, New York **USA**
+
+[**Front End Design Conference**](http://frontenddesignconference.com/)  
+June 15-17, 2016  
+St. Petersburg, Florida **USA**
 
 [**An Event Apart Washington D.C.**](http://aneventapart.com/event/washington-dc-2016)  
 July 25-27, 2016  
