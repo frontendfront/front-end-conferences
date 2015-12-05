@@ -13,6 +13,10 @@ Cape Town, **South Africa**
 
 ##Australia
 
+[**Webstock**](http://www.webstock.org.nz/16/)  
+11 February, 2016  
+Wellington, **New Zealand**
+
 [**NDC Sydney**](http://ndcsydney.com/)  
 1-5 August, 2016  
 Sydney, **Australia**
@@ -44,6 +48,14 @@ London, **England**
 15-16 March, 2016  
 Oxford, **England**
 
+[**Fronteers Spring Thing**](https://fronteers.nl/spring)  
+1 April, 2016  
+Amsterdam, **The Netherlands**
+
+[**Industry Conf**](https://industryconf.com/)  
+20 April, 2016  
+Newcastle upon Tyne, **England**
+
 [**Future of Web Design London**](https://futureofwebdesign.com/london-2016/)  
 25-27 April, 2016  
 London, **England**
@@ -68,6 +80,10 @@ Budapest, **Hungary**
 18-20 May, 2016  
 Warsaw, **Poland**
 
+[**User Experience Lisbon**](https://www.ux-lx.com/)  
+24-27 May, 2016  
+Lisbon, **Portugal**
+
 [**Frontend United**](frontendunited.org)  
 27 May, 2016  
 Ghent, **Belgium**
@@ -80,12 +96,20 @@ Manchester, **England**
 1 June, 2016  
 Oslo, **Norway**  
 
+[**Web Rebels**](https://www.webrebels.org/)  
+2 June, 2016  
+Oslo, **Norway**  
+
 [**ReactEurope 2016**](https://www.react-europe.org/)  
 2-3 June, 2016  
 Paris, **France**
 
 [**ScotlandJS 2016**](http://scotlandjs.com/)  
 2-3 June, 2016  
+Edinburgh, **Scotland**
+
+[**UX Scotland**](http://uxscotland.net/2016/)  
+8 June, 2016  
 Edinburgh, **Scotland**
 
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
@@ -95,6 +119,10 @@ Zurich, **Switzerland**
 [**SmashingConf Freiburg 2016**](http://smashingconf.com/)  
 12-13 September, 2016  
 Freiburg, **Germany**
+
+[**From the Front**](http://2016.fromthefront.it/)  
+15-16 September, 2016  
+Bologna, **Italy**
 
 
 ##North America
@@ -135,6 +163,10 @@ San Francisco, California **USA**
 March 14-16, 2016  
 Nashville, Tennessee **USA**
 
+[**Space City JS**](http://spacecity.codes/)  
+April 2, 2016  
+Houston, Texas **USA**
+
 [**An Event Apart Seattle**](http://aneventapart.com/event/sseattle-2016)  
 April 4-6, 2016  
 Seattle, Washington **USA**
@@ -150,6 +182,10 @@ New York City, New York **USA**
 [**Open Vis Conf**](https://openvisconf.com/)  
 April 25-26, 2016  
 Boston, Massachusetts **USA**
+
+[**Empire JS**](http://empirejs.org/)  
+April 26-27, 2016  
+New York City, New York **USA**
 
 [**Future Insights Live**](https://futureinsightslive.com/)  
 May 2-5, 2016  
@@ -171,6 +207,10 @@ New York City, New York **USA**
 June 15-17, 2016  
 St. Petersburg, Florida **USA**
 
+[**Web Design Day**](http://webdesignday.com)  
+June 24, 2016  
+Pittsburgh, Pennsylvania **USA**
+
 [**An Event Apart Washington D.C.**](http://aneventapart.com/event/washington-dc-2016)  
 July 25-27, 2016  
 Washington, D.C. **USA**
@@ -186,3 +226,16 @@ Orlando, Florida **USA**
 [**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
 October 31-November 2, 2016  
 San Francisco, California **USA**
+
+
+##South America
+
+[**AJSConf.UY**](https://jsconf.uy/)  
+15 April, 2016  
+Montevideo, **Uruguay**
+
+
+##Online
+
+[**JS Remote Conf**](https://jsremoteconf.com/)  
+January 14-16, 2016  
