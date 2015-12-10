@@ -24,10 +24,6 @@ Sydney, **Australia**
 
 ##Europe
 
-[**dotJS**](http://www.dotjs.io/)  
-7 December, 2015  
-Paris, **France**
-
 [**A Day of REST**](https://feelingrestful.com/)  
 28 January, 2016  
 London, **England**
@@ -126,14 +122,6 @@ Bologna, **Italy**
 
 
 ##North America
-
-[**CSS Day**](http://cssday.io/)  
-December 5, 2015  
-Phoenix, Arizona **USA**
-
-[**Node.js Interactive**](http://events.linuxfoundation.org/events/node-interactive)  
-December 8-9, 2015  
-Portland, Oregon **USA**
 
 [**PhoneGap Day US 2016**](http://pgday.phonegap.com/)  
 January 28-99, 2016  
