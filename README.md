@@ -13,6 +13,10 @@ Cape Town, **South Africa**
 
 ##Australia
 
+[**MelbJS**](http://melbjs.com/)  
+13 January, 2016  
+Sydney, **Australia**
+
 [**Webstock**](http://www.webstock.org.nz/16/)  
 11 February, 2016  
 Wellington, **New Zealand**
@@ -20,6 +24,10 @@ Wellington, **New Zealand**
 [**NDC Sydney**](http://ndcsydney.com/)  
 1-5 August, 2016  
 Sydney, **Australia**
+
+[**Generate Sydney 2016**](http://generateconf.com/)  
+5 September, 2016  
+Sydney **Australia**
 
 
 ##Europe
@@ -32,6 +40,10 @@ London, **England**
 20-21 February, 2016  
 Minsk, **Belarus**
 
+[**EnhanceConf**](http://enhanceconf.com/)  
+3-4 March, 2016  
+London, **England**
+
 [**jDays 2016**](http://www.jdays.se/)  
 8-9 March, 2016  
 Gothenburg, **Sweden**
@@ -43,6 +55,10 @@ London, **England**
 [**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
 15-16 March, 2016  
 Oxford, **England**
+
+[**CSSDay 2016**](http://2016.cssday.it/)  
+25 March, 2016  
+Faenza, **Italy**
 
 [**Fronteers Spring Thing**](https://fronteers.nl/spring)  
 1 April, 2016  
@@ -108,6 +124,10 @@ Edinburgh, **Scotland**
 8 June, 2016  
 Edinburgh, **Scotland**
 
+[**CSS Day 2016**](http://cssday.nl/)  
+16-17 June, 2016  
+Amsterdam, **The Netherlands**
+
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
 1-2 September, 2016  
 Zurich, **Switzerland**
@@ -119,6 +139,10 @@ Freiburg, **Germany**
 [**From the Front**](http://2016.fromthefront.it/)  
 15-16 September, 2016  
 Bologna, **Italy**
+
+[**Generate London 2016**](http://generateconf.com/)  
+21-23 September, 2016  
+London **England**
 
 
 ##North America
@@ -150,6 +174,10 @@ San Francisco, California **USA**
 [**An Event Apart Nashville**](http://aneventapart.com/event/nashville-2016)  
 March 14-16, 2016  
 Nashville, Tennessee **USA**
+
+[**Clarity**](http://clarityconf.com)  
+March 31-April 1, 2016  
+San Francisco, California **USA**
 
 [**Space City JS**](http://spacecity.codes/)  
 April 2, 2016  
@@ -198,6 +226,10 @@ St. Petersburg, Florida **USA**
 [**Web Design Day**](http://webdesignday.com)  
 June 24, 2016  
 Pittsburgh, Pennsylvania **USA**
+
+[**Generate San Francisco 2016**](http://generateconf.com/)  
+July 15, 2016  
+San Francisco, California **USA**
 
 [**An Event Apart Washington D.C.**](http://aneventapart.com/event/washington-dc-2016)  
 July 25-27, 2016  
