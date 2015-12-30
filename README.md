@@ -60,6 +60,10 @@ Oxford, **England**
 25 March, 2016  
 Faenza, **Italy**
 
+[**JSUnconf**](http://2016.jsunconf.eu/)  
+April, 2016  
+Hamburg, **Germany**
+
 [**Fronteers Spring Thing**](https://fronteers.nl/spring)  
 1 April, 2016  
 Amsterdam, **The Netherlands**
@@ -73,8 +77,12 @@ Newcastle upon Tyne, **England**
 London, **England**
 
 [**Render Conf**](http://www.render-conf.com/)  
-20-21 April, 2016  
+21-22 April, 2016  
 Oxford, **England**
+
+[**Beyond Tellerrand**](http://beyondtellerrand.com/)  
+9-11 May, 2016  
+Düsseldorf, **Germany**
 
 [**CSSConf Budapest**](http://cssconfbp.rocks/)  
 11 May, 2016  
@@ -109,7 +117,7 @@ Manchester, **England**
 Oslo, **Norway**  
 
 [**Web Rebels**](https://www.webrebels.org/)  
-2 June, 2016  
+2-3 June, 2016  
 Oslo, **Norway**  
 
 [**ReactEurope 2016**](https://www.react-europe.org/)  
@@ -119,6 +127,10 @@ Paris, **France**
 [**ScotlandJS 2016**](http://scotlandjs.com/)  
 2-3 June, 2016  
 Edinburgh, **Scotland**
+
+[**JSCamp Romania**](http://www.jscamp.ro/)  
+7 June, 2016  
+Bucharest, **Romania**
 
 [**UX Scotland**](http://uxscotland.net/2016/)  
 8 June, 2016  
@@ -143,6 +155,10 @@ Bologna, **Italy**
 [**Generate London 2016**](http://generateconf.com/)  
 21-23 September, 2016  
 London **England**
+
+[**Beyond Tellerrand**](http://beyondtellerrand.com/)  
+7-9 November, 2016  
+Berlin **Germany**
 
 
 ##North America
@@ -231,6 +247,10 @@ Pittsburgh, Pennsylvania **USA**
 July 15, 2016  
 San Francisco, California **USA**
 
+[**Dinosaur.js**](http://dinosaurjs.org/)  
+June 124, 2016  
+Denver, Colorado **USA**
+
 [**An Event Apart Washington D.C.**](http://aneventapart.com/event/washington-dc-2016)  
 July 25-27, 2016  
 Washington, D.C. **USA**
@@ -243,6 +263,10 @@ Chicago, Illinois **USA**
 October 3-5, 2016  
 Orlando, Florida **USA**
 
+[**Full Stack Toronto**](https://fsto.co/)  
+October 17-18, 2016  
+Toronto, Ontario **USA**
+
 [**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
 October 31-November 2, 2016  
 San Francisco, California **USA**
@@ -250,7 +274,7 @@ San Francisco, California **USA**
 
 ##South America
 
-[**AJSConf.UY**](https://jsconf.uy/)  
+[**JSConf.UY**](https://jsconf.uy/)  
 15 April, 2016  
 Montevideo, **Uruguay**
 
