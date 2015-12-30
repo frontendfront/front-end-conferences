@@ -191,6 +191,10 @@ San Francisco, California **USA**
 March 14-16, 2016  
 Nashville, Tennessee **USA**
 
+[**EmberConf**](http://emberconf.com/)  
+March 28-30, 2016  
+Portland, Oregon **USA**
+
 [**Clarity**](http://clarityconf.com)  
 March 31-April 1, 2016  
 San Francisco, California **USA**
@@ -223,6 +227,10 @@ New York City, New York **USA**
 May 2-5, 2016  
 Chicago, Illinois **USA**
 
+[**ng-conf**](http://www.ng-conf.org/)  
+May 4-6, 2016  
+Salt Lake City, Utah **USA**
+
 [**Syntax Convention**](http://syntaxcon.com/)  
 May 6-7, 2016  
 Charleston, South Carolina **USA**
@@ -230,6 +238,10 @@ Charleston, South Carolina **USA**
 [**An Event Apart Boston**](http://aneventapart.com/event/boston-2016)  
 May 16-18, 2016  
 Boston, Massachusetts **USA**
+
+[**OSCON**](http://conferences.oreilly.com/oscon/open-source-us)  
+May 16-19, 2016  
+Austin, Texas **USA**
 
 [**QCon New York 2016**](https://qconnewyork.com/)  
 June 13-17, 2016  
