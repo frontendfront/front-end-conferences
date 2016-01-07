@@ -11,6 +11,13 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 Cape Town, **South Africa**
 
 
+##Asia
+
+[**FITC Tokyo 2016**](http://fitc.ca/event/tk16/)  
+13-14 February, 2016  
+Tokyo, **Japan**
+
+
 ##Australia
 
 [**MelbJS**](http://melbjs.com/)  
@@ -36,6 +43,14 @@ Sydney **Australia**
 28 January, 2016  
 London, **England**
 
+[**JFokus 2016**](http://www.jfokus.se/jfokus/)  
+8-10 February, 2016  
+Stockholm, **Sweden**
+
+[**Bulgaria Web Summit 2016**](http://bulgariawebsummit.com/)  
+20 February, 2016  
+Sofia, **Bulgaria**
+
 [**The Rolling Scopes Conference**](http://2016.conf.rollingscopes.com/)  
 20-21 February, 2016  
 Minsk, **Belarus**
@@ -43,6 +58,10 @@ Minsk, **Belarus**
 [**EnhanceConf**](http://enhanceconf.com/)  
 3-4 March, 2016  
 London, **England**
+
+[**QCon London 2016**](http://qconlondon.com/)  
+7-11 March, 2016  
+London **England**
 
 [**jDays 2016**](http://www.jdays.se/)  
 8-9 March, 2016  
@@ -163,6 +182,10 @@ Berlin **Germany**
 
 ##North America
 
+[**O'Reilly Design Conference**](http://conferences.oreilly.com/design/ux-interaction-iot-us?cmp=ot-data-confreg-home-dsca16_eventlisting)  
+January 19-22, 2016  
+San Francisco, California **USA**
+
 [**PhoneGap Day US 2016**](http://pgday.phonegap.com/)  
 January 28-99, 2016  
 Lehi, Utah **USA**
@@ -179,6 +202,10 @@ San Francisco, California **USA**
 February 15-17, 2016  
 Atlanta, Georgia **USA**
 
+[**FITC Amsterdam 2016**](http://fitc.ca/event/am16/)  
+22-23 February, 2016  
+Amsterdam, **Netherlands**
+
 [**React.js Conf**](http://conf.reactjs.com/)  
 February 22-23, 2016  
 San Francisco, CA **USA**
@@ -186,6 +213,10 @@ San Francisco, CA **USA**
 [**O'Reilly Fluent Conference 2016**](http://fluentconf.com)  
 March 8-10, 2016  
 San Francisco, California **USA**
+
+[**RWDevCon**](http://www.rwdevcon.com/)  
+March 11-12, 2016  
+Alexandria, Virginia **USA**
 
 [**An Event Apart Nashville**](http://aneventapart.com/event/nashville-2016)  
 March 14-16, 2016  
@@ -295,3 +326,9 @@ Montevideo, **Uruguay**
 
 [**JS Remote Conf**](https://jsremoteconf.com/)  
 January 14-16, 2016  
+
+[**SVG Summit**](http://environmentsforhumans.com/2016/svg-summit/)  
+January 21, 2016  
+
+[**Sustainable UX**](http://sustainableux.com/)  
+February 9, 2016  
