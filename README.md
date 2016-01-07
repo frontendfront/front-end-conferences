@@ -187,7 +187,7 @@ January 19-22, 2016
 San Francisco, California **USA**
 
 [**PhoneGap Day US 2016**](http://pgday.phonegap.com/)  
-January 28-99, 2016  
+January 28-29, 2016  
 Lehi, Utah **USA**
 
 [**UXDEVSUMMIT**](http://uxdsummit.com/)  
