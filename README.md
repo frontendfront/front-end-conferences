@@ -55,6 +55,14 @@ Sofia, **Bulgaria**
 20-21 February, 2016  
 Minsk, **Belarus**
 
+[**UX Riga 2016**](http://www.uxriga.lv/)  
+25 February, 2016  
+Riga, **Latvia**
+
+[**Interaction 16**](http://interaction16.ixda.org/)  
+25 February, 2016  
+Helsinki, **Finland**
+
 [**EnhanceConf**](http://enhanceconf.com/)  
 3-4 March, 2016  
 London, **England**
@@ -86,6 +94,10 @@ Hamburg, **Germany**
 [**Fronteers Spring Thing**](https://fronteers.nl/spring)  
 1 April, 2016  
 Amsterdam, **The Netherlands**
+
+[**Yggdrasil 2016**](http://yggdrasilkonferansen.no/)  
+11-12 April, 2016  
+Sandefjord, **Norway**
 
 [**Industry Conf**](https://industryconf.com/)  
 20 April, 2016  
