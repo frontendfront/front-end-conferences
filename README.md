@@ -109,7 +109,7 @@ Sofia **Bulgaria**
 
 [**Yggdrasil 2016**](http://yggdrasilkonferansen.no/)  
 11-12 April, 2016  
-Sandefjord, **Norwayf**
+Sandefjord, **Norway**
 
 [**Industry Conf**](https://industryconf.com/)  
 20 April, 2016  
@@ -293,6 +293,14 @@ Salt Lake City, Utah **USA**
 [**Syntax Convention**](http://syntaxcon.com/)  
 May 6-7, 2016  
 Charleston, South Carolina **USA**
+
+[**Create Upstate**](http://createupstate.com/)  
+May 12-13, 2016  
+Syracuse, New York **USA**
+
+[**Front**](http://www.frontutah.com/)  
+May 12-13, 2016  
+Salt Lake City, Utah **USA**
 
 [**An Event Apart Boston**](http://aneventapart.com/event/boston-2016)  
 May 16-18, 2016  
