@@ -28,6 +28,14 @@ Sydney, **Australia**
 11 February, 2016  
 Wellington, **New Zealand**
 
+[**Respond**](http://www.webdirections.org/respond16/)  
+7-8 April, 2016  
+Sydney, **Australia**
+
+[**Respond**](http://www.webdirections.org/respond16/)  
+11-12 April, 2016  
+Melbourne, **Australia**
+
 [**NDC Sydney**](http://ndcsydney.com/)  
 1-5 August, 2016  
 Sydney, **Australia**
@@ -94,6 +102,10 @@ Hamburg, **Germany**
 [**Fronteers Spring Thing**](https://fronteers.nl/spring)  
 1 April, 2016  
 Amsterdam, **The Netherlands**
+
+[**MobCon**](http://mobcon.com/mobcon-europe/)  
+4 April, 2016  
+Sofia **Bulgaria**
 
 [**Yggdrasil 2016**](http://yggdrasilkonferansen.no/)  
 11-12 April, 2016  
@@ -254,6 +266,10 @@ Seattle, Washington **USA**
 April 5-6, 2016  
 San Francisco, California **USA**
 
+[**ConvergeSE**](http://convergese.com/)  
+April 13-15, 2016  
+Columbia, South Carolina **USA**
+
 [**Generate NYC 2016**](http://generateconf.com/new-york-2016)  
 April 22, 2016  
 New York City, New York **USA**
@@ -277,6 +293,14 @@ Salt Lake City, Utah **USA**
 [**Syntax Convention**](http://syntaxcon.com/)  
 May 6-7, 2016  
 Charleston, South Carolina **USA**
+
+[**Create Upstate**](http://createupstate.com/)  
+May 12-13, 2016  
+Syracuse, New York **USA**
+
+[**Front**](http://www.frontutah.com/)  
+May 12-13, 2016  
+Salt Lake City, Utah **USA**
 
 [**An Event Apart Boston**](http://aneventapart.com/event/boston-2016)  
 May 16-18, 2016  
@@ -330,7 +354,7 @@ San Francisco, California **USA**
 ##South America
 
 [**JSConf.UY**](https://jsconf.uy/)  
-15 April, 2016  
+15-16 April, 2016  
 Montevideo, **Uruguay**
 
 
