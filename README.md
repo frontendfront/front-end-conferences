@@ -148,7 +148,7 @@ Warsaw, **Poland**
 Lisbon, **Portugal**
 
 [**Frontend United**](frontendunited.org)  
-27 May, 2016  
+27-28 May, 2016  
 Ghent, **Belgium**
 
 [**UpFront 2016**](http://upfrontconf.com/)  
