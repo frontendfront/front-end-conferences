@@ -147,7 +147,7 @@ Warsaw, **Poland**
 24-27 May, 2016  
 Lisbon, **Portugal**
 
-[**Frontend United**](frontendunited.org)  
+[**Frontend United**](http://frontendunited.org)  
 27-28 May, 2016  
 Ghent, **Belgium**
 
