@@ -17,16 +17,24 @@ Cape Town, **South Africa**
 13-14 February, 2016  
 Tokyo, **Japan**
 
+[**UX Alive**](http://www.uxalive.com/)  
+11-13 May, 2016  
+Istanbul, **Turkey**
+
 
 ##Australia
 
-[**MelbJS**](http://melbjs.com/)  
-13 January, 2016  
-Sydney, **Australia**
+[**MelbJS**](http://melbjs.com)  
+10 February, 2016  
+Melbourne, **Australia**
 
 [**Webstock**](http://www.webstock.org.nz/16/)  
 11 February, 2016  
 Wellington, **New Zealand**
+
+[**MelbJS**](http://melbjs.com)  
+9 March, 2016  
+Melbourne, **Australia**
 
 [**Respond**](http://www.webdirections.org/respond16/)  
 7-8 April, 2016  
@@ -55,6 +63,10 @@ London, **England**
 8-10 February, 2016  
 Stockholm, **Sweden**
 
+[**hello.JS**](http://hellojs.org/)  
+18-19 February, 2016  
+Cluj-Napoca, **Romania**
+
 [**Bulgaria Web Summit 2016**](http://bulgariawebsummit.com/)  
 20 February, 2016  
 Sofia, **Bulgaria**
@@ -62,6 +74,10 @@ Sofia, **Bulgaria**
 [**The Rolling Scopes Conference**](http://2016.conf.rollingscopes.com/)  
 20-21 February, 2016  
 Minsk, **Belarus**
+
+[**How.Camp 2016**](http://how.camp/)  
+21 February, 2016  
+Sofia, **Bulgaria**
 
 [**UX Riga 2016**](http://www.uxriga.lv/)  
 25 February, 2016  
@@ -90,6 +106,10 @@ London, **England**
 [**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
 15-16 March, 2016  
 Oxford, **England**
+
+[**DIBI 2016**](http://dibiconference.com/)  
+17-18 March, 2016  
+Edinburgh, **Scotland**
 
 [**CSSDay 2016**](http://2016.cssday.it/)  
 25 March, 2016  
@@ -143,11 +163,15 @@ Budapest, **Hungary**
 18-20 May, 2016  
 Warsaw, **Poland**
 
+[**UX London 2016**](http://2016.uxlondon.com/)  
+18-20 May, 2016  
+London, **England**
+
 [**User Experience Lisbon**](https://www.ux-lx.com/)  
 24-27 May, 2016  
 Lisbon, **Portugal**
 
-[**Frontend United**](http://frontendunited.org)  
+[**Frontend United**](http://frontendunited.org/)  
 27-28 May, 2016  
 Ghent, **Belgium**
 
@@ -158,6 +182,10 @@ Manchester, **England**
 [**CSSconf Nordic**](http://cssconf.no/)  
 1 June, 2016  
 Oslo, **Norway**  
+
+[**ScotlandCSS 2016**](http://scotlandcss.launchrock.com/)  
+1 June, 2016  
+Edinburgh, **Scotland**
 
 [**Web Rebels**](https://www.webrebels.org/)  
 2-3 June, 2016  
@@ -220,6 +248,10 @@ Fort Lauderdale, Florida **USA**
 
 [**Forward 4 Web Technology Summit**](http://forwardjs.com/summit)  
 February 8-13, 2016  
+San Francisco, California **USA**
+
+[**Developer Week**](http://www.developerweek.com/)  
+February 12-18, 2016  
 San Francisco, California **USA**
 
 [**DevNexus 2016**](http://devnexus.com)  
@@ -334,6 +366,10 @@ Denver, Colorado **USA**
 July 25-27, 2016  
 Washington, D.C. **USA**
 
+[**Mobile & Web CodeCamp**](http://www.mobilewebcodecamp.com/)  
+July 28-29, 2016  
+Salt Lake City, Utah **USA**
+
 [**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2016)  
 August 29-31, 2016  
 Chicago, Illinois **USA**
@@ -360,11 +396,11 @@ Montevideo, **Uruguay**
 
 ##Online
 
-[**JS Remote Conf**](https://jsremoteconf.com/)  
-January 14-16, 2016  
-
 [**SVG Summit**](http://environmentsforhumans.com/2016/svg-summit/)  
 January 21, 2016  
 
 [**Sustainable UX**](http://sustainableux.com/)  
 February 9, 2016  
+
+[**JavaScript Summit**](http://environmentsforhumans.com/2016/javascript-summit/)  
+February 23-25, 2016
