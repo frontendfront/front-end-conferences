@@ -99,10 +99,6 @@ London **England**
 8-9 March, 2016  
 Gothenburg, **Sweden**
 
-[**FrontierConf London 2016**](https://www.frontierconf.com/)  
-11 March, 2016  
-London, **England**
-
 [**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
 15-16 March, 2016  
 Oxford, **England**
@@ -230,6 +226,10 @@ London **England**
 [**Beyond Tellerrand**](http://beyondtellerrand.com/)  
 7-9 November, 2016  
 Berlin **Germany**
+
+[**FrontierConf London 2016**](https://www.frontierconf.com/)  
+16 November, 2016
+London, **England**
 
 
 ##North America
