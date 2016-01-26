@@ -21,6 +21,9 @@ Tokyo, **Japan**
 11-13 May, 2016  
 Istanbul, **Turkey**
 
+[**Frontend Conference 2016**](http://kfug.jp/frontconf2016)
+3 March, 2016
+Osaka, **Japan**
 
 ##Australia
 
