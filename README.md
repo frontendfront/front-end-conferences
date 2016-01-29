@@ -58,10 +58,6 @@ Sydney **Australia**
 
 ##Europe
 
-[**A Day of REST**](https://feelingrestful.com/)  
-28 January, 2016  
-London, **England**
-
 [**JFokus 2016**](http://www.jfokus.se/jfokus/)  
 8-10 February, 2016  
 Stockholm, **Sweden**
@@ -237,14 +233,6 @@ London, **England**
 
 ##North America
 
-[**O'Reilly Design Conference**](http://conferences.oreilly.com/design/ux-interaction-iot-us?cmp=ot-data-confreg-home-dsca16_eventlisting)  
-January 19-22, 2016  
-San Francisco, California **USA**
-
-[**PhoneGap Day US 2016**](http://pgday.phonegap.com/)  
-January 28-29, 2016  
-Lehi, Utah **USA**
-
 [**UXDEVSUMMIT**](http://uxdsummit.com/)  
 February 4-6, 2016  
 Fort Lauderdale, Florida **USA**
@@ -398,9 +386,6 @@ Montevideo, **Uruguay**
 
 
 ##Online
-
-[**SVG Summit**](http://environmentsforhumans.com/2016/svg-summit/)  
-January 21, 2016  
 
 [**Sustainable UX**](http://sustainableux.com/)  
 February 9, 2016  
