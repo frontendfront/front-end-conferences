@@ -233,14 +233,6 @@ London, **England**
 
 ##North America
 
-[**UXDEVSUMMIT**](http://uxdsummit.com/)  
-February 4-6, 2016  
-Fort Lauderdale, Florida **USA**
-
-[**Forward 4 Web Technology Summit**](http://forwardjs.com/summit)  
-February 8-13, 2016  
-San Francisco, California **USA**
-
 [**Developer Week**](http://www.developerweek.com/)  
 February 12-18, 2016  
 San Francisco, California **USA**
@@ -386,9 +378,6 @@ Montevideo, **Uruguay**
 
 
 ##Online
-
-[**Sustainable UX**](http://sustainableux.com/)  
-February 9, 2016  
 
 [**JavaScript Summit**](http://environmentsforhumans.com/2016/javascript-summit/)  
 February 23-25, 2016
