@@ -13,10 +13,6 @@ Cape Town, **South Africa**
 
 ##Asia
 
-[**FITC Tokyo 2016**](http://fitc.ca/event/tk16/)  
-13-14 February, 2016  
-Tokyo, **Japan**
-
 [**UX Alive**](http://www.uxalive.com/)  
 11-13 May, 2016  
 Istanbul, **Turkey**
@@ -26,14 +22,6 @@ Istanbul, **Turkey**
 Osaka, **Japan**  
 
 ##Australia
-
-[**MelbJS**](http://melbjs.com)  
-10 February, 2016  
-Melbourne, **Australia**
-
-[**Webstock**](http://www.webstock.org.nz/16/)  
-11 February, 2016  
-Wellington, **New Zealand**
 
 [**MelbJS**](http://melbjs.com)  
 9 March, 2016  
@@ -57,10 +45,6 @@ Sydney **Australia**
 
 
 ##Europe
-
-[**JFokus 2016**](http://www.jfokus.se/jfokus/)  
-8-10 February, 2016  
-Stockholm, **Sweden**
 
 [**hello.JS**](http://hellojs.org/)  
 18-19 February, 2016  
@@ -232,14 +216,6 @@ London, **England**
 
 
 ##North America
-
-[**Developer Week**](http://www.developerweek.com/)  
-February 12-18, 2016  
-San Francisco, California **USA**
-
-[**DevNexus 2016**](http://devnexus.com)  
-February 15-17, 2016  
-Atlanta, Georgia **USA**
 
 [**FITC Amsterdam 2016**](http://fitc.ca/event/am16/)  
 22-23 February, 2016  
