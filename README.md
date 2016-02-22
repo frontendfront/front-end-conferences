@@ -202,6 +202,10 @@ Amsterdam, **The Netherlands**
 25-26 August, 2016  
 Reykjavik, **Iceland**
 
+[**ColdFront 2016**](https://2016.coldfrontconf.com/)
+1 September, 2016
+Copenhagen, **Denmark**
+
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
 1-2 September, 2016  
 Zurich, **Switzerland**
