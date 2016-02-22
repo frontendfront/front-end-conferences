@@ -341,6 +341,10 @@ Orlando, Florida **USA**
 October 17-18, 2016  
 Toronto, Ontario **USA**
 
+[**CSS Dev Conf**](http://2016.cssdevconf.com/)  
+October 17-19, 2016  
+San Antonio, Texas **USA**
+
 [**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
 October 31-November 2, 2016  
 San Francisco, California **USA**
