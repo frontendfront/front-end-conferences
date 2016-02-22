@@ -190,6 +190,10 @@ Bucharest, **Romania**
 8 June, 2016  
 Edinburgh, **Scotland**
 
+[**enterJS 2016**](https://www.enterjs.de/)  
+14-16 June, 2016  
+Darmstadt, **Germany**
+
 [**CSS Day 2016**](http://cssday.nl/)  
 16-17 June, 2016  
 Amsterdam, **The Netherlands**
