@@ -43,6 +43,10 @@ Sydney, **Australia**
 5 September, 2016  
 Sydney **Australia**
 
+[**CSSConf Australia**](http://2016.cssconf.com.au/)  
+30 November, 2016  
+Melbourne **Australia**
+
 
 ##Europe
 
@@ -190,9 +194,17 @@ Edinburgh, **Scotland**
 16-17 June, 2016  
 Amsterdam, **The Netherlands**
 
+[**JSConf Iceland**](http://2016.jsconf.is/)  
+25-26 August, 2016  
+Reykjavik, **Iceland**
+
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
 1-2 September, 2016  
 Zurich, **Switzerland**
+
+[**Full Stack Fest**](http://2016.fullstackfest.com/)  
+5-9 September, 2016  
+Barcelona, **Spain**
 
 [**SmashingConf Freiburg 2016**](http://smashingconf.com/)  
 12-13 September, 2016  
@@ -213,6 +225,14 @@ Berlin **Germany**
 [**FrontierConf London 2016**](https://www.frontierconf.com/)  
 16 November, 2016
 London, **England**
+
+[**dotCSS**](http://www.dotcss.io/)  
+2 December, 2016  
+Paris, **France**
+
+[**dotJS**](http://www.dotjs.io/)  
+5 December, 2016  
+Paris, **France**
 
 
 ##North America
@@ -340,6 +360,10 @@ Orlando, Florida **USA**
 [**Full Stack Toronto**](https://fsto.co/)  
 October 17-18, 2016  
 Toronto, Ontario **USA**
+
+[**CSS Dev Conf**](http://2016.cssdevconf.com/)  
+October 17-19, 2016  
+San Antonio, Texas **USA**
 
 [**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
 October 31-November 2, 2016  
