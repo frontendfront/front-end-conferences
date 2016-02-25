@@ -50,30 +50,6 @@ Melbourne **Australia**
 
 ##Europe
 
-[**hello.JS**](http://hellojs.org/)  
-18-19 February, 2016  
-Cluj-Napoca, **Romania**
-
-[**Bulgaria Web Summit 2016**](http://bulgariawebsummit.com/)  
-20 February, 2016  
-Sofia, **Bulgaria**
-
-[**The Rolling Scopes Conference**](http://2016.conf.rollingscopes.com/)  
-20-21 February, 2016  
-Minsk, **Belarus**
-
-[**How.Camp 2016**](http://how.camp/)  
-21 February, 2016  
-Sofia, **Bulgaria**
-
-[**UX Riga 2016**](http://www.uxriga.lv/)  
-25 February, 2016  
-Riga, **Latvia**
-
-[**Interaction 16**](http://interaction16.ixda.org/)  
-25 February, 2016  
-Helsinki, **Finland**
-
 [**EnhanceConf**](http://enhanceconf.com/)  
 3-4 March, 2016  
 London, **England**
@@ -245,14 +221,6 @@ Paris, **France**
 
 ##North America
 
-[**FITC Amsterdam 2016**](http://fitc.ca/event/am16/)  
-22-23 February, 2016  
-Amsterdam, **Netherlands**
-
-[**React.js Conf**](http://conf.reactjs.com/)  
-February 22-23, 2016  
-San Francisco, CA **USA**
-
 [**O'Reilly Fluent Conference 2016**](http://fluentconf.com)  
 March 8-10, 2016  
 San Francisco, California **USA**
@@ -383,9 +351,3 @@ San Francisco, California **USA**
 [**JSConf.UY**](https://jsconf.uy/)  
 15-16 April, 2016  
 Montevideo, **Uruguay**
-
-
-##Online
-
-[**JavaScript Summit**](http://environmentsforhumans.com/2016/javascript-summit/)  
-February 23-25, 2016
