@@ -78,7 +78,7 @@ Faenza, **Italy**
 April, 2016  
 Hamburg, **Germany**
 
-[**Fronteers Spring Thing**](https://fronteers.nl/spring)  
+[**Fronteers Spring Conference**](https://fronteers.nl/congres/2016-spring)  
 1 April, 2016  
 Amsterdam, **The Netherlands**
 
@@ -178,8 +178,8 @@ Amsterdam, **The Netherlands**
 25-26 August, 2016  
 Reykjavik, **Iceland**
 
-[**ColdFront 2016**](https://2016.coldfrontconf.com/)
-1 September, 2016
+[**ColdFront 2016**](https://2016.coldfrontconf.com/)  
+1 September, 2016  
 Copenhagen, **Denmark**
 
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
@@ -207,7 +207,7 @@ London **England**
 Berlin **Germany**
 
 [**FrontierConf London 2016**](https://www.frontierconf.com/)  
-16 November, 2016
+16 November, 2016  
 London, **England**
 
 [**dotCSS**](http://www.dotcss.io/)  
