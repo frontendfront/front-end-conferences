@@ -17,10 +17,6 @@ Cape Town, **South Africa**
 11-13 May, 2016  
 Istanbul, **Turkey**
 
-[**Frontend Conference 2016**](http://kfug.jp/frontconf2016)  
-3 March, 2016  
-Osaka, **Japan**
-
 [**YGLF**](http://yougottalovefrontend.com/#page-home)  
 27-28 June, 2016  
 Tel Aviv, **Israel**
