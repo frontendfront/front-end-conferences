@@ -411,7 +411,7 @@ San Francisco, California **USA**
 15-16 April, 2016  
 Montevideo, **Uruguay**
 
-[**BrazilJS Conf**](https://braziljs.org/conf/)  
+[**BrazilJS Conf**](https://braziljs.org/conf)  
 26-27 August, 2016  
 Porto Alegre, **Brasil**
 
