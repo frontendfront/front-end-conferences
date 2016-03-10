@@ -316,6 +316,10 @@ Boston, Massachusetts **USA**
 April 26-27, 2016  
 New York City, New York **USA**
 
+[**Squares Conference**](http://squaresconference.com/)  
+April 27-29, 2016  
+Dallas (Grapevine), Texas **USA**
+
 [**Future Insights Live**](https://futureinsightslive.com/)  
 May 2-5, 2016  
 Chicago, Illinois **USA**
