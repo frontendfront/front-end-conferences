@@ -27,10 +27,6 @@ Bangalore, **India**
 
 ##Australia
 
-[**MelbJS**](http://melbjs.com)  
-9 March, 2016  
-Melbourne, **Australia**
-
 [**Respond**](http://www.webdirections.org/respond16/)  
 7-8 April, 2016  
 Sydney, **Australia**
@@ -47,6 +43,10 @@ Sydney, **Australia**
 5 September, 2016  
 Sydney **Australia**
 
+[**JS Kongress Munich**](http://js-kongress.de/)  
+28-29 November, 2016  
+Munich. **Germany**
+
 [**CSSConf Australia**](http://2016.cssconf.com.au/)  
 30 November, 2016  
 Melbourne **Australia**
@@ -56,18 +56,6 @@ Melbourne **Australia**
 Melbourne, **Australia**
 
 ##Europe
-
-[**EnhanceConf**](http://enhanceconf.com/)  
-3-4 March, 2016  
-London, **England**
-
-[**QCon London 2016**](http://qconlondon.com/)  
-7-11 March, 2016  
-London **England**
-
-[**jDays 2016**](http://www.jdays.se/)  
-8-9 March, 2016  
-Gothenburg, **Sweden**
 
 [**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
 15-16 March, 2016  
@@ -263,14 +251,6 @@ Paris, **France**
 
 
 ##North America
-
-[**O'Reilly Fluent Conference 2016**](http://fluentconf.com)  
-March 8-10, 2016  
-San Francisco, California **USA**
-
-[**RWDevCon**](http://www.rwdevcon.com/)  
-March 11-12, 2016  
-Alexandria, Virginia **USA**
 
 [**An Event Apart Nashville**](http://aneventapart.com/event/nashville-2016)  
 March 14-16, 2016  
