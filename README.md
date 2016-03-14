@@ -43,10 +43,6 @@ Sydney, **Australia**
 5 September, 2016  
 Sydney **Australia**
 
-[**JS Kongress Munich**](http://js-kongress.de/)  
-28-29 November, 2016  
-Munich. **Germany**
-
 [**CSSConf Australia**](http://2016.cssconf.com.au/)  
 30 November, 2016  
 Melbourne **Australia**
@@ -241,6 +237,10 @@ Berlin **Germany**
 16 November, 2016  
 London, **England**
 
+[**JS Kongress Munich**](http://js-kongress.de/)  
+28-29 November, 2016  
+Munich, **Germany**
+
 [**dotCSS**](http://www.dotcss.io/)  
 2 December, 2016  
 Paris, **France**
@@ -248,10 +248,6 @@ Paris, **France**
 [**dotJS**](http://www.dotjs.io/)  
 5 December, 2016  
 Paris, **France**
-
-[**JS Kongress Munich**](http://js-kongress.de/)  
-28-29 November, 2016  
-Munich, **Germany**
 
 ##North America
 
