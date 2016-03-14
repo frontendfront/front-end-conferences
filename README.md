@@ -261,6 +261,9 @@ Paris, **France**
 5 December, 2016  
 Paris, **France**
 
+[**JS Kongress Munich**](http://js-kongress.de/)  
+28-29 November, 2016  
+Munich, **Germany**
 
 ##North America
 
