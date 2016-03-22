@@ -373,7 +373,7 @@ Fort Lauderdale, Florida **USA**
 
 [**Full Stack Toronto**](https://fsto.co/)  
 October 17-18, 2016  
-Toronto, Ontario **USA**
+Toronto, Ontario **Canada**
 
 [**CSS Dev Conf**](http://2016.cssdevconf.com/)  
 October 17-19, 2016  
