@@ -53,14 +53,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**SmashingConf Oxford 2016**](http://www.smashingconf.com/)  
-15-16 March, 2016  
-Oxford, **England**
-
-[**DIBI 2016**](http://dibiconference.com/)  
-17-18 March, 2016  
-Edinburgh, **Scotland**
-
 [**CSSDay 2016**](http://2016.cssday.it/)  
 25 March, 2016  
 Faenza, **Italy**
@@ -250,10 +242,6 @@ Paris, **France**
 Paris, **France**
 
 ##North America
-
-[**An Event Apart Nashville**](http://aneventapart.com/event/nashville-2016)  
-March 14-16, 2016  
-Nashville, Tennessee **USA**
 
 [**EmberConf**](http://emberconf.com/)  
 March 28-30, 2016  
