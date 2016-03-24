@@ -378,13 +378,17 @@ San Francisco, California **USA**
 15-16 April, 2016  
 Montevideo, **Uruguay**
 
+[**FrontinSampa**](http://frontinsampa.com.br/)  
+02 July, 2016  
+São Paulo, **Brazil**
+
 [**CSSConf Argentina**](http://cssconfar.com)  
 7 August, 2016  
 Buenos Aires, **Argentina**
 
 [**BrazilJS Conf**](https://braziljs.org/conf)  
 26-27 August, 2016  
-Porto Alegre, **Brasil**
+Porto Alegre, **Brazil**
 
 
 ##Online
