@@ -378,6 +378,14 @@ San Francisco, California **USA**
 15-16 April, 2016  
 Montevideo, **Uruguay**
 
+[**RSJS**](http://rsjs.org/2016/)  
+23 April, 2016  
+Porto Alegre, **Brazil**
+
+[**Front in Rio - HTML Edition**](http://frontinrio.com.br/)  
+30 April, 2016  
+Rio de Janeiro, **Brazil**
+
 [**FrontinSampa**](http://frontinsampa.com.br/)  
 02 July, 2016  
 São Paulo, **Brazil**
