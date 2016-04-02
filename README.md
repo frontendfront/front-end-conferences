@@ -53,18 +53,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**CSSDay 2016**](http://2016.cssday.it/)  
-25 March, 2016  
-Faenza, **Italy**
-
-[**JSUnconf**](http://2016.jsunconf.eu/)  
-April, 2016  
-Hamburg, **Germany**
-
-[**Fronteers Spring Conference**](https://fronteers.nl/congres/2016-spring)  
-1 April, 2016  
-Amsterdam, **The Netherlands**
-
 [**MobCon**](http://mobcon.com/mobcon-europe/)  
 4 April, 2016  
 Sofia **Bulgaria**
@@ -88,6 +76,10 @@ Newcastle upon Tyne, **England**
 [**Render Conf**](http://www.render-conf.com/)  
 21-22 April, 2016  
 Oxford, **England**
+
+[**JSUnconf**](http://2016.jsunconf.eu/)  
+23-24 April, 2016  
+Hamburg, **Germany**
 
 [**Future of Web Design London**](https://futureofwebdesign.com/london-2016/)  
 25-27 April, 2016  
@@ -243,18 +235,6 @@ Paris, **France**
 
 ##North America
 
-[**EmberConf**](http://emberconf.com/)  
-March 28-30, 2016  
-Portland, Oregon **USA**
-
-[**Clarity**](http://clarityconf.com)  
-March 31-April 1, 2016  
-San Francisco, California **USA**
-
-[**Space City JS**](http://spacecity.codes/)  
-April 2, 2016  
-Houston, Texas **USA**
-
 [**An Event Apart Seattle**](http://aneventapart.com/event/sseattle-2016)  
 April 4-6, 2016  
 Seattle, Washington **USA**
@@ -397,9 +377,3 @@ Buenos Aires, **Argentina**
 [**BrazilJS Conf**](https://braziljs.org/conf)  
 26-27 August, 2016  
 Porto Alegre, **Brazil**
-
-
-##Online
-
-[**RWD Summit 2016**](http://environmentsforhumans.com/2016/responsive-web-design-summit/)  
-March 29-31, 2016
