@@ -235,14 +235,6 @@ Paris, **France**
 
 ##North America
 
-[**An Event Apart Seattle**](http://aneventapart.com/event/sseattle-2016)  
-April 4-6, 2016  
-Seattle, Washington **USA**
-
-[**SmashingConf San Francisco**](http://smashingconf.com)  
-April 5-6, 2016  
-San Francisco, California **USA**
-
 [**ConvergeSE**](http://convergese.com/)  
 April 13-15, 2016  
 Columbia, South Carolina **USA**
