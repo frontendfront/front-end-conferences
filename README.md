@@ -27,14 +27,6 @@ Bangalore, **India**
 
 ##Australia
 
-[**Respond**](http://www.webdirections.org/respond16/)  
-7-8 April, 2016  
-Sydney, **Australia**
-
-[**Respond**](http://www.webdirections.org/respond16/)  
-11-12 April, 2016  
-Melbourne, **Australia**
-
 [**NDC Sydney**](http://ndcsydney.com/)  
 1-5 August, 2016  
 Sydney, **Australia**
@@ -52,18 +44,6 @@ Melbourne **Australia**
 Melbourne, **Australia**
 
 ##Europe
-
-[**MobCon**](http://mobcon.com/mobcon-europe/)  
-4 April, 2016  
-Sofia **Bulgaria**
-
-[**Jazoon Techdays Spring 2016**](http://jazoon.com/)  
-7-8 April, 2016  
-Berne, **Switzerland**
-
-[**Yggdrasil 2016**](http://yggdrasilkonferansen.no/)  
-11-12 April, 2016  
-Sandefjord, **Norway**
 
 [**JavaScript Frameworks Day 2016**](http://frameworksdays.com/event/js-frameworks-day-2016)  
 16 April, 2016  
@@ -234,10 +214,6 @@ Paris, **France**
 Paris, **France**
 
 ##North America
-
-[**ConvergeSE**](http://convergese.com/)  
-April 13-15, 2016  
-Columbia, South Carolina **USA**
 
 [**Peers Conference 2016**](http://peersconf.com/)  
 April 13-15, 2016  
