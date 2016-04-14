@@ -319,6 +319,10 @@ San Antonio, Texas **USA**
 October 31-November 2, 2016  
 San Francisco, California **USA**
 
+[**SenchaCon 2016**](http://www.senchacon.com/)  
+November 7-9, 2016  
+Las Vegas, Nevada **USA**
+
 
 ##South America
 
