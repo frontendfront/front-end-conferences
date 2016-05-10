@@ -45,34 +45,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**JavaScript Frameworks Day 2016**](http://frameworksdays.com/event/js-frameworks-day-2016)  
-16 April, 2016  
-Kiev, **Ukraine**
-
-[**Industry Conf**](https://industryconf.com/)  
-20 April, 2016  
-Newcastle upon Tyne, **England**
-
-[**Render Conf**](http://www.render-conf.com/)  
-21-22 April, 2016  
-Oxford, **England**
-
-[**JSUnconf**](http://2016.jsunconf.eu/)  
-23-24 April, 2016  
-Hamburg, **Germany**
-
-[**Future of Web Design London**](https://futureofwebdesign.com/london-2016/)  
-25-27 April, 2016  
-London, **England**
-
-[**JSDayES 2016**](http://jsday.es/)  
-29-30 April, 2016  
-Madrid, **Spain**
-
-[**Beyond Tellerrand**](http://beyondtellerrand.com/)  
-9-11 May, 2016  
-Düsseldorf, **Germany**
-
 [**CSSConf Budapest**](http://cssconfbp.rocks/)  
 11 May, 2016  
 Budapest, **Hungary**  
@@ -215,38 +187,6 @@ Paris, **France**
 
 ##North America
 
-[**Peers Conference 2016**](http://peersconf.com/)  
-April 13-15, 2016  
-St. Petersbury, Florida **USA**
-
-[**Generate NYC 2016**](http://generateconf.com/new-york-2016)  
-April 22, 2016  
-New York City, New York **USA**
-
-[**Open Vis Conf**](https://openvisconf.com/)  
-April 25-26, 2016  
-Boston, Massachusetts **USA**
-
-[**Empire JS**](http://empirejs.org/)  
-April 26-27, 2016  
-New York City, New York **USA**
-
-[**Squares Conference**](http://squaresconference.com/)  
-April 27-29, 2016  
-Dallas (Grapevine), Texas **USA**
-
-[**Future Insights Live**](https://futureinsightslive.com/)  
-May 2-5, 2016  
-Chicago, Illinois **USA**
-
-[**ng-conf**](http://www.ng-conf.org/)  
-May 4-6, 2016  
-Salt Lake City, Utah **USA**
-
-[**Syntax Convention**](http://syntaxcon.com/)  
-May 6-7, 2016  
-Charleston, South Carolina **USA**
-
 [**Create Upstate**](http://createupstate.com/)  
 May 12-13, 2016  
 Syracuse, New York **USA**
@@ -325,18 +265,6 @@ Las Vegas, Nevada **USA**
 
 
 ##South America
-
-[**JSConf.UY**](https://jsconf.uy/)  
-15-16 April, 2016  
-Montevideo, **Uruguay**
-
-[**RSJS**](http://rsjs.org/2016/)  
-23 April, 2016  
-Porto Alegre, **Brazil**
-
-[**Front in Rio - HTML Edition**](http://frontinrio.com.br/)  
-30 April, 2016  
-Rio de Janeiro, **Brazil**
 
 [**FrontinSampa**](http://frontinsampa.com.br/)  
 02 July, 2016  
