@@ -13,10 +13,6 @@ Cape Town, **South Africa**
 
 ##Asia
 
-[**UX Alive**](http://www.uxalive.com/)  
-11-13 May, 2016  
-Istanbul, **Turkey**
-
 [**YGLF**](http://yougottalovefrontend.com/#page-home)  
 27-28 June, 2016  
 Tel Aviv, **Israel**
@@ -44,18 +40,6 @@ Melbourne **Australia**
 Melbourne, **Australia**
 
 ##Europe
-
-[**CSSConf Budapest**](http://cssconfbp.rocks/)  
-11 May, 2016  
-Budapest, **Hungary**  
-
-[**jsday**](http://2016.jsday.it/)  
-11-12 May, 2016  
-Verona, **Italy**  
-
-[**JSConf Budapest**](http://jsconfbp.com/)  
-12-13 May, 2016  
-Budapest, **Hungary**  
 
 [**Front-Trends 2016**](http://www.front-trends.com/)  
 18-20 May, 2016  
@@ -187,22 +171,6 @@ Paris, **France**
 
 ##North America
 
-[**Create Upstate**](http://createupstate.com/)  
-May 12-13, 2016  
-Syracuse, New York **USA**
-
-[**Front**](http://www.frontutah.com/)  
-May 12-13, 2016  
-Salt Lake City, Utah **USA**
-
-[**An Event Apart Boston**](http://aneventapart.com/event/boston-2016)  
-May 16-18, 2016  
-Boston, Massachusetts **USA**
-
-[**OSCON**](http://conferences.oreilly.com/oscon/open-source-us)  
-May 16-19, 2016  
-Austin, Texas **USA**
-
 [**QCon New York 2016**](https://qconnewyork.com/)  
 June 13-17, 2016  
 New York City, New York **USA**
@@ -267,7 +235,7 @@ Las Vegas, Nevada **USA**
 ##South America
 
 [**FrontinSampa**](http://frontinsampa.com.br/)  
-02 July, 2016  
+2 July, 2016  
 São Paulo, **Brazil**
 
 [**CSSConf Argentina**](http://cssconfar.com)  
