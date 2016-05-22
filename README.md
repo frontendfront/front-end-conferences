@@ -129,6 +129,10 @@ Barcelona, **Spain**
 12-13 September, 2016  
 Freiburg, **Germany**
 
+[**ReactNext 2016**](http://react-next.com/)  
+15 September, 2016  
+Tel Aviv, **Israel**
+
 [**From the Front**](http://2016.fromthefront.it/)  
 15-16 September, 2016  
 Bologna, **Italy**
