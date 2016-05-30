@@ -157,6 +157,10 @@ Paris, **France**
 7-9 November, 2016  
 Berlin **Germany**
 
+[**ffconf**](http://ffconf.org/)  
+10-11 November, 2016  
+Brighton **UK**
+
 [**FrontierConf London 2016**](https://www.frontierconf.com/)  
 16 November, 2016  
 London, **England**
