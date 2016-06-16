@@ -165,6 +165,10 @@ Brighton **UK**
 16 November, 2016  
 London, **England**
 
+[**HalfStack London 2016**](https://www.halfstackconf.com/)
+18 November, 2016
+London, **England**
+
 [**JS Kongress Munich**](http://js-kongress.de/)  
 28-29 November, 2016  
 Munich, **Germany**
