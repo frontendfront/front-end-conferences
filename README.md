@@ -91,6 +91,10 @@ London, **England**
 25-26 October, 2016  
 Paris, **France**
 
+[**Reactive Conf**](https://reactiveconf.com/)
+26-28 October, 2016
+Bratislava, **Slovakia**
+
 [**Beyond Tellerrand**](http://beyondtellerrand.com/)  
 7-9 November, 2016  
 Berlin **Germany**
@@ -144,6 +148,10 @@ Washington, D.C. **USA**
 
 [**Mobile & Web CodeCamp**](http://www.mobilewebcodecamp.com/)  
 July 28-29, 2016  
+Salt Lake City, Utah **USA**
+
+[**React Rally**](http://www.reactrally.com/)
+August 25-26, 2016
 Salt Lake City, Utah **USA**
 
 [**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2016)  
