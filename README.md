@@ -13,10 +13,6 @@ Cape Town, **South Africa**
 
 ##Asia
 
-[**YGLF**](http://yougottalovefrontend.com/#page-home)  
-27-28 June, 2016  
-Tel Aviv, **Israel**
-
 [**Generate Bangalore 2016**](http://www.generateconf.com/)  
 25 November, 2016  
 Bangalore, **India**
@@ -125,14 +121,6 @@ Paris, **France**
 
 
 ##North America
-
-[**Web Design Day**](http://webdesignday.com)  
-June 24, 2016  
-Pittsburgh, Pennsylvania **USA**
-
-[**Dinosaur.js**](http://dinosaurjs.org/)  
-June 24, 2016  
-Denver, Colorado **USA**
 
 [**Generate San Francisco 2016**](http://generateconf.com/)  
 July 15, 2016  
