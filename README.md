@@ -17,6 +17,10 @@ Cape Town, **South Africa**
 25 November, 2016  
 Bangalore, **India**
 
+[**3rd CSS Conf of China**](http://css.w3ctech.com/)  
+17 December, 2016  
+Guangzhou, **China**
+
 
 ##Australia
 
@@ -30,6 +34,10 @@ Sydney **Australia**
 
 [**CSSConf Australia**](http://2016.cssconf.com.au/)  
 30 November, 2016  
+Melbourne **Australia**
+
+[**JSConf Australia**](http://2016.jsconfau.com/)  
+1 December, 2016  
 Melbourne **Australia**
 
 [**Decompress**](http://decompress.com.au/)  
@@ -83,12 +91,20 @@ London **England**
 27-28 September, 2016  
 London, **England**
 
+[**FrontEndNorth 2016**](http://frontendnorth.com/)  
+30 September, 2016  
+Sheffield, **England**
+
+[**Frontendia: Slovenija**](http://frontendia.com/)  
+22 October, 2016  
+Ljubljana, **Slovenia**
+
 [**ng-europe 2016**](https://ngeurope.org/)  
 25-26 October, 2016  
 Paris, **France**
 
-[**Reactive Conf**](https://reactiveconf.com/)
-26-28 October, 2016
+[**Reactive Conf**](https://reactiveconf.com/)  
+26-28 October, 2016  
 Bratislava, **Slovakia**
 
 [**Beyond Tellerrand**](http://beyondtellerrand.com/)  
@@ -111,7 +127,7 @@ London, **England**
 28-29 November, 2016  
 Munich, **Germany**
 
-[**dotCSS**](http://www.dotcss.io/)  
+[****](http://www.dotcss.io/)  
 2 December, 2016  
 Paris, **France**
 
@@ -126,6 +142,10 @@ Paris, **France**
 July 15, 2016  
 San Francisco, California **USA**
 
+[**Front Porch Conference Austin**](http://frontporch.io/austin/)  
+July 19, 2016  
+Austin, Texas **USA**
+
 [**ForwardJS 5**](http://forwardjs.com/)  
 July 25-31, 2016  
 San Francisco, California **USA**
@@ -138,6 +158,10 @@ Washington, D.C. **USA**
 July 28-29, 2016  
 Salt Lake City, Utah **USA**
 
+[**CascadiaFest 2016**](https://2016.cascadiafest.org/)  
+August 3-5, 2016  
+Semiahmoo, Wasington **USA**
+
 [**React Rally**](http://www.reactrally.com/)
 August 25-26, 2016
 Salt Lake City, Utah **USA**
@@ -149,6 +173,10 @@ Chicago, Illinois **USA**
 [**An Event Apart Orlando**](http://aneventapart.com/event/orlando-2016)  
 October 3-5, 2016  
 Orlando, Florida **USA**
+
+[**Web Unleashed 2016**](http://fitc.ca/event/webu16/)  
+October 3-4, 2016  
+Toronto, Ontaria **Canada**
 
 [**LoopConf**](https://loopconf.com/)  
 October 5-7, 2016  
@@ -173,10 +201,6 @@ Las Vegas, Nevada **USA**
 
 ##South America
 
-[**FrontinSampa**](http://frontinsampa.com.br/)  
-2 July, 2016  
-São Paulo, **Brazil**
-
 [**CSSConf Argentina**](http://cssconfar.com)  
 7 August, 2016  
 Buenos Aires, **Argentina**
@@ -184,3 +208,9 @@ Buenos Aires, **Argentina**
 [**BrazilJS Conf**](https://braziljs.org/conf)  
 26-27 August, 2016  
 Porto Alegre, **Brazil**
+
+
+##Online
+
+[**CSS Summit 2016**](CSSsummit.com)  
+26-28 July, 2016  
