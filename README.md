@@ -83,6 +83,10 @@ London **England**
 27-28 September, 2016  
 London, **England**
 
+[**Fronteers Conference 2016**](https://fronteers.nl/congres/2016)  
+6-7 October, 2016  
+Amsterdam, **Netherlands**
+
 [**ng-europe 2016**](https://ngeurope.org/)  
 25-26 October, 2016  
 Paris, **France**
