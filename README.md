@@ -131,7 +131,7 @@ London, **England**
 28-29 November, 2016  
 Munich, **Germany**
 
-[****](http://www.dotcss.io/)  
+[**dotCSS**](http://www.dotcss.io/)  
 2 December, 2016  
 Paris, **France**
 
