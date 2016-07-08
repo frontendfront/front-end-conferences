@@ -95,6 +95,10 @@ London, **England**
 30 September, 2016  
 Sheffield, **England**
 
+[**Fronteers Conference 2016**](https://fronteers.nl/congres/2016)  
+6-7 October, 2016  
+Amsterdam, **Netherlands**
+
 [**Frontendia: Slovenija**](http://frontendia.com/)  
 22 October, 2016  
 Ljubljana, **Slovenia**
