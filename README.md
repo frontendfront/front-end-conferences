@@ -174,6 +174,10 @@ Salt Lake City, Utah **USA**
 August 29-31, 2016  
 Chicago, Illinois **USA**
 
+[**LibertyJS**](http://www.libertyjs.com/)  
+September 30th - October 1st, 2016  
+Philadelphia, Pennsylvania **USA**
+
 [**An Event Apart Orlando**](http://aneventapart.com/event/orlando-2016)  
 October 3-5, 2016  
 Orlando, Florida **USA**
