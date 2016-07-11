@@ -216,5 +216,5 @@ Porto Alegre, **Brazil**
 
 ##Online
 
-[**CSS Summit 2016**](CSSsummit.com)  
+[**CSS Summit 2016**](http://environmentsforhumans.com/2016/css-summit/)  
 26-28 July, 2016  
