@@ -87,6 +87,10 @@ Bucharest, **Romania**
 21-23 September, 2016  
 London **England**
 
+[**Mirror Conf 2016**](http://mirrorconf.com/)  
+23-24 September, 2016  
+Braga, **Portugal**
+
 [**AngularConnect 2016**](http://angularconnect.com/)  
 27-28 September, 2016  
 London, **England**
