@@ -103,6 +103,10 @@ Sheffield, **England**
 6-7 October, 2016  
 Amsterdam, **Netherlands**
 
+[**Javascript/AngularJS/HTML5 Days**](http://javascript-days.de/)  
+10-12 October, 2016  
+Berlin **Germany**
+
 [**Frontendia: Slovenija**](http://frontendia.com/)  
 22 October, 2016  
 Ljubljana, **Slovenia**
