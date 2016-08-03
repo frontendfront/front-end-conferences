@@ -47,10 +47,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**FullStack 2016**](https://skillsmatter.com/conferences/7278-fullstack)  
-13–15 July 2016  
-England, **London**
-
 [**JSConf Iceland**](http://2016.jsconf.is/)  
 25-26 August, 2016  
 Reykjavik, **Iceland**
@@ -150,26 +146,6 @@ Paris, **France**
 
 ##North America
 
-[**Generate San Francisco 2016**](http://generateconf.com/)  
-July 15, 2016  
-San Francisco, California **USA**
-
-[**Front Porch Conference Austin**](http://frontporch.io/austin/)  
-July 19, 2016  
-Austin, Texas **USA**
-
-[**ForwardJS 5**](http://forwardjs.com/)  
-July 25-31, 2016  
-San Francisco, California **USA**
-
-[**An Event Apart Washington D.C.**](http://aneventapart.com/event/washington-dc-2016)  
-July 25-27, 2016  
-Washington, D.C. **USA**
-
-[**Mobile & Web CodeCamp**](http://www.mobilewebcodecamp.com/)  
-July 28-29, 2016  
-Salt Lake City, Utah **USA**
-
 [**CascadiaFest 2016**](https://2016.cascadiafest.org/)  
 August 3-5, 2016  
 Semiahmoo, Wasington **USA**
@@ -224,9 +200,3 @@ Buenos Aires, **Argentina**
 [**BrazilJS Conf**](https://braziljs.org/conf)  
 26-27 August, 2016  
 Porto Alegre, **Brazil**
-
-
-##Online
-
-[**CSS Summit 2016**](http://environmentsforhumans.com/2016/css-summit/)  
-26-28 July, 2016  
