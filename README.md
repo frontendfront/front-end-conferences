@@ -24,10 +24,6 @@ Guangzhou, **China**
 
 ##Australia
 
-[**NDC Sydney**](http://ndcsydney.com/)  
-1-5 August, 2016  
-Sydney, **Australia**
-
 [**Generate Sydney 2016**](http://generateconf.com/)  
 5 September, 2016  
 Sydney **Australia**
@@ -145,10 +141,6 @@ Paris, **France**
 
 
 ##North America
-
-[**CascadiaFest 2016**](https://2016.cascadiafest.org/)  
-August 3-5, 2016  
-Semiahmoo, Wasington **USA**
 
 [**React Rally**](http://www.reactrally.com/)
 August 25-26, 2016
