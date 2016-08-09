@@ -117,7 +117,7 @@ Berlin **Germany**
 
 [**ffconf**](http://ffconf.org/)  
 10-11 November, 2016  
-Brighton **UK**
+Brighton, **England**
 
 [**FrontierConf London 2016**](https://www.frontierconf.com/)  
 16 November, 2016  
@@ -151,7 +151,7 @@ August 29-31, 2016
 Chicago, Illinois **USA**
 
 [**LibertyJS**](http://www.libertyjs.com/)  
-September 30th - October 1st, 2016  
+September 30-October 1, 2016  
 Philadelphia, Pennsylvania **USA**
 
 [**An Event Apart Orlando**](http://aneventapart.com/event/orlando-2016)  
@@ -184,10 +184,6 @@ Las Vegas, Nevada **USA**
 
 
 ##South America
-
-[**CSSConf Argentina**](http://cssconfar.com)  
-7 August, 2016  
-Buenos Aires, **Argentina**
 
 [**BrazilJS Conf**](https://braziljs.org/conf)  
 26-27 August, 2016  
