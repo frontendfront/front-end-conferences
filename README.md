@@ -63,6 +63,10 @@ Barcelona, **Spain**
 12-13 September, 2016  
 Freiburg, **Germany**
 
+[**View Source Berlin**](http://viewsourceconf.org/)  
+12-14 September, 2016  
+Berlin, **Germany**
+
 [**ReactNext 2016**](http://react-next.com/)  
 15 September, 2016  
 Tel Aviv, **Israel**
@@ -154,8 +158,8 @@ Oxford, **England**
 
 ##North America
 
-[**React Rally**](http://www.reactrally.com/)
-August 25-26, 2016
+[**React Rally**](http://www.reactrally.com/)  
+August 25-26, 2016  
 Salt Lake City, Utah **USA**
 
 [**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2016)  
