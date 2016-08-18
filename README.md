@@ -119,6 +119,10 @@ Berlin **Germany**
 10-11 November, 2016  
 Brighton, **England**
 
+[**Topconf Tallinn 2016**](http://topconf.com/tallinn-2016/)  
+15-18 November, 2016  
+Tallinn, **Estonia**
+
 [**FrontierConf London 2016**](https://www.frontierconf.com/)  
 16 November, 2016  
 London, **England**
@@ -138,6 +142,14 @@ Paris, **France**
 [**dotJS**](http://www.dotjs.io/)  
 5 December, 2016  
 Paris, **France**
+
+[**DEVit Conference**](http://devitconf.org/)  
+20-21 May, 2017  
+Thessaloniki, **Greece**
+
+[**Render Conf 2017**](http://2017.render-conf.com/)  
+30-31 May, 2017  
+Oxford, **England**
 
 
 ##North America
