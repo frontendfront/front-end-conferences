@@ -13,6 +13,10 @@ Cape Town, **South Africa**
 
 ##Asia
 
+[**Fronteers Meetup**](http://www.fontend.zone/)  
+17 September, 2016  
+Amman, **Jordan**
+
 [**Generate Bangalore 2016**](http://www.generateconf.com/)  
 25 November, 2016  
 Bangalore, **India**
