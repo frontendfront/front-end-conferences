@@ -13,6 +13,10 @@ Cape Town, **South Africa**
 
 ##Asia
 
+[**ReactNext 2016**](http://react-next.com/)  
+15 September, 2016  
+Tel Aviv, **Israel**
+
 [**Generate Bangalore 2016**](http://www.generateconf.com/)  
 25 November, 2016  
 Bangalore, **India**
@@ -55,9 +59,17 @@ Copenhagen, **Denmark**
 1-2 September, 2016  
 Zurich, **Switzerland**
 
+[**Nightly Build**](https://nightlybuild.io/)  
+2 September, 2016  
+Cologne, **Germany**
+
 [**Full Stack Fest**](http://2016.fullstackfest.com/)  
 5-9 September, 2016  
 Barcelona, **Spain**
+
+[**Nordic.js**](http://nordicjs.com/)  
+7-8 September, 2016  
+Stockholm, **Sweden**
 
 [**SmashingConf Freiburg 2016**](http://smashingconf.com/)  
 12-13 September, 2016  
@@ -74,6 +86,10 @@ Tel Aviv, **Israel**
 [**From the Front**](http://2016.fromthefront.it/)  
 15-16 September, 2016  
 Bologna, **Italy**
+
+[**Berlin Expert Days**](http://www.bed-con.org/)  
+15-16 September, 2016  
+Berlin, **Germamy**
 
 [**SmartWeb Conference 2016**](http://www.smartwebconf.com/)  
 20 September, 2016  
@@ -165,6 +181,22 @@ Salt Lake City, Utah **USA**
 [**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2016)  
 August 29-31, 2016  
 Chicago, Illinois **USA**
+
+[**Northeast Javascript Conference**](http://www.northeastjsconference.com/)  
+September 15-16, 2016  
+Stamford, Connecticut **USA**
+
+[**Strange Loop**](http://thestrangeloop.com/)  
+September 15-17, 2016  
+St. Louis, Missouri **USA**
+
+[**NationJS Conference**](http://nationjs.com/)  
+September 16, 2016  
+Washington, D.C. **USA**
+
+[**NCDevCon 2016**](http://ncdevcon.com/)  
+September 17-18, 2016  
+Raleigh, North Carolina **USA**
 
 [**LibertyJS**](http://www.libertyjs.com/)  
 September 30-October 1, 2016  
