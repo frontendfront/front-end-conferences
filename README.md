@@ -4,13 +4,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [http://frontendfront.com/conferences](http://frontendfront.com/conferences).*
 
-##Africa
-
-[**AltConf**](http://www.alterconf.com/sessions/cape-town-south-africa)  
-27 August, 2016  
-Cape Town, **South Africa**
-
-
 ##Asia
 
 [**ReactNext 2016**](http://react-next.com/)  
@@ -46,10 +39,6 @@ Melbourne, **Australia**
 
 
 ##Europe
-
-[**JSConf Iceland**](http://2016.jsconf.is/)  
-25-26 August, 2016  
-Reykjavik, **Iceland**
 
 [**ColdFront 2016**](https://2016.coldfrontconf.com/)  
 1 September, 2016  
@@ -174,14 +163,6 @@ Oxford, **England**
 
 ##North America
 
-[**React Rally**](http://www.reactrally.com/)  
-August 25-26, 2016  
-Salt Lake City, Utah **USA**
-
-[**An Event Apart Chicago**](http://aneventapart.com/event/chicago-2016)  
-August 29-31, 2016  
-Chicago, Illinois **USA**
-
 [**Northeast Javascript Conference**](http://www.northeastjsconference.com/)  
 September 15-16, 2016  
 Stamford, Connecticut **USA**
@@ -229,10 +210,3 @@ San Francisco, California **USA**
 [**SenchaCon 2016**](http://www.senchacon.com/)  
 November 7-9, 2016  
 Las Vegas, Nevada **USA**
-
-
-##South America
-
-[**BrazilJS Conf**](https://braziljs.org/conf)  
-26-27 August, 2016  
-Porto Alegre, **Brazil**
