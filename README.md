@@ -21,10 +21,6 @@ Guangzhou, **China**
 
 ##Australia
 
-[**Generate Sydney 2016**](http://generateconf.com/)  
-5 September, 2016  
-Sydney **Australia**
-
 [**CSSConf Australia**](http://2016.cssconf.com.au/)  
 30 November, 2016  
 Melbourne **Australia**
@@ -39,18 +35,6 @@ Melbourne, **Australia**
 
 
 ##Europe
-
-[**ColdFront 2016**](https://2016.coldfrontconf.com/)  
-1 September, 2016  
-Copenhagen, **Denmark**
-
-[**Frontend Conference Zurich**](https://frontendconf.ch/)  
-1-2 September, 2016  
-Zurich, **Switzerland**
-
-[**Nightly Build**](https://nightlybuild.io/)  
-2 September, 2016  
-Cologne, **Germany**
 
 [**Full Stack Fest**](http://2016.fullstackfest.com/)  
 5-9 September, 2016  
