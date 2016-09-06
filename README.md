@@ -210,3 +210,10 @@ San Francisco, California **USA**
 [**SenchaCon 2016**](http://www.senchacon.com/)  
 November 7-9, 2016  
 Las Vegas, Nevada **USA**
+
+##South America
+[**JSConf Colombia 2016**](http://jsconf.co/)  
+October 7-8, 2016  
+Medellin **Colombia**
+
+
