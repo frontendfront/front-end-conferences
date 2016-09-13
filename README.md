@@ -36,22 +36,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**Full Stack Fest**](http://2016.fullstackfest.com/)  
-5-9 September, 2016  
-Barcelona, **Spain**
-
-[**Nordic.js**](http://nordicjs.com/)  
-7-8 September, 2016  
-Stockholm, **Sweden**
-
-[**SmashingConf Freiburg 2016**](http://smashingconf.com/)  
-12-13 September, 2016  
-Freiburg, **Germany**
-
-[**View Source Berlin**](http://viewsourceconf.org/)  
-12-14 September, 2016  
-Berlin, **Germany**
-
 [**ReactNext 2016**](http://react-next.com/)  
 15 September, 2016  
 Tel Aviv, **Israel**
