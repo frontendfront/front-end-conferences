@@ -21,6 +21,10 @@ Guangzhou, **China**
 
 ##Australia
 
+[**Mixin Conf**](http://mixinconf.com/)  
+28 October, 2016  
+Melbourne **Australia**
+
 [**CSSConf Australia**](http://2016.cssconf.com.au/)  
 30 November, 2016  
 Melbourne **Australia**
