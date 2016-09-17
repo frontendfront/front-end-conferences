@@ -128,6 +128,10 @@ Paris, **France**
 20-21 May, 2017  
 Thessaloniki, **Greece**
 
+[**Front-Trends**](https://2017.front-trends.com/)  
+24-26 May, 2017  
+Warsaw, **Poland**
+
 [**Render Conf 2017**](http://2017.render-conf.com/)  
 30-31 May, 2017  
 Oxford, **England**
