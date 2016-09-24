@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Asia
 
-[**ReactNext 2016**](http://react-next.com/)  
-15 September, 2016  
-Tel Aviv, **Israel**
-
 [**Generate Bangalore 2016**](http://www.generateconf.com/)  
 25 November, 2016  
 Bangalore, **India**
@@ -39,30 +35,6 @@ Melbourne, **Australia**
 
 
 ##Europe
-
-[**ReactNext 2016**](http://react-next.com/)  
-15 September, 2016  
-Tel Aviv, **Israel**
-
-[**From the Front**](http://2016.fromthefront.it/)  
-15-16 September, 2016  
-Bologna, **Italy**
-
-[**Berlin Expert Days**](http://www.bed-con.org/)  
-15-16 September, 2016  
-Berlin, **Germamy**
-
-[**SmartWeb Conference 2016**](http://www.smartwebconf.com/)  
-20 September, 2016  
-Bucharest, **Romania**
-
-[**Generate London 2016**](http://generateconf.com/)  
-21-23 September, 2016  
-London **England**
-
-[**Mirror Conf 2016**](http://mirrorconf.com/)  
-23-24 September, 2016  
-Braga, **Portugal**
 
 [**AngularConnect 2016**](http://angularconnect.com/)  
 27-28 September, 2016  
@@ -138,22 +110,6 @@ Oxford, **England**
 
 
 ##North America
-
-[**Northeast Javascript Conference**](http://www.northeastjsconference.com/)  
-September 15-16, 2016  
-Stamford, Connecticut **USA**
-
-[**Strange Loop**](http://thestrangeloop.com/)  
-September 15-17, 2016  
-St. Louis, Missouri **USA**
-
-[**NationJS Conference**](http://nationjs.com/)  
-September 16, 2016  
-Washington, D.C. **USA**
-
-[**NCDevCon 2016**](http://ncdevcon.com/)  
-September 17-18, 2016  
-Raleigh, North Carolina **USA**
 
 [**LibertyJS**](http://www.libertyjs.com/)  
 September 30-October 1, 2016  
