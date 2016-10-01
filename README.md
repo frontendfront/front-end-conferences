@@ -36,14 +36,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**AngularConnect 2016**](http://angularconnect.com/)  
-27-28 September, 2016  
-London, **England**
-
-[**FrontEndNorth 2016**](http://frontendnorth.com/)  
-30 September, 2016  
-Sheffield, **England**
-
 [**Fronteers Conference 2016**](https://fronteers.nl/congres/2016)  
 6-7 October, 2016  
 Amsterdam, **Netherlands**
@@ -110,10 +102,6 @@ Oxford, **England**
 
 
 ##North America
-
-[**LibertyJS**](http://www.libertyjs.com/)  
-September 30-October 1, 2016  
-Philadelphia, Pennsylvania **USA**
 
 [**An Event Apart Orlando**](http://aneventapart.com/event/orlando-2016)  
 October 3-5, 2016  
