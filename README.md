@@ -56,6 +56,10 @@ Paris, **France**
 26-28 October, 2016  
 Bratislava, **Slovakia**
 
+[**Web Standard Days**](https://wsd.events/2016/10/29/)  
+29 October, 2016  
+Minsk, **Belarus**
+
 [**KharkivJS #7**](http://kharkivjs.org/)  
 5-6 November, 2016  
 Kharkiv, **Ukraine**
