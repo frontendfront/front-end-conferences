@@ -56,6 +56,10 @@ Paris, **France**
 26-28 October, 2016  
 Bratislava, **Slovakia**
 
+[**KharkivJS #7**](http://kharkivjs.org/)  
+5-6 November, 2016  
+Kharkiv, **Ukraine**
+
 [**Beyond Tellerrand**](http://beyondtellerrand.com/)  
 7-9 November, 2016  
 Berlin **Germany**
@@ -135,5 +139,3 @@ Las Vegas, Nevada **USA**
 [**JSConf Colombia 2016**](http://jsconf.co/)  
 October 7-8, 2016  
 Medellin **Colombia**
-
-
