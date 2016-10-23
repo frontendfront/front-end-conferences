@@ -139,8 +139,8 @@ San Francisco, California **USA**
 November 7-9, 2016  
 Las Vegas, Nevada **USA**
 
-[**ng-conf 2017**](https://www.ng-conf.org/)
-April 5-7, 2017
+[**ng-conf 2017**](https://www.ng-conf.org/)  
+April 5-7, 2017  
 Salt Lake City, Utah **USA**
 
 ##South America
