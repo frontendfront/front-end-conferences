@@ -96,6 +96,10 @@ Paris, **France**
 5 December, 2016  
 Paris, **France**
 
+[**The Rolling Scopes Conference**](https://2017.conf.rollingscopes.com/)  
+18-19 February, 2017  
+Minsk, **Belarus**  
+
 [**DEVit Conference**](http://devitconf.org/)  
 20-21 May, 2017  
 Thessaloniki, **Greece**
