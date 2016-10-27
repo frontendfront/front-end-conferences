@@ -36,22 +36,6 @@ Melbourne, **Australia**
 
 ##Europe
 
-[**Fronteers Conference 2016**](https://fronteers.nl/congres/2016)  
-6-7 October, 2016  
-Amsterdam, **Netherlands**
-
-[**Javascript/AngularJS/HTML5 Days**](http://javascript-days.de/)  
-10-12 October, 2016  
-Berlin **Germany**
-
-[**Frontendia: Slovenija**](http://frontendia.com/)  
-22 October, 2016  
-Ljubljana, **Slovenia**
-
-[**ng-europe 2016**](https://ngeurope.org/)  
-25-26 October, 2016  
-Paris, **France**
-
 [**Reactive Conf**](https://reactiveconf.com/)  
 26-28 October, 2016  
 Bratislava, **Slovakia**
@@ -109,31 +93,11 @@ Thessaloniki, **Greece**
 Warsaw, **Poland**
 
 [**Render Conf 2017**](http://2017.render-conf.com/)  
-30-31 May, 2017  
+30-31 March, 2017  
 Oxford, **England**
 
 
 ##North America
-
-[**An Event Apart Orlando**](http://aneventapart.com/event/orlando-2016)  
-October 3-5, 2016  
-Orlando, Florida **USA**
-
-[**Web Unleashed 2016**](http://fitc.ca/event/webu16/)  
-October 3-4, 2016  
-Toronto, Ontaria **Canada**
-
-[**LoopConf**](https://loopconf.com/)  
-October 5-7, 2016  
-Fort Lauderdale, Florida **USA**
-
-[**Full Stack Toronto**](https://fsto.co/)  
-October 17-18, 2016  
-Toronto, Ontario **Canada**
-
-[**CSS Dev Conf**](http://2016.cssdevconf.com/)  
-October 17-19, 2016  
-San Antonio, Texas **USA**
 
 [**An Event Apart San Francisco**](http://aneventapart.com/event/san-francisco-2016)  
 October 31-November 2, 2016  
@@ -146,6 +110,7 @@ Las Vegas, Nevada **USA**
 [**ng-conf 2017**](https://www.ng-conf.org/)  
 April 5-7, 2017  
 Salt Lake City, Utah **USA**
+
 
 ##South America
 [**JSConf Colombia 2016**](http://jsconf.co/)  
