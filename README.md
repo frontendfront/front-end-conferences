@@ -80,9 +80,9 @@ Paris, **France**
 5 December, 2016  
 Paris, **France**
 
-[**Agent Conference**](http://agent.sh/)
-20-21 January, 2017
-Dornbirn, **Austria**
+[**Agent Conference**](http://agent.sh/)  
+20-21 January, 2017  
+Dornbirn, **Austria**  
 
 [**The Rolling Scopes Conference**](https://2017.conf.rollingscopes.com/)  
 18-19 February, 2017  
