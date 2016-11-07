@@ -96,6 +96,10 @@ Thessaloniki, **Greece**
 24-26 May, 2017  
 Warsaw, **Poland**
 
+[**Frontend United**](http://frontendunited.org/)
+26-27 May 2017
+Athens, **Greece**
+
 [**Render Conf 2017**](http://2017.render-conf.com/)  
 30-31 March, 2017  
 Oxford, **England**
