@@ -64,6 +64,10 @@ Athens, **Greece**
 30-31 March, 2017  
 Oxford, **England**
 
+[**FrontTalks**](http://fronttalks.ru/)  
+16-17 September 2017  
+Ekaterinburg, **Russia**
+
 
 ##North America
 
