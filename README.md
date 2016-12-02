@@ -80,3 +80,7 @@ Salt Lake City, Utah **USA**
 [**JSConf Colombia 2016**](http://jsconf.co/)  
 October 7-8, 2016  
 Medellin **Colombia**
+
+[**Front in POA 2016**](http://frontinpoa.com.br/2016/)  
+December 10, 2016  
+Porto Alegre **Brazil**
