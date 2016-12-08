@@ -64,6 +64,10 @@ Athens, **Greece**
 30-31 March, 2017  
 Oxford, **England**
 
+[**Frontend Conference Zurich**](https://frontendconf.ch/)  
+31 August - 1 September, 2017  
+Zurich, **Switzerland**
+
 [**FrontTalks**](http://fronttalks.ru/)  
 16-17 September 2017  
 Ekaterinburg, **Russia**
