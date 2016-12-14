@@ -48,6 +48,10 @@ Dornbirn, **Austria**
 18-19 February, 2017  
 Minsk, **Belarus**  
 
+[**Bulgaria Web Summit 2017**](https://bulgariawebsummit.com/)  
+7-8 Aptil, 2017  
+Sofia, **Bulgaria**  
+
 [**DEVit Conference**](http://devitconf.org/)  
 20-21 May, 2017  
 Thessaloniki, **Greece**
