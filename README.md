@@ -50,11 +50,11 @@ Minsk, **Belarus**
 
 [**Bulgaria Web Summit 2017**](https://bulgariawebsummit.com/)  
 7-8 Aptil, 2017  
-Sofia, **Bulgaria**
+Sofia, **Bulgaria**  
 
-[**JSConf EU**](http://2017.jsconf.eu/)
-6-7 May, 2017
-Berlin, **Germany**
+[**JSConf EU**](http://2017.jsconf.eu/)  
+6-7 May, 2017  
+Berlin, **Germany**  
 
 [**DEVit Conference**](http://devitconf.org/)  
 20-21 May, 2017  
