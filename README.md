@@ -44,6 +44,10 @@ Paris, **France**
 20-21 January, 2017  
 Dornbirn, **Austria**  
 
+[**Script'17**](https://scriptconf.org/)  
+27 January, 2017  
+Linz, **Austria**  
+
 [**The Rolling Scopes Conference**](https://2017.conf.rollingscopes.com/)  
 18-19 February, 2017  
 Minsk, **Belarus**  
