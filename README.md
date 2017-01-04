@@ -151,8 +151,8 @@ San Francisco, California **USA**
 5-7 April, 2017  
 Salt Lake City, Utah **USA**
 
-[**Fluent 2017**]
-20-22 June, 2017
+[**Fluent 2017**](http://conferences.oreilly.com/fluent/fl-ca)  
+20-22 June, 2017  
 San Jose, California, **USA**
 
 [**Chain React 2017**](https://infinite.red/ChainReactConf)  
