@@ -62,7 +62,7 @@ Oxford, **England**
 
 [**React London 2017**](https://react.london/)  
 28 March, 2017  
-London, **England** 
+London, **England**
 
 [**Bulgaria Web Summit 2017**](https://bulgariawebsummit.com/)  
 7-8 April, 2017  
@@ -74,19 +74,19 @@ Amsterdam, **The Netherlands**
 
 [**CSSConf EU**](http://2017.cssconf.eu/)  
 5 May, 2017  
-Berlin, **Germany** 
+Berlin, **Germany**
 
 [**JSConf EU**](http://2017.jsconf.eu/)  
 6-7 May, 2017  
-Berlin, **Germany** 
+Berlin, **Germany**
 
 [**JSDay**](http://2017.jsday.it/)  
 10-11 May, 2017  
-Verona, **Italy** 
+Verona, **Italy**
 
 [**ReactEurope 2017**](https://www.react-europe.org/)  
 18-19 May, 2017  
-Paris, **France** 
+Paris, **France**
 
 [**DEVit Conference**](http://devitconf.org/)  
 20-21 May, 2017  
@@ -103,6 +103,10 @@ Athens, **Greece**
 [**CSSDay 2017**](https://cssday.nl/2016)  
 15-16 June 2017  
 Amsterdam, **Netherlands**
+
+[**enterJS 2017**](https://www.enterjs.de/)  
+20-22 June 2017  
+Darmstadt, **Germany**
 
 [**Angular Camp**](https://angularcamp.org/)  
 July 2017  
@@ -124,7 +128,7 @@ Ekaterinburg, **Russia**
 7-8 September 2017  
 London, **England**
 
-[**HalfStack 2017**](http://halfstackconf.com/) 
+[**HalfStack 2017**](http://halfstackconf.com/)
 17 November 2017
 London, **England**
 
