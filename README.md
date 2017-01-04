@@ -151,6 +151,10 @@ San Francisco, California **USA**
 5-7 April, 2017  
 Salt Lake City, Utah **USA**
 
+[**Fluent 2017**]
+20-22 June, 2017
+San Jose, California, **USA**
+
 [**Chain React 2017**](https://infinite.red/ChainReactConf)  
 10-11 July, 2017  
 Portland, Oregon **USA**
