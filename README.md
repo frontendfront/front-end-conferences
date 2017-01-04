@@ -40,6 +40,10 @@ Paris, **France**
 5 December, 2016  
 Paris, **France**
 
+[**NodeConf Budapest**](https://nodeconf.risingstack.com/)  
+19-20 January, 2017  
+Budapest, **Hungary**  
+
 [**Agent Conference**](http://agent.sh/)  
 20-21 January, 2017  
 Dornbirn, **Austria**  
@@ -50,15 +54,39 @@ Linz, **Austria**
 
 [**The Rolling Scopes Conference**](https://2017.conf.rollingscopes.com/)  
 18-19 February, 2017  
-Minsk, **Belarus**  
+Minsk, **Belarus**
+
+[**Render Conf 2017**](http://2017.render-conf.com/)  
+30-31 March, 2017  
+Oxford, **England**
+
+[**React London 2017**](https://react.london/)  
+28 March, 2017  
+London, **England** 
 
 [**Bulgaria Web Summit 2017**](https://bulgariawebsummit.com/)  
-7-8 Aptil, 2017  
+7-8 April, 2017  
 Sofia, **Bulgaria**  
+
+[**React Amsterdam 2017**](https://react.amsterdam/)  
+21 April, 2017  
+Amsterdam, **The Netherlands**  
+
+[**CSSConf EU**](http://2017.cssconf.eu/)  
+5 May, 2017  
+Berlin, **Germany** 
 
 [**JSConf EU**](http://2017.jsconf.eu/)  
 6-7 May, 2017  
-Berlin, **Germany**  
+Berlin, **Germany** 
+
+[**JSDay**](http://2017.jsday.it/)  
+10-11 May, 2017  
+Verona, **Italy** 
+
+[**ReactEurope 2017**](https://www.react-europe.org/)  
+18-19 May, 2017  
+Paris, **France** 
 
 [**DEVit Conference**](http://devitconf.org/)  
 20-21 May, 2017  
@@ -72,31 +100,67 @@ Warsaw, **Poland**
 26-27 May 2017  
 Athens, **Greece**
 
-[**Render Conf 2017**](http://2017.render-conf.com/)  
-30-31 March, 2017  
-Oxford, **England**
+[**CSSDay 2017**](https://cssday.nl/2016)  
+15-16 June 2017  
+Amsterdam, **Netherlands**
 
-[**Frontend Conference Zurich**](https://frontendconf.ch/)  
+[**Angular Camp**](https://angularcamp.org/)  
+July 2017  
+Barcelona, **Spain**
+
+[**Frontend Conference Zurich**](https://frontendconf.ch/)
 31 August - 1 September, 2017  
 Zurich, **Switzerland**
+
+[**NordicJS**](http://nordicjs.com/)  
+7-8 September, 2017  
+Stockholm, **Sweden**
 
 [**FrontTalks**](http://fronttalks.ru/)  
 16-17 September 2017  
 Ekaterinburg, **Russia**
 
+[**AngularConnect**](http://angularconnect.com/)  
+7-8 September 2017  
+London, **England**
+
+[**HalfStack 2017**](http://halfstackconf.com/) 
+17 November 2017
+London, **England**
+
+[**React Native EU 2017**](http://react-native.eu/)  
+Fall 2017  
+Wroclaw, **Poland**
+
 
 ##North America
 
+[**Deverloper week JavaScript conf 2017**](http://www.developerweek.com/javascript-conference/)  
+13-15 February, 2017  
+San Francisco, California **USA**
+
+[**EmberConf**](http://emberconf.com/)  
+28-29 March, 2017  
+Portland, Oregon **USA**
+
+[**SmashingConf**](https://smashingconf.com/)  
+4-5 April, 2017  
+San Francisco, California **USA**
+
 [**ng-conf 2017**](https://www.ng-conf.org/)  
-April 5-7, 2017  
+5-7 April, 2017  
 Salt Lake City, Utah **USA**
+
+[**Chain React 2017**](https://infinite.red/ChainReactConf)  
+10-11 July, 2017  
+Portland, Oregon **USA**
 
 
 ##South America
 [**JSConf Colombia 2016**](http://jsconf.co/)  
-October 7-8, 2016  
+7-8 October, 2016  
 Medellin **Colombia**
 
 [**Front in POA 2016**](http://frontinpoa.com.br/2016/)  
-December 10, 2016  
+10 December, 2016  
 Porto Alegre **Brazil**
