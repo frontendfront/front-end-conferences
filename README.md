@@ -68,6 +68,10 @@ London, **England**
 7-8 April, 2017  
 Sofia, **Bulgaria**  
 
+[**Universal JS Day**](http://2017.universaljsday.com/)  
+8 April, 2017  
+Ferrara, **Italy**
+
 [**React Amsterdam 2017**](https://react.amsterdam/)  
 21 April, 2017  
 Amsterdam, **The Netherlands**  
