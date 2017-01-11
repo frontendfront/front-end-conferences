@@ -2,7 +2,7 @@
 
 This is a list of upcoming front-end related conferences. If you know of any other ones that haven't been listed yet, **fork** this repository and create a new **pull request**.
 
-*The following content can also be found on [http://frontendfront.com/conferences](http://frontendfront.com/conferences).*
+*The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
 ##Asia
 
@@ -13,32 +13,12 @@ Guangzhou, **China**
 
 ##Australia
 
-[**CSSConf Australia**](http://2016.cssconf.com.au/)  
-30 November, 2016  
-Melbourne **Australia**
-
-[**JSConf Australia**](http://2016.jsconfau.com/)  
-1 December, 2016  
-Melbourne **Australia**
-
 [**Decompress**](http://decompress.com.au/)  
 2 December, 2016  
 Melbourne, **Australia**
 
 
 ##Europe
-
-[**JS Kongress Munich**](http://js-kongress.de/)  
-28-29 November, 2016  
-Munich, **Germany**
-
-[**dotCSS**](http://www.dotcss.io/)  
-2 December, 2016  
-Paris, **France**
-
-[**dotJS**](http://www.dotjs.io/)  
-5 December, 2016  
-Paris, **France**
 
 [**NodeConf Budapest**](https://nodeconf.risingstack.com/)  
 19-20 January, 2017  
@@ -116,7 +96,7 @@ Darmstadt, **Germany**
 July 2017  
 Barcelona, **Spain**
 
-[**Frontend Conference Zurich**](https://frontendconf.ch/)
+[**Frontend Conference Zurich**](https://frontendconf.ch/)  
 31 August - 1 September, 2017  
 Zurich, **Switzerland**
 
@@ -132,8 +112,8 @@ Ekaterinburg, **Russia**
 7-8 September 2017  
 London, **England**
 
-[**HalfStack 2017**](http://halfstackconf.com/)
-17 November 2017
+[**HalfStack 2017**](http://halfstackconf.com/)  
+17 November 2017  
 London, **England**
 
 [**React Native EU 2017**](http://react-native.eu/)  
@@ -169,9 +149,6 @@ Portland, Oregon **USA**
 
 
 ##South America
-[**JSConf Colombia 2016**](http://jsconf.co/)  
-7-8 October, 2016  
-Medellin **Colombia**
 
 [**Front in POA 2016**](http://frontinpoa.com.br/2016/)  
 10 December, 2016  
