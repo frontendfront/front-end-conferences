@@ -13,9 +13,13 @@ Guangzhou, **China**
 
 ##Australia
 
-[**Decompress**](http://decompress.com.au/)  
-2 December, 2016  
+[**Code**](https://www.webdirections.org/code/)
+26-27 July, 2017
 Melbourne, **Australia**
+31 July & 1 August, 2017
+Sydney, **Australia**
+4 August, 2017
+Brisbane, **Australia**
 
 
 ##Europe
