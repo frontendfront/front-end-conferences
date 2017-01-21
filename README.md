@@ -131,6 +131,10 @@ Wroclaw, **Poland**
 13-15 February, 2017  
 San Francisco, California **USA**
 
+[**JazzCon.Tech**](http://jazzcon.tech/)  
+20-24 March, 2017  
+New Orleans, Louisiana **USA**
+
 [**EmberConf**](http://emberconf.com/)  
 28-29 March, 2017  
 Portland, Oregon **USA**
@@ -150,6 +154,10 @@ San Jose, California, **USA**
 [**Chain React 2017**](https://infinite.red/ChainReactConf)  
 10-11 July, 2017  
 Portland, Oregon **USA**
+
+[**CONNECT.TECH**](http://connect.tech/)  
+20-24 September, 2017  
+Atlanta, Georgia **USA**
 
 
 ##South America
