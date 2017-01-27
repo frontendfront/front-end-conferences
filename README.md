@@ -10,6 +10,9 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 17 December, 2016  
 Guangzhou, **China**
 
+[**Frontend Conference 2017**](http://kfug.jp/frontconf2017)
+18 March, 2017
+Osaka, **Japan**
 
 ##Australia
 
@@ -34,7 +37,7 @@ Dornbirn, **Austria**
 
 [**Script'17**](https://scriptconf.org/)  
 27 January, 2017  
-Linz, **Austria**  
+Linz, **Austria**
 
 [**The Rolling Scopes Conference**](https://2017.conf.rollingscopes.com/)  
 18-19 February, 2017  
