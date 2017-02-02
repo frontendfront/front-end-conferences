@@ -131,6 +131,10 @@ Wroclaw, **Poland**
 13-15 February, 2017  
 San Francisco, California **USA**
 
+[**Confoo Montreal**](https://confoo.ca/en/yul2017)  
+8-10 March, 2017  
+Montreal, Quebec **Canada**
+
 [**JazzCon.Tech**](http://jazzcon.tech/)  
 20-24 March, 2017  
 New Orleans, Louisiana **USA**
@@ -158,6 +162,10 @@ Portland, Oregon **USA**
 [**CONNECT.TECH**](http://connect.tech/)  
 20-24 September, 2017  
 Atlanta, Georgia **USA**
+
+[**Confoo Vancouver**](https://confoo.ca/en/yvr2017)  
+4-6 December, 2017  
+Vancouver, British Columbia **Canada**
 
 
 ##South America
