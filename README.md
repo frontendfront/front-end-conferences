@@ -6,12 +6,8 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ##Asia
 
-[**3rd CSS Conf of China**](http://css.w3ctech.com/)  
-17 December, 2016  
-Guangzhou, **China**
-
-[**Frontend Conference 2017**](http://kfug.jp/frontconf2017)
-18 March, 2017
+[**Frontend Conference 2017**](http://kfug.jp/frontconf2017)  
+18 March, 2017  
 Osaka, **Japan**
 
 ##Australia
