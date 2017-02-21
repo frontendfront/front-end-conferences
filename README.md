@@ -84,15 +84,19 @@ Thessaloniki, **Greece**
 Warsaw, **Poland**
 
 [**Frontend United**](http://frontendunited.org/)  
-26-27 May 2017  
+26-27 May, 2017  
 Athens, **Greece**
 
+[**AmsterdamJS Conference 2017**](https://amsterdamjs.com/)  
+9 June, 2017  
+Amsterdam, **Netherlands**
+
 [**CSSDay 2017**](https://cssday.nl/2016)  
-15-16 June 2017  
+15-16 June, 2017  
 Amsterdam, **Netherlands**
 
 [**enterJS 2017**](https://www.enterjs.de/)  
-20-22 June 2017  
+20-22 June, 2017  
 Darmstadt, **Germany**
 
 [**Angular Camp**](https://angularcamp.org/)  
@@ -108,15 +112,15 @@ Zurich, **Switzerland**
 Stockholm, **Sweden**
 
 [**FrontTalks**](http://fronttalks.ru/)  
-16-17 September 2017  
+16-17 September, 2017  
 Ekaterinburg, **Russia**
 
 [**AngularConnect**](http://angularconnect.com/)  
-7-8 September 2017  
+7-8 September, 2017  
 London, **England**
 
 [**HalfStack 2017**](http://halfstackconf.com/)  
-17 November 2017  
+17 November, 2017  
 London, **England**
 
 [**React Native EU 2017**](http://react-native.eu/)  
