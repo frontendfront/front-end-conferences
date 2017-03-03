@@ -100,7 +100,7 @@ Amsterdam, **Netherlands**
 Darmstadt, **Germany**
 
 [**VueConf 2017**](https://conf.vuejs.org/)  
-21-23 June, 2017  
+22-23 June, 2017  
 Wroclaw, **Poland**
 
 [**Angular Camp**](https://angularcamp.org/)  
