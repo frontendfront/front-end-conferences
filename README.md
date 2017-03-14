@@ -87,6 +87,10 @@ Warsaw, **Poland**
 26-27 May, 2017  
 Athens, **Greece**
 
+[**JS Heroes 2017**](http://jsheroes.io/)  
+8-9 June, 2017  
+Cluj-Napoca, **Romania**
+
 [**AmsterdamJS Conference 2017**](https://amsterdamjs.com/)  
 9 June, 2017  
 Amsterdam, **Netherlands**
