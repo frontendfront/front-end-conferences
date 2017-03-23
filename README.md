@@ -128,7 +128,7 @@ Ekaterinburg, **Russia**
 London, **England**
 
 [**iJS International JavaScript Conference**](https://javascript-conference.com/)  
-23-27 October, 2017
+23-27 October, 2017  
 München, **Germany**
 
 [**HalfStack 2017**](http://halfstackconf.com/)  
