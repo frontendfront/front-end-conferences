@@ -1,16 +1,16 @@
-#Front-End Conferences
+# Front-End Conferences
 
 This is a list of upcoming front-end related conferences. If you know of any other ones that haven't been listed yet, **fork** this repository and create a new **pull request**.
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
-##Asia
+## Asia
 
 [**Frontend Conference 2017**](http://kfug.jp/frontconf2017)  
 18 March, 2017  
 Osaka, **Japan**
 
-##Australia
+## Australia
 
 [**Code**](https://www.webdirections.org/code/)  
 26-27 July, 2017  
@@ -21,7 +21,7 @@ Sydney, **Australia**
 Brisbane, **Australia**  
 
 
-##Europe
+## Europe
 
 [**NodeConf Budapest**](https://nodeconf.risingstack.com/)  
 19-20 January, 2017  
@@ -140,7 +140,7 @@ Fall 2017
 Wroclaw, **Poland**
 
 
-##North America
+## North America
 
 [**Deverloper week JavaScript conf 2017**](http://www.developerweek.com/javascript-conference/)  
 13-15 February, 2017  
@@ -187,7 +187,7 @@ Atlanta, Georgia **USA**
 Vancouver, British Columbia **Canada**
 
 
-##South America
+## South America
 
 [**Front in POA 2016**](http://frontinpoa.com.br/2016/)  
 10 December, 2016  
