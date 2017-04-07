@@ -127,7 +127,7 @@ Ekaterinburg, **Russia**
 7-8 September, 2017  
 London, **England**
 
-[**RuhrJS 2017**](https://2017.ruhrjs.com/)  
+[**RuhrJS 2017**](https://2017.ruhrjs.de/)  
 14-15 October, 2017  
 Bochum, **Germany**
 
