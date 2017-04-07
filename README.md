@@ -127,6 +127,10 @@ Ekaterinburg, **Russia**
 7-8 September, 2017  
 London, **England**
 
+[**RuhrJS 2017**](https://2017.ruhrjs.com/)  
+14-15 October, 2017  
+Bochum, **Germany**
+
 [**iJS International JavaScript Conference**](https://javascript-conference.com/)  
 23-27 October, 2017  
 München, **Germany**
