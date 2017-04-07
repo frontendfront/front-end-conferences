@@ -115,6 +115,11 @@ Barcelona, **Spain**
 31 August - 1 September, 2017  
 Zurich, **Switzerland**
 
+
+[**ColdFront**](https://coldfront.co)  
+5-6 September, 2017  
+Copenhagen, **Denmark**
+
 [**NordicJS**](http://nordicjs.com/)  
 7-8 September, 2017  
 Stockholm, **Sweden**
