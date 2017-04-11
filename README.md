@@ -108,7 +108,7 @@ Darmstadt, **Germany**
 Wroclaw, **Poland**
 
 [**Angular Camp**](https://angularcamp.org/)  
-July 2017  
+6-7 July 2017  
 Barcelona, **Spain**
 
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
