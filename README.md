@@ -23,30 +23,6 @@ Brisbane, **Australia**
 
 ## Europe
 
-[**NodeConf Budapest**](https://nodeconf.risingstack.com/)  
-19-20 January, 2017  
-Budapest, **Hungary**  
-
-[**Agent Conference**](http://agent.sh/)  
-20-21 January, 2017  
-Dornbirn, **Austria**  
-
-[**Script'17**](https://scriptconf.org/)  
-27 January, 2017  
-Linz, **Austria**
-
-[**The Rolling Scopes Conference**](https://2017.conf.rollingscopes.com/)  
-18-19 February, 2017  
-Minsk, **Belarus**
-
-[**Render Conf 2017**](http://2017.render-conf.com/)  
-30-31 March, 2017  
-Oxford, **England**
-
-[**React London 2017**](https://react.london/)  
-28 March, 2017  
-London, **England**
-
 [**Bulgaria Web Summit 2017**](https://bulgariawebsummit.com/)  
 7-8 April, 2017  
 Sofia, **Bulgaria**  
@@ -99,6 +75,10 @@ Amsterdam, **Netherlands**
 15-16 June, 2017  
 Amsterdam, **Netherlands**
 
+[**pitercss**](https://pitercss.com/)  
+16 June, 2017  
+Saint Petersburg, **Russia**
+
 [**enterJS 2017**](https://www.enterjs.de/)  
 20-22 June, 2017  
 Darmstadt, **Germany**
@@ -115,7 +95,6 @@ Barcelona, **Spain**
 31 August - 1 September, 2017  
 Zurich, **Switzerland**
 
-
 [**ColdFront**](https://coldfront.co)  
 5-6 September, 2017  
 Copenhagen, **Denmark**
@@ -131,6 +110,10 @@ Ekaterinburg, **Russia**
 [**AngularConnect**](http://angularconnect.com/)  
 7-8 September, 2017  
 London, **England**
+
+[**Mirror Conf 2017**](http://www.mirrorconf.com/)  
+10-13 October, 2017  
+Braga, **Portugal**
 
 [**RuhrJS 2017**](https://2017.ruhrjs.de/)  
 14-15 October, 2017  
@@ -150,22 +133,6 @@ Wroclaw, **Poland**
 
 
 ## North America
-
-[**Deverloper week JavaScript conf 2017**](http://www.developerweek.com/javascript-conference/)  
-13-15 February, 2017  
-San Francisco, California **USA**
-
-[**Confoo Montreal**](https://confoo.ca/en/yul2017)  
-8-10 March, 2017  
-Montreal, Quebec **Canada**
-
-[**JazzCon.Tech**](http://jazzcon.tech/)  
-20-24 March, 2017  
-New Orleans, Louisiana **USA**
-
-[**EmberConf**](http://emberconf.com/)  
-28-29 March, 2017  
-Portland, Oregon **USA**
 
 [**SmashingConf**](https://smashingconf.com/)  
 4-5 April, 2017  
