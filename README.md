@@ -115,7 +115,7 @@ Ekaterinburg, **Russia**
 7-8 September, 2017  
 London, **England**
 
-[**Angular Day 2017**](http://2017.reactjsday.it/)  
+[**React Day 2017**](http://2017.reactjsday.it/)  
 06 October, 2017  
  Verona, **Italy**
 
