@@ -117,7 +117,7 @@ London, **England**
 
 [**Angular Day 2017**](http://2017.reactjsday.it/)  
 06 October, 2017  
-Verona, **Italy**
+ Verona, **Italy**
 
 [**Mirror Conf 2017**](http://www.mirrorconf.com/)  
 10-13 October, 2017  
