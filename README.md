@@ -75,6 +75,10 @@ Amsterdam, **Netherlands**
 15-16 June, 2017  
 Amsterdam, **Netherlands**
 
+[**Angular Day 2017**](http://2017.angularday.it/)  
+15-16 June, 2017  
+Verona, **Italy**
+
 [**pitercss**](https://pitercss.com/)  
 16 June, 2017  
 Saint Petersburg, **Russia**
@@ -110,6 +114,10 @@ Ekaterinburg, **Russia**
 [**AngularConnect**](http://angularconnect.com/)  
 7-8 September, 2017  
 London, **England**
+
+[**Angular Day 2017**](http://2017.reactjsday.it/)  
+06 October, 2017  
+Verona, **Italy**
 
 [**Mirror Conf 2017**](http://www.mirrorconf.com/)  
 10-13 October, 2017  
