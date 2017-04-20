@@ -139,6 +139,10 @@ London, **England**
 Fall 2017  
 Wroclaw, **Poland**
 
+## Middle East
+[**AngularUP**](http://angular-up.com/)
+25 June, 2017
+Tel Aviv, **Israel**
 
 ## North America
 
