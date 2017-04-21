@@ -145,6 +145,10 @@ Wroclaw, **Poland**
 25 June, 2017  
 Tel Aviv, **Israel**
 
+[**ReactNext**](http://react-next.com/)  
+10 September, 2017  
+Tel Aviv, **Israel**
+
 ## North America
 
 [**SmashingConf**](https://smashingconf.com/)  
