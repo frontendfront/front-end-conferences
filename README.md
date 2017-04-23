@@ -4,12 +4,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
-## Asia
-
-[**Frontend Conference 2017**](http://kfug.jp/frontconf2017)  
-18 March, 2017  
-Osaka, **Japan**
-
 ## Australia
 
 [**Code**](https://www.webdirections.org/code/)  
@@ -21,19 +15,7 @@ Sydney, **Australia**
 Brisbane, **Australia**  
 
 
-## Europe
-
-[**Bulgaria Web Summit 2017**](https://bulgariawebsummit.com/)  
-7-8 April, 2017  
-Sofia, **Bulgaria**  
-
-[**Universal JS Day**](http://2017.universaljsday.com/)  
-8 April, 2017  
-Ferrara, **Italy**
-
-[**React Amsterdam 2017**](https://react.amsterdam/)  
-21 April, 2017  
-Amsterdam, **The Netherlands**  
+## Europe 
 
 [**CSSConf EU**](http://2017.cssconf.eu/)  
 5 May, 2017  
@@ -151,14 +133,6 @@ Tel Aviv, **Israel**
 
 ## North America
 
-[**SmashingConf**](https://smashingconf.com/)  
-4-5 April, 2017  
-San Francisco, California **USA**
-
-[**ng-conf 2017**](https://www.ng-conf.org/)  
-5-7 April, 2017  
-Salt Lake City, Utah **USA**
-
 [**Active Ingredients**](https://activeingredients.info/)  
 28 April, 2017  
 San Francisco, California **USA**
@@ -178,10 +152,3 @@ Atlanta, Georgia **USA**
 [**Confoo Vancouver**](https://confoo.ca/en/yvr2017)  
 4-6 December, 2017  
 Vancouver, British Columbia **Canada**
-
-
-## South America
-
-[**Front in POA 2016**](http://frontinpoa.com.br/2016/)  
-10 December, 2016  
-Porto Alegre **Brazil**
