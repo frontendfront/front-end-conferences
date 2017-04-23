@@ -133,6 +133,10 @@ Tel Aviv, **Israel**
 
 ## North America
 
+[**CodeMash**](https://codemash.org/)  
+10-13 January, 2017  
+Sandusky, Ohio **USA**
+
 [**Active Ingredients**](https://activeingredients.info/)  
 28 April, 2017  
 San Francisco, California **USA**
