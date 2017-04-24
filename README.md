@@ -152,3 +152,7 @@ Atlanta, Georgia **USA**
 [**Confoo Vancouver**](https://confoo.ca/en/yvr2017)  
 4-6 December, 2017  
 Vancouver, British Columbia **Canada**
+
+[**CodeMash**](https://codemash.org)  
+9-12 January, 2018  
+Sandusky, OH **USA**
