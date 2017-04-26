@@ -157,7 +157,7 @@ Vancouver, British Columbia **Canada**
 9-12 January, 2018  
 Sandusky, OH **USA**
 
-[**ConFoo Montreal**](https://confoo.ca/en/yul2018)
-7-9 March, 2018
+[**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
+7-9 March, 2018  
 Monrtreal, Quebec **Canada**
 
