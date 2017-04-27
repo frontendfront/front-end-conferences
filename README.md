@@ -149,10 +149,15 @@ Portland, Oregon **USA**
 20-24 September, 2017  
 Atlanta, Georgia **USA**
 
-[**Confoo Vancouver**](https://confoo.ca/en/yvr2017)  
+[**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
 4-6 December, 2017  
 Vancouver, British Columbia **Canada**
 
 [**CodeMash**](https://codemash.org)  
 9-12 January, 2018  
 Sandusky, OH **USA**
+
+[**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
+7-9 March, 2018  
+Monrtreal, Quebec **Canada**
+
