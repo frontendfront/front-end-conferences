@@ -93,6 +93,10 @@ Stockholm, **Sweden**
 16-17 September, 2017  
 Ekaterinburg, **Russia**
 
+[**Full Stack Fest 2017**](http://2017.fullstackfest.com/)  
+4-8 September, 2017  
+Barcelona, **Spain**
+
 [**AngularConnect**](http://angularconnect.com/)  
 7-8 September, 2017  
 London, **England**
