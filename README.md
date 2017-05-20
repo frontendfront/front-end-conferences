@@ -4,11 +4,12 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
-## Asia
-[**Form Function & Class 8**](http://2017.formfunctionclass.com)
-16 September 2017
-Manila, **Philippines**
-
+## Asia  
+[**Form Function & Class 8**](http://2017.formfunctionclass.com)  
+16 September 2017  
+Manila, **Philippines**  
+  
+  
 ## Australia
 
 [**Code**](https://www.webdirections.org/code/)  
