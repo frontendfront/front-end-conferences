@@ -178,3 +178,12 @@ Sandusky, OH **USA**
 [**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
 7-9 March, 2018  
 Monrtreal, Quebec **Canada**
+
+## South America
+
+[**BrazilJS**](https://braziljs.org/conf/)  
+25-26 August, 2017  
+Porto Alegre, Rio Grande do Sul **Brazil** 
+
+01-02 September, 2017  
+Fortaleza, Ceará **Brazil**
