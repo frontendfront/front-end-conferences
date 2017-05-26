@@ -59,6 +59,10 @@ Warsaw, **Poland**
 26-27 May, 2017  
 Athens, **Greece**
 
+[**HolyJS Piter**](https://holyjs-piter.ru/en/)  
+2-3 June, 2017  
+St. Petersburg, **Russian Federation**
+
 [**JS Heroes 2017**](http://jsheroes.io/)  
 8-9 June, 2017  
 Cluj-Napoca, **Romania**
@@ -134,6 +138,10 @@ München, **Germany**
 [**HalfStack 2017**](http://halfstackconf.com/)  
 17 November, 2017  
 London, **England**
+
+[**HolyJS Moscow**](https://holyjs-moscow.ru/en/)  
+10-11 December, 2017  
+Moscow, **Russian Federation
 
 [**React Native EU 2017**](http://react-native.eu/)  
 Fall 2017  
