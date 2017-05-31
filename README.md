@@ -83,6 +83,10 @@ Verona, **Italy**
 16 June, 2017  
 Saint Petersburg, **Russia**
 
+[**JS Poland**](http://www.js-poland.pl/)  
+19 June, 2017  
+Warsaw, **Poland**
+
 [**enterJS 2017**](https://www.enterjs.de/)  
 20-22 June, 2017  
 Darmstadt, **Germany**
@@ -115,10 +119,6 @@ Ekaterinburg, **Russia**
 4-8 September, 2017  
 Barcelona, **Spain**
 
-[**AngularConnect**](http://angularconnect.com/)  
-7-8 September, 2017  
-London, **England**
-
 [**React Day 2017**](http://2017.reactjsday.it/)  
 06 October, 2017  
  Verona, **Italy**
@@ -135,9 +135,25 @@ Bochum, **Germany**
 23-27 October, 2017  
 München, **Germany**
 
+[**AngularConnect**](http://angularconnect.com/)  
+7-8 November, 2017  
+London, **England**
+
 [**HalfStack 2017**](http://halfstackconf.com/)  
 17 November, 2017  
 London, **England**
+
+[**NG Poland**](http://www.ng-poland.pl/)  
+20 November, 2017  
+Warsaw, **Poland**
+
+[**dotCSS 2017**](https://www.dotcss.io/)  
+30 November – 1 December, 2017   
+Paris, **France**
+
+[**dotJS 2017**](https://www.dotjs.io/)  
+30 November – 1 December, 2017   
+Paris, **France**
 
 [**HolyJS Moscow**](https://holyjs-moscow.ru/en/)  
 10-11 December, 2017  
