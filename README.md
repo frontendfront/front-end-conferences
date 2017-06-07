@@ -99,7 +99,7 @@ Wroclaw, **Poland**
 6-7 July 2017  
 Barcelona, **Spain**
 
-[**CONFRONT 2017**](http://confront.se/)  
+[**CONFRONT**](http://confront.se/)  
 17 August 2017  
 Malmö, **Sweden**
 
