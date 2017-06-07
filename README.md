@@ -99,6 +99,10 @@ Wroclaw, **Poland**
 6-7 July 2017  
 Barcelona, **Spain**
 
+[**CONFRONT 2017**](http://confront.se/)  
+17 August 2017  
+Malmö, **Sweden**
+
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
 31 August - 1 September, 2017  
 Zurich, **Switzerland**
