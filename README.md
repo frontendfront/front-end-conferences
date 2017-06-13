@@ -218,4 +218,4 @@ Fortaleza, Ceará **Brazil**
 
 [**NodeConf Argentina**](https://2017.nodeconf.com.ar/)  
 26-28 October, 2017  
-Buenos Aires **Argentina** 
+Buenos Aires, **Argentina** 
