@@ -143,6 +143,10 @@ München, **Germany**
 7-8 November, 2017  
 London, **England**
 
+[**JS Kongress Munich 2017 - The Future of JavaScript**](https://js-kongress.de/)  
+13-14 November, 2017  
+Munich, **Germany**
+
 [**HalfStack 2017**](http://halfstackconf.com/)  
 17 November, 2017  
 London, **England**
