@@ -123,6 +123,10 @@ Ekaterinburg, **Russia**
 4-8 September, 2017  
 Barcelona, **Spain**
 
+[**Frontend Dev Conf 2017**](https://fdconf.by/)
+30 September, 2017
+Minsk, **Belarus**
+
 [**React Day 2017**](http://2017.reactjsday.it/)  
 06 October, 2017  
  Verona, **Italy**
