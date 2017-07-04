@@ -117,6 +117,10 @@ Wroclaw, **Poland**
 10 September, 2017  
 Tel Aviv, **Israel**
 
+[**You Gotta Love Frontend**](https://www.yougottalovefrontend.com/)  
+30-31 October, 2017  
+Tel Aviv, **Israel**
+
 ## North America
 
 [**Chain React 2017**](https://infinite.red/ChainReactConf)  
