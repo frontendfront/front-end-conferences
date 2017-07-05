@@ -131,6 +131,10 @@ Portland, Oregon **USA**
 20-24 September, 2017  
 Atlanta, Georgia **USA**
 
+[**React Boston**](http://www.reactboston.com/)  
+23-24 September, 2017  
+Boston, Massachusetts **USA**
+
 [**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
 4-6 December, 2017  
 Vancouver, British Columbia **Canada**
