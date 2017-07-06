@@ -111,6 +111,7 @@ Moscow, **Russian Federation
 Fall 2017  
 Wroclaw, **Poland**
 
+
 ## Middle East
 
 [**ReactNext**](http://react-next.com/)  
@@ -121,11 +122,16 @@ Tel Aviv, **Israel**
 30-31 October, 2017  
 Tel Aviv, **Israel**
 
+
 ## North America
 
 [**Chain React 2017**](https://infinite.red/ChainReactConf)  
 10-11 July, 2017  
 Portland, Oregon **USA**
+
+[**An Event Apart**](https://aneventapart.com)  
+10-12 July, 2017  
+Washington, DC **USA**
 
 [**CONNECT.TECH**](http://connect.tech/)  
 20-24 September, 2017  
