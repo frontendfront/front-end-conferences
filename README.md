@@ -133,8 +133,8 @@ Portland, Oregon **USA**
 10-12 July, 2017  
 Washington, DC **USA**
 
-[**Functions17**](https://www.eventbrite.com/e/functions17-tickets-35394300305)
-25 August, 2017
+[**Functions17**](https://www.eventbrite.com/e/functions17-tickets-35394300305)  
+25 August, 2017  
 Toronto, Ontario **Canada**
 
 [**CONNECT.TECH**](http://connect.tech/)  
