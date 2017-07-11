@@ -83,6 +83,10 @@ München, **Germany**
 7-8 November, 2017  
 London, **England**
 
+[**FFConf**](http://ffconf.org/)  
+9-10 November, 2017  
+Brighton, **England**
+
 [**JS Kongress Munich 2017 - The Future of JavaScript**](https://js-kongress.de/)  
 13-14 November, 2017  
 Munich, **Germany**
