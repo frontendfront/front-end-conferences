@@ -111,8 +111,8 @@ Moscow, **Russian Federation
 Fall 2017  
 Wroclaw, **Poland**
 
-[**Frontend NE: The Conference**](https://2018.frontendne.co.uk)
-April 5th 2018
+[**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
+April 5th 2018  
 Newcastle-Upon-Tyne, **England**
 
 
