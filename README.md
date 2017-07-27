@@ -51,6 +51,10 @@ Copenhagen, **Denmark**
 7-8 September, 2017  
 Stockholm, **Sweden**
 
+[**CSS-Minsk-JS Conf**](http://css-minsk-js.by/)  
+10 September, 2017  
+Minsk, **Belarus**
+
 [**FrontTalks**](http://fronttalks.ru/)  
 16-17 September, 2017  
 Ekaterinburg, **Russia**
