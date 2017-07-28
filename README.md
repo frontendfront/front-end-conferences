@@ -63,6 +63,10 @@ Ekaterinburg, **Russia**
 4-8 September, 2017  
 Barcelona, **Spain**
 
+[**FRONTEND CON 2017**](http://frontend-con.io/)  
+22-23 September, 2017  
+Warsaw, **Poland**
+
 [**Frontend Dev Conf 2017**](https://fdconf.by/)  
 30 September, 2017  
 Minsk, **Belarus**
