@@ -173,6 +173,10 @@ Sandusky, OH **USA**
 7-9 March, 2018  
 Monrtreal, Quebec **Canada**
 
+[**#PerfMatters**](https://perfmattersconf.com)  
+27-29 March, 2018  
+Redwood City, CA **USA**
+
 ## South America
 
 [**BrazilJS**](https://braziljs.org/conf/)  
