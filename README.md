@@ -31,6 +31,10 @@ Brisbane, **Australia**
 
 ## Europe
 
+[**Angular Day**](http://www.angularday.it/)  
+15-16 June 2017  
+Verona, **Italy**
+
 [**Angular Camp**](https://angularcamp.org/)  
 6-7 July 2017  
 Barcelona, **Spain**
@@ -135,6 +139,9 @@ Wroclaw, **Poland**
 April 5th 2018  
 Newcastle-Upon-Tyne, **England**
 
+[**Ng-Europe**](https://ngeurope.org/)  
+1-2 February 2018  
+Paris, **France**
 
 ## Middle East
 
