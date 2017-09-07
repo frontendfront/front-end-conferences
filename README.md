@@ -67,16 +67,16 @@ Barcelona, **Spain**
 22-23 September, 2017  
 Warsaw, **Poland**
 
-[**KrakowJS Conf 2017**](http://conf.krakowjs.pl/)
-29 September, 2017
+[**KrakowJS Conf 2017**](http://conf.krakowjs.pl/)  
+29 September, 2017  
 Cracow, **Poland**
 
 [**Frontend Dev Conf 2017**](https://fdconf.by/)  
 30 September, 2017  
 Minsk, **Belarus**
 
-[**Fronteers Conference 2017**](https://fronteers.nl/congres/2017)
-5-6 October, 2017
+[**Fronteers Conference 2017**](https://fronteers.nl/congres/2017)  
+5-6 October, 2017  
 Amsterdam, **Netherlands**
 
 [**React Day 2017**](http://2017.reactjsday.it/)  
