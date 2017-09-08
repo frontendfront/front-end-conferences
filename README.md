@@ -168,6 +168,10 @@ Washington, DC **USA**
 25 August, 2017  
 Toronto, Ontario **Canada**
 
+[**UtahJS**](https://conf.utahjs.com/)  
+18 September, 2017  
+Salt Lake City, Utah **USA**
+
 [**CONNECT.TECH**](http://connect.tech/)  
 20-24 September, 2017  
 Atlanta, Georgia **USA**
