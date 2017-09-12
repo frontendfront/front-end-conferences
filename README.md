@@ -127,6 +127,10 @@ Paris, **France**
 30 November – 1 December, 2017   
 Paris, **France**
 
+[**Frontend Conference Munich**](https://frontconf.com/)  
+8-9 December, 2017  
+Munich, **Germany**
+
 [**HolyJS Moscow**](https://holyjs-moscow.ru/en/)  
 10-11 December, 2017  
 Moscow, **Russian Federation
