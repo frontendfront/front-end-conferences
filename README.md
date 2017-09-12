@@ -18,46 +18,7 @@ Manila, **Philippines**
 Johannesburg, **South Africa**
 
 
-## Australia
-
-[**Code**](https://www.webdirections.org/code/)  
-26-27 July, 2017  
-Melbourne, **Australia**  
-31 July & 1 August, 2017  
-Sydney, **Australia**  
-4 August, 2017  
-Brisbane, **Australia**  
-
-
 ## Europe
-
-[**Angular Day**](http://www.angularday.it/)  
-15-16 June 2017  
-Verona, **Italy**
-
-[**Angular Camp**](https://angularcamp.org/)  
-6-7 July 2017  
-Barcelona, **Spain**
-
-[**CONFRONT**](http://confront.se/)  
-17 August 2017  
-Malmö, **Sweden**
-
-[**Frontend Conference Zurich**](https://frontendconf.ch/)  
-31 August - 1 September, 2017  
-Zurich, **Switzerland**
-
-[**ColdFront**](https://coldfront.co)  
-5-6 September, 2017  
-Copenhagen, **Denmark**
-
-[**NordicJS**](http://nordicjs.com/)  
-7-8 September, 2017  
-Stockholm, **Sweden**
-
-[**CSS-Minsk-JS Conf**](http://css-minsk-js.by/)  
-10 September, 2017  
-Minsk, **Belarus**
 
 [**FrontTalks**](http://fronttalks.ru/)  
 16-17 September, 2017  
@@ -147,11 +108,8 @@ Newcastle-Upon-Tyne, **England**
 1-2 February 2018  
 Paris, **France**
 
-## Middle East
 
-[**ReactNext**](http://react-next.com/)  
-10 September, 2017  
-Tel Aviv, **Israel**
+## Middle East
 
 [**You Gotta Love Frontend**](https://www.yougottalovefrontend.com/)  
 30-31 October, 2017  
@@ -159,18 +117,6 @@ Tel Aviv, **Israel**
 
 
 ## North America
-
-[**Chain React 2017**](https://infinite.red/ChainReactConf)  
-10-11 July, 2017  
-Portland, Oregon **USA**
-
-[**An Event Apart**](https://aneventapart.com)  
-10-12 July, 2017  
-Washington, DC **USA**
-
-[**Functions17**](https://www.eventbrite.com/e/functions17-tickets-35394300305)  
-25 August, 2017  
-Toronto, Ontario **Canada**
 
 [**UtahJS**](https://conf.utahjs.com/)  
 18 September, 2017  
