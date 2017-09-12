@@ -5,7 +5,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
 
-## Asia  
+## Asia
 [**Form Function & Class 8**](http://2017.formfunctionclass.com)  
 16 September 2017  
 Manila, **Philippines**
@@ -94,7 +94,7 @@ Munich, **Germany**
 
 [**HolyJS Moscow**](https://holyjs-moscow.ru/en/)  
 10-11 December, 2017  
-Moscow, **Russian Federation
+Moscow, **Russian Federation**
 
 [**React Native EU 2017**](http://react-native.eu/)  
 Fall 2017  
