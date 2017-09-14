@@ -100,14 +100,17 @@ Moscow, **Russian Federation**
 Fall 2017  
 Wroclaw, **Poland**
 
-[**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
-April 5th 2018  
-Newcastle-Upon-Tyne, **England**
+[**Script'18**](https://scriptconf.org)  
+19 January, 2018
+Linz, **Austria**
 
 [**Ng-Europe**](https://ngeurope.org/)  
 1-2 February 2018  
 Paris, **France**
 
+[**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
+April 5th 2018  
+Newcastle-Upon-Tyne, **England**
 
 ## Middle East
 
