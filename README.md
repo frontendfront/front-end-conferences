@@ -101,7 +101,7 @@ Fall 2017
 Wroclaw, **Poland**
 
 [**Script'18**](https://scriptconf.org)  
-19 January, 2018
+19 January, 2018  
 Linz, **Austria**
 
 [**Ng-Europe**](https://ngeurope.org/)  
