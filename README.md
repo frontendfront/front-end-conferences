@@ -108,6 +108,10 @@ Linz, **Austria**
 1-2 February 2018  
 Paris, **France**
 
+[**.concat()**](https://2018.conc.at/)  
+3 March 2018  
+Salzburg, **Austria**  
+
 [**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
 April 5th 2018  
 Newcastle-Upon-Tyne, **England**
