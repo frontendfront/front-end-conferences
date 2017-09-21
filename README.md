@@ -77,7 +77,7 @@ Munich, **Germany**
 London, **England**
 
 [**NG Poland**](http://www.ng-poland.pl/)  
-20 November, 2017  
+21 November, 2017  
 Warsaw, **Poland**
 
 [**dotCSS 2017**](https://www.dotcss.io/)  
