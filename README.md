@@ -116,6 +116,10 @@ Salzburg, **Austria**
 April 5th 2018  
 Newcastle-Upon-Tyne, **England**
 
+[**Bulgaria Web Summit 2018**](https://bulgariawebsummit.com)  
+April 14th 2018  
+Sofia, **Bulgaria**
+
 ## Middle East
 
 [**You Gotta Love Frontend**](https://www.yougottalovefrontend.com/)  
