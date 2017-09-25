@@ -118,7 +118,11 @@ Newcastle-Upon-Tyne, **England**
 
 [**Bulgaria Web Summit 2018**](https://bulgariawebsummit.com)  
 April 14th 2018  
-Sofia, **Bulgaria**
+Sofia, **Bulgaria**  
+
+[**ReactEurope 2018**](https://www.react-europe.org)  
+17-18 May 2018  
+Paris, **France**  
 
 ## Middle East
 
