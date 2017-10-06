@@ -124,6 +124,10 @@ Sofia, **Bulgaria**
 17-18 May 2018  
 Paris, **France**  
 
+[**Front-Trends 2018**](https://2018.front-trends.com/)  
+24-25 May 2018
+Warsaw, **Poland**  
+
 ## Middle East
 
 [**You Gotta Love Frontend**](https://www.yougottalovefrontend.com/)  
