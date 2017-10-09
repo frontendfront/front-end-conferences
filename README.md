@@ -125,7 +125,7 @@ Sofia, **Bulgaria**
 Paris, **France**  
 
 [**Front-Trends 2018**](https://2018.front-trends.com/)  
-24-25 May 2018
+24-25 May 2018  
 Warsaw, **Poland**  
 
 ## Middle East
