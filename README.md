@@ -157,6 +157,10 @@ Vancouver, British Columbia **Canada**
 9-12 January, 2018  
 Sandusky, OH **USA**
 
+[**ngAtlanta**](http://ng-atl.org)  
+30 January - 2 February, 2018  
+Atlanta, GA **USA**
+
 [**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
 7-9 March, 2018  
 Monrtreal, Quebec **Canada**
