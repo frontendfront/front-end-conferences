@@ -112,6 +112,10 @@ Linz, **Austria**
 1-2 February 2018  
 Paris, **France**
 
+[**VueJS Conference**](https://www.vuejs.amsterdam/)  
+16 February 2018  
+Amsterdam, **The Netherlands**
+
 [**.concat()**](https://2018.conc.at/)  
 3 March 2018  
 Salzburg, **Austria**  
@@ -168,6 +172,10 @@ Sandusky, OH **USA**
 [**ngAtlanta**](http://ng-atl.org)  
 30 January - 2 February, 2018  
 Atlanta, GA **USA**
+
+[**AssertJS Conf**](https://www.assertjs.com/)  
+22 February, 2018  
+San Antonio, TX **USA**
 
 [**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
 7-9 March, 2018  
