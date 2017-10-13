@@ -60,6 +60,10 @@ Bochum, **Germany**
 23-27 October, 2017  
 München, **Germany**
 
+[**Kharkiv JS**](http://kharkivjs.org/)  
+28-29 October, 2017  
+Kharkiv, **Ukraine**
+
 [**AngularConnect**](http://angularconnect.com/)  
 7-8 November, 2017  
 London, **England**
