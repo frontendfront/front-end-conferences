@@ -124,6 +124,10 @@ Newcastle-Upon-Tyne, **England**
 April 14th 2018  
 Sofia, **Bulgaria**  
 
+[**DeltaV Conference**](https://2018.deltavconf.com)  
+10-11 May 2018  
+London, **England**  
+
 [**ReactEurope 2018**](https://www.react-europe.org)  
 17-18 May 2018  
 Paris, **France**  
