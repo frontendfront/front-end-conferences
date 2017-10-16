@@ -194,6 +194,10 @@ Porto Alegre, Rio Grande do Sul **Brazil**
 01-02 September, 2017  
 Fortaleza, Ceará **Brazil**
 
+[**Front in BH**](https://frontinbh.com.br/)  
+23 September, 2018  
+Belo Horizonte, Minas Gerais **Brazil**
+
 [**NodeConf Argentina**](https://2017.nodeconf.com.ar/)  
 26-28 October, 2017  
 Buenos Aires, **Argentina** 
