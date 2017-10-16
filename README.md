@@ -112,6 +112,10 @@ Linz, **Austria**
 1-2 February 2018  
 Paris, **France**
 
+[**The Rolling Scopes Conference**](https://2018.conf.rollingscopes.com/)  
+10 – 11 February 2018  
+Minsk, **Belarus**
+
 [**VueJS Conference**](https://www.vuejs.amsterdam/)  
 16 February 2018  
 Amsterdam, **The Netherlands**
