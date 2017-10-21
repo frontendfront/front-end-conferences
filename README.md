@@ -64,6 +64,10 @@ München, **Germany**
 28-29 October, 2017  
 Kharkiv, **Ukraine**
 
+[**Web Standards Days**](https://wsd.events/2017/11/04/)  
+7 November, 2017  
+Kiev, **Ukraine**
+
 [**AngularConnect**](http://angularconnect.com/)  
 7-8 November, 2017  
 London, **England**
