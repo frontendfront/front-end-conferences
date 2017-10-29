@@ -20,13 +20,17 @@ Johannesburg, **South Africa**
 
 ## Europe
 
-[**FrontTalks**](http://fronttalks.ru/)  
-16-17 September, 2017  
-Ekaterinburg, **Russia**
+[**ColdFront 2017**](https://2017.coldfront.co/)  
+5-6 September, 2017  
+Copenhagen, **Denmark**
 
 [**Full Stack Fest 2017**](http://2017.fullstackfest.com/)  
 4-8 September, 2017  
 Barcelona, **Spain**
+
+[**FrontTalks**](http://fronttalks.ru/)  
+16-17 September, 2017  
+Ekaterinburg, **Russia**
 
 [**FRONTEND CON 2017**](http://frontend-con.io/)  
 22-23 September, 2017  
