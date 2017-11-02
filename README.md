@@ -112,6 +112,10 @@ Moscow, **Russian Federation**
 Fall 2017  
 Wroclaw, **Poland**
 
+[**FrontEndNorth**](https://frontendnorth.com)  
+19 January, 2018  
+Sheffield, **England**
+
 [**Script'18**](https://scriptconf.org)  
 19 January, 2018  
 Linz, **Austria**
