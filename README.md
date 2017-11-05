@@ -5,68 +5,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
 
-## Asia
-[**Form Function & Class 8**](http://2017.formfunctionclass.com)  
-16 September 2017  
-Manila, **Philippines**
-
-
-## Africa
-
-[**Source Up!**](https://sourceup.co.za/)  
-18-20 September, 2017  
-Johannesburg, **South Africa**
-
-
 ## Europe
-
-[**ColdFront 2017**](https://2017.coldfront.co/)  
-5-6 September, 2017  
-Copenhagen, **Denmark**
-
-[**Full Stack Fest 2017**](http://2017.fullstackfest.com/)  
-4-8 September, 2017  
-Barcelona, **Spain**
-
-[**FrontTalks**](http://fronttalks.ru/)  
-16-17 September, 2017  
-Ekaterinburg, **Russia**
-
-[**FRONTEND CON 2017**](http://frontend-con.io/)  
-22-23 September, 2017  
-Warsaw, **Poland**
-
-[**KrakowJS Conf 2017**](http://conf.krakowjs.pl/)  
-29 September, 2017  
-Cracow, **Poland**
-
-[**Frontend Dev Conf 2017**](https://fdconf.by/)  
-30 September, 2017  
-Minsk, **Belarus**
-
-[**Fronteers Conference 2017**](https://fronteers.nl/congres/2017)  
-5-6 October, 2017  
-Amsterdam, **Netherlands**
-
-[**React Day 2017**](http://2017.reactjsday.it/)  
-06 October, 2017  
-Verona, **Italy**
-
-[**Mirror Conf 2017**](http://www.mirrorconf.com/)  
-10-13 October, 2017  
-Braga, **Portugal**
-
-[**RuhrJS 2017**](https://2017.ruhrjs.de/)  
-14-15 October, 2017  
-Bochum, **Germany**
-
-[**iJS International JavaScript Conference**](https://javascript-conference.com/)  
-23-27 October, 2017  
-München, **Germany**
-
-[**Kharkiv JS**](http://kharkivjs.org/)  
-28-29 October, 2017  
-Kharkiv, **Ukraine**
 
 [**Web Standards Days**](https://wsd.events/2017/11/04/)  
 7 November, 2017  
@@ -160,26 +99,8 @@ Paris, **France**
 24-25 May 2018  
 Warsaw, **Poland**  
 
-## Middle East
-
-[**You Gotta Love Frontend**](https://www.yougottalovefrontend.com/)  
-30-31 October, 2017  
-Tel Aviv, **Israel**
-
 
 ## North America
-
-[**UtahJS**](https://conf.utahjs.com/)  
-18 September, 2017  
-Salt Lake City, Utah **USA**
-
-[**CONNECT.TECH**](http://connect.tech/)  
-20-24 September, 2017  
-Atlanta, Georgia **USA**
-
-[**React Boston**](http://www.reactboston.com/)  
-23-24 September, 2017  
-Boston, Massachusetts **USA**
 
 [**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
 4-6 December, 2017  
@@ -205,19 +126,9 @@ Monrtreal, Quebec **Canada**
 27-29 March, 2018  
 Redwood City, CA **USA**
 
+
 ## South America
-
-[**BrazilJS**](https://braziljs.org/conf/)  
-25-26 August, 2017  
-Porto Alegre, Rio Grande do Sul **Brazil** 
-
-01-02 September, 2017  
-Fortaleza, Ceará **Brazil**
 
 [**Front in BH**](https://frontinbh.com.br/)  
 23 September, 2018  
 Belo Horizonte, Minas Gerais **Brazil**
-
-[**NodeConf Argentina**](https://2017.nodeconf.com.ar/)  
-26-28 October, 2017  
-Buenos Aires, **Argentina** 
