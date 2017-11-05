@@ -140,6 +140,10 @@ Salzburg, **Austria**
 April 5th 2018  
 Newcastle-Upon-Tyne, **England**
 
+[**Universal JS Day**](http://2018.universaljsday.com)  
+April 13th 2018  
+Ferrara, **Italy**  
+
 [**Bulgaria Web Summit 2018**](https://bulgariawebsummit.com)  
 April 14th 2018  
 Sofia, **Bulgaria**  
