@@ -67,6 +67,10 @@ Paris, **France**
 10 – 11 February 2018  
 Minsk, **Belarus**
 
+[**Frontend Developer Conference**](http://frontenddeveloperlove.com/)  
+15 February 2018  
+Amsterdam, **The Netherlands**
+
 [**VueJS Conference**](https://www.vuejs.amsterdam/)  
 16 February 2018  
 Amsterdam, **The Netherlands**
@@ -98,6 +102,10 @@ Paris, **France**
 [**Front-Trends 2018**](https://2018.front-trends.com/)  
 24-25 May 2018  
 Warsaw, **Poland**  
+
+[**Frontend United**](https://frontendunited.org/)  
+31 May - 3 June 2018  
+Utrecht, **The Netherlands** 
 
 
 ## North America
