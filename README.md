@@ -108,6 +108,16 @@ Warsaw, **Poland**
 Utrecht, **The Netherlands** 
 
 
+[**CSS Conf EU**](https://2018.cssconf.eu/)  
+1 June 2018  
+Berlin, **Germany** 
+
+
+[**JS Conf EU**](https://2018.jsconf.eu/)  
+2-3 June 2018  
+Berlin, **Germany** 
+
+
 ## North America
 
 [**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
