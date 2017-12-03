@@ -91,6 +91,10 @@ Ferrara, **Italy**
 April 14th 2018  
 Sofia, **Bulgaria**  
 
+[**JSHeroes**](https://jsheroes.io)  
+18-20 April 2018  
+Cluj, **Romania**  
+
 [**DeltaV Conference**](https://2018.deltavconf.com)  
 10-11 May 2018  
 London, **England**  
