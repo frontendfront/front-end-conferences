@@ -122,6 +122,11 @@ Berlin, **Germany**
 Berlin, **Germany** 
 
 
+[**pitercss_conf**](https://pitercss.com/)  
+8–9 June, 2018  
+St. Petersburg, **Russia**
+
+
 ## North America
 
 [**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
