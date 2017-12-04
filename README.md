@@ -137,8 +137,8 @@ Sandusky, OH **USA**
 Atlanta, GA **USA**
 
 [**Index - San Francisco**](https://developer.ibm.com/indexconf/)
-February 20-22, 2018
-San Francisco, CA **USA**
+  February 20-22, 2018
+  San Francisco, CA **USA**
 
 [**AssertJS Conf**](https://www.assertjs.com/)  
 22 February, 2018  
