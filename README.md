@@ -115,20 +115,21 @@ Warsaw, **Poland**
 31 May - 3 June 2018  
 Utrecht, **The Netherlands** 
 
-
 [**CSS Conf EU**](https://2018.cssconf.eu/)  
 1 June 2018  
 Berlin, **Germany** 
-
 
 [**JS Conf EU**](https://2018.jsconf.eu/)  
 2-3 June 2018  
 Berlin, **Germany** 
 
-
 [**pitercss_conf**](https://pitercss.com/)  
 8–9 June, 2018  
 St. Petersburg, **Russia**
+
+[**enterJS 2018**](https://www.enterjs.de/)  
+19-21 June 2018  
+Darmstadt, **Germany** 
 
 
 ## North America
