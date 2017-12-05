@@ -63,6 +63,10 @@ Linz, **Austria**
 1-2 February 2018  
 Paris, **France**
 
+[**Smashing Conference**](https://smashingconf.com/)  
+7-8 February 2018  
+London, **England**
+
 [**The Rolling Scopes Conference**](https://2018.conf.rollingscopes.com/)  
 10 – 11 February 2018  
 Minsk, **Belarus**
