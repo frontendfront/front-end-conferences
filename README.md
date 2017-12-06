@@ -127,7 +127,7 @@ Berlin, **Germany**
 8–9 June, 2018  
 St. Petersburg, **Russia**
 
-[**DEVit_conf**](http://devitconf.org/)  
+[**DEVit**](http://devitconf.org/)  
 8–9 June, 2018  
 Thessaloniki, **Greece**
 
