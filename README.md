@@ -113,15 +113,15 @@ Warsaw, **Poland**
 
 [**Frontend United**](https://frontendunited.org/)  
 31 May - 3 June 2018  
-Utrecht, **The Netherlands** 
+Utrecht, **The Netherlands**
 
 [**CSS Conf EU**](https://2018.cssconf.eu/)  
 1 June 2018  
-Berlin, **Germany** 
+Berlin, **Germany**
 
 [**JS Conf EU**](https://2018.jsconf.eu/)  
 2-3 June 2018  
-Berlin, **Germany** 
+Berlin, **Germany**
 
 [**pitercss_conf**](https://pitercss.com/)  
 8–9 June, 2018  
@@ -133,8 +133,11 @@ Thessaloniki, **Greece**
 
 [**enterJS 2018**](https://www.enterjs.de/)  
 19-21 June 2018  
-Darmstadt, **Germany** 
+Darmstadt, **Germany**
 
+[**Refresh 2018**](http://refresh.rocks/)  
+7 September 2018  
+Tallinn, **Estonia**
 
 ## North America
 
