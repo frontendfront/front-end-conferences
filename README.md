@@ -150,6 +150,10 @@ Sandusky, OH **USA**
 30 January - 2 February, 2018  
 Atlanta, GA **USA**
 
+[**ForwardJS**](https://forwardjs.com/)  
+13 February, 2018  
+San Francisco, CA **USA**
+
 [**Index - San Francisco**](https://developer.ibm.com/indexconf/)  
 February 20-22, 2018  
 San Francisco, CA **USA**
@@ -166,6 +170,9 @@ Monrtreal, Quebec **Canada**
 27-29 March, 2018  
 Redwood City, CA **USA**
 
+[**The O'Reilly Fluent Conference: Building a better web**](https://conferences.oreilly.com/fluent/fl-ca)  
+11-14 June, 2018  
+San Jose, CA **USA**
 
 ## South America
 
