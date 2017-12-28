@@ -107,8 +107,8 @@ Darmstadt, **Germany**
 22-23 June, 2017  
 Wroclaw, **Poland**
 
-[**Angular Camp**](https://angularcamp.org/)  
-6-7 July 2017  
+[**AngularCamp 2018**](https://angularcamp.org/)  
+18-20 July 2018  
 Barcelona, **Spain**
 
 [**Frontend Conference Zurich**](https://frontendconf.ch/)  
