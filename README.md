@@ -107,6 +107,10 @@ London, **England**
 17-18 May 2018  
 Paris, **France**  
 
+[**HolyJS 2018 Piter**](https://holyjs-piter.ru/en/)  
+19-20 May 2018  
+St. Petersburg, **Russia**  
+
 [**Front-Trends 2018**](https://2018.front-trends.com/)  
 24-25 May 2018  
 Warsaw, **Poland**  
