@@ -83,6 +83,10 @@ Amsterdam, **The Netherlands**
 3 March 2018  
 Salzburg, **Austria**  
 
+[**UpFront Conf 2018**](http://upfrontconf.com)  
+16 March 2018  
+Manchester, **England**
+
 [**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
 April 5th 2018  
 Newcastle-Upon-Tyne, **England**
