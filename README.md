@@ -6,6 +6,9 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 
 ## Europe
+[**International JavaScript Conference**](https://javascript-conference.com/en/)  
+11th-13th April, 2018  
+London, **England**
 
 [**Web Standards Days**](https://wsd.events/2017/11/04/)  
 7 November, 2017  
