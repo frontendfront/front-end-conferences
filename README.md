@@ -4,200 +4,196 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
-## Asia
-
-[**Frontend Conference 2017**](http://kfug.jp/frontconf2017)  
-18 March, 2017  
-Osaka, **Japan**
-
-## Australia
-
-[**Code**](https://www.webdirections.org/code/)  
-26-27 July, 2017  
-Melbourne, **Australia**  
-31 July & 1 August, 2017  
-Sydney, **Australia**  
-4 August, 2017  
-Brisbane, **Australia**  
-
 
 ## Europe
-
-[**NodeConf Budapest**](https://nodeconf.risingstack.com/)  
-19-20 January, 2017  
-Budapest, **Hungary**  
-
-[**Agent Conference**](http://agent.sh/)  
-20-21 January, 2017  
-Dornbirn, **Austria**  
-
-[**Script'17**](https://scriptconf.org/)  
-27 January, 2017  
-Linz, **Austria**
-
-[**The Rolling Scopes Conference**](https://2017.conf.rollingscopes.com/)  
-18-19 February, 2017  
-Minsk, **Belarus**
-
-[**Render Conf 2017**](http://2017.render-conf.com/)  
-30-31 March, 2017  
-Oxford, **England**
-
-[**React London 2017**](https://react.london/)  
-28 March, 2017  
+[**International JavaScript Conference**](https://javascript-conference.com/en/)  
+11th-13th April, 2018  
 London, **England**
 
-[**Bulgaria Web Summit 2017**](https://bulgariawebsummit.com/)  
-7-8 April, 2017  
-Sofia, **Bulgaria**  
-
-[**Universal JS Day**](http://2017.universaljsday.com/)  
-8 April, 2017  
-Ferrara, **Italy**
-
-[**React Amsterdam 2017**](https://react.amsterdam/)  
-21 April, 2017  
-Amsterdam, **The Netherlands**  
-
-[**CSSConf EU**](http://2017.cssconf.eu/)  
-5 May, 2017  
-Berlin, **Germany**
-
-[**JSConf EU**](http://2017.jsconf.eu/)  
-6-7 May, 2017  
-Berlin, **Germany**
-
-[**JSDay**](http://2017.jsday.it/)  
-10-11 May, 2017  
-Verona, **Italy**
-
-[**ReactEurope 2017**](https://www.react-europe.org/)  
-18-19 May, 2017  
-Paris, **France**
-
-[**DEVit Conference**](http://devitconf.org/)  
-20-21 May, 2017  
-Thessaloniki, **Greece**
-
-[**Front-Trends**](https://2017.front-trends.com/)  
-24-26 May, 2017  
-Warsaw, **Poland**
-
-[**Frontend United**](http://frontendunited.org/)  
-26-27 May, 2017  
-Athens, **Greece**
-
-[**JS Heroes 2017**](http://jsheroes.io/)  
-8-9 June, 2017  
-Cluj-Napoca, **Romania**
-
-[**AmsterdamJS Conference 2017**](https://amsterdamjs.com/)  
-9 June, 2017  
-Amsterdam, **Netherlands**
-
-[**CSSDay 2017**](https://cssday.nl/2016)  
-15-16 June, 2017  
-Amsterdam, **Netherlands**
-
-[**enterJS 2017**](https://www.enterjs.de/)  
-20-22 June, 2017  
-Darmstadt, **Germany**
-
-[**VueConf 2017**](https://conf.vuejs.org/)  
-22-23 June, 2017  
-Wroclaw, **Poland**
-
-[**AngularCamp 2018**](https://angularcamp.org/)  
-18-20 July 2018  
-Barcelona, **Spain**
-
-[**Frontend Conference Zurich**](https://frontendconf.ch/)  
-31 August - 1 September, 2017  
-Zurich, **Switzerland**
-
-
-[**ColdFront**](https://coldfront.co)  
-5-6 September, 2017  
-Copenhagen, **Denmark**
-
-[**NordicJS**](http://nordicjs.com/)  
-7-8 September, 2017  
-Stockholm, **Sweden**
-
-[**FrontTalks**](http://fronttalks.ru/)  
-16-17 September, 2017  
-Ekaterinburg, **Russia**
+[**Web Standards Days**](https://wsd.events/2017/11/04/)  
+7 November, 2017  
+Kiev, **Ukraine**
 
 [**AngularConnect**](http://angularconnect.com/)  
-7-8 September, 2017  
+7-8 November, 2017  
 London, **England**
 
-[**RuhrJS 2017**](https://2017.ruhrjs.de/)  
-14-15 October, 2017  
-Bochum, **Germany**
+[**FFConf**](http://ffconf.org/)  
+9-10 November, 2017  
+Brighton, **England**
 
-[**iJS International JavaScript Conference**](https://javascript-conference.com/)  
-23-27 October, 2017  
-München, **Germany**
+[**JS Kongress Munich 2017 - The Future of JavaScript**](https://js-kongress.de/)  
+13-14 November, 2017  
+Munich, **Germany**
 
 [**HalfStack 2017**](http://halfstackconf.com/)  
 17 November, 2017  
 London, **England**
 
+[**NG Poland**](http://www.ng-poland.pl/)  
+21 November, 2017  
+Warsaw, **Poland**
+
+[**dotCSS 2017**](https://www.dotcss.io/)  
+30 November – 1 December, 2017   
+Paris, **France**
+
+[**dotJS 2017**](https://www.dotjs.io/)  
+30 November – 1 December, 2017   
+Paris, **France**
+
+[**Frontend Conference Munich**](https://frontconf.com/)  
+8-9 December, 2017  
+Munich, **Germany**
+
+[**HolyJS Moscow**](https://holyjs-moscow.ru/en/)  
+10-11 December, 2017  
+Moscow, **Russian Federation**
+
 [**React Native EU 2017**](http://react-native.eu/)  
 Fall 2017  
 Wroclaw, **Poland**
 
+[**FrontEndNorth**](https://frontendnorth.com)  
+19 January, 2018  
+Sheffield, **England**
+
+[**Script'18**](https://scriptconf.org)  
+19 January, 2018  
+Linz, **Austria**
+
+[**Ng-Europe**](https://ngeurope.org/)  
+1-2 February 2018  
+Paris, **France**
+
+[**Smashing Conference**](https://smashingconf.com/)  
+7-8 February 2018  
+London, **England**
+
+[**The Rolling Scopes Conference**](https://2018.conf.rollingscopes.com/)  
+10 – 11 February 2018  
+Minsk, **Belarus**
+
+[**Frontend Developer Conference**](http://frontenddeveloperlove.com/)  
+15 February 2018  
+Amsterdam, **The Netherlands**
+
+[**VueJS Conference**](https://www.vuejs.amsterdam/)  
+16 February 2018  
+Amsterdam, **The Netherlands**
+
+[**.concat()**](https://2018.conc.at/)  
+3 March 2018  
+Salzburg, **Austria**  
+
+[**UpFront Conf 2018**](http://upfrontconf.com)  
+16 March 2018  
+Manchester, **England**
+
+[**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
+April 5th 2018  
+Newcastle-Upon-Tyne, **England**
+
+[**Universal JS Day**](http://2018.universaljsday.com)  
+April 13th 2018  
+Ferrara, **Italy**  
+
+[**Bulgaria Web Summit 2018**](https://bulgariawebsummit.com)  
+April 14th 2018  
+Sofia, **Bulgaria**  
+
+[**JSHeroes**](https://jsheroes.io)  
+18-20 April 2018  
+Cluj, **Romania**  
+
+[**DeltaV Conference**](https://2018.deltavconf.com)  
+10-11 May 2018  
+London, **England**  
+
+[**ReactEurope 2018**](https://www.react-europe.org)  
+17-18 May 2018  
+Paris, **France**  
+
+[**HolyJS 2018 Piter**](https://holyjs-piter.ru/en/)  
+19-20 May 2018  
+St. Petersburg, **Russia**  
+
+[**Front-Trends 2018**](https://2018.front-trends.com/)  
+24-25 May 2018  
+Warsaw, **Poland**  
+
+[**Frontend United**](https://frontendunited.org/)  
+31 May - 3 June 2018  
+Utrecht, **The Netherlands**
+
+[**CSS Conf EU**](https://2018.cssconf.eu/)  
+1 June 2018  
+Berlin, **Germany**
+
+[**JS Conf EU**](https://2018.jsconf.eu/)  
+2-3 June 2018  
+Berlin, **Germany**
+
+[**pitercss_conf**](https://pitercss.com/)  
+8–9 June, 2018  
+St. Petersburg, **Russia**
+
+[**DEVit**](http://devitconf.org/)  
+8–9 June, 2018  
+Thessaloniki, **Greece**
+
+[**enterJS 2018**](https://www.enterjs.de/)  
+19-21 June 2018  
+Darmstadt, **Germany**
+
+[**Refresh 2018**](http://refresh.rocks/)  
+7 September 2018  
+Tallinn, **Estonia**
+
+[**AngularCamp 2018**](https://angularcamp.org/)  
+18-20 July 2018  
+Barcelona, **Spain**
 
 ## North America
 
-[**Deverloper week JavaScript conf 2017**](http://www.developerweek.com/javascript-conference/)  
-13-15 February, 2017  
-San Francisco, California **USA**
-
-[**Confoo Montreal**](https://confoo.ca/en/yul2017)  
-8-10 March, 2017  
-Montreal, Quebec **Canada**
-
-[**JazzCon.Tech**](http://jazzcon.tech/)  
-20-24 March, 2017  
-New Orleans, Louisiana **USA**
-
-[**EmberConf**](http://emberconf.com/)  
-28-29 March, 2017  
-Portland, Oregon **USA**
-
-[**SmashingConf**](https://smashingconf.com/)  
-4-5 April, 2017  
-San Francisco, California **USA**
-
-[**ng-conf 2017**](https://www.ng-conf.org/)  
-5-7 April, 2017  
-Salt Lake City, Utah **USA**
-
-[**Active Ingredients**](https://activeingredients.info/)  
-28 April, 2017  
-San Francisco, California **USA**
-
-[**Fluent 2017**](http://conferences.oreilly.com/fluent/fl-ca)  
-20-22 June, 2017  
-San Jose, California, **USA**
-
-[**Chain React 2017**](https://infinite.red/ChainReactConf)  
-10-11 July, 2017  
-Portland, Oregon **USA**
-
-[**CONNECT.TECH**](http://connect.tech/)  
-20-24 September, 2017  
-Atlanta, Georgia **USA**
-
-[**Confoo Vancouver**](https://confoo.ca/en/yvr2017)  
+[**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
 4-6 December, 2017  
 Vancouver, British Columbia **Canada**
 
+[**CodeMash**](https://codemash.org)  
+9-12 January, 2018  
+Sandusky, OH **USA**
+
+[**ngAtlanta**](http://ng-atl.org)  
+30 January - 2 February, 2018  
+Atlanta, GA **USA**
+
+[**ForwardJS**](https://forwardjs.com/)  
+13 February, 2018  
+San Francisco, CA **USA**
+
+[**Index - San Francisco**](https://developer.ibm.com/indexconf/)  
+February 20-22, 2018  
+San Francisco, CA **USA**
+
+[**AssertJS Conf**](https://www.assertjs.com/)  
+22 February, 2018  
+San Antonio, TX **USA**
+
+[**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
+7-9 March, 2018  
+Monrtreal, Quebec **Canada**
+
+[**#PerfMatters**](https://perfmattersconf.com)  
+27-29 March, 2018  
+Redwood City, CA **USA**
+
+[**The O'Reilly Fluent Conference: Building a better web**](https://conferences.oreilly.com/fluent/fl-ca)  
+11-14 June, 2018  
+San Jose, CA **USA**
 
 ## South America
 
-[**Front in POA 2016**](http://frontinpoa.com.br/2016/)  
-10 December, 2016  
-Porto Alegre **Brazil**
+[**Front in BH**](https://frontinbh.com.br/)  
+23 September, 2018  
+Belo Horizonte, Minas Gerais **Brazil**
