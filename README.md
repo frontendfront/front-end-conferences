@@ -150,6 +150,10 @@ Darmstadt, **Germany**
 7 September 2018  
 Tallinn, **Estonia**
 
+[**AngularCamp 2018**](https://angularcamp.org/)  
+18-20 July 2018  
+Barcelona, **Spain**
+
 ## North America
 
 [**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
