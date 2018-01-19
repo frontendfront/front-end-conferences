@@ -79,6 +79,10 @@ St. Petersburg, **Russia**
 24-25 May 2018  
 Warsaw, **Poland**  
 
+[**You Gotta Love Frontend 2018**](http://yglf.com.ua/)  
+24-25 May 2018  
+Kyiv, **Ukraine** 
+
 [**Frontend United**](https://frontendunited.org/)  
 31 May - 3 June 2018  
 Utrecht, **The Netherlands**
