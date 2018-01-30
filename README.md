@@ -100,7 +100,7 @@ Berlin, **Germany**
 St. Petersburg, **Russia**
 
 [**DEVit**](http://devitconf.org/)  
-8–9 June 2018  
+10-11 June 2018  
 Thessaloniki, **Greece**
 
 [**enterJS 2018**](https://www.enterjs.de/)  
