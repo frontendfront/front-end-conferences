@@ -51,6 +51,10 @@ Newcastle-Upon-Tyne, **England**
 11-13 April 2018  
 London, **England**
 
+[**React Amsterdam**](https://react.amsterdam)  
+13 April 2018
+Amsterdam, **The Netherlands**
+
 [**Universal JS Day**](http://2018.universaljsday.com)  
 13 April 2018  
 Ferrara, **Italy**  
@@ -86,6 +90,10 @@ Kyiv, **Ukraine**
 [**Frontend United**](https://frontendunited.org/)  
 31 May - 3 June 2018  
 Utrecht, **The Netherlands**
+
+[**Amsterdam JSNation**](https://amsterdamjs.com/)  
+1 June 2018  
+Amsterdam, **The Netherlands**
 
 [**CSS Conf EU**](https://2018.cssconf.eu/)  
 1 June 2018  
