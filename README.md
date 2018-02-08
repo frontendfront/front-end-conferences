@@ -52,7 +52,7 @@ Newcastle-Upon-Tyne, **England**
 London, **England**
 
 [**React Amsterdam**](https://react.amsterdam)  
-13 April 2018
+13 April 2018  
 Amsterdam, **The Netherlands**
 
 [**Universal JS Day**](http://2018.universaljsday.com)  
@@ -65,7 +65,11 @@ Sofia, **Bulgaria**
 
 [**JSHeroes**](https://jsheroes.io)  
 18-20 April 2018  
-Cluj, **Romania**  
+Cluj, **Romania**
+
+[**React Finland**](https://react-finland.fi/)  
+24-26 April 2018  
+Helsinki, **Finland**
 
 [**DeltaV Conference**](https://2018.deltavconf.com)  
 10-11 May 2018  
@@ -123,8 +127,16 @@ Tallinn, **Estonia**
 18-20 July 2018  
 Barcelona, **Spain**
 
-[**dotJS 2018**](https://www.dotjs.io)
-8-9 November 2018
+[**React Native EU**](http://2018.reactjsday.it/)  
+5-6 September 2018  
+Wroclaw, **Poland**
+
+[**ReactJS Day**](http://2018.reactjsday.it/)  
+5 October 2018  
+Verona, **Italy**
+
+[**dotJS 2018**](https://www.dotjs.io)  
+8-9 November 2018  
 Paris, **France**
 
 ## North America
