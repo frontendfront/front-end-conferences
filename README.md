@@ -115,6 +115,10 @@ Tallinn, **Estonia**
 18-20 July 2018  
 Barcelona, **Spain**
 
+[**dotJS 2018**](https://www.dotjs.io)
+8-9 November 2018
+Paris, **France**
+
 ## North America
 
 [**CodeMash**](https://codemash.org)  
