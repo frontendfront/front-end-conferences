@@ -43,6 +43,10 @@ Salzburg, **Austria**
 16 March 2018  
 Manchester, **England**
 
+[**Render Conf 2018**](https://2018.render-conf.com/)  
+23 March 2018  
+Oxford, **England**
+
 [**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
 5 April 2018  
 Newcastle-Upon-Tyne, **England**
