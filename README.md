@@ -131,6 +131,14 @@ Tallinn, **Estonia**
 18-20 July 2018  
 Barcelona, **Spain**
 
+[**ScotlandCSS**](http://scotlandcss.com/)  
+18 July 2018  
+Edinburgh, **Scotland/UK**
+
+[**ScotlandJS**](http://scotlandjs.com/)  
+19-20 July 2018  
+Edinburgh, **Scotland/UK**
+
 [**React Native EU**](http://2018.reactjsday.it/)  
 5-6 September 2018  
 Wroclaw, **Poland**
