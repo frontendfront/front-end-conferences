@@ -179,6 +179,10 @@ San Jose, CA **USA**
 
 ## South America
 
+[**CSSConf Argentina**](http://cssconfar.com)  
+18 August, 2018  
+Buenos Aires, **Argentina**
+
 [**Front in BH**](https://frontinbh.com.br/)  
 23 September, 2018  
 Belo Horizonte, Minas Gerais **Brazil**
