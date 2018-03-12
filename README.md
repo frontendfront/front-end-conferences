@@ -127,7 +127,7 @@ Darmstadt, **Germany**
 7 September 2018  
 Tallinn, **Estonia**
 
-[**AngularCamp 2018**](https://angularcamp.org/)  
+[**AngularCamp 2018 - JS Conference & Workshops **](https://angularcamp.tech/)  
 18-20 July 2018  
 Barcelona, **Spain**
 
