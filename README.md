@@ -95,6 +95,10 @@ Warsaw, **Poland**
 24-25 May 2018  
 Kyiv, **Ukraine** 
 
+[**JSConf**](https://www.jsconf.be/en)  
+29-30 May 2018  
+Brugge, **Belgium**
+
 [**Frontend United**](https://frontendunited.org/)  
 31 May - 3 June 2018  
 Utrecht, **The Netherlands**
