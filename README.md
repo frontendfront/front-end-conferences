@@ -7,38 +7,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**FrontEndNorth**](https://frontendnorth.com)  
-19 January 2018  
-Sheffield, **England**
-
-[**Script'18**](https://scriptconf.org)  
-19 January 2018  
-Linz, **Austria**
-
-[**Ng-Europe**](https://ngeurope.org/)  
-1-2 February 2018  
-Paris, **France**
-
-[**Smashing Conference**](https://smashingconf.com/)  
-7-8 February 2018  
-London, **England**
-
-[**The Rolling Scopes Conference**](https://2018.conf.rollingscopes.com/)  
-10–11 February 2018  
-Minsk, **Belarus**
-
-[**Frontend Developer Conference**](http://frontenddeveloperlove.com/)  
-15 February 2018  
-Amsterdam, **The Netherlands**
-
-[**VueJS Conference**](https://www.vuejs.amsterdam/)  
-16 February 2018  
-Amsterdam, **The Netherlands**
-
-[**.concat()**](https://2018.conc.at/)  
-3 March 2018  
-Salzburg, **Austria**  
-
 [**UpFront Conf 2018**](http://upfrontconf.com)  
 16 March 2018  
 Manchester, **England**
@@ -115,6 +83,10 @@ Berlin, **Germany**
 2-3 June 2018  
 Berlin, **Germany**
 
+[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2018)  
+8 June 2018  
+Bristol, **England**
+
 [**pitercss_conf**](https://pitercss.com/)  
 8–9 June 2018  
 St. Petersburg, **Russia**
@@ -127,11 +99,7 @@ Thessaloniki, **Greece**
 19-21 June 2018  
 Darmstadt, **Germany**
 
-[**Refresh 2018**](http://refresh.rocks/)  
-7 September 2018  
-Tallinn, **Estonia**
-
-[**AngularCamp 2018 - JS Conference & Workshops **](https://angularcamp.tech/)  
+[**AngularCamp 2018 - JS Conference & Workshops**](https://angularcamp.tech/)  
 18-20 July 2018  
 Barcelona, **Spain**
 
@@ -147,39 +115,27 @@ Edinburgh, **Scotland/UK**
 5-6 September 2018  
 Wroclaw, **Poland**
 
+[**Refresh 2018**](http://refresh.rocks/)  
+7 September 2018  
+Tallinn, **Estonia**
+
 [**ReactJS Day**](http://2018.reactjsday.it/)  
 5 October 2018  
 Verona, **Italy**
+
+[**AngularConnect**](https://www.angularconnect.com/)  
+6-7 November 2018  
+London, **England**
 
 [**dotJS 2018**](https://www.dotjs.io)  
 8-9 November 2018  
 Paris, **France**
 
+[**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
+23 November 2018  
+Belfast, **Northern Ireland**
+
 ## North America
-
-[**CodeMash**](https://codemash.org)  
-9-12 January, 2018  
-Sandusky, OH **USA**
-
-[**ngAtlanta**](http://ng-atl.org)  
-30 January - 2 February, 2018  
-Atlanta, GA **USA**
-
-[**ForwardJS**](https://forwardjs.com/)  
-13 February, 2018  
-San Francisco, CA **USA**
-
-[**Index - San Francisco**](https://developer.ibm.com/indexconf/)  
-February 20-22, 2018  
-San Francisco, CA **USA**
-
-[**AssertJS Conf**](https://www.assertjs.com/)  
-22 February, 2018  
-San Antonio, TX **USA**
-
-[**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
-7-9 March, 2018  
-Monrtreal, Quebec **Canada**
 
 [**#PerfMatters**](https://perfmattersconf.com)  
 27-29 March, 2018  
