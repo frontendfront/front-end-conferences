@@ -99,6 +99,10 @@ Thessaloniki, **Greece**
 19-21 June 2018  
 Darmstadt, **Germany**
 
+[**ChernivtsiJS 2018**](https://chernivtsi.js.org/)  
+23 June 2018  
+Chernivtsi, **Ukraine**
+
 [**AngularCamp 2018 - JS Conference & Workshops**](https://angularcamp.tech/)  
 18-20 July 2018  
 Barcelona, **Spain**
