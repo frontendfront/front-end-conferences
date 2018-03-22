@@ -135,6 +135,10 @@ London, **England**
 8-9 November 2018  
 Paris, **France**
 
+[**ColdFront 2018**](https://2018.coldfront.co)  
+13-14 November 2018  
+Copenhagen, **Denmark**
+
 [**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
 23 November 2018  
 Belfast, **Northern Ireland**
