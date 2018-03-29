@@ -61,7 +61,7 @@ Warsaw, **Poland**
 
 [**You Gotta Love Frontend 2018**](http://yglf.com.ua/)  
 24-25 May 2018  
-Kyiv, **Ukraine** 
+Kyiv, **Ukraine**
 
 [**JSConf**](https://www.jsconf.be/en)  
 29-30 May 2018  
@@ -148,6 +148,10 @@ Belfast, **Northern Ireland**
 [**#PerfMatters**](https://perfmattersconf.com)  
 27-29 March, 2018  
 Redwood City, CA **USA**
+
+[**Front End Design Conference**](https://frontenddesignconference.com/)  
+25-27 April 2018  
+St. Petersburg, Florida **USA**
 
 [**The O'Reilly Fluent Conference: Building a better web**](https://conferences.oreilly.com/fluent/fl-ca)  
 11-14 June, 2018  
