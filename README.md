@@ -162,3 +162,9 @@ Buenos Aires, **Argentina**
 [**Front in BH**](https://frontinbh.com.br/)  
 23 September, 2018  
 Belo Horizonte, Minas Gerais **Brazil**
+
+## Asia
+
+[**CSSConf China**](https://css.w3ctech.com/?l=en)  
+31 March, 2018  
+Amoy(Xiamen), **China**
