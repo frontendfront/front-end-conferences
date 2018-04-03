@@ -127,6 +127,10 @@ Tallinn, **Estonia**
 5 October 2018  
 Verona, **Italy**
 
+[**JS Day**](http://2018.jsday.es/es/)  
+20 October 2018  
+Madrid, **Spain**
+
 [**AngularConnect**](https://www.angularconnect.com/)  
 6-7 November 2018  
 London, **England**
