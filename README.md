@@ -103,6 +103,10 @@ Darmstadt, **Germany**
 23 June 2018  
 Chernivtsi, **Ukraine**
 
+[**FrontinSampa**](http://frontinsampa.com.br/)  
+14 July 2018  
+São Paulo, **Brazil**
+
 [**AngularCamp 2018 - JS Conference & Workshops**](https://angularcamp.tech/)  
 18-20 July 2018  
 Barcelona, **Spain**
