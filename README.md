@@ -135,6 +135,10 @@ Verona, **Italy**
 20 October 2018  
 Madrid, **Spain**
 
+[**ReactiveConf 2018**](https://goo.gl/DEsDuY)  
+29-31 October 2018  
+Prague, **Czech Republic**
+
 [**AngularConnect**](https://www.angularconnect.com/)  
 6-7 November 2018  
 London, **England**
