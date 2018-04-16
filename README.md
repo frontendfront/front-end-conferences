@@ -171,9 +171,17 @@ San Jose, CA **USA**
 
 ## South America
 
+[**FrontinSampa**](http://frontinsampa.com.br/)  
+14 July 2018  
+São Paulo, **Brazil**
+
 [**CSSConf Argentina**](http://cssconfar.com)  
 18 August, 2018  
 Buenos Aires, **Argentina**
+
+[**Vuejs Summit**](https://vuejssummit.com/)  
+31 August - 1 September 2018  
+São Paulo, **Brazil**
 
 [**Front in BH**](https://frontinbh.com.br/)  
 23 September, 2018  
