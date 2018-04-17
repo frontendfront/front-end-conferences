@@ -103,6 +103,10 @@ Darmstadt, **Germany**
 23 June 2018  
 Chernivtsi, **Ukraine**
 
+[**FrontendCONF 2018**](hhttps://frontend.istanbul/)  
+23 June 2018  
+Istanbul, **Turkey**
+
 [**FrontinSampa**](http://frontinsampa.com.br/)  
 14 July 2018  
 São Paulo, **Brazil**
