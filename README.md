@@ -103,7 +103,7 @@ Darmstadt, **Germany**
 23 June 2018  
 Chernivtsi, **Ukraine**
 
-[**FrontendCONF 2018**](hhttps://frontend.istanbul/)  
+[**FrontendCONF 2018**](https://frontend.istanbul/)  
 23 June 2018  
 Istanbul, **Turkey**
 
