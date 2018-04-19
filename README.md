@@ -192,3 +192,9 @@ Belo Horizonte, Minas Gerais **Brazil**
 [**CSSConf China**](https://css.w3ctech.com/?l=en)  
 31 March, 2018  
 Amoy(Xiamen), **China**
+
+## Australia
+
+[**Angular Conf Australia**](https://www.angularconf.com.au/)  
+22 June, 2018  
+Melbourne, **Australia**
