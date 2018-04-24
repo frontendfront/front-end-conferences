@@ -147,8 +147,12 @@ Prague, **Czech Republic**
 6-7 November 2018  
 London, **England**
 
+[**dotCSS 2018**](https://www.dotcss.io)  
+8 November 2018  
+Paris, **France**
+
 [**dotJS 2018**](https://www.dotjs.io)  
-8-9 November 2018  
+9 November 2018  
 Paris, **France**
 
 [**ColdFront 2018**](https://2018.coldfront.co)  
