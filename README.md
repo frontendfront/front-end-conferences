@@ -135,6 +135,10 @@ Tallinn, **Estonia**
 5 October 2018  
 Verona, **Italy**
 
+[**iJS Conf**](https://javascript-conference.com/)  
+15-19 October 2018  
+Munich, **Germany**
+
 [**JS Day**](http://2018.jsday.es/es/)  
 20 October 2018  
 Madrid, **Spain**
