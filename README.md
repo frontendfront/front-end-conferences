@@ -102,6 +102,10 @@ Belfast, **Northern Ireland**
 11-14 June, 2018  
 San Jose, CA **USA**
 
+[**JSCamp Chicago**](https://chicagojs.org/)  
+22 September, 2018  
+Chicago, IL **USA**
+
 ## South America
 
 [**FrontinSampa**](http://frontinsampa.com.br/)  
