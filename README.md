@@ -72,6 +72,10 @@ Munich, **Germany**
 20 October 2018  
 Madrid, **Spain**
 
+[**Refresh Conference 2018**](https://refreshconference.nl)  
+26 October 2018  
+Groningen, **The Netherlands**
+
 [**ReactiveConf 2018**](https://goo.gl/DEsDuY)  
 29-31 October 2018  
 Prague, **Czech Republic**
