@@ -60,6 +60,10 @@ Wroclaw, **Poland**
 7 September 2018  
 Tallinn, **Estonia**
 
+[**Fronteers 2018**](https://fronteers.nl/congres/2018)  
+4-5 October 2018  
+Amsterdam, **The Netherlands**
+
 [**ReactJS Day**](http://2018.reactjsday.it/)  
 5 October 2018  
 Verona, **Italy**
