@@ -72,6 +72,10 @@ Verona, **Italy**
 15-19 October 2018  
 Munich, **Germany**
 
+[**International PHP Conference 2018**](https://phpconference.com)  
+15-19 October 2018 
+Munich, **Germany**
+
 [**JS Day**](http://2018.jsday.es/es/)  
 20 October 2018  
 Madrid, **Spain**
