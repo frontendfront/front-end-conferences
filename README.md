@@ -72,6 +72,10 @@ Verona, **Italy**
 15-19 October 2018  
 Munich, **Germany**
 
+[**Mirror Conf 2018**](https://www.mirrorconf.com/)
+15-19 October 2018
+Braga, **Portugal**
+
 [**JS Day**](http://2018.jsday.es/es/)  
 20 October 2018  
 Madrid, **Spain**
