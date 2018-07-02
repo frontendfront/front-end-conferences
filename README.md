@@ -104,6 +104,12 @@ Copenhagen, **Denmark**
 23 November 2018  
 Belfast, **Northern Ireland**
 
+## Japan
+
+[**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
+8 December, 2018  
+Fukuoka, **Japan*
+
 ## North America
 
 [**The O'Reilly Fluent Conference: Building a better web**](https://conferences.oreilly.com/fluent/fl-ca)  
