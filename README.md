@@ -4,6 +4,12 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
+## Asia
+
+[**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
+8 December, 2018  
+Fukuoka, **Japan*
+
 ## Australia
 
 [**Angular Conf Australia**](https://www.angularconf.com.au/)  
@@ -11,34 +17,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 Melbourne, **Australia**
 
 ## Europe
-
-[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2018)  
-8 June 2018  
-Bristol, **England**
-
-[**pitercss_conf**](https://pitercss.com/)  
-8–9 June 2018  
-St. Petersburg, **Russia**
-
-[**DEVit**](http://devitconf.org/)  
-10-11 June 2018  
-Thessaloniki, **Greece**
-
-[**FrontCon 2018**](https://frontcon.lv/)  
-14-15 June 2018  
-Riga, **Latvia**
-
-[**enterJS 2018**](https://www.enterjs.de/)  
-19-21 June 2018  
-Darmstadt, **Germany**
-
-[**ChernivtsiJS 2018**](https://chernivtsi.js.org/)  
-23 June 2018  
-Chernivtsi, **Ukraine**
-
-[**FrontendCONF 2018**](https://frontend.istanbul/)  
-23 June 2018  
-Istanbul, **Turkey**
 
 [**AngularCamp 2018 - JS Conference & Workshops**](https://angularcamp.tech/)  
 18-20 July 2018  
@@ -72,8 +50,8 @@ Verona, **Italy**
 15-19 October 2018  
 Munich, **Germany**
 
-[**Mirror Conf 2018**](https://www.mirrorconf.com/)
-15-19 October 2018
+[**Mirror Conf 2018**](https://www.mirrorconf.com/)  
+15-19 October 2018  
 Braga, **Portugal**
 
 [**JS Day**](http://2018.jsday.es/es/)  
@@ -108,17 +86,7 @@ Copenhagen, **Denmark**
 23 November 2018  
 Belfast, **Northern Ireland**
 
-## Japan
-
-[**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
-8 December, 2018  
-Fukuoka, **Japan*
-
 ## North America
-
-[**The O'Reilly Fluent Conference: Building a better web**](https://conferences.oreilly.com/fluent/fl-ca)  
-11-14 June, 2018  
-San Jose, CA **USA**
 
 [**JSCamp Chicago**](https://chicagojs.org/)  
 22 September, 2018  
