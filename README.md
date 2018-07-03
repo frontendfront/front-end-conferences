@@ -118,6 +118,10 @@ San Jose, CA **USA**
 22 September, 2018  
 Chicago, IL **USA**
 
+[**JS Interactive**](https://events.linuxfoundation.org/events/js-interactive-2018/)  
+10-12 October, 2018  
+Vancouver, **Canada**
+
 ## South America
 
 [**FrontinSampa**](http://frontinsampa.com.br/)  
