@@ -86,6 +86,10 @@ Copenhagen, **Denmark**
 23 November 2018  
 Belfast, **Northern Ireland**
 
+[**FRONTEND CON 2018**](http://www.frontend-con.io/)  
+4-5 December 2018  
+Warsaw, **Poland**
+
 ## North America
 
 [**JSCamp Chicago**](https://chicagojs.org/)  
