@@ -96,6 +96,10 @@ Chicago, IL **USA**
 10-12 October, 2018  
 Vancouver, **Canada**
 
+[**CONNECT.TECH**](https://connect.tech)  
+17-19 October, 2018  
+Atlanta, **USA**
+
 ## South America
 
 [**FrontinSampa**](http://frontinsampa.com.br/)  
