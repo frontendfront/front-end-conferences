@@ -38,6 +38,10 @@ Wroclaw, **Poland**
 7 September 2018  
 Tallinn, **Estonia**
 
+[**SmashingConf Freiburg**](https://smashingconf.com/)  
+10-11 September 2018
+Freiburg, **Germany**
+
 [**Fronteers 2018**](https://fronteers.nl/congres/2018)  
 4-5 October 2018  
 Amsterdam, **The Netherlands**
@@ -103,6 +107,10 @@ Vancouver, **Canada**
 [**CONNECT.TECH**](https://connect.tech)  
 17-19 October, 2018  
 Atlanta, **USA**
+
+[**SmashingConf NY**](https://smashingconf.com/ny-2018/)  
+23-24 October, 2018  
+New York, **USA**
 
 ## South America
 
