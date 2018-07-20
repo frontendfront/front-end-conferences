@@ -8,13 +8,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 [**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
 8 December, 2018  
-Fukuoka, **Japan*
-
-## Australia
-
-[**Angular Conf Australia**](https://www.angularconf.com.au/)  
-22 June, 2018  
-Melbourne, **Australia**
+Fukuoka, **Japan**
 
 ## Europe
 
@@ -39,8 +33,12 @@ Wroclaw, **Poland**
 Tallinn, **Estonia**
 
 [**SmashingConf Freiburg**](https://smashingconf.com/)  
-10-11 September 2018
+10-11 September 2018  
 Freiburg, **Germany**
+
+[**CSS-Minsk-JS Conference**](http://css-minsk-js.by/)  
+21-22 September, 2018  
+Minsk, **Belarus**
 
 [**Fronteers 2018**](https://fronteers.nl/congres/2018)  
 4-5 October 2018  
@@ -74,8 +72,8 @@ Prague, **Czech Republic**
 6-7 November 2018  
 London, **England**
 
-[**ffconf 2018**](https://2018.ffconf.org)
-8 or 9 November 2018 (repeated)
+[**ffconf 2018**](https://2018.ffconf.org)  
+8 or 9 November 2018 (repeated)  
 Brighton, **UK**
 
 
@@ -118,10 +116,6 @@ Atlanta, **USA**
 New York, **USA**
 
 ## South America
-
-[**FrontinSampa**](http://frontinsampa.com.br/)  
-14 July 2018  
-São Paulo, **Brazil**
 
 [**CSSConf Argentina**](http://cssconfar.com)  
 18 August, 2018  
