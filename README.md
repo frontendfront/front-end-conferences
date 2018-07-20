@@ -74,6 +74,11 @@ Prague, **Czech Republic**
 6-7 November 2018  
 London, **England**
 
+[**ffconf 2018**](https://2018.ffconf.org)
+8 or 9 November 2018 (repeated)
+Brighton, **UK**
+
+
 [**dotCSS 2018**](https://www.dotcss.io)  
 8 November 2018  
 Paris, **France**
