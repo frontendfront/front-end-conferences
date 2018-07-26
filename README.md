@@ -52,7 +52,6 @@ Verona, **Italy**
 11-12 October 2018  
 Amsterdam, **Nederlands**
 
-
 [**iJS Conf**](https://javascript-conference.com/)  
 15-19 October 2018  
 Munich, **Germany**
