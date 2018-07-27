@@ -12,6 +12,14 @@ Fukuoka, **Japan**
 
 ## Europe
 
+[**We ❤️ Speed**](https://www.welovespeed.com/en/)  
+9 October 2018  
+Bordeaux, **France**
+
+[**Paris Web**](https://www.paris-web.fr/)  
+4-6 October 2018  
+Paris, **France**
+
 [**AngularCamp 2018 - JS Conference & Workshops**](https://angularcamp.tech/)  
 18-20 July 2018  
 Barcelona, **Spain**
