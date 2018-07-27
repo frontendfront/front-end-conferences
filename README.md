@@ -93,6 +93,10 @@ Copenhagen, **Denmark**
 23 November 2018  
 Belfast, **Northern Ireland**
 
+[**React Day Berlin**](https://reactday.berlin)  
+30 November 2018  
+Berlin, **Germany**  
+
 [**FRONTEND CON 2018**](http://www.frontend-con.io/)  
 4-5 December 2018  
 Warsaw, **Poland**
