@@ -44,9 +44,17 @@ Minsk, **Belarus**
 4-5 October 2018  
 Amsterdam, **The Netherlands**
 
+[**Paris Web**](https://www.paris-web.fr/)  
+4-6 October 2018  
+Paris, **France**
+
 [**ReactJS Day**](http://2018.reactjsday.it/)  
 5 October 2018  
 Verona, **Italy**
+
+[**We ❤️ Speed**](https://www.welovespeed.com/en/)  
+9 October 2018  
+Bordeaux, **France**
 
 [**EmberFest**](https://emberfest.eu/)  
 11-12 October 2018  
