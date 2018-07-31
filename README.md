@@ -119,7 +119,7 @@ Atlanta, **USA**
 New York, **USA**
 
 [**VueConfTO**](https://vuetoronto.com/)  
-14-16 November, 2018 
+14-16 November, 2018  
 Toronto, **Canada**
 
 ## South America
