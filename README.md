@@ -12,18 +12,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**AngularCamp 2018 - JS Conference & Workshops**](https://angularcamp.tech/)  
-18-20 July 2018  
-Barcelona, **Spain**
-
-[**ScotlandCSS**](http://scotlandcss.com/)  
-18 July 2018  
-Edinburgh, **Scotland/UK**
-
-[**ScotlandJS**](http://scotlandjs.com/)  
-19-20 July 2018  
-Edinburgh, **Scotland/UK**
-
 [**React Native EU**](http://2018.reactjsday.it/)  
 5-6 September 2018  
 Wroclaw, **Poland**
@@ -88,7 +76,6 @@ London, **England**
 8 or 9 November 2018 (repeated)  
 Brighton, **UK**
 
-
 [**dotCSS 2018**](https://www.dotcss.io)  
 8 November 2018  
 Paris, **France**
@@ -130,6 +117,10 @@ Atlanta, **USA**
 [**SmashingConf NY**](https://smashingconf.com/ny-2018/)  
 23-24 October, 2018  
 New York, **USA**
+
+[**VueConfTO**](https://vuetoronto.com/)  
+14-16 November, 2018 
+Toronto, **Canada**
 
 ## South America
 
