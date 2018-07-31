@@ -56,6 +56,10 @@ Verona, **Italy**
 9 October 2018  
 Bordeaux, **France**
 
+[**EmberFest**](https://emberfest.eu/)  
+11-12 October 2018  
+Amsterdam, **Nederlands**
+
 [**iJS Conf**](https://javascript-conference.com/)  
 15-19 October 2018  
 Munich, **Germany**
@@ -100,6 +104,10 @@ Copenhagen, **Denmark**
 [**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
 23 November 2018  
 Belfast, **Northern Ireland**
+
+[**React Day Berlin**](https://reactday.berlin)  
+30 November 2018  
+Berlin, **Germany**  
 
 [**FRONTEND CON 2018**](http://www.frontend-con.io/)  
 4-5 December 2018  
