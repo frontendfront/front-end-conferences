@@ -40,6 +40,10 @@ Paris, **France**
 5 October 2018  
 Verona, **Italy**
 
+[**JSCamp Barcelona**](https://jscamp.tech)  
+16-19 July 2019 
+Barcelona, **Spain**
+
 [**We ❤️ Speed**](https://www.welovespeed.com/en/)  
 9 October 2018  
 Bordeaux, **France**
