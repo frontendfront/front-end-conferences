@@ -44,10 +44,6 @@ Paris, **France**
 5 October 2018  
 Verona, **Italy**
 
-[**JSCamp Barcelona**](https://jscamp.tech)  
-16-19 July 2019 
-Barcelona, **Spain**
-
 [**We ❤️ Speed**](https://www.welovespeed.com/en/)  
 9 October 2018  
 Bordeaux, **France**
@@ -108,6 +104,10 @@ Berlin, **Germany**
 4-5 December 2018  
 Warsaw, **Poland**
 
+[**JSCamp Barcelona**](https://jscamp.tech)  
+16-19 July 2019  
+Barcelona, **Spain**
+
 ## North America
 
 [**JSCamp Chicago**](https://chicagojs.org/)  
@@ -131,10 +131,6 @@ New York, **USA**
 Toronto, **Canada**
 
 ## South America
-
-[**CSSConf Argentina**](http://cssconfar.com)  
-18 August, 2018  
-Buenos Aires, **Argentina**
 
 [**Vuejs Summit**](https://vuejssummit.com/)  
 31 August - 1 September 2018  
