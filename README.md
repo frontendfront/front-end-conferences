@@ -24,6 +24,10 @@ Tallinn, **Estonia**
 10-11 September 2018  
 Freiburg, **Germany**
 
+[**Vue.js London**](https://vuejs.london/)  
+20-21 September, 2018  
+London, **United Kingdom**
+
 [**CSS-Minsk-JS Conference**](http://css-minsk-js.by/)  
 21-22 September, 2018  
 Minsk, **Belarus**
