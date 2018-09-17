@@ -4,164 +4,138 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
-
 ## Asia
-[**Form Function & Class 8**](http://2017.formfunctionclass.com)  
-16 September 2017  
-Manila, **Philippines**
 
-
-## Africa
-
-[**Source Up!**](https://sourceup.co.za/)  
-18-20 September, 2017  
-Johannesburg, **South Africa**
-
+[**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
+8 December, 2018  
+Fukuoka, **Japan**
 
 ## Europe
 
-[**FrontTalks**](http://fronttalks.ru/)  
-16-17 September, 2017  
-Ekaterinburg, **Russia**
-
-[**Full Stack Fest 2017**](http://2017.fullstackfest.com/)  
-4-8 September, 2017  
-Barcelona, **Spain**
-
-[**FRONTEND CON 2017**](http://frontend-con.io/)  
-22-23 September, 2017  
-Warsaw, **Poland**
-
-[**KrakowJS Conf 2017**](http://conf.krakowjs.pl/)  
-29 September, 2017  
-Cracow, **Poland**
-
-[**Frontend Dev Conf 2017**](https://fdconf.by/)  
-30 September, 2017  
-Minsk, **Belarus**
-
-[**Fronteers Conference 2017**](https://fronteers.nl/congres/2017)  
-5-6 October, 2017  
-Amsterdam, **Netherlands**
-
-[**React Day 2017**](http://2017.reactjsday.it/)  
-06 October, 2017  
-Verona, **Italy**
-
-[**Mirror Conf 2017**](http://www.mirrorconf.com/)  
-10-13 October, 2017  
-Braga, **Portugal**
-
-[**RuhrJS 2017**](https://2017.ruhrjs.de/)  
-14-15 October, 2017  
-Bochum, **Germany**
-
-[**iJS International JavaScript Conference**](https://javascript-conference.com/)  
-23-27 October, 2017  
-München, **Germany**
-
-[**AngularConnect**](http://angularconnect.com/)  
-7-8 November, 2017  
-London, **England**
-
-[**FFConf**](http://ffconf.org/)  
-9-10 November, 2017  
-Brighton, **England**
-
-[**JS Kongress Munich 2017 - The Future of JavaScript**](https://js-kongress.de/)  
-13-14 November, 2017  
-Munich, **Germany**
-
-[**HalfStack 2017**](http://halfstackconf.com/)  
-17 November, 2017  
-London, **England**
-
-[**NG Poland**](http://www.ng-poland.pl/)  
-20 November, 2017  
-Warsaw, **Poland**
-
-[**dotCSS 2017**](https://www.dotcss.io/)  
-30 November – 1 December, 2017   
-Paris, **France**
-
-[**dotJS 2017**](https://www.dotjs.io/)  
-30 November – 1 December, 2017   
-Paris, **France**
-
-[**Frontend Conference Munich**](https://frontconf.com/)  
-8-9 December, 2017  
-Munich, **Germany**
-
-[**HolyJS Moscow**](https://holyjs-moscow.ru/en/)  
-10-11 December, 2017  
-Moscow, **Russian Federation**
-
-[**React Native EU 2017**](http://react-native.eu/)  
-Fall 2017  
+[**React Native EU**](http://2018.reactjsday.it/)  
+5-6 September 2018  
 Wroclaw, **Poland**
 
-[**Script'18**](https://scriptconf.org)  
-19 January, 2018  
-Linz, **Austria**
+[**Refresh 2018**](http://refresh.rocks/)  
+7 September 2018  
+Tallinn, **Estonia**
 
-[**Ng-Europe**](https://ngeurope.org/)  
-1-2 February 2018  
+[**SmashingConf Freiburg**](https://smashingconf.com/)  
+10-11 September 2018  
+Freiburg, **Germany**
+
+[**Vue.js London**](https://vuejs.london/)  
+20-21 September, 2018  
+London, **United Kingdom**
+
+[**CSS-Minsk-JS Conference**](http://css-minsk-js.by/)  
+21-22 September, 2018  
+Minsk, **Belarus**
+
+[**Fronteers 2018**](https://fronteers.nl/congres/2018)  
+4-5 October 2018  
+Amsterdam, **The Netherlands**
+
+[**Paris Web**](https://www.paris-web.fr/)  
+4-6 October 2018  
 Paris, **France**
 
-[**.concat()**](https://2018.conc.at/)  
-3 March 2018  
-Salzburg, **Austria**  
+[**ReactJS Day**](http://2018.reactjsday.it/)  
+5 October 2018  
+Verona, **Italy**
 
-[**Frontend NE: The Conference**](https://2018.frontendne.co.uk)  
-April 5th 2018  
-Newcastle-Upon-Tyne, **England**
+[**We ❤️ Speed**](https://www.welovespeed.com/en/)  
+9 October 2018  
+Bordeaux, **France**
 
-## Middle East
+[**EmberFest**](https://emberfest.eu/)  
+11-12 October 2018  
+Amsterdam, **Nederlands**
 
-[**You Gotta Love Frontend**](https://www.yougottalovefrontend.com/)  
-30-31 October, 2017  
-Tel Aviv, **Israel**
+[**iJS Conf**](https://javascript-conference.com/)  
+15-19 October 2018  
+Munich, **Germany**
 
+[**Mirror Conf 2018**](https://www.mirrorconf.com/)  
+15-19 October 2018  
+Braga, **Portugal**
+
+[**JS Day**](http://2018.jsday.es/es/)  
+20 October 2018  
+Madrid, **Spain**
+
+[**Refresh Conference 2018**](https://refreshconference.nl)  
+26 October 2018  
+Groningen, **The Netherlands**
+
+[**ReactiveConf 2018**](https://goo.gl/DEsDuY)  
+29-31 October 2018  
+Prague, **Czech Republic**
+
+[**AngularConnect**](https://www.angularconnect.com/)  
+6-7 November 2018  
+London, **England**
+
+[**ffconf 2018**](https://2018.ffconf.org)  
+8 or 9 November 2018 (repeated)  
+Brighton, **UK**
+
+[**dotCSS 2018**](https://www.dotcss.io)  
+8 November 2018  
+Paris, **France**
+
+[**dotJS 2018**](https://www.dotjs.io)  
+9 November 2018  
+Paris, **France**
+
+[**ColdFront 2018**](https://2018.coldfront.co)  
+13-14 November 2018  
+Copenhagen, **Denmark**
+
+[**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
+23 November 2018  
+Belfast, **Northern Ireland**
+
+[**React Day Berlin**](https://reactday.berlin)  
+30 November 2018  
+Berlin, **Germany**  
+
+[**FRONTEND CON 2018**](http://www.frontend-con.io/)  
+4-5 December 2018  
+Warsaw, **Poland**
+
+[**JSCamp Barcelona**](https://jscamp.tech)  
+16-19 July 2019  
+Barcelona, **Spain**
 
 ## North America
 
-[**UtahJS**](https://conf.utahjs.com/)  
-18 September, 2017  
-Salt Lake City, Utah **USA**
+[**JSCamp Chicago**](https://chicagojs.org/)  
+22 September, 2018  
+Chicago, IL **USA**
 
-[**CONNECT.TECH**](http://connect.tech/)  
-20-24 September, 2017  
-Atlanta, Georgia **USA**
+[**JS Interactive**](https://events.linuxfoundation.org/events/js-interactive-2018/)  
+10-12 October, 2018  
+Vancouver, **Canada**
 
-[**React Boston**](http://www.reactboston.com/)  
-23-24 September, 2017  
-Boston, Massachusetts **USA**
+[**CONNECT.TECH**](https://connect.tech)  
+17-19 October, 2018  
+Atlanta, **USA**
 
-[**ConFoo Vancouver**](https://confoo.ca/en/yvr2017)  
-4-6 December, 2017  
-Vancouver, British Columbia **Canada**
+[**SmashingConf NY**](https://smashingconf.com/ny-2018/)  
+23-24 October, 2018  
+New York, **USA**
 
-[**CodeMash**](https://codemash.org)  
-9-12 January, 2018  
-Sandusky, OH **USA**
-
-[**ConFoo Montreal**](https://confoo.ca/en/yul2018)  
-7-9 March, 2018  
-Monrtreal, Quebec **Canada**
-
-[**#PerfMatters**](https://perfmattersconf.com)  
-27-29 March, 2018  
-Redwood City, CA **USA**
+[**VueConfTO**](https://vuetoronto.com/)  
+14-16 November, 2018  
+Toronto, **Canada**
 
 ## South America
 
-[**BrazilJS**](https://braziljs.org/conf/)  
-25-26 August, 2017  
-Porto Alegre, Rio Grande do Sul **Brazil** 
+[**Vuejs Summit**](https://vuejssummit.com/)  
+31 August - 1 September 2018  
+São Paulo, **Brazil**
 
-01-02 September, 2017  
-Fortaleza, Ceará **Brazil**
-
-[**NodeConf Argentina**](https://2017.nodeconf.com.ar/)  
-26-28 October, 2017  
-Buenos Aires, **Argentina** 
+[**Front in BH**](https://frontinbh.com.br/)  
+23 September, 2018  
+Belo Horizonte, Minas Gerais **Brazil**
