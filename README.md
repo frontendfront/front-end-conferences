@@ -104,6 +104,10 @@ Berlin, **Germany**
 4-5 December 2018  
 Warsaw, **Poland**
 
+[**JS Kongress 2019 - (r)evolution of Architectures **](https://js-kongress.com/)  
+11-12 March 2019  
+Munich, **Germany**
+
 [**JSCamp Barcelona**](https://jscamp.tech)  
 16-19 July 2019  
 Barcelona, **Spain**
