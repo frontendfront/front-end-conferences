@@ -104,6 +104,10 @@ Berlin, **Germany**
 4-5 December 2018  
 Warsaw, **Poland**
 
+[**FrontFest 2019**](https://frontfest.es)  
+9 February 2019  
+Madrid, **Spain**
+
 [**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
 13-15 March 2019  
 Montreal, **Canada**
