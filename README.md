@@ -104,9 +104,17 @@ Berlin, **Germany**
 4-5 December 2018  
 Warsaw, **Poland**
 
-[**JS Kongress 2019 - (r)evolution of Architectures **](https://js-kongress.com/)  
+[**FrontFest 2019**](https://frontfest.es)  
+9 February 2019  
+Madrid, **Spain**
+
+[**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
 11-12 March 2019  
 Munich, **Germany**
+
+[**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
+13-15 March 2019  
+Montreal, **Canada**
 
 [**JSCamp Barcelona**](https://jscamp.tech)  
 16-19 July 2019  
