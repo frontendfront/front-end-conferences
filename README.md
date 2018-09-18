@@ -104,6 +104,10 @@ Berlin, **Germany**
 4-5 December 2018  
 Warsaw, **Poland**
 
+[**FrontFest 2019**](https://frontfest.es)  
+9 February 2019  
+Madrid, **Spain**
+
 [**JSCamp Barcelona**](https://jscamp.tech)  
 16-19 July 2019  
 Barcelona, **Spain**
