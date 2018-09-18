@@ -108,6 +108,10 @@ Warsaw, **Poland**
 9 February 2019  
 Madrid, **Spain**
 
+[**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
+11-12 March 2019  
+Munich, **Germany**
+
 [**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
 13-15 March 2019  
 Montreal, **Canada**
