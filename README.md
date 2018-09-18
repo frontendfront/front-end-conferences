@@ -12,18 +12,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**React Native EU**](http://2018.reactjsday.it/)  
-5-6 September 2018  
-Wroclaw, **Poland**
-
-[**Refresh 2018**](http://refresh.rocks/)  
-7 September 2018  
-Tallinn, **Estonia**
-
-[**SmashingConf Freiburg**](https://smashingconf.com/)  
-10-11 September 2018  
-Freiburg, **Germany**
-
 [**Vue.js London**](https://vuejs.london/)  
 20-21 September, 2018  
 London, **United Kingdom**
