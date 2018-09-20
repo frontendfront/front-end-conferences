@@ -80,6 +80,10 @@ Paris, **France**
 13-14 November 2018  
 Copenhagen, **Denmark**
 
+[**FrontMania 2018**](http://www.frontmania.com/conference/welcome)  
+16 November 2018  
+Utrecht, **The Netherlands**
+
 [**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
 23 November 2018  
 Belfast, **Northern Ireland**
