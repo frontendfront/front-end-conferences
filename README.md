@@ -80,6 +80,14 @@ Paris, **France**
 13-14 November 2018  
 Copenhagen, **Denmark**
 
+[**NG-Poland**](http://ng-poland.pl/)
+15 Novemver 2018
+Warsaw, **Poland**
+
+[**JS-Poland**](http://js-poland.pl/)
+16 November 2018
+Warsaw, **Poland**
+
 [**FrontMania 2018**](http://www.frontmania.com/conference/welcome)  
 16 November 2018  
 Utrecht, **The Netherlands**
