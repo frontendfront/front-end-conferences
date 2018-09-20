@@ -80,12 +80,12 @@ Paris, **France**
 13-14 November 2018  
 Copenhagen, **Denmark**
 
-[**NG-Poland**](http://ng-poland.pl/)
-15 Novemver 2018
+[**NG-Poland**](http://ng-poland.pl/)  
+15 Novemver 2018  
 Warsaw, **Poland**
 
-[**JS-Poland**](http://js-poland.pl/)
-16 November 2018
+[**JS-Poland**](http://js-poland.pl/)  
+16 November 2018  
 Warsaw, **Poland**
 
 [**FrontMania 2018**](http://www.frontmania.com/conference/welcome)  
@@ -95,6 +95,10 @@ Utrecht, **The Netherlands**
 [**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
 23 November 2018  
 Belfast, **Northern Ireland**
+
+[**Vuejs Roadtrip Berlin**](https://www.eventbrite.co.uk/e/vuejs-roadtrip-berlin-tickets-43925232553#tickets)  
+23 November 2018  
+Berlin, **Germany**
 
 [**React Day Berlin**](https://reactday.berlin)  
 30 November 2018  
@@ -108,6 +112,14 @@ Warsaw, **Poland**
 9 February 2019  
 Madrid, **Spain**
 
+[**Frontend Developer Love**](http://www.frontenddeveloperlove.com/)  
+13 February 2019  
+Amsterdam, **The Netherlands**
+
+[**Vuejs Amsterdam**](http://www.vuejs.amsterdam/)  
+14-15 February 2019  
+Amsterdam, **The Netherlands**
+
 [**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
 11-12 March 2019  
 Munich, **Germany**
@@ -115,6 +127,14 @@ Munich, **Germany**
 [**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
 13-15 March 2019  
 Montreal, **Canada**
+
+[**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
+25 May 2019  
+Barcelona, **Spain**
+
+[**Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
+29 June 2019  
+Paris, **France**
 
 [**JSCamp Barcelona**](https://jscamp.tech)  
 16-19 July 2019  
