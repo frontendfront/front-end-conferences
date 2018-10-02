@@ -122,7 +122,7 @@ Amsterdam, **The Netherlands**
 
 [**ReactEurope**](https://www.react-europe.org/)  
 23-24 May 2019  
-Paris, *France**
+Paris, **France**
 
 [**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
