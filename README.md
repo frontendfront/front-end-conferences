@@ -128,6 +128,10 @@ Munich, **Germany**
 13-15 March 2019  
 Montreal, **Canada**
 
+[**JSHeroes**](https://jsheroes.io/)  
+11-12 April 2019  
+Cluj, **Romania**
+
 [**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
 Barcelona, **Spain**
