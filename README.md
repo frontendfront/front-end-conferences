@@ -12,14 +12,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**Vue.js London**](https://vuejs.london/)  
-20-21 September, 2018  
-London, **United Kingdom**
-
-[**CSS-Minsk-JS Conference**](http://css-minsk-js.by/)  
-21-22 September, 2018  
-Minsk, **Belarus**
-
 [**Fronteers 2018**](https://fronteers.nl/congres/2018)  
 4-5 October 2018  
 Amsterdam, **The Netherlands**
@@ -132,9 +124,13 @@ Amsterdam, **The Netherlands**
 11-12 March 2019  
 Munich, **Germany**
 
-[**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
-13-15 March 2019  
-Montreal, **Canada**
+[**React Amsterdam**](https://react.amsterdam/)  
+12 April 2019  
+Amsterdam, **The Netherlands**
+
+[**ReactEurope**](https://www.react-europe.org/)  
+23-24 May 2019  
+Paris, **France**
 
 [**JSHeroes**](https://jsheroes.io/)  
 11-12 April 2019  
@@ -143,6 +139,10 @@ Cluj, **Romania**
 [**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
 Barcelona, **Spain**
+
+[**enterJS 2019**](https://www.enterjs.de/)  
+25-28 June 2019  
+Darmstadt, **Germany**
 
 [**Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
 29 June 2019  
@@ -173,6 +173,10 @@ New York, **USA**
 [**VueConfTO**](https://vuetoronto.com/)  
 14-16 November, 2018  
 Toronto, **Canada**
+
+[**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
+13-15 March 2019  
+Montreal, **Canada**
 
 ## South America
 
