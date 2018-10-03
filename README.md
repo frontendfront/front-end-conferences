@@ -56,6 +56,10 @@ Madrid, **Spain**
 26 October 2018  
 Groningen, **The Netherlands**
 
+[**ConFrontJS 2018**](https://confrontjs.com/)  
+29 October 2018  
+Warsaw, **Poland**
+
 [**ReactiveConf 2018**](https://goo.gl/DEsDuY)  
 29-31 October 2018  
 Prague, **Czech Republic**
