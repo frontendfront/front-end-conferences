@@ -132,6 +132,10 @@ Amsterdam, **The Netherlands**
 23-24 May 2019  
 Paris, **France**
 
+[**You Gotta Love Frontend (YGLF)**](https://www.yougottalovefrontend.com)
+16-17 May 2019
+Vilnius, **Lithuania**
+
 [**JSHeroes**](https://jsheroes.io/)  
 11-12 April 2019  
 Cluj, **Romania**
