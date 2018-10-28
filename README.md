@@ -140,6 +140,10 @@ Vilnius, **Lithuania**
 11-12 April 2019  
 Cluj, **Romania**
 
+[**International JavaScript Conference**](https://javascript-conference.com/)  
+13-15 May 2019  
+London, **UK**
+
 [**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
 Barcelona, **Spain**
