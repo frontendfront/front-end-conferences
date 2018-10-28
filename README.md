@@ -124,6 +124,10 @@ Amsterdam, **The Netherlands**
 11-12 March 2019  
 Munich, **Germany**
 
+[**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
+April 3rd 2019  
+Newcastle-Upon-Tyne, **England**
+
 [**React Amsterdam**](https://react.amsterdam/)  
 12 April 2019  
 Amsterdam, **The Netherlands**
