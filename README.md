@@ -128,6 +128,10 @@ Munich, **Germany**
 April 3rd 2019  
 Newcastle-Upon-Tyne, **England**
 
+[**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)
+5 April 2019
+Amsterdam, **The Netherlands**
+
 [**React Amsterdam**](https://react.amsterdam/)  
 12 April 2019  
 Amsterdam, **The Netherlands**
