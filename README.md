@@ -12,50 +12,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**Fronteers 2018**](https://fronteers.nl/congres/2018)  
-4-5 October 2018  
-Amsterdam, **The Netherlands**
-
-[**Paris Web**](https://www.paris-web.fr/)  
-4-6 October 2018  
-Paris, **France**
-
-[**ReactJS Day**](http://2018.reactjsday.it/)  
-5 October 2018  
-Verona, **Italy**
-
-[**We ❤️ Speed**](https://www.welovespeed.com/en/)  
-9 October 2018  
-Bordeaux, **France**
-
-[**EmberFest**](https://emberfest.eu/)  
-11-12 October 2018  
-Amsterdam, **Nederlands**
-
-[**iJS Conf**](https://javascript-conference.com/)  
-15-19 October 2018  
-Munich, **Germany**
-
-[**Mirror Conf 2018**](https://www.mirrorconf.com/)  
-15-19 October 2018  
-Braga, **Portugal**
-
-[**JS Day**](http://2018.jsday.es/es/)  
-20 October 2018  
-Madrid, **Spain**
-
-[**Refresh Conference 2018**](https://refreshconference.nl)  
-26 October 2018  
-Groningen, **The Netherlands**
-
-[**ConFrontJS 2018**](https://confrontjs.com/)  
-29 October 2018  
-Warsaw, **Poland**
-
-[**ReactiveConf 2018**](https://goo.gl/DEsDuY)  
-29-31 October 2018  
-Prague, **Czech Republic**
-
 [**AngularConnect**](https://www.angularconnect.com/)  
 6-7 November 2018  
 London, **England**
@@ -77,7 +33,7 @@ Paris, **France**
 Copenhagen, **Denmark**
 
 [**NG-Poland**](http://ng-poland.pl/)  
-15 Novemver 2018  
+15 November 2018  
 Warsaw, **Poland**
 
 [**JS-Poland**](http://js-poland.pl/)  
@@ -125,12 +81,16 @@ Amsterdam, **The Netherlands**
 Munich, **Germany**
 
 [**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
-April 3rd 2019  
+3 April 2019  
 Newcastle-Upon-Tyne, **England**
 
-[**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)
-5 April 2019
+[**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)  
+5 April 2019  
 Amsterdam, **The Netherlands**
+
+[**JSHeroes**](https://jsheroes.io/)  
+11-12 April 2019  
+Cluj, **Romania**
 
 [**React Amsterdam**](https://react.amsterdam/)  
 12 April 2019  
@@ -143,10 +103,6 @@ Paris, **France**
 [**You Gotta Love Frontend (YGLF)**](https://www.yougottalovefrontend.com)  
 16-17 May 2019  
 Vilnius, **Lithuania**  
-
-[**JSHeroes**](https://jsheroes.io/)  
-11-12 April 2019  
-Cluj, **Romania**
 
 [**International JavaScript Conference**](https://javascript-conference.com/)  
 13-15 May 2019  
@@ -170,40 +126,14 @@ Barcelona, **Spain**
 
 ## North America
 
-[**JSCamp Chicago**](https://chicagojs.org/)  
-22 September, 2018  
-Chicago, IL **USA**
-
-[**JS Interactive**](https://events.linuxfoundation.org/events/js-interactive-2018/)  
-10-12 October, 2018  
-Vancouver, **Canada**
-
-[**CONNECT.TECH**](https://connect.tech)  
-17-19 October, 2018  
-Atlanta, **USA**
-
-[**SmashingConf NY**](https://smashingconf.com/ny-2018/)  
-23-24 October, 2018  
-New York, **USA**
-
 [**VueConfTO**](https://vuetoronto.com/)  
 14-16 November, 2018  
 Toronto, **Canada**
 
-[**Covalence Electron Conference**](http://www.covalenceconf.com)
-16 January, 2019
+[**Covalence Electron Conference**](http://www.covalenceconf.com)  
+16 January, 2019  
 San Francisco, **USA**
 
 [**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
 13-15 March 2019  
 Montreal, **Canada**
-
-## South America
-
-[**Vuejs Summit**](https://vuejssummit.com/)  
-31 August - 1 September 2018  
-São Paulo, **Brazil**
-
-[**Front in BH**](https://frontinbh.com.br/)  
-23 September, 2018  
-Belo Horizonte, Minas Gerais **Brazil**
