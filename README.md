@@ -186,6 +186,10 @@ New York, **USA**
 14-16 November, 2018  
 Toronto, **Canada**
 
+[**Covalence Electron Conference**](http://www.covalenceconf.com)
+16 January, 2019
+San Francisco, **USA**
+
 [**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
 13-15 March 2019  
 Montreal, **Canada**
