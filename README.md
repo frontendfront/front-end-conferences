@@ -124,7 +124,7 @@ Paris, **France**
 16-19 July 2019  
 Barcelona, **Spain**
 
-[**CSSConf Budapest**](https://http://cssconfbp.rocks/)  
+[**CSSConf Budapest**](http://cssconfbp.rocks/)  
 25 September 2019  
 Budapest, **Hungary**
 
