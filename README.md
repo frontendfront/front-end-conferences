@@ -132,6 +132,14 @@ Budapest, **Hungary**
 26-27 September 2019  
 Budapest, **Hungary**
 
+[**dotCSS 2019**](https://2019.dotcss.io/)  
+4 December 2019  
+Paris, **France**
+
+[**dotJS 2019**](https://2019.dotjs.io/)  
+5-6 December 2019  
+Paris, **France**
+
 ## North America
 
 [**VueConfTO**](https://vuetoronto.com/)  
