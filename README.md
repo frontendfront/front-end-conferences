@@ -108,6 +108,10 @@ Vilnius, **Lithuania**
 13-15 May 2019  
 London, **UK**
 
+[**Frontend United**](https://www.frontendunited.org/)  
+17-18 May 2019  
+Utrecht, **The Netherlands**
+
 [**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
 Barcelona, **Spain**
