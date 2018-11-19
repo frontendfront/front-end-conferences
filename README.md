@@ -12,38 +12,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**AngularConnect**](https://www.angularconnect.com/)  
-6-7 November 2018  
-London, **England**
-
-[**ffconf 2018**](https://2018.ffconf.org)  
-8 or 9 November 2018 (repeated)  
-Brighton, **UK**
-
-[**dotCSS 2018**](https://www.dotcss.io)  
-8 November 2018  
-Paris, **France**
-
-[**dotJS 2018**](https://www.dotjs.io)  
-9 November 2018  
-Paris, **France**
-
-[**ColdFront 2018**](https://2018.coldfront.co)  
-13-14 November 2018  
-Copenhagen, **Denmark**
-
-[**NG-Poland**](http://ng-poland.pl/)  
-15 November 2018  
-Warsaw, **Poland**
-
-[**JS-Poland**](http://js-poland.pl/)  
-16 November 2018  
-Warsaw, **Poland**
-
-[**FrontMania 2018**](http://www.frontmania.com/conference/welcome)  
-16 November 2018  
-Utrecht, **The Netherlands**
-
 [**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
 23 November 2018  
 Belfast, **Northern Ireland**
@@ -149,10 +117,6 @@ Paris, **France**
 Paris, **France**
 
 ## North America
-
-[**VueConfTO**](https://vuetoronto.com/)  
-14-16 November 2018  
-Toronto, **Canada**
 
 [**Covalence Electron Conference**](http://www.covalenceconf.com)  
 16 January 2019  
