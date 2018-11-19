@@ -7,7 +7,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 ## Asia
 
 [**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
-8 December, 2018  
+8 December 2018  
 Fukuoka, **Japan**
 
 ## Europe
@@ -128,6 +128,10 @@ Paris, **France**
 16-19 July 2019  
 Barcelona, **Spain**
 
+[**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
+9-10 September 2019  
+Freiburg, **Germany**
+
 [**CSSConf Budapest**](http://cssconfbp.rocks/)  
 25 September 2019  
 Budapest, **Hungary**
@@ -147,13 +151,25 @@ Paris, **France**
 ## North America
 
 [**VueConfTO**](https://vuetoronto.com/)  
-14-16 November, 2018  
+14-16 November 2018  
 Toronto, **Canada**
 
 [**Covalence Electron Conference**](http://www.covalenceconf.com)  
-16 January, 2019  
+16 January 2019  
 San Francisco, **USA**
 
 [**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
 13-15 March 2019  
 Montreal, **Canada**
+
+[**SmashingConf San Francisco 2019**](https://smashingconf.com)  
+16-17 April 2019  
+San Francisco, **USA**
+
+[**SmashingConf Toronto 2019**](https://smashingconf.com/toronto-2019/)  
+25-26 June 2019  
+Toronto, **Cananda**
+
+[**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
+15-16 October 2019  
+New York City, **USA**
