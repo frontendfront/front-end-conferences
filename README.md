@@ -64,6 +64,14 @@ Cluj, **Romania**
 12 April 2019  
 Amsterdam, **The Netherlands**
 
+[**IndieWebCamp Düsseldorf**](https://indieweb.org/2019/D%C3%BCsseldorf)  
+11-12 May 2019  
+Düsseldorf, **Germany**  
+
+[**beyond tellerrand // DÜSSELDORF**](https://beyondtellerrand.com/events/duesseldorf-2019)  
+13-15 May 2019  
+Düsseldorf, **Germany**  
+
 [**ReactEurope**](https://www.react-europe.org/)  
 23-24 May 2019  
 Paris, **France**
@@ -107,6 +115,10 @@ Budapest, **Hungary**
 [**JSConf Budapest**](https://jsconfbp.com)  
 26-27 September 2019  
 Budapest, **Hungary**
+
+[**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin-2019)  
+5-7 November 2019  
+Berlin, **Germany**  
 
 [**dotCSS 2019**](https://2019.dotcss.io/)  
 4 December 2019  
