@@ -63,6 +63,10 @@ Munich, **Germany**
 3 April 2019  
 Newcastle-Upon-Tyne, **England**
 
+[**FrontCon 2019**](https://frontcon.lv/)  
+3-5 April 2019  
+Riga, **Latvia**
+
 [**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)  
 5 April 2019  
 Amsterdam, **The Netherlands**
