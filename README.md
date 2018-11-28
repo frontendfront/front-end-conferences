@@ -198,3 +198,7 @@ Amoy(Xiamen), **China**
 [**Angular Conf Australia**](https://www.angularconf.com.au/)  
 22 June, 2018  
 Melbourne, **Australia**
+
+[**ComponentsConf**](https://www.componentsconf.com.au/)  
+6 September, 2019  
+Melbourne, **Australia**
