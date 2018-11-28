@@ -19,18 +19,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**Pixel Pioneers Belfast**](https://pixelpioneers.co/)  
-23 November 2018  
-Belfast, **Northern Ireland**
-
-[**Vuejs Roadtrip Berlin**](https://www.eventbrite.co.uk/e/vuejs-roadtrip-berlin-tickets-43925232553#tickets)  
-23 November 2018  
-Berlin, **Germany**
-
-[**HolyJS 2018 Moscow**](https://holyjs-moscow.ru/en/)  
-24-25 November 2018  
-Moscow, **Russia**
-
 [**React Day Berlin**](https://reactday.berlin)  
 30 November 2018  
 Berlin, **Germany**  
