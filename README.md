@@ -4,6 +4,13 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
+
+## Australia
+
+[**ComponentsConf**](https://www.componentsconf.com.au/)  
+6 September, 2019  
+Melbourne, **Australia**
+
 ## Asia
 
 [**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
