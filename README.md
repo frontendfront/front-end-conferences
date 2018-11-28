@@ -32,6 +32,10 @@ Berlin, **Germany**
 4-5 December 2018  
 Warsaw, **Poland**
 
+[**c't `<webdev>` 2019**](https://ctwebdev.de)  
+7-8 February 2019  
+Cologne, **Germany**
+
 [**FrontFest 2019**](https://frontfest.es)  
 9 February 2019  
 Madrid, **Spain**
