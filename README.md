@@ -19,14 +19,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**React Day Berlin**](https://reactday.berlin)  
-30 November 2018  
-Berlin, **Germany**  
-
-[**FRONTEND CON 2018**](http://www.frontend-con.io/)  
-4-5 December 2018  
-Warsaw, **Poland**
-
 [**c't `<webdev>` 2019**](https://ctwebdev.de)  
 7-8 February 2019  
 Cologne, **Germany**
