@@ -59,6 +59,10 @@ Riga, **Latvia**
 5 April 2019  
 Amsterdam, **The Netherlands**
 
+[**JS Fest**](http://jsfest.com.ua/)  
+5-6 April 2019  
+Kiev, **Ukraine**
+
 [**JSHeroes**](https://jsheroes.io/)  
 11-12 April 2019  
 Cluj, **Romania**
