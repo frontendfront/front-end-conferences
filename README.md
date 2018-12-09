@@ -55,6 +55,10 @@ Newcastle-Upon-Tyne, **England**
 3-5 April 2019  
 Riga, **Latvia**
 
+[**App.js Conf**](https://appjs.co/)  
+4-5 April 2019  
+Krakow, **Poland**
+
 [**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)  
 5 April 2019  
 Amsterdam, **The Netherlands**
