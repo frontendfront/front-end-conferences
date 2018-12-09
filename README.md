@@ -43,6 +43,10 @@ Dornbirn & Lech, **Austria**
 11-12 March 2019  
 Munich, **Germany**
 
+[**UpFront**](https://upfrontconf.com/)
+22 March 2019
+Manchester, **England**
+
 [**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
 3 April 2019  
 Newcastle-Upon-Tyne, **England**
