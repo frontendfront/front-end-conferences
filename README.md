@@ -95,6 +95,10 @@ Utrecht, **The Netherlands**
 25 May 2019  
 Barcelona, **Spain**
 
+[**React Day Norway**](https://reactnorway.com/)  
+11 June 2019  
+Larvik, **Norway** 
+
 [**enterJS 2019**](https://www.enterjs.de/)  
 25-28 June 2019  
 Darmstadt, **Germany**
