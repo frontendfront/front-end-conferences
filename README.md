@@ -103,6 +103,14 @@ Paris, **France**
 25 May 2019  
 Barcelona, **Spain**
 
+[**JSConf EU**](https://2019.jsconf.eu/)
+1-2 June 2019
+Berlin, **Germany**
+
+[**Amsterdam JSNation**](https://amsterdamjs.com/)
+6-7 June 2019
+Amsterdam, **The Netherlands**
+
 [**React Day Norway**](https://reactnorway.com/)  
 11 June 2019  
 Larvik, **Norway** 
