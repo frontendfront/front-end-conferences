@@ -83,21 +83,21 @@ Düsseldorf, **Germany**
 13-15 May 2019  
 Düsseldorf, **Germany**  
 
-[**ReactEurope**](https://www.react-europe.org/)  
-23-24 May 2019  
-Paris, **France**
+[**International JavaScript Conference**](https://javascript-conference.com/)  
+13-15 May 2019  
+London, **UK**
 
 [**You Gotta Love Frontend (YGLF)**](https://www.yougottalovefrontend.com)  
 16-17 May 2019  
 Vilnius, **Lithuania**  
 
-[**International JavaScript Conference**](https://javascript-conference.com/)  
-13-15 May 2019  
-London, **UK**
-
 [**Frontend United**](https://www.frontendunited.org/)  
 17-18 May 2019  
 Utrecht, **The Netherlands**
+
+[**ReactEurope**](https://www.react-europe.org/)  
+23-24 May 2019  
+Paris, **France**
 
 [**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
