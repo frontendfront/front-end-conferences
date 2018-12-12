@@ -35,8 +35,8 @@ Amsterdam, **The Netherlands**
 14-15 February 2019  
 Amsterdam, **The Netherlands**
 
-[**Agent Conf**](https://www.agent.sh/)
-21-24 February 2019
+[**Agent Conf**](https://www.agent.sh/)  
+21-24 February 2019  
 Dornbirn & Lech, **Austria**
 
 [**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
