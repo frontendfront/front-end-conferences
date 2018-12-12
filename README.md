@@ -19,14 +19,6 @@ Fukuoka, **Japan**
 
 ## Europe
 
-[**React Day Berlin**](https://reactday.berlin)  
-30 November 2018  
-Berlin, **Germany**  
-
-[**FRONTEND CON 2018**](http://www.frontend-con.io/)  
-4-5 December 2018  
-Warsaw, **Poland**
-
 [**c't `<webdev>` 2019**](https://ctwebdev.de)  
 7-8 February 2019  
 Cologne, **Germany**
@@ -43,9 +35,17 @@ Amsterdam, **The Netherlands**
 14-15 February 2019  
 Amsterdam, **The Netherlands**
 
+[**Agent Conf**](https://www.agent.sh/)
+21-24 February 2019
+Dornbirn & Lech, **Austria**
+
 [**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
 11-12 March 2019  
 Munich, **Germany**
+
+[**UpFront**](https://upfrontconf.com/)
+22 March 2019
+Manchester, **England**
 
 [**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
 3 April 2019  
@@ -55,9 +55,17 @@ Newcastle-Upon-Tyne, **England**
 3-5 April 2019  
 Riga, **Latvia**
 
+[**App.js Conf**](https://appjs.co/)  
+4-5 April 2019  
+Krakow, **Poland**
+
 [**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)  
 5 April 2019  
 Amsterdam, **The Netherlands**
+
+[**JS Fest**](http://jsfest.com.ua/)  
+5-6 April 2019  
+Kiev, **Ukraine**
 
 [**JSHeroes**](https://jsheroes.io/)  
 11-12 April 2019  
