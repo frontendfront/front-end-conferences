@@ -131,7 +131,7 @@ Paris, **France**
 16-19 July 2019  
 Barcelona, **Spain**
 
-[**OdessaJS**](https://jscamp.tech)  
+[**OdessaJS**](http://odessajs.org)  
 20-21 July 2019  
 Odessa, **Ukraine**
 
