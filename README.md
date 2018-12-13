@@ -111,6 +111,10 @@ Berlin, **Germany**
 6-7 June 2019
 Amsterdam, **The Netherlands**
 
+[**React Next**](https://react-next.com)  
+11 June 2019  
+Tel Aviv, **Israel** 
+
 [**React Day Norway**](https://reactnorway.com/)  
 11 June 2019  
 Larvik, **Norway** 
@@ -126,6 +130,10 @@ Paris, **France**
 [**JSCamp Barcelona**](https://jscamp.tech)  
 16-19 July 2019  
 Barcelona, **Spain**
+
+[**OdessaJS**](https://jscamp.tech)  
+20-21 July 2019  
+Odessa, **Ukraine**
 
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
