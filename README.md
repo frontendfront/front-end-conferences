@@ -43,8 +43,8 @@ Dornbirn & Lech, **Austria**
 11-12 March 2019  
 Munich, **Germany**
 
-[**UpFront**](https://upfrontconf.com/)
-22 March 2019
+[**UpFront**](https://upfrontconf.com/)  
+22 March 2019  
 Manchester, **England**
 
 [**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
@@ -75,6 +75,10 @@ Cluj, **Romania**
 12 April 2019  
 Amsterdam, **The Netherlands**
 
+[**Munich Frontend Conference FrontConf**](https://frontconf.com/)  
+27 April 2019  
+Munich, **Germany**
+
 [**IndieWebCamp Düsseldorf**](https://indieweb.org/2019/D%C3%BCsseldorf)  
 11-12 May 2019  
 Düsseldorf, **Germany**  
@@ -103,12 +107,12 @@ Paris, **France**
 25 May 2019  
 Barcelona, **Spain**
 
-[**JSConf EU**](https://2019.jsconf.eu/)
-1-2 June 2019
+[**JSConf EU**](https://2019.jsconf.eu/)  
+1-2 June 2019  
 Berlin, **Germany**
 
-[**Amsterdam JSNation**](https://amsterdamjs.com/)
-6-7 June 2019
+[**Amsterdam JSNation**](https://amsterdamjs.com/)  
+6-7 June 2019  
 Amsterdam, **The Netherlands**
 
 [**React Next**](https://react-next.com)  
