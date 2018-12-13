@@ -76,7 +76,7 @@ Cluj, **Romania**
 Amsterdam, **The Netherlands**
 
 [**Munich Frontend Conference FrontConf**](https://frontconf.com/)  
-27 April 2019 
+27 April 2019  
 Munich, **Germany**
 
 [**IndieWebCamp Düsseldorf**](https://indieweb.org/2019/D%C3%BCsseldorf)  
