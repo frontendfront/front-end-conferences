@@ -173,6 +173,10 @@ San Francisco, **USA**
 13-15 March 2019  
 Montreal, **Canada**
 
+[**EmberConf 2019**](https://emberconf.com/)  
+18-20 March 2019  
+Portland, **USA**
+
 [**SmashingConf San Francisco 2019**](https://smashingconf.com)  
 16-17 April 2019  
 San Francisco, **USA**
