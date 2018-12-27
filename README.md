@@ -107,6 +107,10 @@ Paris, **France**
 25 May 2019  
 Barcelona, **Spain**
 
+[**ngVikings**](https://ngvikings.org/)  
+27-28 May 2019  
+Copenhagen, **Denmark**
+
 [**JSConf EU**](https://2019.jsconf.eu/)  
 1-2 June 2019  
 Berlin, **Germany**
