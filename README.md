@@ -67,6 +67,10 @@ Amsterdam, **The Netherlands**
 5-6 April 2019  
 Kiev, **Ukraine**
 
+[**Sencha Community Days**](http://sencha-community-days.com/)  
+10-11 April 2019  
+Karlsruhe, **Germany**
+
 [**JSHeroes**](https://jsheroes.io/)  
 11-12 April 2019  
 Cluj, **Romania**
