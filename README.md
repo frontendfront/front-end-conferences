@@ -147,7 +147,7 @@ Barcelona, **Spain**
 20-21 July 2019  
 Odessa, **Ukraine**
 
-[**Frontend Conference Zurich**](https://frontendconf.ch)
+[**Frontend Conference Zurich**](https://frontendconf.ch)  
 29-30 August 2019  
 Zürich, **Switzerland**
 
