@@ -159,6 +159,10 @@ Budapest, **Hungary**
 26-27 September 2019  
 Budapest, **Hungary**
 
+[**Nordic.js**](http://nordicjs.com)  
+10-11 October 2019  
+Stockholm, **Sweden**
+
 [**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin-2019)  
 5-7 November 2019  
 Berlin, **Germany**  
