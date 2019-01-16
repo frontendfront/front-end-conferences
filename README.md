@@ -147,6 +147,10 @@ Barcelona, **Spain**
 20-21 July 2019  
 Odessa, **Ukraine**
 
+[**Frontend Conference Zurich**](https://frontendconf.ch)  
+29-30 August 2019  
+Zürich, **Switzerland**
+
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
 Freiburg, **Germany**
