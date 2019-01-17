@@ -204,3 +204,8 @@ Toronto, **Cananda**
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
 New York City, **USA**
+
+## South America
+[**NodeConf Colombia 2019**](https://nodeconf.co/)  
+21-22 June 2019  
+Medellín, **Colombia**
