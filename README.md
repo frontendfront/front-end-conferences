@@ -139,8 +139,12 @@ Darmstadt, **Germany**
 29 June 2019  
 Paris, **France**
 
+[**CSSCamp Barcelona**](https://csscamp.tech)  
+17 July 2019  
+Barcelona, **Spain**
+
 [**JSCamp Barcelona**](https://jscamp.tech)  
-16-19 July 2019  
+18-19 July 2019  
 Barcelona, **Spain**
 
 [**OdessaJS**](http://odessajs.org)  
