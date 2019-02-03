@@ -22,7 +22,7 @@ Fukuoka, **Japan**
 Shenzhen, **China**
 
 [**RubyKaigi 2019**](https://rubykaigi.org/2019/)  
-18-20 April 2019 
+18-20 April 2019  
 Fukuoka, **Japan**
 
 [**JSConf.Asia 2019**](https://jsconf.asia/)  
