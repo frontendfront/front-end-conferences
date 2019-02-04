@@ -47,6 +47,10 @@ Munich, **Germany**
 22 March 2019  
 Manchester, **England**
 
+[**Typeof**](https://typeofconf.com/)  
+27-29 March 2019  
+Porto, **Portugal**
+
 [**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
 3 April 2019  
 Newcastle-Upon-Tyne, **England**
