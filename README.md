@@ -17,6 +17,22 @@ Melbourne, **Australia**
 8 December 2018  
 Fukuoka, **Japan**
 
+[**CSSConf China 2019**](https://css.w3ctech.com/)  
+30 March 2019  
+Shenzhen, **China**
+
+[**JSConf.Asia 2019**](https://jsconf.asia/)  
+14-16 June 2019  
+Singapore, **Singapore**
+
+[**GMTC 2019 全球大前端技术大会**](https://gmtc2019.geekbang.org/)  
+20-21 June 2019  
+Beijing, **China**
+
+[**NG-MY 2019**](https://2019.ng-my.org/)  
+6-7 July 2019  
+Kuala Lumpur, **Malaysia**
+
 ## Europe
 
 [**c't `<webdev>` 2019**](https://ctwebdev.de)  
