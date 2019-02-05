@@ -21,10 +21,6 @@ Fukuoka, **Japan**
 30 March 2019  
 Shenzhen, **China**
 
-[**RubyKaigi 2019**](https://rubykaigi.org/2019/)  
-18-20 April 2019  
-Fukuoka, **Japan**
-
 [**JSConf.Asia 2019**](https://jsconf.asia/)  
 14-16 June 2019  
 Singapore, **Singapore**
@@ -32,10 +28,6 @@ Singapore, **Singapore**
 [**GMTC 2019 全球大前端技术大会**](https://gmtc2019.geekbang.org/)  
 20-21 June 2019  
 Beijing, **China**
-
-[**PHPConf.Asia 2019**](https://2019.phpconf.asia/)  
-24-25 June 2019  
-Singapore, **Singapore**
 
 [**NG-MY 2019**](https://2019.ng-my.org/)  
 6-7 July 2019  
