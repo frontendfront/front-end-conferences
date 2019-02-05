@@ -159,6 +159,10 @@ Barcelona, **Spain**
 20-21 July 2019  
 Odessa, **Ukraine**
 
+[**Heart of Clojure**](https://heartofclojure.eu)  
+2-3 August 2019  
+Leuven, **Belgium**
+
 [**Frontend Conference Zurich**](https://frontendconf.ch)  
 29-30 August 2019  
 Zürich, **Switzerland**
