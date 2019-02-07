@@ -39,7 +39,7 @@ Kathmandu, **Nepal**
 
 ## Europe
 
-[**c't `<webdev>` 2019**](https://ctwebdev.de)  
+[**c't \<webdev> 2019**](https://ctwebdev.de)  
 7-8 February 2019  
 Cologne, **Germany**
 
