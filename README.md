@@ -33,6 +33,10 @@ Beijing, **China**
 6-7 July 2019  
 Kuala Lumpur, **Malaysia**
 
+[**Web Weekend Kathmandu 2019**](https://2019.wwktm.co/)  
+21-22 September 2019  
+Kathmandu, **Nepal**
+
 ## Europe
 
 [**c't `<webdev>` 2019**](https://ctwebdev.de)  
