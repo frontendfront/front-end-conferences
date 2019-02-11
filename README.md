@@ -5,17 +5,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
 
-## Australia
-
-[**ComponentsConf**](https://www.componentsconf.com.au/)  
-6 September, 2019  
-Melbourne, **Australia**
-
 ## Asia
-
-[**Frontend Conference Fukuoka 2018**](https://frontend-conf.fukuoka.jp/)  
-8 December 2018  
-Fukuoka, **Japan**
 
 [**CSSConf China 2019**](https://css.w3ctech.com/)  
 30 March 2019  
@@ -37,15 +27,13 @@ Kuala Lumpur, **Malaysia**
 21-22 September 2019  
 Kathmandu, **Nepal**
 
+## Australia
+
+[**ComponentsConf**](https://www.componentsconf.com.au/)  
+6 September, 2019  
+Melbourne, **Australia**
+
 ## Europe
-
-[**c't \<webdev> 2019**](https://ctwebdev.de)  
-7-8 February 2019  
-Cologne, **Germany**
-
-[**FrontFest 2019**](https://frontfest.es)  
-9 February 2019  
-Madrid, **Spain**
 
 [**Frontend Developer Love**](http://www.frontenddeveloperlove.com/)  
 13 February 2019  
@@ -212,10 +200,6 @@ Paris, **France**
 Paris, **France**
 
 ## North America
-
-[**Covalence Electron Conference**](http://www.covalenceconf.com)  
-16 January 2019  
-San Francisco, **USA**
 
 [**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
 13-15 March 2019  
