@@ -35,21 +35,13 @@ Melbourne, **Australia**
 
 ## Europe
 
-[**Frontend Developer Love**](http://www.frontenddeveloperlove.com/)  
-13 February 2019  
-Amsterdam, **The Netherlands**
-
-[**Vuejs Amsterdam**](http://www.vuejs.amsterdam/)  
-14-15 February 2019  
-Amsterdam, **The Netherlands**
-
-[**Agent Conf**](https://www.agent.sh/)  
-21-24 February 2019  
-Dornbirn & Lech, **Austria**
-
 [**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
 11-12 March 2019  
 Munich, **Germany**
+
+[**JavaScript fwdays'19**](https://fwdays.com/en/event/js-fwdays-2019)  
+16 March 2019  
+Kyiv, **Ukraine**
 
 [**UpFront**](https://upfrontconf.com/)  
 22 March 2019  
@@ -134,6 +126,10 @@ Berlin, **Germany**
 [**Amsterdam JSNation**](https://amsterdamjs.com/)  
 6-7 June 2019  
 Amsterdam, **The Netherlands**
+
+[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2019)  
+7 June 2019  
+Bristol, **England**
 
 [**React Next**](https://react-next.com)  
 11 June 2019  
