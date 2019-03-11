@@ -183,6 +183,10 @@ Budapest, **Hungary**
 10-11 October 2019  
 Stockholm, **Sweden**
 
+[**ReactiveConf**](https://reactiveconf.com/)  
+30 October-1 November 2019  
+Prague, **Czech Republic**
+
 [**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin-2019)  
 5-7 November 2019  
 Berlin, **Germany**  
