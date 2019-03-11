@@ -151,6 +151,10 @@ Darmstadt, **Germany**
 29 June 2019  
 Paris, **France**
 
+[**React Norway**](https://reactnewyork.com/)  
+12 July 2019  
+Larvik, **Norway**
+
 [**CSSCamp Barcelona**](https://csscamp.tech)  
 17 July 2019  
 Barcelona, **Spain**
