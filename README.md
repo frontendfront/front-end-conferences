@@ -175,7 +175,7 @@ Budapest, **Hungary**
 26-27 September 2019  
 Budapest, **Hungary**
 
-[**Fronteers 2019**](https://fronteers.nl/congres)
+[**Fronteers 2019**](https://fronteers.nl/congres)  
 3-4 October 2019  
 Amsterdam, **The Netherlands**
 
