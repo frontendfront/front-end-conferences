@@ -63,10 +63,6 @@ Riga, **Latvia**
 4-5 April 2019  
 Krakow, **Poland**
 
-[**Fronteers Spring Conference 2019**](https://tickets.fronteers.nl/)  
-5 April 2019  
-Amsterdam, **The Netherlands**
-
 [**JS Fest**](http://jsfest.com.ua/)  
 5-6 April 2019  
 Kiev, **Ukraine**
@@ -178,6 +174,10 @@ Budapest, **Hungary**
 [**JSConf Budapest**](https://jsconfbp.com)  
 26-27 September 2019  
 Budapest, **Hungary**
+
+[**Fronteers 2019**](https://fronteers.nl/congres)  
+3-4 October 2019  
+Amsterdam, **The Netherlands**
 
 [**Nordic.js**](http://nordicjs.com)  
 10-11 October 2019  
