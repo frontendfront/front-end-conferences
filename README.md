@@ -124,8 +124,8 @@ Bristol, **England**
 Tel Aviv, **Israel** 
 
 [**React Day Norway**](https://reactnorway.com/)  
-11 June 2019  
-Larvik, **Norway** 
+12 June 2019  
+Larvik, **Norway**
 
 [**CSS Day**](https://cssday.nl/)  
 13-14 June 2019  
