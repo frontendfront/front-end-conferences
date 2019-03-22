@@ -159,6 +159,10 @@ Zürich, **Switzerland**
 9-10 September 2019  
 Freiburg, **Germany**
 
+[**AngularConnect 2019**](https://www.angularconnect.com/)  
+19-20 September 2019  
+London, **United Kingdom**
+
 [**CSSConf Budapest**](http://cssconfbp.rocks/)  
 25 September 2019  
 Budapest, **Hungary**
@@ -204,6 +208,14 @@ San Francisco, **USA**
 [**SmashingConf Toronto 2019**](https://smashingconf.com/toronto-2019/)  
 25-26 June 2019  
 Toronto, **Cananda**
+
+[**React Day New York**](https://reactnewyork.com/)  
+13 September 2019  
+New York City, **USA**
+
+[**TSConf 2019**](https://tsconf.io/)  
+11 October 2019  
+Seattle, WA **USA**
 
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
