@@ -99,7 +99,11 @@ Utrecht, **The Netherlands**
 23-24 May 2019  
 Paris, **France**
 
-[**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
+[**Frontend & Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
+17 May 2019  
+Paris, **France**
+
+[**Frontend & Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
 Barcelona, **Spain**
 
@@ -134,10 +138,6 @@ Amsterdam, **The Netherlands**
 [**enterJS 2019**](https://www.enterjs.de/)  
 25-28 June 2019  
 Darmstadt, **Germany**
-
-[**Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
-29 June 2019  
-Paris, **France**
 
 [**CSSCamp Barcelona**](https://csscamp.tech)  
 17 July 2019  
