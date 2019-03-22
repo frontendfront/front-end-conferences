@@ -35,14 +35,6 @@ Melbourne, **Australia**
 
 ## Europe
 
-[**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
-11-12 March 2019  
-Munich, **Germany**
-
-[**JavaScript fwdays'19**](https://fwdays.com/en/event/js-fwdays-2019)  
-16 March 2019  
-Kyiv, **Ukraine**
-
 [**UpFront**](https://upfrontconf.com/)  
 22 March 2019  
 Manchester, **England**
@@ -107,7 +99,11 @@ Utrecht, **The Netherlands**
 23-24 May 2019  
 Paris, **France**
 
-[**Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
+[**Frontend & Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
+17 May 2019  
+Paris, **France**
+
+[**Frontend & Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
 25 May 2019  
 Barcelona, **Spain**
 
@@ -132,8 +128,8 @@ Bristol, **England**
 Tel Aviv, **Israel** 
 
 [**React Day Norway**](https://reactnorway.com/)  
-11 June 2019  
-Larvik, **Norway** 
+12 June 2019  
+Larvik, **Norway**
 
 [**CSS Day**](https://cssday.nl/)  
 13-14 June 2019  
@@ -142,10 +138,6 @@ Amsterdam, **The Netherlands**
 [**enterJS 2019**](https://www.enterjs.de/)  
 25-28 June 2019  
 Darmstadt, **Germany**
-
-[**Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
-29 June 2019  
-Paris, **France**
 
 [**CSSCamp Barcelona**](https://csscamp.tech)  
 17 July 2019  
@@ -166,6 +158,10 @@ Zürich, **Switzerland**
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
 Freiburg, **Germany**
+
+[**AngularConnect 2019**](https://www.angularconnect.com/)  
+19-20 September 2019  
+London, **United Kingdom**
 
 [**CSSConf Budapest**](http://cssconfbp.rocks/)  
 25 September 2019  
@@ -205,14 +201,6 @@ Paris, **France**
 
 ## North America
 
-[**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
-13-15 March 2019  
-Montreal, **Canada**
-
-[**EmberConf 2019**](https://emberconf.com/)  
-18-20 March 2019  
-Portland, **USA**
-
 [**SmashingConf San Francisco 2019**](https://smashingconf.com)  
 16-17 April 2019  
 San Francisco, **USA**
@@ -220,6 +208,14 @@ San Francisco, **USA**
 [**SmashingConf Toronto 2019**](https://smashingconf.com/toronto-2019/)  
 25-26 June 2019  
 Toronto, **Cananda**
+
+[**React Day New York**](https://reactnewyork.com/)  
+13 September 2019  
+New York City, **USA**
+
+[**TSConf 2019**](https://tsconf.io/)  
+11 October 2019  
+Seattle, WA **USA**
 
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
