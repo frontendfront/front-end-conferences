@@ -35,14 +35,6 @@ Melbourne, **Australia**
 
 ## Europe
 
-[**JS Kongress 2019 - (r)evolution of Architectures**](https://js-kongress.com/)  
-11-12 March 2019  
-Munich, **Germany**
-
-[**JavaScript fwdays'19**](https://fwdays.com/en/event/js-fwdays-2019)  
-16 March 2019  
-Kyiv, **Ukraine**
-
 [**UpFront**](https://upfrontconf.com/)  
 22 March 2019  
 Manchester, **England**
@@ -204,14 +196,6 @@ Paris, **France**
 Paris, **France**
 
 ## North America
-
-[**ConFoo Montreal 2019**](https://confoo.ca/en/yul2019)  
-13-15 March 2019  
-Montreal, **Canada**
-
-[**EmberConf 2019**](https://emberconf.com/)  
-18-20 March 2019  
-Portland, **USA**
 
 [**SmashingConf San Francisco 2019**](https://smashingconf.com)  
 16-17 April 2019  
