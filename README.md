@@ -8,7 +8,7 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 ## Australia
 
 [**ComponentsConf**](https://www.componentsconf.com.au/)  
-6 September, 2019  
+9-10 September, 2019  
 Melbourne, **Australia**
 
 ## Asia
