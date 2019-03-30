@@ -163,6 +163,10 @@ Freiburg, **Germany**
 19-20 September 2019  
 London, **United Kingdom**
 
+[**Codemotion // Madrid**](https://events.codemotion.com/conferences/madrid/2019/)  
+24-25 September 2019  
+Madrid, **Spain** 
+
 [**CSSConf Budapest**](http://cssconfbp.rocks/)  
 25 September 2019  
 Budapest, **Hungary**
@@ -179,12 +183,20 @@ Amsterdam, **The Netherlands**
 10-11 October 2019  
 Stockholm, **Sweden**
 
+[**Codemotion // Milan**](https://events.codemotion.com/conferences/milan/2019/)  
+24-25 October 2019  
+Milan, **Italy**  
+
 [**ReactiveConf**](https://reactiveconf.com/)  
 30 October-1 November 2019  
 Prague, **Czech Republic**
 
 [**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin-2019)  
 5-7 November 2019  
+Berlin, **Germany**  
+
+[**Codemotion // BERLIN**](https://events.codemotion.com/conferences/berlin/2019/)  
+12-13 November 2019  
 Berlin, **Germany**  
 
 [**ColdFront 2019**](https://2019.coldfront.co)  
