@@ -30,7 +30,7 @@ Kathmandu, **Nepal**
 ## Australia
 
 [**ComponentsConf**](https://www.componentsconf.com.au/)  
-6 September, 2019  
+9-10 September, 2019  
 Melbourne, **Australia**
 
 ## Europe
