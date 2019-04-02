@@ -209,6 +209,10 @@ San Francisco, **USA**
 25-26 June 2019  
 Toronto, **Cananda**
 
+[**Clarity**](https://www.clarityconf.com/2019)
+19-21 August 2019
+San Francisco, California, **USA**
+
 [**React Day New York**](https://reactnewyork.com/)  
 13 September 2019  
 New York City, **USA**
