@@ -91,16 +91,16 @@ London, **UK**
 16-17 May 2019  
 Vilnius, **Lithuania**  
 
+[**Frontend & Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
+17 May 2019  
+Paris, **France**
+
 [**Frontend United**](https://www.frontendunited.org/)  
 17-18 May 2019  
 Utrecht, **The Netherlands**
 
 [**ReactEurope**](https://www.react-europe.org/)  
 23-24 May 2019  
-Paris, **France**
-
-[**Frontend & Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
-17 May 2019  
 Paris, **France**
 
 [**Frontend & Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
@@ -233,15 +233,16 @@ New York City, **USA**
 11 October 2019  
 Seattle, WA **USA**
 
-[**CONNECT.TECH 2019**](http://connect.tech/)  
-16-18 October 2019  
-Atlanta, GA **USA**
-
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
 New York City, **USA**
 
+[**CONNECT.TECH 2019**](http://connect.tech/)  
+16-18 October 2019  
+Atlanta, GA **USA**
+
 ## South America
+
 [**NodeConf Colombia 2019**](https://nodeconf.co/)  
 21-22 June 2019  
 Medellín, **Colombia**
