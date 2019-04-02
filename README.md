@@ -7,10 +7,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**CSSConf China 2019**](https://css.w3ctech.com/)  
-30 March 2019  
-Shenzhen, **China**
-
 [**JSConf.Asia 2019**](https://jsconf.asia/)  
 14-16 June 2019  
 Singapore, **Singapore**
@@ -34,14 +30,6 @@ Kathmandu, **Nepal**
 Melbourne, **Australia**
 
 ## Europe
-
-[**UpFront**](https://upfrontconf.com/)  
-22 March 2019  
-Manchester, **England**
-
-[**Typeof**](https://typeofconf.com/)  
-27-29 March 2019  
-Porto, **Portugal**
 
 [**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
 3 April 2019  
@@ -91,16 +79,16 @@ London, **UK**
 16-17 May 2019  
 Vilnius, **Lithuania**  
 
+[**Frontend & Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
+17 May 2019  
+Paris, **France**
+
 [**Frontend United**](https://www.frontendunited.org/)  
 17-18 May 2019  
 Utrecht, **The Netherlands**
 
 [**ReactEurope**](https://www.react-europe.org/)  
 23-24 May 2019  
-Paris, **France**
-
-[**Frontend & Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
-17 May 2019  
 Paris, **France**
 
 [**Frontend & Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
@@ -195,6 +183,10 @@ Prague, **Czech Republic**
 5-7 November 2019  
 Berlin, **Germany**  
 
+[**JSDay Canarias 2019**](https://jsdaycanarias.com/)  
+8-9 November 2019  
+Canary Islands, **Spain**  
+
 [**Codemotion // BERLIN**](https://events.codemotion.com/conferences/berlin/2019/)  
 12-13 November 2019  
 Berlin, **Germany**  
@@ -221,8 +213,8 @@ San Francisco, **USA**
 25-26 June 2019  
 Toronto, **Cananda**
 
-[**Clarity**](https://www.clarityconf.com/2019)
-19-21 August 2019
+[**Clarity**](https://www.clarityconf.com/2019)  
+19-21 August 2019  
 San Francisco, California, **USA**
 
 [**React Day New York**](https://reactnewyork.com/)  
@@ -233,15 +225,16 @@ New York City, **USA**
 11 October 2019  
 Seattle, WA **USA**
 
-[**CONNECT.TECH 2019**](http://connect.tech/)  
-16-18 October 2019  
-Atlanta, GA **USA**
-
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
 New York City, **USA**
 
+[**CONNECT.TECH 2019**](http://connect.tech/)  
+16-18 October 2019  
+Atlanta, GA **USA**
+
 ## South America
+
 [**NodeConf Colombia 2019**](https://nodeconf.co/)  
 21-22 June 2019  
 Medellín, **Colombia**
