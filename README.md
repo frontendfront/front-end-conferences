@@ -7,10 +7,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**CSSConf China 2019**](https://css.w3ctech.com/)  
-30 March 2019  
-Shenzhen, **China**
-
 [**JSConf.Asia 2019**](https://jsconf.asia/)  
 14-16 June 2019  
 Singapore, **Singapore**
@@ -34,14 +30,6 @@ Kathmandu, **Nepal**
 Melbourne, **Australia**
 
 ## Europe
-
-[**UpFront**](https://upfrontconf.com/)  
-22 March 2019  
-Manchester, **England**
-
-[**Typeof**](https://typeofconf.com/)  
-27-29 March 2019  
-Porto, **Portugal**
 
 [**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
 3 April 2019  
