@@ -217,6 +217,10 @@ New York City, **USA**
 11 October 2019  
 Seattle, WA **USA**
 
+[**CONNECT.TECH 2019**](http://connect.tech/)  
+16-18 October 2019  
+Atlanta, GA **USA**
+
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
 New York City, **USA**
