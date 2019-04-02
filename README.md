@@ -103,6 +103,10 @@ Copenhagen, **Denmark**
 1-2 June 2019  
 Berlin, **Germany**
 
+[**webinale 2019**](https://webinale.de/)  
+3-7 June 2019  
+Berlin, **Germany**  
+
 [**Amsterdam JSNation**](https://amsterdamjs.com/)  
 6-7 June 2019  
 Amsterdam, **The Netherlands**
