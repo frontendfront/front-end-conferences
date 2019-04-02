@@ -195,6 +195,10 @@ Prague, **Czech Republic**
 5-7 November 2019  
 Berlin, **Germany**  
 
+[**JSDay Canarias 2019**](https://jsdaycanarias.com/)  
+8-9 November 2019  
+Canary Islands, **Spain**  
+
 [**Codemotion // BERLIN**](https://events.codemotion.com/conferences/berlin/2019/)  
 12-13 November 2019  
 Berlin, **Germany**  
