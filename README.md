@@ -171,6 +171,10 @@ Budapest, **Hungary**
 3-4 October 2019  
 Amsterdam, **The Netherlands**
 
+[**JS.Sphere.it**](https://sphere.it/)  
+7-9 October 2019  
+Krakow, **Poland**
+
 [**Nordic.js**](http://nordicjs.com)  
 10-11 October 2019  
 Stockholm, **Sweden**
