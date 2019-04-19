@@ -132,6 +132,10 @@ Budapest, **Hungary**
 26-27 September 2019  
 Budapest, **Hungary**
 
+[**JS Fest**](https://jsfest.com.ua)  
+8-9 November 2019  
+Kyiv, **Ukraine**
+
 [**dotCSS 2019**](https://2019.dotcss.io/)  
 4 December 2019  
 Paris, **France**
