@@ -131,6 +131,10 @@ Amsterdam, **The Netherlands**
 25-28 June 2019  
 Darmstadt, **Germany**
 
+[**JAMstack Conf**](https://jamstackconf.com/london/)  
+9-10 July 2019
+Tobacco Dock, London, **England**
+
 [**CSSCamp Barcelona**](https://csscamp.tech)  
 17 July 2019  
 Barcelona, **Spain**
