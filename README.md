@@ -195,6 +195,10 @@ Prague, **Czech Republic**
 5-7 November 2019  
 Berlin, **Germany**  
 
+[**JS Fest**](https://jsfest.com.ua)  
+8-9 November 2019  
+Kyiv, **Ukraine**
+
 [**JSDay Canarias 2019**](https://jsdaycanarias.com/)  
 8-9 November 2019  
 Canary Islands, **Spain**  
