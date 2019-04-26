@@ -159,7 +159,7 @@ Freiburg, **Germany**
 19-20 September 2019  
 London, **United Kingdom**
 
-**WebExpo 2019**](https://www.webexpo.net/prague2019)  
+[**WebExpo 2019**](https://www.webexpo.net/prague2019)  
 20-22 September 2019  
 Prague, **Czechia**
 
