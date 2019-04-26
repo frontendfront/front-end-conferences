@@ -31,34 +31,6 @@ Melbourne, **Australia**
 
 ## Europe
 
-[**Frontend NE: The Conference**](https://2019.frontendne.co.uk)  
-3 April 2019  
-Newcastle-Upon-Tyne, **England**
-
-[**FrontCon 2019**](https://frontcon.lv/)  
-3-5 April 2019  
-Riga, **Latvia**
-
-[**App.js Conf**](https://appjs.co/)  
-4-5 April 2019  
-Krakow, **Poland**
-
-[**JS Fest**](http://jsfest.com.ua/)  
-5-6 April 2019  
-Kiev, **Ukraine**
-
-[**Sencha Community Days**](http://sencha-community-days.com/)  
-10-11 April 2019  
-Karlsruhe, **Germany**
-
-[**JSHeroes**](https://jsheroes.io/)  
-11-12 April 2019  
-Cluj, **Romania**
-
-[**React Amsterdam**](https://react.amsterdam/)  
-12 April 2019  
-Amsterdam, **The Netherlands**
-
 [**Munich Frontend Conference FrontConf**](https://frontconf.com/)  
 27 April 2019  
 Munich, **Germany**
@@ -132,7 +104,7 @@ Amsterdam, **The Netherlands**
 Darmstadt, **Germany**
 
 [**JAMstack Conf**](https://jamstackconf.com/london/)  
-9-10 July 2019
+9-10 July 2019  
 Tobacco Dock, London, **England**
 
 [**CSSCamp Barcelona**](https://csscamp.tech)  
