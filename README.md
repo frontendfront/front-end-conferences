@@ -131,6 +131,10 @@ Freiburg, **Germany**
 19-20 September 2019  
 London, **United Kingdom**
 
+[**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
+19 September 2019  
+Vienna, **Austria**
+
 [**WebExpo 2019**](https://www.webexpo.net/prague2019)  
 20-22 September 2019  
 Prague, **Czechia**
@@ -181,7 +185,11 @@ Canary Islands, **Spain**
 
 [**Codemotion // BERLIN**](https://events.codemotion.com/conferences/berlin/2019/)  
 12-13 November 2019  
-Berlin, **Germany**  
+Berlin, **Germany**
+
+[**HalfStack London**](https://www.halfstackconf.com/london/)  
+22 November 2019  
+London, **United Kingdom**
 
 [**ColdFront 2019**](https://2019.coldfront.co)  
 26-28 November 2019  
@@ -209,6 +217,10 @@ Toronto, **Cananda**
 19-21 August 2019  
 San Francisco, California, **USA**
 
+[**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
+23 August 2019  
+New York City, **USA**
+
 [**React Day New York**](https://reactnewyork.com/)  
 13 September 2019  
 New York City, **USA**
@@ -224,6 +236,10 @@ New York City, **USA**
 [**CONNECT.TECH 2019**](http://connect.tech/)  
 16-18 October 2019  
 Atlanta, GA **USA**
+
+[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
+17 January 2020  
+Chandler, AZ, **USA**
 
 ## South America
 
