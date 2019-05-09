@@ -135,6 +135,10 @@ London, **United Kingdom**
 20-22 September 2019  
 Prague, **Czechia**
 
+[**We Love Speed 2019**](https://www.welovespeed.com/2019/)  
+20 September 2019  
+Lille, **France**
+
 [**Codemotion // Madrid**](https://events.codemotion.com/conferences/madrid/2019/)  
 24-25 September 2019  
 Madrid, **Spain** 
@@ -158,6 +162,10 @@ Krakow, **Poland**
 [**Nordic.js**](http://nordicjs.com)  
 10-11 October 2019  
 Stockholm, **Sweden**
+
+[**Paris Web**](https://www.paris-web.fr/)  
+10-12 October 2019  
+Paris, **France**
 
 [**Codemotion // Milan**](https://events.codemotion.com/conferences/milan/2019/)  
 24-25 October 2019  
