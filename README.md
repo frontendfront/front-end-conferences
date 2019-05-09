@@ -171,6 +171,10 @@ Stockholm, **Sweden**
 10-12 October 2019  
 Paris, **France**
 
+[**Ember{{fest}}**](https://emberfest.eu/)
+17-18 October 2019
+Copenhagen, **Denmark**
+
 [**Codemotion // Milan**](https://events.codemotion.com/conferences/milan/2019/)  
 24-25 October 2019  
 Milan, **Italy**  
