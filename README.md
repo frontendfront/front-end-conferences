@@ -143,6 +143,10 @@ Prague, **Czechia**
 20 September 2019  
 Lille, **France**
 
+[**JSCamp Bucharest**](https://jscamp.ro/)  
+24 September 2019  
+Bucharest, **Romania**
+
 [**Codemotion // Madrid**](https://events.codemotion.com/conferences/madrid/2019/)  
 24-25 September 2019  
 Madrid, **Spain** 
