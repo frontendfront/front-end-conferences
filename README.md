@@ -31,22 +31,6 @@ Melbourne, **Australia**
 
 ## Europe
 
-[**Munich Frontend Conference FrontConf**](https://frontconf.com/)  
-27 April 2019  
-Munich, **Germany**
-
-[**IndieWebCamp Düsseldorf**](https://indieweb.org/2019/D%C3%BCsseldorf)  
-11-12 May 2019  
-Düsseldorf, **Germany**  
-
-[**beyond tellerrand // DÜSSELDORF**](https://beyondtellerrand.com/events/duesseldorf-2019)  
-13-15 May 2019  
-Düsseldorf, **Germany**  
-
-[**International JavaScript Conference**](https://javascript-conference.com/)  
-13-15 May 2019  
-London, **UK**
-
 [**You Gotta Love Frontend (YGLF)**](https://www.yougottalovefrontend.com)  
 16-17 May 2019  
 Vilnius, **Lithuania**  
@@ -143,6 +127,10 @@ Prague, **Czechia**
 20 September 2019  
 Lille, **France**
 
+[**JSCamp Bucharest**](https://jscamp.ro/)  
+24 September 2019  
+Bucharest, **Romania**
+
 [**Codemotion // Madrid**](https://events.codemotion.com/conferences/madrid/2019/)  
 24-25 September 2019  
 Madrid, **Spain** 
@@ -171,8 +159,8 @@ Stockholm, **Sweden**
 10-12 October 2019  
 Paris, **France**
 
-[**Ember{{fest}}**](https://emberfest.eu/)
-17-18 October 2019
+[**Ember{{fest}}**](https://emberfest.eu/)  
+17-18 October 2019  
 Copenhagen, **Denmark**
 
 [**Codemotion // Milan**](https://events.codemotion.com/conferences/milan/2019/)  
@@ -216,10 +204,6 @@ Paris, **France**
 Paris, **France**
 
 ## North America
-
-[**SmashingConf San Francisco 2019**](https://smashingconf.com)  
-16-17 April 2019  
-San Francisco, **USA**
 
 [**SmashingConf Toronto 2019**](https://smashingconf.com/toronto-2019/)  
 25-26 June 2019  
