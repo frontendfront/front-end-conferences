@@ -191,6 +191,10 @@ Berlin, **Germany**
 22 November 2019  
 London, **United Kingdom**
 
+[**Frontend Con**](https://frontend-con.io/)
+26-27 November 2019
+Warsaw, Poland
+
 [**ColdFront 2019**](https://2019.coldfront.co)  
 26-28 November 2019  
 Copenhagen, **Denmark**
