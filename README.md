@@ -31,30 +31,6 @@ Melbourne, **Australia**
 
 ## Europe
 
-[**You Gotta Love Frontend (YGLF)**](https://www.yougottalovefrontend.com)  
-16-17 May 2019  
-Vilnius, **Lithuania**  
-
-[**Frontend & Vuejs Roadtrip Paris**](https://www.vuejsroadtrip.com/paris/)  
-17 May 2019  
-Paris, **France**
-
-[**Frontend United**](https://www.frontendunited.org/)  
-17-18 May 2019  
-Utrecht, **The Netherlands**
-
-[**ReactEurope**](https://www.react-europe.org/)  
-23-24 May 2019  
-Paris, **France**
-
-[**Frontend & Vuejs Roadtrip Barcelona**](https://www.vuejsroadtrip.com/barcelona/)  
-25 May 2019  
-Barcelona, **Spain**
-
-[**ngVikings**](https://ngvikings.org/)  
-27-28 May 2019  
-Copenhagen, **Denmark**
-
 [**JSConf EU**](https://2019.jsconf.eu/)  
 1-2 June 2019  
 Berlin, **Germany**
@@ -191,9 +167,9 @@ Berlin, **Germany**
 22 November 2019  
 London, **United Kingdom**
 
-[**Frontend Con**](https://frontend-con.io/)
-26-27 November 2019
-Warsaw, Poland
+[**Frontend Con**](https://frontend-con.io/)  
+26-27 November 2019  
+Warsaw, **Poland**
 
 [**ColdFront 2019**](https://2019.coldfront.co)  
 26-28 November 2019  
