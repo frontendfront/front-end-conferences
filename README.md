@@ -225,6 +225,10 @@ New York City, **USA**
 13 September 2019  
 New York City, **USA**
 
+[**Web Unleashed 2019**](https://fitc.ca/event/webu19/)  
+13-14 September 2019  
+Toronto, **Canada**
+
 [**TSConf 2019**](https://tsconf.io/)  
 11 October 2019  
 Seattle, WA **USA**
