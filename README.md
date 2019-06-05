@@ -223,7 +223,7 @@ Chandler, AZ, **USA**
 
 ## South America
 
-[**JSDay Feira de Santana 2019**](https://nodeconf.co/)  
+[**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
 17 August 2019  
 Feira de Santana, **Brazil**
 
