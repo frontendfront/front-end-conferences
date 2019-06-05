@@ -223,6 +223,10 @@ Chandler, AZ, **USA**
 
 ## South America
 
+[**JSDay Feira de Santana 2019**](https://nodeconf.co/)  
+17 August 2019  
+Feira de Santana, **Brazil**
+
 [**NodeConf Colombia 2019**](https://nodeconf.co/)  
 21-22 June 2019  
 Medellín, **Colombia**
