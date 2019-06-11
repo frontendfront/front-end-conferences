@@ -217,6 +217,10 @@ New York City, **USA**
 16-18 October 2019  
 Atlanta, GA **USA**
 
+[**VueConf Toronto 2019**](https://vuetoronto.com)  
+11-12 November 2019  
+Toronto, ON **Canada**
+
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
 17 January 2020  
 Chandler, AZ, **USA**
