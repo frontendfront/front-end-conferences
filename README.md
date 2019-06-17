@@ -83,6 +83,10 @@ Odessa, **Ukraine**
 29-30 August 2019  
 Zürich, **Switzerland**
 
+[**NG-DE 2019**](https://www.ng-de.org)  
+30-31 August 2019  
+Berlin, **Germany**
+
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
 Freiburg, **Germany**
@@ -197,10 +201,6 @@ San Francisco, California, **USA**
 23 August 2019  
 New York City, **USA**
 
-[**NG-DE 2019**](https://www.ng-de.org)  
-30-31 August 2019  
-Berlin, **Germany**
-
 [**React Day New York**](https://reactnewyork.com/)  
 13 September 2019  
 New York City, **USA**
@@ -231,10 +231,10 @@ Chandler, AZ, **USA**
 
 ## South America
 
-[**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
-17 August 2019  
-Feira de Santana, **Brazil**
-
 [**NodeConf Colombia 2019**](https://nodeconf.co/)  
 21-22 June 2019  
 Medellín, **Colombia**
+
+[**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
+17 August 2019  
+Feira de Santana, **Brazil**
