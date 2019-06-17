@@ -197,6 +197,10 @@ San Francisco, California, **USA**
 23 August 2019  
 New York City, **USA**
 
+[**NG-DE 2019**](https://www.ng-de.org)  
+30-31 August 2019  
+Berlin, **Germany**
+
 [**React Day New York**](https://reactnewyork.com/)  
 13 September 2019  
 New York City, **USA**
