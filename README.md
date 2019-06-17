@@ -7,10 +7,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**JSConf.Asia 2019**](https://jsconf.asia/)  
-14-16 June 2019  
-Singapore, **Singapore**
-
 [**GMTC 2019 全球大前端技术大会**](https://gmtc2019.geekbang.org/)  
 20-21 June 2019  
 Beijing, **China**
@@ -30,34 +26,6 @@ Kathmandu, **Nepal**
 Melbourne, **Australia**
 
 ## Europe
-
-[**JSConf EU**](https://2019.jsconf.eu/)  
-1-2 June 2019  
-Berlin, **Germany**
-
-[**webinale 2019**](https://webinale.de/)  
-3-7 June 2019  
-Berlin, **Germany**  
-
-[**Amsterdam JSNation**](https://amsterdamjs.com/)  
-6-7 June 2019  
-Amsterdam, **The Netherlands**
-
-[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2019)  
-7 June 2019  
-Bristol, **England**
-
-[**React Next**](https://react-next.com)  
-11 June 2019  
-Tel Aviv, **Israel** 
-
-[**React Day Norway**](https://reactnorway.com/)  
-12 June 2019  
-Larvik, **Norway**
-
-[**CSS Day**](https://cssday.nl/)  
-13-14 June 2019  
-Amsterdam, **The Netherlands**
 
 [**enterJS 2019**](https://www.enterjs.de/)  
 25-28 June 2019  
@@ -82,6 +50,10 @@ Odessa, **Ukraine**
 [**Frontend Conference Zurich**](https://frontendconf.ch)  
 29-30 August 2019  
 Zürich, **Switzerland**
+
+[**NG-DE 2019**](https://www.ng-de.org)  
+30-31 August 2019  
+Berlin, **Germany**
 
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
@@ -197,10 +169,6 @@ San Francisco, California, **USA**
 23 August 2019  
 New York City, **USA**
 
-[**NG-DE 2019**](https://www.ng-de.org)  
-30-31 August 2019  
-Berlin, **Germany**
-
 [**React Day New York**](https://reactnewyork.com/)  
 13 September 2019  
 New York City, **USA**
@@ -231,10 +199,10 @@ Chandler, AZ, **USA**
 
 ## South America
 
-[**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
-17 August 2019  
-Feira de Santana, **Brazil**
-
 [**NodeConf Colombia 2019**](https://nodeconf.co/)  
 21-22 June 2019  
 Medellín, **Colombia**
+
+[**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
+17 August 2019  
+Feira de Santana, **Brazil**
