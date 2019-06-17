@@ -7,10 +7,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**JSConf.Asia 2019**](https://jsconf.asia/)  
-14-16 June 2019  
-Singapore, **Singapore**
-
 [**GMTC 2019 全球大前端技术大会**](https://gmtc2019.geekbang.org/)  
 20-21 June 2019  
 Beijing, **China**
@@ -30,34 +26,6 @@ Kathmandu, **Nepal**
 Melbourne, **Australia**
 
 ## Europe
-
-[**JSConf EU**](https://2019.jsconf.eu/)  
-1-2 June 2019  
-Berlin, **Germany**
-
-[**webinale 2019**](https://webinale.de/)  
-3-7 June 2019  
-Berlin, **Germany**  
-
-[**Amsterdam JSNation**](https://amsterdamjs.com/)  
-6-7 June 2019  
-Amsterdam, **The Netherlands**
-
-[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2019)  
-7 June 2019  
-Bristol, **England**
-
-[**React Next**](https://react-next.com)  
-11 June 2019  
-Tel Aviv, **Israel** 
-
-[**React Day Norway**](https://reactnorway.com/)  
-12 June 2019  
-Larvik, **Norway**
-
-[**CSS Day**](https://cssday.nl/)  
-13-14 June 2019  
-Amsterdam, **The Netherlands**
 
 [**enterJS 2019**](https://www.enterjs.de/)  
 25-28 June 2019  
