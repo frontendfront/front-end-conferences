@@ -67,6 +67,10 @@ London, **United Kingdom**
 19 September 2019  
 Vienna, **Austria**
 
+[**CSS-Minsk-JS 2019**](https://css-minsk-js.by)  
+20-21 September 2019 
+Minsk, **Belarus**
+
 [**WebExpo 2019**](https://www.webexpo.net/prague2019)  
 20-22 September 2019  
 Prague, **Czechia**
