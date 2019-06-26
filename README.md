@@ -76,7 +76,7 @@ Prague, **Czechia**
 Lille, **France**
 
 [**Finch Front-End**](https://finchconf.uk/)  
-23-25 September 2019
+23-25 September 2019  
 Edinburgh, **Scotland**
 
 [**JSCamp Bucharest**](https://jscamp.ro/)  
