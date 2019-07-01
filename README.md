@@ -7,10 +7,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**GMTC 2019 全球大前端技术大会**](https://gmtc2019.geekbang.org/)  
-20-21 June 2019  
-Beijing, **China**
-
 [**NG-MY 2019**](https://2019.ng-my.org/)  
 6-7 July 2019  
 Kuala Lumpur, **Malaysia**
@@ -26,10 +22,6 @@ Kathmandu, **Nepal**
 Melbourne, **Australia**
 
 ## Europe
-
-[**enterJS 2019**](https://www.enterjs.de/)  
-25-28 June 2019  
-Darmstadt, **Germany**
 
 [**JAMstack Conf**](https://jamstackconf.com/london/)  
 9-10 July 2019  
@@ -173,10 +165,6 @@ Paris, **France**
 
 ## North America
 
-[**SmashingConf Toronto 2019**](https://smashingconf.com/toronto-2019/)  
-25-26 June 2019  
-Toronto, **Cananda**
-
 [**Clarity**](https://www.clarityconf.com/2019)  
 19-21 August 2019  
 San Francisco, California, **USA**
@@ -214,10 +202,6 @@ Toronto, ON **Canada**
 Chandler, AZ, **USA**
 
 ## South America
-
-[**NodeConf Colombia 2019**](https://nodeconf.co/)  
-21-22 June 2019  
-Medellín, **Colombia**
 
 [**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
 17 August 2019  
