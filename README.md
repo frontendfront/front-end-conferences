@@ -55,6 +55,10 @@ Zürich, **Switzerland**
 30-31 August 2019  
 Berlin, **Germany**
 
+[**Full Stack Fest 2019**](https://2019.fullstackfest.com/)  
+3-6 September 2019  
+Barcelona, **Spain**
+
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
 Freiburg, **Germany**
