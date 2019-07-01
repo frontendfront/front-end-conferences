@@ -72,7 +72,7 @@ London, **United Kingdom**
 Vienna, **Austria**
 
 [**CSS-Minsk-JS 2019**](https://css-minsk-js.by)  
-20-21 September 2019 
+20-21 September 2019  
 Minsk, **Belarus**
 
 [**WebExpo 2019**](https://www.webexpo.net/prague2019)  
@@ -123,8 +123,8 @@ Paris, **France**
 17-18 October 2019  
 Copenhagen, **Denmark**
 
-[**iJS: International JavaScript Conference**](https://javascript-conference.com/)
-21-25 October 2019
+[**iJS: International JavaScript Conference**](https://javascript-conference.com/)  
+21-25 October 2019  
 Munich, **Germany**
 
 [**Codemotion // Milan**](https://events.codemotion.com/conferences/milan/2019/)  
