@@ -51,6 +51,10 @@ Berlin, **Germany**
 3-6 September 2019  
 Barcelona, **Spain**
 
+[**GraphQL Day Bodensee**](https://www.graphqlday.org/bodensee)  
+6 September 2019  
+Bodensee, **Germany**
+
 [**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
 9-10 September 2019  
 Freiburg, **Germany**
