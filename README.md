@@ -39,17 +39,21 @@ Bodensee, **Germany**
 9-10 September 2019  
 Freiburg, **Germany**
 
-[**AngularConnect 2019**](https://www.angularconnect.com/)  
-19-20 September 2019  
-London, **United Kingdom**
-
 [**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
 19 September 2019  
 Vienna, **Austria**
 
+[**AngularConnect 2019**](https://www.angularconnect.com/)  
+19-20 September 2019  
+London, **United Kingdom**
+
 [**JSDayIE 2019**](https://www.jsday.org/)  
 20 September 2019  
 Dublin, **Ireland**
+
+[**We Love Speed 2019**](https://www.welovespeed.com/2019/)  
+20 September 2019  
+Lille, **France**
 
 [**CSS-Minsk-JS 2019**](https://css-minsk-js.by)  
 20-21 September 2019  
@@ -59,10 +63,6 @@ Minsk, **Belarus**
 20-22 September 2019  
 Prague, **Czechia**
 
-[**We Love Speed 2019**](https://www.welovespeed.com/2019/)  
-20 September 2019  
-Lille, **France**
-
 [**Finch Front-End**](https://finchconf.uk/)  
 23-25 September 2019  
 Edinburgh, **Scotland**
@@ -71,8 +71,8 @@ Edinburgh, **Scotland**
 24 September 2019  
 Bucharest, **Romania**
 
-[**Accento** Dev/Java/JavaScript](https://2019.accento.dev/)
-24-25 September 2019
+[**Accento Dev/Java/JavaScript**](https://2019.accento.dev/)  
+24-25 September 2019  
 Karlsruhe, **Germany**
 
 [**Codemotion // Madrid**](https://events.codemotion.com/conferences/madrid/2019/)  
