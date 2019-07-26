@@ -67,6 +67,10 @@ London, **United Kingdom**
 19 September 2019  
 Vienna, **Austria**
 
+[**JSDayIE 2019**](https://www.jsday.org/)  
+20 September 2019  
+Dublin, **Ireland**
+
 [**CSS-Minsk-JS 2019**](https://css-minsk-js.by)  
 20-21 September 2019  
 Minsk, **Belarus**
