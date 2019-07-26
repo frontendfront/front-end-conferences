@@ -83,6 +83,10 @@ Edinburgh, **Scotland**
 24 September 2019  
 Bucharest, **Romania**
 
+[**Accento** Dev/Java/JavaScript](https://2019.accento.dev/)
+24-25 September 2019
+Karlsruhe, **Germany**
+
 [**Codemotion // Madrid**](https://events.codemotion.com/conferences/madrid/2019/)  
 24-25 September 2019  
 Madrid, **Spain** 
