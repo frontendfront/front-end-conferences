@@ -135,6 +135,10 @@ Prague, **Czech Republic**
 5-7 November 2019  
 Berlin, **Germany**  
 
+[**HolyJS**](https://holyjs-moscow.ru/en/)  
+8-9 November 2019  
+Moscow, **Russia**
+
 [**JS Fest**](https://jsfest.com.ua)  
 8-9 November 2019  
 Kyiv, **Ukraine**
