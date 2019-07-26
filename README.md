@@ -7,10 +7,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**NG-MY 2019**](https://2019.ng-my.org/)  
-6-7 July 2019  
-Kuala Lumpur, **Malaysia**
-
 [**Web Weekend Kathmandu 2019**](https://2019.wwktm.co/)  
 21-22 September 2019  
 Kathmandu, **Nepal**
@@ -22,22 +18,6 @@ Kathmandu, **Nepal**
 Melbourne, **Australia**
 
 ## Europe
-
-[**JAMstack Conf**](https://jamstackconf.com/london/)  
-9-10 July 2019  
-Tobacco Dock, London, **England**
-
-[**CSSCamp Barcelona**](https://csscamp.tech)  
-17 July 2019  
-Barcelona, **Spain**
-
-[**JSCamp Barcelona**](https://jscamp.tech)  
-18-19 July 2019  
-Barcelona, **Spain**
-
-[**OdessaJS**](http://odessajs.org)  
-20-21 July 2019  
-Odessa, **Ukraine**
 
 [**Frontend Conference Zurich**](https://frontendconf.ch)  
 29-30 August 2019  
