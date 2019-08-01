@@ -91,6 +91,11 @@ Budapest, **Hungary**
 3-4 October 2019  
 Amsterdam, **The Netherlands**
 
+
+[**Vue.js London**](http://vuejs.london)  
+04-05 October 2019  
+London, **United Kingdom**
+
 [**JS.Sphere.it**](https://sphere.it/)  
 7-9 October 2019  
 Krakow, **Poland**
