@@ -27,6 +27,10 @@ Zürich, **Switzerland**
 30-31 August 2019  
 Berlin, **Germany**
 
+[**Full Stack Europe 2019**](https://fullstackeurope.com/)  
+23-25 October 2019  
+Antwerp, **Belgium**
+
 [**Full Stack Fest 2019**](https://2019.fullstackfest.com/)  
 3-6 September 2019  
 Barcelona, **Spain**
