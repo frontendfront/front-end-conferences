@@ -124,6 +124,10 @@ Munich, **Germany**
 24-25 October 2019  
 Milan, **Italy**  
 
+[**Script'19 - The feelgood JavaScript conference**](https://scriptconf.org)  
+24-25 October 2019  
+Linz, **Austria**  
+
 [**ReactiveConf**](https://reactiveconf.com/)  
 30 October-1 November 2019  
 Prague, **Czech Republic**
