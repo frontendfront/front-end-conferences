@@ -148,6 +148,10 @@ Berlin, **Germany**
 22 November 2019  
 London, **United Kingdom**
 
+[**Webclerks Community Conference**](https://webclerks.at/)  
+25 November 2019  
+Vienna, **Austria**
+
 [**Frontend Con**](https://frontend-con.io/)  
 26-27 November 2019  
 Warsaw, **Poland**
