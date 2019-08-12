@@ -176,6 +176,10 @@ Paris, **France**
 5-6 December 2019  
 Paris, **France**
 
+[**JS Kongress 2020**](https://js-kongress.com/)  
+15-16 April 2020
+Munich, **Germany**
+
 ## North America
 
 [**Clarity**](https://www.clarityconf.com/2019)  
