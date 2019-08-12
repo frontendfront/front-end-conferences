@@ -27,10 +27,6 @@ Zürich, **Switzerland**
 30-31 August 2019  
 Berlin, **Germany**
 
-[**Full Stack Europe 2019**](https://fullstackeurope.com/)  
-23-25 October 2019  
-Antwerp, **Belgium**
-
 [**Full Stack Fest 2019**](https://2019.fullstackfest.com/)  
 3-6 September 2019  
 Barcelona, **Spain**
@@ -95,9 +91,8 @@ Budapest, **Hungary**
 3-4 October 2019  
 Amsterdam, **The Netherlands**
 
-
 [**Vue.js London**](http://vuejs.london)  
-04-05 October 2019  
+4-5 October 2019  
 London, **United Kingdom**
 
 [**JS.Sphere.it**](https://sphere.it/)  
@@ -119,6 +114,10 @@ Copenhagen, **Denmark**
 [**iJS: International JavaScript Conference**](https://javascript-conference.com/)  
 21-25 October 2019  
 Munich, **Germany**
+
+[**Full Stack Europe 2019**](https://fullstackeurope.com/)  
+23-25 October 2019  
+Antwerp, **Belgium**
 
 [**Codemotion // Milan**](https://events.codemotion.com/conferences/milan/2019/)  
 24-25 October 2019  
@@ -177,7 +176,7 @@ Paris, **France**
 Paris, **France**
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
-15-16 April 2020
+15-16 April 2020  
 Munich, **Germany**
 
 ## North America
