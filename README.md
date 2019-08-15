@@ -17,6 +17,10 @@ Kathmandu, **Nepal**
 9-10 September, 2019  
 Melbourne, **Australia**
 
+[**ReactConf AU**](https://reactconfau.com/)  
+27-28 February, 2020  
+Sydney, **Australia**
+
 ## Europe
 
 [**Frontend Conference Zurich**](https://frontendconf.ch)  
