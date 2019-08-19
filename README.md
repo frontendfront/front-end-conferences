@@ -179,6 +179,10 @@ Paris, **France**
 15-16 April 2020  
 Munich, **Germany**
 
+[**c't <webdev> 2020**](https://ctwebdev.de/)  
+4-6 February 2020  
+Cologne, **Germany**
+
 ## North America
 
 [**Clarity**](https://www.clarityconf.com/2019)  
