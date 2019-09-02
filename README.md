@@ -23,14 +23,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**Frontend Conference Zurich**](https://frontendconf.ch)  
-29-30 August 2019  
-Zürich, **Switzerland**
-
-[**NG-DE 2019**](https://www.ng-de.org)  
-30-31 August 2019  
-Berlin, **Germany**
-
 [**Full Stack Fest 2019**](https://2019.fullstackfest.com/)  
 3-6 September 2019  
 Barcelona, **Spain**
@@ -184,14 +176,6 @@ Cologne, **Germany**
 Munich, **Germany**
 
 ## North America
-
-[**Clarity**](https://www.clarityconf.com/2019)  
-19-21 August 2019  
-San Francisco, California, **USA**
-
-[**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
-23 August 2019  
-New York City, **USA**
 
 [**React Day New York**](https://reactnewyork.com/)  
 13 September 2019  
