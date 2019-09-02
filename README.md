@@ -167,10 +167,6 @@ Vienna, **Austria**
 26-27 November 2019  
 Warsaw, **Poland**
 
-[**ColdFront 2019**](https://2019.coldfront.co)  
-26-28 November 2019  
-Copenhagen, **Denmark**
-
 [**dotCSS 2019**](https://2019.dotcss.io/)  
 4 December 2019  
 Paris, **France**
