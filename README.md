@@ -131,6 +131,10 @@ Prague, **Czech Republic**
 5-7 November 2019  
 Berlin, **Germany**  
 
+[**Refresh conference**](https://www.refreshconference.nl/)  
+8 November 2019  
+Groningen, **The Netherlands**
+
 [**HolyJS**](https://holyjs-moscow.ru/en/)  
 8-9 November 2019  
 Moscow, **Russia**
