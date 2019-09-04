@@ -175,8 +175,8 @@ Paris, **France**
 7 December 2019  
 Warsaw, **Poland**
 
-[**c't webdev 2020**](https://ctwebdev.de/)
-4-6 February 2020
+[**c't webdev 2020**](https://ctwebdev.de/)  
+4-6 February 2020  
 Cologne, **Germany**
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
