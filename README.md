@@ -213,6 +213,10 @@ Toronto, ON **Canada**
 17 January 2020  
 Chandler, AZ, **USA**
 
+[**Covalence**](http://www.covalenceconf.com)  
+24 January 2020
+San Francisco, **USA**
+
 ## South America
 
 [**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
