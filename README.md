@@ -183,6 +183,10 @@ Cologne, **Germany**
 15-16 April 2020  
 Munich, **Germany**
 
+[**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
+14-15 May 2020
+Vilnius, **Lithuania**
+
 ## North America
 
 [**React Day New York**](https://reactnewyork.com/)  
