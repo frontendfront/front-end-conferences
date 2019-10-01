@@ -213,6 +213,10 @@ Toronto, ON **Canada**
 17 January 2020  
 Chandler, AZ, **USA**
 
+[**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
+7-8 April 2020  
+New York, NYC, **USA**
+
 ## South America
 
 [**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
