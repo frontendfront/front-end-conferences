@@ -7,6 +7,10 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
+[**Webconf.asia 2019**](https://2019.webconf.asia/)
+20-23 November 2019
+**Hong Kong**
+
 [**Web Weekend Kathmandu 2019**](https://2019.wwktm.co/)  
 21-22 September 2019  
 Kathmandu, **Nepal**
