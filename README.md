@@ -183,6 +183,10 @@ Cologne, **Germany**
 15-16 April 2020  
 Munich, **Germany**
 
+[**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
+7-8 September 2020  
+Freiburg, **Germany**
+
 ## North America
 
 [**React Day New York**](https://reactnewyork.com/)  
@@ -212,6 +216,18 @@ Toronto, ON **Canada**
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
 17 January 2020  
 Chandler, AZ, **USA**
+
+[**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
+21–22 April 2020  
+San Francisco, CA, **USA**
+
+[**SmashingConf Austin 2020**](https://smashingconf.com/austin-2020/)  
+9–10 June 2020  
+Austin, Texas, **USA**
+
+[**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
+20–21 Oct 2020  
+New York, NYC, **USA**
 
 ## South America
 
