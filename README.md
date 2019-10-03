@@ -183,6 +183,10 @@ Cologne, **Germany**
 15-16 April 2020  
 Munich, **Germany**
 
+[**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
+14-15 May 2020
+Vilnius, **Lithuania**
+
 ## North America
 
 [**React Day New York**](https://reactnewyork.com/)  
@@ -212,6 +216,10 @@ Toronto, ON **Canada**
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
 17 January 2020  
 Chandler, AZ, **USA**
+
+[**Covalence**](http://www.covalenceconf.com)  
+24 January 2020
+San Francisco, **USA**
 
 [**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
 7-8 April 2020  
