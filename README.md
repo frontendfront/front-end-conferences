@@ -7,8 +7,8 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**Webconf.asia 2019**](https://2019.webconf.asia/)
-20-23 November 2019
+[**Webconf.asia 2019**](https://2019.webconf.asia/)  
+20-23 November 2019  
 **Hong Kong**
 
 ## Australia
@@ -120,7 +120,7 @@ Cologne, **Germany**
 Munich, **Germany**
 
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
-14-15 May 2020
+14-15 May 2020  
 Vilnius, **Lithuania**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
@@ -150,12 +150,12 @@ Toronto, ON **Canada**
 Chandler, AZ, **USA**
 
 [**Covalence**](http://www.covalenceconf.com)  
-24 January 2020
+24 January 2020  
 San Francisco, **USA**
 
 [**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
 7-8 April 2020  
-New York, NYC, **USA**
+NYC, New York, **USA**
 
 [**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
 21–22 April 2020  
