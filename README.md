@@ -221,6 +221,10 @@ Chandler, AZ, **USA**
 24 January 2020
 San Francisco, **USA**
 
+[**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
+7-8 April 2020  
+New York, NYC, **USA**
+
 ## South America
 
 [**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
