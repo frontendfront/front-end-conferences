@@ -7,81 +7,17 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**Web Weekend Kathmandu 2019**](https://2019.wwktm.co/)  
-21-22 September 2019  
-Kathmandu, **Nepal**
+[**Webconf.asia 2019**](https://2019.webconf.asia/)
+20-23 November 2019
+**Hong Kong**
 
 ## Australia
-
-[**ComponentsConf**](https://www.componentsconf.com.au/)  
-9-10 September, 2019  
-Melbourne, **Australia**
 
 [**ReactConf AU**](https://reactconfau.com/)  
 27-28 February, 2020  
 Sydney, **Australia**
 
 ## Europe
-
-[**Full Stack Fest 2019**](https://2019.fullstackfest.com/)  
-3-6 September 2019  
-Barcelona, **Spain**
-
-[**GraphQL Day Bodensee**](https://www.graphqlday.org/bodensee)  
-6 September 2019  
-Bodensee, **Germany**
-
-[**SmashingConf Freiburg 2019**](https://smashingconf.com/freiburg-2019/)  
-9-10 September 2019  
-Freiburg, **Germany**
-
-[**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
-19 September 2019  
-Vienna, **Austria**
-
-[**AngularConnect 2019**](https://www.angularconnect.com/)  
-19-20 September 2019  
-London, **United Kingdom**
-
-[**JSDayIE 2019**](https://www.jsday.org/)  
-20 September 2019  
-Dublin, **Ireland**
-
-[**We Love Speed 2019**](https://www.welovespeed.com/2019/)  
-20 September 2019  
-Lille, **France**
-
-[**CSS-Minsk-JS 2019**](https://css-minsk-js.by)  
-20-21 September 2019  
-Minsk, **Belarus**
-
-[**WebExpo 2019**](https://www.webexpo.net/prague2019)  
-20-22 September 2019  
-Prague, **Czechia**
-
-[**Finch Front-End**](https://finchconf.uk/)  
-23-25 September 2019  
-Edinburgh, **Scotland**
-
-[**JSCamp Bucharest**](https://jscamp.ro/)  
-24 September 2019  
-Bucharest, **Romania**
-
-[**Accento Dev/Java/JavaScript**](https://2019.accento.dev/)  
-24-25 September 2019  
-Karlsruhe, **Germany**
-
-[**Codemotion // Madrid**](https://events.codemotion.com/conferences/madrid/2019/)  
-24-25 September 2019  
-Madrid, **Spain** 
-
-[**CSSConf Budapest**](http://cssconfbp.rocks/)  
-25 September 2019  
-Budapest, **Hungary**
-
-[**JSConf Budapest**](https://jsconfbp.com)  
-26-27 September 2019  
-Budapest, **Hungary**
 
 [**Fronteers 2019**](https://fronteers.nl/congres)  
 3-4 October 2019  
@@ -183,19 +119,15 @@ Cologne, **Germany**
 15-16 April 2020  
 Munich, **Germany**
 
+[**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
+14-15 May 2020
+Vilnius, **Lithuania**
+
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7-8 September 2020  
 Freiburg, **Germany**
 
 ## North America
-
-[**React Day New York**](https://reactnewyork.com/)  
-13 September 2019  
-New York City, **USA**
-
-[**Web Unleashed 2019**](https://fitc.ca/event/webu19/)  
-13-14 September 2019  
-Toronto, **Canada**
 
 [**TSConf 2019**](https://tsconf.io/)  
 11 October 2019  
@@ -217,6 +149,14 @@ Toronto, ON **Canada**
 17 January 2020  
 Chandler, AZ, **USA**
 
+[**Covalence**](http://www.covalenceconf.com)  
+24 January 2020
+San Francisco, **USA**
+
+[**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
+7-8 April 2020  
+New York, NYC, **USA**
+
 [**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
 21–22 April 2020  
 San Francisco, CA, **USA**
@@ -228,9 +168,3 @@ Austin, Texas, **USA**
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 Oct 2020  
 New York, NYC, **USA**
-
-## South America
-
-[**JSDay Feira de Santana 2019**](http://fsa.jsday.com.br/)  
-17 August 2019  
-Feira de Santana, **Brazil**
