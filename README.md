@@ -111,9 +111,21 @@ Paris, **France**
 7 December 2019  
 Warsaw, **Poland**
 
+[**AngularNL**](http://www.angularnl.com/)  
+1st May 2020  
+Amsterdam, **The Netherlands**
+
 [**c't webdev 2020**](https://ctwebdev.de/)  
 4-6 February 2020  
 Cologne, **Germany**
+
+[**Frontend Love**](https://frontenddeveloperlove.com)  
+19-21 February 2020  
+Amsterdam, **The Netherlands**
+
+[**Vue.js Amsterdam**](https://vuejs.amsterdam/)  
+20-21 February 2020  
+Amsterdam, **The Netherlands**
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15-16 April 2020  
@@ -126,6 +138,10 @@ Vilnius, **Lithuania**
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7-8 September 2020  
 Freiburg, **Germany**
+
+[**React Live**](https://reactlive.nl/)  
+2 October 2020  
+Amsterdam, **The Netherlands**
 
 ## North America
 
