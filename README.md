@@ -123,10 +123,6 @@ Amsterdam, **The Netherlands**
 4-6 February 2020  
 Cologne, **Germany**
 
-[**Flashback Conference**](http://flashback.dev)  
-10-11 February 2020  
-Orlando, **USA**
-
 [**Frontend Love**](https://frontenddeveloperlove.com)  
 19-21 February 2020  
 Amsterdam, **The Netherlands**
@@ -188,6 +184,10 @@ Chandler, AZ, **USA**
 [**Covalence**](http://www.covalenceconf.com)  
 24 January 2020  
 San Francisco, CA, **USA**
+
+[**Flashback Conference**](http://flashback.dev)  
+10-11 February 2020  
+Orlando, **USA**
 
 [**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
 7-8 April 2020  
