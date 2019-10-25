@@ -7,8 +7,8 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**Webconf.asia 2019**](https://2019.webconf.asia/)  
-20-23 November 2019  
+[**Webconf.asia 2019**](https://2019.webconf.asia/)
+_postponed to_ August 2020
 **Hong Kong**
 
 [**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
