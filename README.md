@@ -7,12 +7,12 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**Webconf.asia 2019**](https://2019.webconf.asia/)
-_postponed to_ August 2020
+[**Webconf.asia 2019**](https://2019.webconf.asia/)  
+_postponed to_ August 2020  
 **Hong Kong**
 
 [**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
-11 May 2020
+11 May 2020  
 Tel Aviv, **Israel**
 
 ## Australia
@@ -22,30 +22,6 @@ Tel Aviv, **Israel**
 Sydney, **Australia**
 
 ## Europe
-
-[**Fronteers 2019**](https://fronteers.nl/congres)  
-3-4 October 2019  
-Amsterdam, **The Netherlands**
-
-[**Vue.js London**](http://vuejs.london)  
-4-5 October 2019  
-London, **United Kingdom**
-
-[**JS.Sphere.it**](https://sphere.it/)  
-7-9 October 2019  
-Krakow, **Poland**
-
-[**Nordic.js**](http://nordicjs.com)  
-10-11 October 2019  
-Stockholm, **Sweden**
-
-[**Paris Web**](https://www.paris-web.fr/)  
-10-12 October 2019  
-Paris, **France**
-
-[**Ember{{fest}}**](https://emberfest.eu/)  
-17-18 October 2019  
-Copenhagen, **Denmark**
 
 [**iJS: International JavaScript Conference**](https://javascript-conference.com/)  
 21-25 October 2019  
@@ -92,7 +68,7 @@ Canary Islands, **Spain**
 Berlin, **Germany**
 
 [**HalfStack London**](https://www.halfstackconf.com/london/)  
-22 November 2019
+22 November 2019  
 London, **United Kingdom**
 
 [**Webclerks Community Conference**](https://webclerks.at/)  
@@ -115,10 +91,6 @@ Paris, **France**
 7 December 2019  
 Warsaw, **Poland**
 
-[**AngularNL**](http://www.angularnl.com/)  
-1st May 2020  
-Amsterdam, **The Netherlands**
-
 [**c't webdev 2020**](https://ctwebdev.de/)  
 4-6 February 2020  
 Cologne, **Germany**
@@ -131,13 +103,17 @@ Amsterdam, **The Netherlands**
 20-21 February 2020  
 Amsterdam, **The Netherlands**
 
+[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
+27 March 2020  
+London, **UK**
+
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15-16 April 2020  
 Munich, **Germany**
 
-[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
-27 March 2020
-London, **UK**
+[**AngularNL**](http://www.angularnl.com/)  
+1st May 2020  
+Amsterdam, **The Netherlands**
 
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
 14-15 May 2020  
@@ -148,7 +124,7 @@ Vilnius, **Lithuania**
 Freiburg, **Germany**
 
 [**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
-18 September 2020
+18 September 2020  
 Vienna, **Austria**
 
 [**React Live**](https://reactlive.nl/)  
@@ -156,14 +132,10 @@ Vienna, **Austria**
 Amsterdam, **The Netherlands**
 
 [**HalfStack London**](https://www.halfstackconf.com/london/)  
-20 November 2020
+20 November 2020  
 London, **United Kingdom**
 
 ## North America
-
-[**TSConf 2019**](https://tsconf.io/)  
-11 October 2019  
-Seattle, WA, **USA**
 
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
@@ -178,7 +150,7 @@ Atlanta, GA **USA**
 Toronto, ON **Canada**
 
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
-17 January 2020
+17 January 2020  
 Chandler, AZ, **USA**
 
 [**Covalence**](http://www.covalenceconf.com)  
@@ -198,7 +170,7 @@ NYC, NY, **USA**
 San Francisco, CA, **USA**
 
 [**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
-24 April 2020
+24 April 2020  
 Charlotte, NC, **USA**
 
 [**SmashingConf Austin 2020**](https://smashingconf.com/austin-2020/)  
