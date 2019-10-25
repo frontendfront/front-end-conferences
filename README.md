@@ -11,6 +11,10 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 20-23 November 2019  
 **Hong Kong**
 
+[**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
+11 May 2020
+Tel Aviv, **Israel**
+
 ## Australia
 
 [**ReactConf AU**](https://reactconfau.com/)  
@@ -88,7 +92,7 @@ Canary Islands, **Spain**
 Berlin, **Germany**
 
 [**HalfStack London**](https://www.halfstackconf.com/london/)  
-22 November 2019  
+22 November 2019
 London, **United Kingdom**
 
 [**Webclerks Community Conference**](https://webclerks.at/)  
@@ -131,6 +135,10 @@ Amsterdam, **The Netherlands**
 15-16 April 2020  
 Munich, **Germany**
 
+[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
+27 March 2020
+London, **UK**
+
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
 14-15 May 2020  
 Vilnius, **Lithuania**
@@ -139,19 +147,27 @@ Vilnius, **Lithuania**
 7-8 September 2020  
 Freiburg, **Germany**
 
+[**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
+18 September 2020
+Vienna, **Austria**
+
 [**React Live**](https://reactlive.nl/)  
 2 October 2020  
 Amsterdam, **The Netherlands**
+
+[**HalfStack London**](https://www.halfstackconf.com/london/)  
+20 November 2020
+London, **United Kingdom**
 
 ## North America
 
 [**TSConf 2019**](https://tsconf.io/)  
 11 October 2019  
-Seattle, WA **USA**
+Seattle, WA, **USA**
 
 [**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
 15-16 October 2019  
-New York City, **USA**
+NYC, NY, **USA**
 
 [**CONNECT.TECH 2019**](http://connect.tech/)  
 16-18 October 2019  
@@ -162,25 +178,33 @@ Atlanta, GA **USA**
 Toronto, ON **Canada**
 
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
-17 January 2020  
+17 January 2020
 Chandler, AZ, **USA**
 
 [**Covalence**](http://www.covalenceconf.com)  
 24 January 2020  
-San Francisco, **USA**
+San Francisco, CA, **USA**
 
 [**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
 7-8 April 2020  
-NYC, New York, **USA**
+NYC, NY, **USA**
 
 [**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
 21–22 April 2020  
 San Francisco, CA, **USA**
 
+[**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
+24 April 2020
+Charlotte, NC, **USA**
+
 [**SmashingConf Austin 2020**](https://smashingconf.com/austin-2020/)  
 9–10 June 2020  
-Austin, Texas, **USA**
+Austin, TX, **USA**
+
+[**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
+14 August 2020
+NYC, NY, **USA**
 
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 Oct 2020  
-New York, NYC, **USA**
+NYC, NY, **USA**
