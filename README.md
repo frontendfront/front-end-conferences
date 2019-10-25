@@ -119,6 +119,10 @@ Cologne, **Germany**
 15-16 April 2020  
 Munich, **Germany**
 
+[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
+27 March 2020
+London, **UK**
+
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
 14-15 May 2020  
 Vilnius, **Lithuania**
