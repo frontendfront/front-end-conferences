@@ -111,6 +111,10 @@ London, **UK**
 15-16 April 2020  
 Munich, **Germany**
 
+[**International JavaScript Conference**](https://javascript-conference.com/)  
+20-22 April 2020
+London, **UK**
+
 [**AngularNL**](http://www.angularnl.com/)  
 1st May 2020  
 Amsterdam, **The Netherlands**
