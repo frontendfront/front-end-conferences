@@ -95,7 +95,7 @@ Warsaw, **Poland**
 4-6 February 2020  
 Cologne, **Germany**
 
-[**FrontFest 2020**](https://fronfest.es)
+[**FrontFest 2020**](https://frontfest.es)
 15 February 2020
 Marid, **Spain**
 
