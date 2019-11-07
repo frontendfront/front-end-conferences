@@ -91,6 +91,10 @@ Paris, **France**
 7 December 2019  
 Warsaw, **Poland**
 
+[**Snow Camp 2020**](https://snowcamp.io/en/)  
+22-25 January 2020  
+Grenoble, **France**
+
 [**c't webdev 2020**](https://ctwebdev.de/)  
 4-6 February 2020  
 Cologne, **Germany**
