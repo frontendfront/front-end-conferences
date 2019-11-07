@@ -23,26 +23,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**iJS: International JavaScript Conference**](https://javascript-conference.com/)  
-21-25 October 2019  
-Munich, **Germany**
-
-[**Full Stack Europe 2019**](https://fullstackeurope.com/)  
-23-25 October 2019  
-Antwerp, **Belgium**
-
-[**Codemotion // Milan**](https://events.codemotion.com/conferences/milan/2019/)  
-24-25 October 2019  
-Milan, **Italy**  
-
-[**Script'19 - The feelgood JavaScript conference**](https://scriptconf.org)  
-24-25 October 2019  
-Linz, **Austria**  
-
-[**ReactiveConf**](https://reactiveconf.com/)  
-30 October-1 November 2019  
-Prague, **Czech Republic**
-
 [**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin-2019)  
 5-7 November 2019  
 Berlin, **Germany**  
@@ -99,8 +79,8 @@ Grenoble, **France**
 4-6 February 2020  
 Cologne, **Germany**
 
-[**FrontFest 2020**](https://frontfest.es)
-15 February 2020
+[**FrontFest 2020**](https://frontfest.es)  
+15 February 2020  
 Marid, **Spain**
 
 [**Frontend Love**](https://frontenddeveloperlove.com)  
@@ -120,7 +100,7 @@ London, **UK**
 Munich, **Germany**
 
 [**International JavaScript Conference**](https://javascript-conference.com/)  
-20-22 April 2020
+20-22 April 2020  
 London, **UK**
 
 [**AngularNL**](http://www.angularnl.com/)  
@@ -148,14 +128,6 @@ Amsterdam, **The Netherlands**
 London, **United Kingdom**
 
 ## North America
-
-[**SmashingConf New York 2019**](https://smashingconf.com/ny-2019/)  
-15-16 October 2019  
-NYC, NY, **USA**
-
-[**CONNECT.TECH 2019**](http://connect.tech/)  
-16-18 October 2019  
-Atlanta, GA **USA**
 
 [**VueConf Toronto 2019**](https://vuetoronto.com)  
 11-12 November 2019  
