@@ -111,6 +111,10 @@ Amsterdam, **The Netherlands**
 14-15 May 2020  
 Vilnius, **Lithuania**
 
+[**webinale**](https://webinale.de/)
+25-29 May 2020
+Berlin, **Germany**
+
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7-8 September 2020  
 Freiburg, **Germany**
