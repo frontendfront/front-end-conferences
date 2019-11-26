@@ -107,6 +107,10 @@ London, **UK**
 1st May 2020  
 Amsterdam, **The Netherlands**
 
+[**Sencha Community Days (SCD)**](https://sencha-community-days.de)  
+11-14 May 2020  
+Karlsruhe, **Germany**
+
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
 14-15 May 2020  
 Vilnius, **Lithuania**
