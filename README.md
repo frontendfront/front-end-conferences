@@ -4,27 +4,26 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
-
 ## Asia
-
-[**Webconf.asia 2019**](https://2019.webconf.asia/)  
-_postponed to_ August 2020  
-**Hong Kong**
 
 [**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
 11 May 2020  
 Tel Aviv, **Israel**
 
+[**Webconf.asia 2020**](https://webconf.asia/)  
+28–29 August 2020  
+**Hong Kong**
+
 ## Australia
 
 [**ReactConf AU**](https://reactconfau.com/)  
-27-28 February, 2020  
+27–28 February, 2020  
 Sydney, **Australia**
 
 ## Europe
 
-[**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin-2019)  
-5-7 November 2019  
+[**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin–2019)  
+5–7 November 2019  
 Berlin, **Germany**  
 
 [**Refresh conference**](https://www.refreshconference.nl/)  
@@ -32,19 +31,19 @@ Berlin, **Germany**
 Groningen, **The Netherlands**
 
 [**HolyJS**](https://holyjs-moscow.ru/en/)  
-8-9 November 2019  
+8–9 November 2019  
 Moscow, **Russia**
 
 [**JS Fest**](https://jsfest.com.ua)  
-8-9 November 2019  
+8–9 November 2019  
 Kyiv, **Ukraine**
 
 [**JSDay Canarias 2019**](https://jsdaycanarias.com/)  
-8-9 November 2019  
+8–9 November 2019  
 Canary Islands, **Spain**  
 
 [**Codemotion // BERLIN**](https://events.codemotion.com/conferences/berlin/2019/)  
-12-13 November 2019  
+12–13 November 2019  
 Berlin, **Germany**
 
 [**HalfStack London**](https://www.halfstackconf.com/london/)  
@@ -56,7 +55,7 @@ London, **United Kingdom**
 Vienna, **Austria**
 
 [**Frontend Con**](https://frontend-con.io/)  
-26-27 November 2019  
+26–27 November 2019  
 Warsaw, **Poland**
 
 [**dotCSS 2019**](https://2019.dotcss.io/)  
@@ -64,7 +63,7 @@ Warsaw, **Poland**
 Paris, **France**
 
 [**dotJS 2019**](https://2019.dotjs.io/)  
-5-6 December 2019  
+5–6 December 2019  
 Paris, **France**
 
 [**ConFrontJS 2019**](https://2019.confrontjs.com/)  
@@ -72,11 +71,11 @@ Paris, **France**
 Warsaw, **Poland**
 
 [**Snow Camp 2020**](https://snowcamp.io/en/)  
-22-25 January 2020  
+22–25 January 2020  
 Grenoble, **France**
 
 [**c't webdev 2020**](https://ctwebdev.de/)  
-4-6 February 2020  
+4–6 February 2020  
 Cologne, **Germany**
 
 [**FrontFest 2020**](https://frontfest.es)  
@@ -84,11 +83,11 @@ Cologne, **Germany**
 Marid, **Spain**
 
 [**Frontend Love**](https://frontenddeveloperlove.com)  
-19-21 February 2020  
+19–21 February 2020  
 Amsterdam, **The Netherlands**
 
 [**Vue.js Amsterdam**](https://vuejs.amsterdam/)  
-20-21 February 2020  
+20–21 February 2020  
 Amsterdam, **The Netherlands**
 
 [**CityJS Conference 2020**](https://www.cityjsconf.org/)  
@@ -96,11 +95,11 @@ Amsterdam, **The Netherlands**
 London, **UK**
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
-15-16 April 2020  
+15–16 April 2020  
 Munich, **Germany**
 
 [**International JavaScript Conference**](https://javascript-conference.com/)  
-20-22 April 2020  
+20–22 April 2020  
 London, **UK**
 
 [**AngularNL**](http://www.angularnl.com/)  
@@ -108,11 +107,11 @@ London, **UK**
 Amsterdam, **The Netherlands**
 
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
-14-15 May 2020  
+14–15 May 2020  
 Vilnius, **Lithuania**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
-7-8 September 2020  
+7–8 September 2020  
 Freiburg, **Germany**
 
 [**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
@@ -130,7 +129,7 @@ London, **United Kingdom**
 ## North America
 
 [**VueConf Toronto 2019**](https://vuetoronto.com)  
-11-12 November 2019  
+11–12 November 2019  
 Toronto, ON **Canada**
 
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
@@ -142,11 +141,11 @@ Chandler, AZ, **USA**
 San Francisco, CA, **USA**
 
 [**Flashback Conference**](http://flashback.dev)  
-10-11 February 2020  
+10–11 February 2020  
 Orlando, **USA**
 
 [**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
-7-8 April 2020  
+7–8 April 2020  
 NYC, NY, **USA**
 
 [**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
