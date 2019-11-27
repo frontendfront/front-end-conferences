@@ -94,6 +94,10 @@ Amsterdam, **The Netherlands**
 27 March 2020  
 London, **UK**
 
+[**FrontCon 2020**](https://2020.frontcon.com/)  
+1-3 April 2020  
+Riga, **Latvia**
+
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15–16 April 2020  
 Munich, **Germany**
