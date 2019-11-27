@@ -107,7 +107,7 @@ Munich, **Germany**
 London, **UK**
 
 [**AngularNL**](http://www.angularnl.com/)  
-1st May 2020  
+1 May 2020  
 Amsterdam, **The Netherlands**
 
 [**Sencha Community Days (SCD)**](https://sencha-community-days.de)  
@@ -118,8 +118,8 @@ Karlsruhe, **Germany**
 14–15 May 2020  
 Vilnius, **Lithuania**
 
-[**webinale**](https://webinale.de/)
-25-29 May 2020
+[**webinale**](https://webinale.de/)  
+25-29 May 2020  
 Berlin, **Germany**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
@@ -177,5 +177,5 @@ Austin, TX, **USA**
 NYC, NY, **USA**
 
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
-20–21 Oct 2020  
+20–21 October 2020  
 NYC, NY, **USA**
