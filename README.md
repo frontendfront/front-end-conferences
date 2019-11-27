@@ -22,38 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**beyond tellerrand // BERLIN**](https://beyondtellerrand.com/events/berlin–2019)  
-5–7 November 2019  
-Berlin, **Germany**  
-
-[**Refresh conference**](https://www.refreshconference.nl/)  
-8 November 2019  
-Groningen, **The Netherlands**
-
-[**HolyJS**](https://holyjs-moscow.ru/en/)  
-8–9 November 2019  
-Moscow, **Russia**
-
-[**JS Fest**](https://jsfest.com.ua)  
-8–9 November 2019  
-Kyiv, **Ukraine**
-
-[**JSDay Canarias 2019**](https://jsdaycanarias.com/)  
-8–9 November 2019  
-Canary Islands, **Spain**  
-
-[**Codemotion // BERLIN**](https://events.codemotion.com/conferences/berlin/2019/)  
-12–13 November 2019  
-Berlin, **Germany**
-
-[**HalfStack London**](https://www.halfstackconf.com/london/)  
-22 November 2019  
-London, **United Kingdom**
-
-[**Webclerks Community Conference**](https://webclerks.at/)  
-25 November 2019  
-Vienna, **Austria**
-
 [**Frontend Con**](https://frontend-con.io/)  
 26–27 November 2019  
 Warsaw, **Poland**
@@ -107,7 +75,7 @@ Munich, **Germany**
 London, **UK**
 
 [**AngularNL**](http://www.angularnl.com/)  
-1st May 2020  
+1 May 2020  
 Amsterdam, **The Netherlands**
 
 [**Sencha Community Days (SCD)**](https://sencha-community-days.de)  
@@ -118,8 +86,8 @@ Karlsruhe, **Germany**
 14–15 May 2020  
 Vilnius, **Lithuania**
 
-[**webinale**](https://webinale.de/)
-25-29 May 2020
+[**webinale**](https://webinale.de/)  
+25-29 May 2020  
 Berlin, **Germany**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
@@ -139,10 +107,6 @@ Amsterdam, **The Netherlands**
 London, **United Kingdom**
 
 ## North America
-
-[**VueConf Toronto 2019**](https://vuetoronto.com)  
-11–12 November 2019  
-Toronto, ON **Canada**
 
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
 17 January 2020  
@@ -177,5 +141,5 @@ Austin, TX, **USA**
 NYC, NY, **USA**
 
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
-20–21 Oct 2020  
+20–21 October 2020  
 NYC, NY, **USA**
