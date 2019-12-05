@@ -22,14 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**Frontend Con**](https://frontend-con.io/)  
-26–27 November 2019  
-Warsaw, **Poland**
-
-[**dotCSS 2019**](https://2019.dotcss.io/)  
-4 December 2019  
-Paris, **France**
-
 [**dotJS 2019**](https://2019.dotjs.io/)  
 5–6 December 2019  
 Paris, **France**
