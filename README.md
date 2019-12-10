@@ -90,7 +90,7 @@ Vilnius, **Lithuania**
 25-29 May 2020  
 Berlin, **Germany**
 
-[**React Norway**](https://reactnorway.com/)
+[**React Norway**](https://reactnorway.com/)  
 26 June 2020
 Larvik, **Norway**
 
@@ -144,7 +144,7 @@ Austin, TX, **USA**
 14 August 2020  
 NYC, NY, **USA**
 
-[**React New York**](https://reactnewyork.com/)
+[**React New York**](https://reactnewyork.com/)  
 11 September 2020
 NYC, NY, **USA**
 
