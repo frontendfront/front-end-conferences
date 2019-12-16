@@ -22,14 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**dotJS 2019**](https://2019.dotjs.io/)  
-5–6 December 2019  
-Paris, **France**
-
-[**ConFrontJS 2019**](https://2019.confrontjs.com/)  
-7 December 2019  
-Warsaw, **Poland**
-
 [**Snow Camp 2020**](https://snowcamp.io/en/)  
 22–25 January 2020  
 Grenoble, **France**
@@ -57,6 +49,10 @@ London, **UK**
 [**FrontCon 2020**](https://2020.frontcon.com/)  
 1-3 April 2020  
 Riga, **Latvia**
+
+[**GenerateJS**](https://www.generateconf.com/)  
+2 April 2020  
+London, **UK**
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15–16 April 2020  
@@ -99,7 +95,7 @@ Darmstadt, **Germany**
 London, **United Kingdom**
 
 [**React Norway**](https://reactnorway.com/)  
-26 June 2020
+26 June 2020  
 Larvik, **Norway**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
@@ -148,12 +144,16 @@ Charlotte, NC, **USA**
 9–10 June 2020  
 Austin, TX, **USA**
 
+[**React Week ’20**](http://reactweek.nyc/)  
+14–18 July 2020  
+NYC, NY, **USA**
+
 [**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
 14 August 2020  
 NYC, NY, **USA**
 
 [**React New York**](https://reactnewyork.com/)  
-11 September 2020
+11 September 2020  
 NYC, NY, **USA**
 
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
