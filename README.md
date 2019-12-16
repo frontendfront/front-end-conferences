@@ -22,14 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**Frontend Con**](https://frontend-con.io/)  
-26–27 November 2019  
-Warsaw, **Poland**
-
-[**dotCSS 2019**](https://2019.dotcss.io/)  
-4 December 2019  
-Paris, **France**
-
 [**dotJS 2019**](https://2019.dotjs.io/)  
 5–6 December 2019  
 Paris, **France**
@@ -70,6 +62,10 @@ Riga, **Latvia**
 15–16 April 2020  
 Munich, **Germany**
 
+[**React Summit**](https://reactsummit.com/) (formerly known as *React Amsterdam*)  
+15–17 April 2020  
+Amsterdam, **The Netherlands**
+
 [**International JavaScript Conference**](https://javascript-conference.com/)  
 20–22 April 2020  
 London, **UK**
@@ -82,6 +78,10 @@ Amsterdam, **The Netherlands**
 11-14 May 2020  
 Karlsruhe, **Germany**
 
+[**ReactEurope**](https://www.react-europe.org/)  
+12-15 May 2020  
+Paris, **France**
+
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
 14–15 May 2020  
 Vilnius, **Lithuania**
@@ -89,6 +89,14 @@ Vilnius, **Lithuania**
 [**webinale**](https://webinale.de/)  
 25-29 May 2020  
 Berlin, **Germany**
+
+[**enterJS**](https://enterjs.de/)  
+23-26 June 2020  
+Darmstadt, **Germany**
+
+[**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
+24-25 June 2020 
+London, **United Kingdom**
 
 [**React Norway**](https://reactnorway.com/)  
 26 June 2020
@@ -124,7 +132,7 @@ San Francisco, CA, **USA**
 10–11 February 2020  
 Orlando, **USA**
 
-[**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
+[**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
 7–8 April 2020  
 NYC, NY, **USA**
 
