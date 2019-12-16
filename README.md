@@ -94,6 +94,10 @@ Berlin, **Germany**
 23-26 June 2020  
 Darmstadt, **Germany**
 
+[**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
+24-25 June 2020 
+London, **United Kingdom**
+
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7–8 September 2020  
 Freiburg, **Germany**
@@ -124,7 +128,7 @@ San Francisco, CA, **USA**
 10–11 February 2020  
 Orlando, **USA**
 
-[**The Lead Developer New York 2020**](https://newyork2020.theleaddeveloper.com)  
+[**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
 7–8 April 2020  
 NYC, NY, **USA**
 
