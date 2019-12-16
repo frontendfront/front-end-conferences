@@ -22,14 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**dotJS 2019**](https://2019.dotjs.io/)  
-5–6 December 2019  
-Paris, **France**
-
-[**ConFrontJS 2019**](https://2019.confrontjs.com/)  
-7 December 2019  
-Warsaw, **Poland**
-
 [**Snow Camp 2020**](https://snowcamp.io/en/)  
 22–25 January 2020  
 Grenoble, **France**
