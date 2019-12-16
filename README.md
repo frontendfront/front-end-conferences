@@ -58,6 +58,10 @@ London, **UK**
 1-3 April 2020  
 Riga, **Latvia**
 
+[**GenerateJS**](https://www.generateconf.com/)  
+2 April 2020  
+London, **UK**
+
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15–16 April 2020  
 Munich, **Germany**
@@ -147,6 +151,10 @@ Charlotte, NC, **USA**
 [**SmashingConf Austin 2020**](https://smashingconf.com/austin-2020/)  
 9–10 June 2020  
 Austin, TX, **USA**
+
+[**React Week ’20**](http://reactweek.nyc/)  
+14–18 July 2020  
+NYC, NY, **USA**
 
 [**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
 14 August 2020  
