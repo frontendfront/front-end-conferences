@@ -98,6 +98,10 @@ Darmstadt, **Germany**
 24-25 June 2020 
 London, **United Kingdom**
 
+[**React Norway**](https://reactnorway.com/)  
+26 June 2020
+Larvik, **Norway**
+
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7–8 September 2020  
 Freiburg, **Germany**
@@ -146,6 +150,10 @@ Austin, TX, **USA**
 
 [**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
 14 August 2020  
+NYC, NY, **USA**
+
+[**React New York**](https://reactnewyork.com/)  
+11 September 2020
 NYC, NY, **USA**
 
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
