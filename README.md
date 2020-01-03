@@ -106,6 +106,10 @@ Freiburg, **Germany**
 18 September 2020  
 Vienna, **Austria**
 
+[**JSConf Budapest 2020**](https://jsconfbp.com/)  
+24-25 September 2020  
+Budapest, **Hungary**
+
 [**React Live**](https://reactlive.nl/)  
 2 October 2020  
 Amsterdam, **The Netherlands**
