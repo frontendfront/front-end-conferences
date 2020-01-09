@@ -42,6 +42,10 @@ Amsterdam, **The Netherlands**
 20–21 February 2020  
 Amsterdam, **The Netherlands**
 
+[**Workshop Summit**](https://workshop-summit.com)  
+2-6 march 2020  
+Brussels, **Belgium**
+
 [**CityJS Conference 2020**](https://www.cityjsconf.org/)  
 27 March 2020  
 London, **UK**
