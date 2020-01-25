@@ -110,6 +110,10 @@ Barcelona, **Spain**
 16-17 July 2020  
 Barcelona, **Spain**
 
+[**NG-DE 2020**](https://ng-de.org/)
+21–22 August 2020
+Berlin, **Germany**
+
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7–8 September 2020  
 Freiburg, **Germany**
