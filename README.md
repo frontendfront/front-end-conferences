@@ -95,7 +95,7 @@ Berlin, **Germany**
 Darmstadt, **Germany**
 
 [**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
-24-25 June 2020 
+24-25 June 2020  
 London, **United Kingdom**
 
 [**React Norway**](https://reactnorway.com/)  
