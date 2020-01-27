@@ -22,10 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**Snow Camp 2020**](https://snowcamp.io/en/)  
-22–25 January 2020  
-Grenoble, **France**
-
 [**c't webdev 2020**](https://ctwebdev.de/)  
 4–6 February 2020  
 Cologne, **Germany**
@@ -114,8 +110,8 @@ Barcelona, **Spain**
 16-17 July 2020  
 Barcelona, **Spain**
 
-[**NG-DE 2020**](https://ng-de.org/)
-21–22 August 2020
+[**NG-DE 2020**](https://ng-de.org/)  
+21–22 August 2020  
 Berlin, **Germany**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
@@ -139,14 +135,6 @@ Amsterdam, **The Netherlands**
 London, **United Kingdom**
 
 ## North America
-
-[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
-17 January 2020  
-Chandler, AZ, **USA**
-
-[**Covalence**](http://www.covalenceconf.com)  
-24 January 2020  
-San Francisco, CA, **USA**
 
 [**Flashback Conference**](http://flashback.dev)  
 10–11 February 2020  
