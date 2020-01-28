@@ -94,6 +94,10 @@ Berlin, **Germany**
 23-26 June 2020  
 Darmstadt, **Germany**
 
+[**Lead Dev Manager of Managers London 2020**](https://managerofmanagerslondon2020.theleaddeveloper.com/)  
+23 June 2020  
+London, **United Kingdom**
+
 [**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
 24-25 June 2020  
 London, **United Kingdom**
@@ -171,6 +175,10 @@ NYC, NY, **USA**
 [**React New York**](https://reactnewyork.com/)  
 11 September 2020  
 NYC, NY, **USA**
+
+[**Lead Dev San Francisco 2020**](https://sanfrancisco2020.theleaddeveloper.com/)  
+7-8 October 2020  
+San Francisco, CA, **USA**
 
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 October 2020  
