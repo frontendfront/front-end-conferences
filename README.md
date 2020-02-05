@@ -156,8 +156,8 @@ San Francisco, CA, **USA**
 24 April 2020  
 Charlotte, NC, **USA**
 
-[**ForwardJS Ottawa**](https://forwardjs.com/ottawa/)
-26-29 May 2020
+[**ForwardJS Ottawa**](https://forwardjs.com/ottawa/)  
+26-29 May 2020  
 Ottawa, ON, **Canada**
 
 [**SmashingConf Austin 2020**](https://smashingconf.com/austin-2020/)  
@@ -168,8 +168,8 @@ Austin, TX, **USA**
 14–18 July 2020  
 NYC, NY, **USA**
 
-[**ForwardJS San Francisco**](https://forwardjs.com)
-20-24 July 2020
+[**ForwardJS San Francisco**](https://forwardjs.com)  
+20-24 July 2020  
 San Francisco, CA, **USA**
 
 [**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
