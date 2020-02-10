@@ -22,14 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**c't webdev 2020**](https://ctwebdev.de/)  
-4–6 February 2020  
-Cologne, **Germany**
-
-[**Front End North 2020**](https://frontendnorth.com/)  
-7 February 2020  
-Sheffield, **UK**
-
 [**FrontFest 2020**](https://frontfest.es)  
 15 February 2020  
 Marid, **Spain**
@@ -57,6 +49,10 @@ Riga, **Latvia**
 [**GenerateJS**](https://www.generateconf.com/)  
 2 April 2020  
 London, **UK**
+
+[**JS Fest Spring**](https://jsfest.com.ua/indexe.html)  
+3-4 April 2020  
+Kyiv, **Ukraine**
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15–16 April 2020  
@@ -90,8 +86,8 @@ Vilnius, **Lithuania**
 25-29 May 2020  
 Berlin, **Germany**
 
-[**CSS Day 2020 + dsgnday**](https://cssday.nl/)
-11—12 June 2020
+[**CSS Day 2020 + dsgnday**](https://cssday.nl/)  
+11—12 June 2020  
 Amsterdam, **The Netherlands**
 
 [**enterJS**](https://enterjs.de/)  
@@ -123,7 +119,7 @@ Barcelona, **Spain**
 Berlin, **Germany**
 
 [**React Native EU 2020**](https://www.react-native.eu/)  
-3-4 September 2020 
+3-4 September 2020  
 Wroclaw, **Poland**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
@@ -151,10 +147,6 @@ Stockholm, **Sweden**
 London, **United Kingdom**
 
 ## North America
-
-[**Flashback Conference**](http://flashback.dev)  
-10–11 February 2020  
-Orlando, **USA**
 
 [**EmberConf 2020**](https://emberconf.com)  
 16–18 March 2020  
