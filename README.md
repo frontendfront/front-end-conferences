@@ -58,6 +58,10 @@ Riga, **Latvia**
 2 April 2020  
 London, **UK**
 
+[**JS Fest Spring**](https://jsfest.com.ua/indexe.html)  
+3-4 April 2020  
+Kyiv, **Ukraine**
+
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15–16 April 2020  
 Munich, **Germany**
