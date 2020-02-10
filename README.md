@@ -90,8 +90,8 @@ Vilnius, **Lithuania**
 25-29 May 2020  
 Berlin, **Germany**
 
-[**CSS Day 2020 + dsgnday**](https://cssday.nl/)
-11—12 June 2020
+[**CSS Day 2020 + dsgnday**](https://cssday.nl/)  
+11—12 June 2020  
 Amsterdam, **The Netherlands**
 
 [**enterJS**](https://enterjs.de/)  
@@ -123,7 +123,7 @@ Barcelona, **Spain**
 Berlin, **Germany**
 
 [**React Native EU 2020**](https://www.react-native.eu/)  
-3-4 September 2020 
+3-4 September 2020  
 Wroclaw, **Poland**
 
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
