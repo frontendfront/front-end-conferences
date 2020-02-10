@@ -118,6 +118,10 @@ Barcelona, **Spain**
 21–22 August 2020  
 Berlin, **Germany**
 
+[**React Native EU 2020**](https://www.react-native.eu/)  
+3-4 September 2020 
+Wroclaw, **Poland**
+
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7–8 September 2020  
 Freiburg, **Germany**
