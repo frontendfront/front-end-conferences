@@ -142,6 +142,10 @@ Budapest, **Hungary**
 2 October 2020  
 Amsterdam, **The Netherlands**
 
+[**Nordic.js**](https://nordicjs.com/)  
+8-9 October 2020  
+Stockholm, **Sweden**
+
 [**HalfStack London**](https://www.halfstackconf.com/london/)  
 20 November 2020  
 London, **United Kingdom**
