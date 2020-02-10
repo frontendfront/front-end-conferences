@@ -22,14 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**c't webdev 2020**](https://ctwebdev.de/)  
-4–6 February 2020  
-Cologne, **Germany**
-
-[**Front End North 2020**](https://frontendnorth.com/)  
-7 February 2020  
-Sheffield, **UK**
-
 [**FrontFest 2020**](https://frontfest.es)  
 15 February 2020  
 Marid, **Spain**
@@ -155,10 +147,6 @@ Stockholm, **Sweden**
 London, **United Kingdom**
 
 ## North America
-
-[**Flashback Conference**](http://flashback.dev)  
-10–11 February 2020  
-Orlando, **USA**
 
 [**EmberConf 2020**](https://emberconf.com)  
 16–18 March 2020  
