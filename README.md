@@ -195,3 +195,10 @@ San Francisco, CA, **USA**
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 October 2020  
 NYC, NY, **USA**
+
+
+## South America
+
+[**CausaConf 2020**](https://causaconf.pe)
+13 June 2020
+Lima, **Peru**
