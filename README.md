@@ -24,7 +24,7 @@ Sydney, **Australia**
 
 [**FrontFest 2020**](https://frontfest.es)  
 15 February 2020  
-Marid, **Spain**
+Madrid, **Spain**
 
 [**Frontend Love**](https://frontenddeveloperlove.com)  
 19–21 February 2020  
