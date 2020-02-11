@@ -199,6 +199,6 @@ NYC, NY, **USA**
 
 ## South America
 
-[**CausaConf 2020**](https://causaconf.pe)
+[**CausaConf**](https://causaconf.pe/)
 13 June 2020
 Lima, **Peru**
