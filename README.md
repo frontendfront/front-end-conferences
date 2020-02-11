@@ -90,6 +90,10 @@ Berlin, **Germany**
 11—12 June 2020  
 Amsterdam, **The Netherlands**
 
+[**JSCONF.BE**](https://jsconf.be/)  
+22-23 June 2020  
+Brussels, **Belgium**
+
 [**enterJS**](https://enterjs.de/)  
 23-26 June 2020  
 Darmstadt, **Germany**
