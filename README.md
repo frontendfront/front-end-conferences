@@ -22,18 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**FrontFest 2020**](https://frontfest.es)  
-15 February 2020  
-Madrid, **Spain**
-
-[**Frontend Love**](https://frontenddeveloperlove.com)  
-19–21 February 2020  
-Amsterdam, **The Netherlands**
-
-[**Vue.js Amsterdam**](https://vuejs.amsterdam/)  
-20–21 February 2020  
-Amsterdam, **The Netherlands**
-
 [**Workshop Summit**](https://workshop-summit.com)  
 2-6 march 2020  
 Brussels, **Belgium**
@@ -202,14 +190,14 @@ NYC, NY, **USA**
 
 ## South America
 
-[**Córdoba WebConf 2020**](https://webconf.tech)
-29-30 May 2020
+[**Córdoba WebConf 2020**](https://webconf.tech)  
+29-30 May 2020  
 Córdoba, **Argentina**
 
 [**CausaConf**](https://causaconf.pe/)  
 13 June 2020  
-Lima, **Peru**  
+Lima, **Peru**
 
-[**NodeConf Argentina 2020**](https://2020.nodeconfar.com)
-9-10 October 2020
+[**NodeConf Argentina 2020**](https://2020.nodeconfar.com)  
+9-10 October 2020  
 Buenos Aires, **Argentina**
