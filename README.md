@@ -202,6 +202,10 @@ NYC, NY, **USA**
 29-30 May 2020
 Córdoba, **Argentina**
 
+[**CausaConf**](https://causaconf.pe/)  
+13 June 2020  
+Lima, **Peru**  
+
 [**NodeConf Argentina 2020**](https://2020.nodeconfar.com)
 9-10 October 2020
 Buenos Aires, **Argentina**
