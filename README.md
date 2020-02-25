@@ -195,3 +195,13 @@ San Francisco, CA, **USA**
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 October 2020  
 NYC, NY, **USA**
+
+## South America
+
+[**Córdoba WebConf 2020**](https://webconf.tech)
+29-30 May 2020
+Córdoba, **Argentina**
+
+[**NodeConf Argentina 2020**](https://2020.nodeconfar.com)
+9-10 October 2020
+Buenos Aires, **Argentina**
