@@ -202,14 +202,27 @@ NYC, NY, **USA**
 
 ## South America
 
-[**Córdoba WebConf 2020**](https://webconf.tech)
-29-30 May 2020
+[**Córdoba WebConf 2020**](https://webconf.tech)  
+29-30 May 2020  
 Córdoba, **Argentina**
+
+[**BuzzConf**](https://buzzconf.org/)  
+11-12 June 2020  
+Buenos Aires, **Argentina**
 
 [**CausaConf**](https://causaconf.pe/)  
 13 June 2020  
 Lima, **Peru**  
 
-[**NodeConf Argentina 2020**](https://2020.nodeconfar.com)
-9-10 October 2020
+[**NodeConf Argentina 2020**](https://2020.nodeconfar.com)  
+9-10 October 2020  
 Buenos Aires, **Argentina**
+
+[**Nerdear.la 2020**](https://nerdear.la/)  
+22-24 October 2020  
+Buenos Aires, **Argentina**
+
+[**Ekoparty**](https://ekoparty.org/)  
+23-26 October 2020  
+Buenos Aires, **Argentina**
+
