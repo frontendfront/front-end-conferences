@@ -201,3 +201,7 @@ Lima, **Peru**
 [**NodeConf Argentina 2020**](https://2020.nodeconfar.com)  
 9-10 October 2020  
 Buenos Aires, **Argentina**
+
+[**Nerdear.la 2020**](https://nerdear.la/)  
+22-24 October 2020  
+Buenos Aires, **Argentina**
