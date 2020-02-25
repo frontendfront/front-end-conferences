@@ -196,9 +196,16 @@ San Francisco, CA, **USA**
 20–21 October 2020  
 NYC, NY, **USA**
 
-
 ## South America
+
+[**Córdoba WebConf 2020**](https://webconf.tech)
+29-30 May 2020
+Córdoba, **Argentina**
 
 [**CausaConf**](https://causaconf.pe/)  
 13 June 2020  
 Lima, **Peru**  
+
+[**NodeConf Argentina 2020**](https://2020.nodeconfar.com)
+9-10 October 2020
+Buenos Aires, **Argentina**
