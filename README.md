@@ -22,18 +22,6 @@ Sydney, **Australia**
 
 ## Europe
 
-[**FrontFest 2020**](https://frontfest.es)  
-15 February 2020  
-Madrid, **Spain**
-
-[**Frontend Love**](https://frontenddeveloperlove.com)  
-19–21 February 2020  
-Amsterdam, **The Netherlands**
-
-[**Vue.js Amsterdam**](https://vuejs.amsterdam/)  
-20–21 February 2020  
-Amsterdam, **The Netherlands**
-
 [**Workshop Summit**](https://workshop-summit.com)  
 2-6 march 2020  
 Brussels, **Belgium**
