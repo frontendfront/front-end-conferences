@@ -54,6 +54,10 @@ Amsterdam, **The Netherlands**
 20–22 April 2020  
 London, **UK**
 
+[**Frontend United**](https://www.frontendunited.org/)  
+30 April - 2 May 2020  
+Minsk, **Belarus**
+
 [**AngularNL**](http://www.angularnl.com/)  
 1 May 2020  
 Amsterdam, **The Netherlands**
@@ -155,10 +159,6 @@ San Francisco, CA, **USA**
 [**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
 24 April 2020  
 Charlotte, NC, **USA**
-
-[**Frontend United**](https://www.frontendunited.org/)  
-30 April - 2 May 2020  
-Minsk, **Belarus**
 
 [**ForwardJS Ottawa**](https://forwardjs.com/ottawa/)  
 26-29 May 2020  
