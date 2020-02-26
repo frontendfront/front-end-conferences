@@ -156,6 +156,10 @@ San Francisco, CA, **USA**
 24 April 2020  
 Charlotte, NC, **USA**
 
+[**Frontend United**](https://www.frontendunited.org/)  
+30 April - 2 May 2020  
+Minsk, **Belarus**
+
 [**ForwardJS Ottawa**](https://forwardjs.com/ottawa/)  
 26-29 May 2020  
 Ottawa, ON, **Canada**
