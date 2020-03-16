@@ -30,10 +30,6 @@ Brussels, **Belgium**
 27 March 2020  
 London, **UK**
 
-[**FrontCon 2020**](https://2020.frontcon.com/)  
-1-3 April 2020  
-Riga, **Latvia**
-
 [**GenerateJS**](https://www.generateconf.com/)  
 2 April 2020  
 London, **UK**
@@ -105,6 +101,10 @@ Barcelona, **Spain**
 [**JSCAMP 2020**](https://jscamp.tech/)  
 16-17 July 2020  
 Barcelona, **Spain**
+
+[**FrontCon 2020**](https://2020.frontcon.com/)  
+12-14 August 2020  
+Riga, **Latvia**
 
 [**NG-DE 2020**](https://ng-de.org/)  
 21–22 August 2020  
