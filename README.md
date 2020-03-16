@@ -6,13 +6,13 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
-11 May 2020  
-Tel Aviv, **Israel**
-
 [**Webconf.asia 2020**](https://webconf.asia/)  
 28–29 August 2020  
 **Hong Kong**
+
+[**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
+19 October 2020  
+Tel Aviv, **Israel**
 
 ## Australia
 
@@ -25,10 +25,6 @@ Sydney, **Australia**
 [**Workshop Summit**](https://workshop-summit.com)  
 2-6 march 2020  
 Brussels, **Belgium**
-
-[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
-27 March 2020  
-London, **UK**
 
 [**GenerateJS**](https://www.generateconf.com/)  
 2 April 2020  
@@ -49,6 +45,10 @@ Amsterdam, **The Netherlands**
 [**International JavaScript Conference**](https://javascript-conference.com/)  
 20–22 April 2020  
 London, **UK**
+
+[**Frontend United**](https://www.frontendunited.org/)  
+30 April - 2 May 2020  
+Minsk, **Belarus**
 
 [**AngularNL**](http://www.angularnl.com/)  
 1 May 2020  
@@ -118,6 +118,10 @@ Wroclaw, **Poland**
 7–8 September 2020  
 Freiburg, **Germany**
 
+[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
+14 September 2020  
+London, **UK**
+
 [**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
 18 September 2020  
 Vienna, **Austria**
@@ -152,10 +156,6 @@ NYC, NY, **USA**
 21–22 April 2020  
 San Francisco, CA, **USA**
 
-[**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
-24 April 2020  
-Charlotte, NC, **USA**
-
 [**ForwardJS Ottawa**](https://forwardjs.com/ottawa/)  
 26-29 May 2020  
 Ottawa, ON, **Canada**
@@ -187,6 +187,10 @@ San Francisco, CA, **USA**
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 October 2020  
 NYC, NY, **USA**
+
+[**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
+11 December 2020  
+Charlotte, NC, **USA**
 
 ## South America
 
