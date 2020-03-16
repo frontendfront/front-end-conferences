@@ -6,13 +6,13 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
-11 May 2020  
-Tel Aviv, **Israel**
-
 [**Webconf.asia 2020**](https://webconf.asia/)  
 28–29 August 2020  
 **Hong Kong**
+
+[**HalfStack Tel Aviv**](https://www.halfstackconf.com/telaviv/)  
+19 October 2020  
+Tel Aviv, **Israel**
 
 ## Australia
 
@@ -25,14 +25,6 @@ Sydney, **Australia**
 [**Workshop Summit**](https://workshop-summit.com)  
 2-6 march 2020  
 Brussels, **Belgium**
-
-[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
-27 March 2020  
-London, **UK**
-
-[**FrontCon 2020**](https://2020.frontcon.com/)  
-1-3 April 2020  
-Riga, **Latvia**
 
 [**GenerateJS**](https://www.generateconf.com/)  
 2 April 2020  
@@ -53,6 +45,10 @@ Amsterdam, **The Netherlands**
 [**International JavaScript Conference**](https://javascript-conference.com/)  
 20–22 April 2020  
 London, **UK**
+
+[**Frontend United**](https://www.frontendunited.org/)  
+30 April - 2 May 2020  
+Minsk, **Belarus**
 
 [**AngularNL**](http://www.angularnl.com/)  
 1 May 2020  
@@ -106,6 +102,10 @@ Barcelona, **Spain**
 16-17 July 2020  
 Barcelona, **Spain**
 
+[**FrontCon 2020**](https://2020.frontcon.com/)  
+12-14 August 2020  
+Riga, **Latvia**
+
 [**NG-DE 2020**](https://ng-de.org/)  
 21–22 August 2020  
 Berlin, **Germany**
@@ -117,6 +117,10 @@ Wroclaw, **Poland**
 [**SmashingConf Freiburg 2020**](https://smashingconf.com/freiburg-2020/)  
 7–8 September 2020  
 Freiburg, **Germany**
+
+[**CityJS Conference 2020**](https://www.cityjsconf.org/)  
+14 September 2020  
+London, **UK**
 
 [**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
 18 September 2020  
@@ -147,10 +151,6 @@ Portland, OR, **USA**
 [**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
 7–8 April 2020  
 NYC, NY, **USA**
-
-[**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
-24 April 2020  
-Charlotte, NC, **USA**
 
 [**ForwardJS Ottawa**](https://forwardjs.com/ottawa/)  
 26-29 May 2020  
@@ -187,6 +187,10 @@ NYC, NY, **USA**
 [**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
 10-11 November 2020  
 San Francisco, CA, **USA**
+
+[**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
+11 December 2020  
+Charlotte, NC, **USA**
 
 ## South America
 
