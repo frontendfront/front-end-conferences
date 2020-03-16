@@ -148,10 +148,6 @@ Portland, OR, **USA**
 7–8 April 2020  
 NYC, NY, **USA**
 
-[**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
-21–22 April 2020  
-San Francisco, CA, **USA**
-
 [**HalfStack Charlotte**](https://www.halfstackconf.com/charlotte/)  
 24 April 2020  
 Charlotte, NC, **USA**
@@ -187,6 +183,10 @@ San Francisco, CA, **USA**
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 October 2020  
 NYC, NY, **USA**
+
+[**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
+10-11 November 2020  
+San Francisco, CA, **USA**
 
 ## South America
 
