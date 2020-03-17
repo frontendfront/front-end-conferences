@@ -16,15 +16,9 @@ Tel Aviv, **Israel**
 
 ## Australia
 
-[**ReactConf AU**](https://reactconfau.com/)  
-27–28 February, 2020  
-Sydney, **Australia**
+—  
 
 ## Europe
-
-[**Workshop Summit**](https://workshop-summit.com)  
-2-6 march 2020  
-Brussels, **Belgium**
 
 [**GenerateJS**](https://www.generateconf.com/)  
 2 April 2020  
