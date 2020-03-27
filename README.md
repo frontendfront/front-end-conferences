@@ -17,7 +17,7 @@ Tel Aviv, **Israel**
 ## Europe
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
-*Postponed*
+*Postponed*  
 Munich, **Germany**
 
 [**AngularNL**](http://www.angularnl.com/)  
