@@ -14,47 +14,23 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 19 October 2020  
 Tel Aviv, **Israel**
 
-## Australia
-
-—  
-
 ## Europe
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
-15–16 April 2020  
+*Postponed*
 Munich, **Germany**
-
-[**International JavaScript Conference**](https://javascript-conference.com/)  
-20–22 April 2020  
-London, **UK**
-
-[**Frontend United**](https://www.frontendunited.org/)  
-30 April - 2 May 2020  
-Minsk, **Belarus**
 
 [**AngularNL**](http://www.angularnl.com/)  
 1 May 2020  
 Amsterdam, **The Netherlands**
 
-[**Sencha Community Days (SCD)**](https://sencha-community-days.de)  
-11-14 May 2020  
-Karlsruhe, **Germany**
-
-[**ReactEurope**](https://www.react-europe.org/)  
+[**ReactEurope**](https://www.react-europe.org/) - *Online*  
 12-15 May 2020  
 Paris, **France**
-
-[**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
-14–15 May 2020  
-Vilnius, **Lithuania**
 
 [**webinale**](https://webinale.de/)  
 25-29 May 2020  
 Berlin, **Germany**
-
-[**CSS Day 2020 + dsgnday**](https://cssday.nl/)  
-11—12 June 2020  
-Amsterdam, **The Netherlands**
 
 [**JSCONF.BE**](https://jsconf.be/)  
 22-23 June 2020  
@@ -65,16 +41,8 @@ Brussels, **Belgium**
 Darmstadt, **Germany**
 
 [**Lead Dev Manager of Managers London 2020**](https://managerofmanagerslondon2020.theleaddeveloper.com/)  
-23 June 2020  
+*Postponed*  
 London, **United Kingdom**
-
-[**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
-24-25 June 2020  
-London, **United Kingdom**
-
-[**React Norway**](https://reactnorway.com/)  
-26 June 2020  
-Larvik, **Norway**
 
 [**CSSCAMP 2020**](https://csscamp.tech/)  
 15 July 2020  
@@ -91,6 +59,14 @@ Riga, **Latvia**
 [**NG-DE 2020**](https://ng-de.org/)  
 21–22 August 2020  
 Berlin, **Germany**
+
+[**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
+27–28 August 2020  
+Vilnius, **Lithuania**
+
+[**International JavaScript Conference**](https://javascript-conference.com/)  
+2-4 September 2020  
+London, **UK**
 
 [**React Native EU 2020**](https://www.react-native.eu/)  
 3-4 September 2020  
@@ -132,17 +108,25 @@ Kyiv, **Ukraine**
 20 November 2020  
 London, **United Kingdom**
 
+[**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
+1-2 February 2020  
+London, **United Kingdom**
+
+[**CSS Day 2021 + dsgnday**](https://cssday.nl/)  
+10—11 June 2021  
+Amsterdam, **The Netherlands**
+
+[**React Norway**](https://reactnorway.com/)  
+18 June 2021  
+Larvik, **Norway**
+
 ## North America
 
-[**EmberConf 2020**](https://emberconf.com)  
-16–18 March 2020  
-Portland, OR, **USA**
-
 [**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
-7–8 April 2020  
+11–12 August 2020  
 NYC, NY, **USA**
 
-[**ForwardJS Ottawa**](https://forwardjs.com/ottawa/)  
+[**ForwardJS Ottawa**](https://forwardjs.com/ottawa/) - *Online*  
 26-29 May 2020  
 Ottawa, ON, **Canada**
 
@@ -154,7 +138,7 @@ Austin, TX, **USA**
 14–18 July 2020  
 NYC, NY, **USA**
 
-[**ForwardJS San Francisco**](https://forwardjs.com)  
+[**ForwardJS San Francisco**](https://forwardjs.com) - *Online*  
 20-24 July 2020  
 San Francisco, CA, **USA**
 
