@@ -16,31 +16,13 @@ Tel Aviv, **Israel**
 
 ## Australia
 
-[**ReactConf AU**](https://reactconfau.com/)  
-27–28 February, 2020  
-Sydney, **Australia**
+—  
 
 ## Europe
-
-[**Workshop Summit**](https://workshop-summit.com)  
-2-6 march 2020  
-Brussels, **Belgium**
-
-[**GenerateJS**](https://www.generateconf.com/)  
-2 April 2020  
-London, **UK**
-
-[**JS Fest Spring**](https://jsfest.com.ua/indexe.html)  
-3-4 April 2020  
-Kyiv, **Ukraine**
 
 [**JS Kongress 2020**](https://js-kongress.com/)  
 15–16 April 2020  
 Munich, **Germany**
-
-[**React Summit**](https://reactsummit.com/) (formerly known as *React Amsterdam*)  
-15–17 April 2020  
-Amsterdam, **The Netherlands**
 
 [**International JavaScript Conference**](https://javascript-conference.com/)  
 20–22 April 2020  
@@ -118,6 +100,10 @@ Wroclaw, **Poland**
 7–8 September 2020  
 Freiburg, **Germany**
 
+[**React Summit 2020**](https://reactsummit.com/) (formerly known as *React Amsterdam*)  
+11 September 2020  
+Amsterdam, **The Netherlands**
+
 [**CityJS Conference 2020**](https://www.cityjsconf.org/)  
 14 September 2020  
 London, **UK**
@@ -137,6 +123,10 @@ Amsterdam, **The Netherlands**
 [**Nordic.js**](https://nordicjs.com/)  
 8-9 October 2020  
 Stockholm, **Sweden**
+
+[**JS Fest**](https://jsfest.com.ua/indexe.html)  
+30-31 October 2020  
+Kyiv, **Ukraine**
 
 [**HalfStack London**](https://www.halfstackconf.com/london/)  
 20 November 2020  
