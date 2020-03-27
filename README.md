@@ -109,7 +109,7 @@ Kyiv, **Ukraine**
 London, **United Kingdom**
 
 [**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
-1-2 February 2020  
+1-2 February 2021  
 London, **United Kingdom**
 
 [**CSS Day 2021 + dsgnday**](https://cssday.nl/)  
@@ -121,10 +121,6 @@ Amsterdam, **The Netherlands**
 Larvik, **Norway**
 
 ## North America
-
-[**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
-11–12 August 2020  
-NYC, NY, **USA**
 
 [**ForwardJS Ottawa**](https://forwardjs.com/ottawa/) - *Online*  
 26-29 May 2020  
@@ -141,6 +137,10 @@ NYC, NY, **USA**
 [**ForwardJS San Francisco**](https://forwardjs.com) - *Online*  
 20-24 July 2020  
 San Francisco, CA, **USA**
+
+[**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
+11–12 August 2020  
+NYC, NY, **USA**
 
 [**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
 14 August 2020  
