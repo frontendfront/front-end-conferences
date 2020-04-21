@@ -44,6 +44,10 @@ Darmstadt, **Germany**
 *Postponed*  
 London, **United Kingdom**
 
+[**HalfStack Newquay**](https://www.halfstackconf.com/newquay/)  
+03 July 2020  
+Newquay, **United Kingdom**
+
 [**CSSCAMP 2020**](https://csscamp.tech/)  
 15 July 2020  
 Barcelona, **Spain**
@@ -170,6 +174,11 @@ San Francisco, CA, **USA**
 11 December 2020  
 Charlotte, NC, **USA**
 
+[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)
+15 January 2021  
+Chandler, AZ, **USA**
+
+
 ## South America
 
 [**Córdoba WebConf 2020**](https://webconf.tech)  
@@ -187,3 +196,27 @@ Buenos Aires, **Argentina**
 [**Nerdear.la 2020**](https://nerdear.la/)  
 22-24 October 2020  
 Buenos Aires, **Argentina**
+
+
+## Online
+
+[**JS VidCon**](https://jsvidcon.com/)  
+07 May 2020
+**Online**
+
+[**JavaScript Remote Conf**](https://devchat.tv/conferences/javascript-remote-2020/)  
+13-14 May 2020
+**Online**
+
+[**ESNext Conf**](https://www.esnextconf.com/)  
+18-22 May 2020
+**Online**
+
+[**HalfStack Online**](https://www.halfstackconf.com/online/)  
+22 May 2020
+**Online**
+
+[**React Finland**](https://react-finland.fi/)  
+25-28 May 2020
+**Online**
+
