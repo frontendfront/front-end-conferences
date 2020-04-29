@@ -44,10 +44,6 @@ Darmstadt, **Germany**
 *Postponed*  
 London, **United Kingdom**
 
-[**HalfStack Newquay**](https://www.halfstackconf.com/newquay/)  
-03 July 2020  
-Newquay, **United Kingdom**
-
 [**CSSCAMP 2020**](https://csscamp.tech/)  
 15 July 2020  
 Barcelona, **Spain**
@@ -127,6 +123,10 @@ Amsterdam, **The Netherlands**
 [**React Norway**](https://reactnorway.com/)  
 18 June 2021  
 Larvik, **Norway**
+
+[**HalfStack Newquay**](https://www.halfstackconf.com/newquay/)  
+02 July 2021  
+Newquay, **United Kingdom**
 
 ## North America
 
