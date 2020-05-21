@@ -28,10 +28,6 @@ Amsterdam, **The Netherlands**
 12-15 May 2020  
 Paris, **France**
 
-[**webinale**](https://webinale.de/)  
-25-29 May 2020  
-Berlin, **Germany**
-
 [**JSCONF.BE**](https://jsconf.be/)  
 22-23 June 2020  
 Brussels, **Belgium**
@@ -107,6 +103,10 @@ Kyiv, **Ukraine**
 [**HalfStack London**](https://www.halfstackconf.com/london/)  
 20 November 2020  
 London, **United Kingdom**
+
+[**webinale**](https://webinale.de/)  
+7-11 December 2020  
+Berlin, **Germany**
 
 [**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
 1-2 February 2021  
