@@ -48,9 +48,21 @@ Barcelona, **Spain**
 16-17 July 2020  
 Barcelona, **Spain**
 
+[**AngularNL 2020**](https://www.angularnl.com/)  
+24th July 2020
+Amsterdam, **The Netherlands**
+
 [**FrontCon 2020**](https://2020.frontcon.com/)  
 12-14 August 2020  
 Riga, **Latvia**
+
+[**Vue Global 2020**](https://www.vuejs.amsterdam/)  
+13-14th August 2020
+Amsterdam, **The Netherlands**
+
+[**Frontend Developer Love 2020**](https://www.frontenddeveloperlove.com/)  
+20-21st August 2020
+Amsterdam, **The Netherlands**
 
 [**NG-DE 2020**](https://ng-de.org/)  
 21–22 August 2020  
@@ -59,6 +71,10 @@ Berlin, **Germany**
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
 27–28 August 2020  
 Vilnius, **Lithuania**
+
+[**React Live 2020**](https://www.reactlive.nl/)  
+28th August 2020
+Amsterdam, **The Netherlands**
 
 [**International JavaScript Conference**](https://javascript-conference.com/)  
 2-4 September 2020  
