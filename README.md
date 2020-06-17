@@ -20,15 +20,7 @@ Tel Aviv, **Israel**
 *Postponed*  
 Munich, **Germany**
 
-[**AngularNL**](http://www.angularnl.com/)  
-1 May 2020  
-Amsterdam, **The Netherlands**
-
-[**ReactEurope**](https://www.react-europe.org/) - *Online*  
-12-15 May 2020  
-Paris, **France**
-
-[**JSCONF.BE**](https://jsconf.be/)  
+[**JSCONF.BE**](https://jsconf.be/) - *Online*  
 22-23 June 2020  
 Brussels, **Belgium**
 
@@ -49,7 +41,7 @@ Barcelona, **Spain**
 Barcelona, **Spain**
 
 [**AngularNL 2020**](https://www.angularnl.com/)  
-24th July 2020
+24th July 2020  
 Amsterdam, **The Netherlands**
 
 [**FrontCon 2020**](https://2020.frontcon.com/)  
@@ -57,11 +49,11 @@ Amsterdam, **The Netherlands**
 Riga, **Latvia**
 
 [**Vue Global 2020**](https://www.vuejs.amsterdam/)  
-13-14th August 2020
+13-14th August 2020  
 Amsterdam, **The Netherlands**
 
 [**Frontend Developer Love 2020**](https://www.frontenddeveloperlove.com/)  
-20-21st August 2020
+20-21st August 2020  
 Amsterdam, **The Netherlands**
 
 [**NG-DE 2020**](https://ng-de.org/)  
@@ -146,18 +138,6 @@ Newquay, **United Kingdom**
 
 ## North America
 
-[**ForwardJS Ottawa**](https://forwardjs.com/ottawa/) - *Online*  
-26-29 May 2020  
-Ottawa, ON, **Canada**
-
-[**SmashingConf Austin 2020**](https://smashingconf.com/austin-2020/)  
-9–10 June 2020  
-Austin, TX, **USA**
-
-[**React Week ’20**](http://reactweek.nyc/)  
-14–18 July 2020  
-NYC, NY, **USA**
-
 [**ForwardJS San Francisco**](https://forwardjs.com) - *Online*  
 20-24 July 2020  
 San Francisco, CA, **USA**
@@ -178,6 +158,10 @@ NYC, NY, **USA**
 7-8 October 2020  
 San Francisco, CA, **USA**
 
+[**SmashingConf Austin 2020**](https://smashingconf.com/austin-2020/)  
+13–14 October 2020  
+Austin, TX, **USA**
+
 [**SmashingConf New York 2020**](https://smashingconf.com/ny-2020/)  
 20–21 October 2020  
 NYC, NY, **USA**
@@ -197,14 +181,6 @@ Chandler, AZ, **USA**
 
 ## South America
 
-[**Córdoba WebConf 2020**](https://webconf.tech)  
-29-30 May 2020  
-Córdoba, **Argentina**
-
-[**CausaConf**](https://causaconf.pe/)  
-13 June 2020  
-Lima, **Peru**
-
 [**NodeConf Argentina 2020**](https://2020.nodeconfar.com)  
 9-10 October 2020  
 Buenos Aires, **Argentina**
@@ -212,27 +188,3 @@ Buenos Aires, **Argentina**
 [**Nerdear.la 2020**](https://nerdear.la/)  
 22-24 October 2020  
 Buenos Aires, **Argentina**
-
-
-## Online
-
-[**JS VidCon**](https://jsvidcon.com/)  
-07 May 2020
-**Online**
-
-[**JavaScript Remote Conf**](https://devchat.tv/conferences/javascript-remote-2020/)  
-13-14 May 2020
-**Online**
-
-[**ESNext Conf**](https://www.esnextconf.com/)  
-18-22 May 2020
-**Online**
-
-[**HalfStack Online**](https://www.halfstackconf.com/online/)  
-22 May 2020
-**Online**
-
-[**React Finland**](https://react-finland.fi/)  
-25-28 May 2020
-**Online**
-
