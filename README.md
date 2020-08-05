@@ -49,11 +49,11 @@ Amsterdam, **The Netherlands**
 Riga, **Latvia**
 
 [**Vue Global 2020**](https://www.vuejs.amsterdam/)  
-13-14th August 2020  
+17-18th September 2020  
 Amsterdam, **The Netherlands**
 
 [**Frontend Developer Love 2020**](https://www.frontenddeveloperlove.com/)  
-20-21st August 2020  
+1-2 October 2020  
 Amsterdam, **The Netherlands**
 
 [**NG-DE 2020**](https://ng-de.org/)  
@@ -65,7 +65,7 @@ Berlin, **Germany**
 Vilnius, **Lithuania**
 
 [**React Live 2020**](https://www.reactlive.nl/)  
-28th August 2020
+11th September 2020
 Amsterdam, **The Netherlands**
 
 [**International JavaScript Conference**](https://javascript-conference.com/)  
