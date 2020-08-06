@@ -104,6 +104,10 @@ Amsterdam, **The Netherlands**
 8-9 October 2020  
 Stockholm, **Sweden**
 
+[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
+26-30 October 2020  
+Munich, **Germany**
+
 [**JS Fest**](https://jsfest.com.ua/indexe.html)  
 30-31 October 2020  
 Kyiv, **Ukraine**
