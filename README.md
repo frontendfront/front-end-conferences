@@ -166,6 +166,10 @@ Austin, TX, **USA**
 20–21 October 2020  
 NYC, NY, **USA**
 
+[**An Event Apart Online Together: Fall Summit**](https://aneventapart.com/event/online-1020) - *Online*  
+26-28 October 2020  
+Chicago, IL, **USA**
+
 [**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
 10-11 November 2020  
 San Francisco, CA, **USA**
