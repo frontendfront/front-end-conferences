@@ -37,7 +37,7 @@ Berlin, **Germany**
 Vilnius, **Lithuania**
 
 [**React Live 2020**](https://www.reactlive.nl/)  
-11th September 2020
+11 September 2020  
 Amsterdam, **The Netherlands**
 
 [**International JavaScript Conference**](https://javascript-conference.com/) - *Online*  
