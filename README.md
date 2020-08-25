@@ -20,34 +20,6 @@ Tel Aviv, **Israel**
 *Postponed*  
 Munich, **Germany**
 
-[**JSCONF.BE**](https://jsconf.be/) - *Online*  
-22-23 June 2020  
-Brussels, **Belgium**
-
-[**enterJS**](https://enterjs.de/)  
-23-26 June 2020  
-Darmstadt, **Germany**
-
-[**Lead Dev Manager of Managers London 2020**](https://managerofmanagerslondon2020.theleaddeveloper.com/)  
-*Postponed*  
-London, **United Kingdom**
-
-[**CSSCAMP 2020**](https://csscamp.tech/)  
-15 July 2020  
-Barcelona, **Spain**
-
-[**JSCAMP 2020**](https://jscamp.tech/)  
-16-17 July 2020  
-Barcelona, **Spain**
-
-[**AngularNL 2020**](https://www.angularnl.com/)  
-24th July 2020  
-Amsterdam, **The Netherlands**
-
-[**FrontCon 2020**](https://2020.frontcon.com/)  
-12-14 August 2020  
-Riga, **Latvia**
-
 [**Vue Global 2020**](https://www.vuejs.amsterdam/)  
 17-18th September 2020  
 Amsterdam, **The Netherlands**
@@ -68,7 +40,7 @@ Vilnius, **Lithuania**
 11th September 2020
 Amsterdam, **The Netherlands**
 
-[**International JavaScript Conference**](https://javascript-conference.com/)  
+[**International JavaScript Conference**](https://javascript-conference.com/) - *Online*  
 2-4 September 2020  
 London, **UK**
 
@@ -128,8 +100,12 @@ London, **United Kingdom**
 8-9 March 2021  
 Prague, **Czech Republic**
 
+[**Lead Dev Manager of Managers London 2020**](https://managerofmanagerslondon2020.theleaddeveloper.com/)  
+10 June 2021  
+London, **United Kingdom**
+
 [**CSS Day 2021 + dsgnday**](https://cssday.nl/)  
-10—11 June 2021  
+10-11 June 2021  
 Amsterdam, **The Netherlands**
 
 [**React Norway**](https://reactnorway.com/)  
@@ -141,18 +117,6 @@ Larvik, **Norway**
 Newquay, **United Kingdom**
 
 ## North America
-
-[**ForwardJS San Francisco**](https://forwardjs.com) - *Online*  
-20-24 July 2020  
-San Francisco, CA, **USA**
-
-[**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
-11–12 August 2020  
-NYC, NY, **USA**
-
-[**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
-14 August 2020  
-NYC, NY, **USA**
 
 [**React New York**](https://reactnewyork.com/)  
 11 September 2020  
@@ -182,7 +146,7 @@ San Francisco, CA, **USA**
 11 December 2020  
 Charlotte, NC, **USA**
 
-[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)
+[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
 15 January 2021  
 Chandler, AZ, **USA**
 
