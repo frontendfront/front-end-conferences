@@ -20,18 +20,6 @@ Tel Aviv, **Israel**
 *Postponed*  
 Munich, **Germany**
 
-[**Vue Global 2020**](https://www.vuejs.amsterdam/)  
-17-18th September 2020  
-Amsterdam, **The Netherlands**
-
-[**Frontend Developer Love 2020**](https://www.frontenddeveloperlove.com/)  
-1-2 October 2020  
-Amsterdam, **The Netherlands**
-
-[**NG-DE 2020**](https://ng-de.org/)  
-21–22 August 2020  
-Berlin, **Germany**
-
 [**You Gotta Love Frontend (YGLF)**](https://lithuania.yglfconf.com)  
 27–28 August 2020  
 Vilnius, **Lithuania**
@@ -60,6 +48,10 @@ Amsterdam, **The Netherlands**
 14 September 2020  
 London, **UK**
 
+[**Vue Global 2020**](https://www.vuejs.amsterdam/)  
+17-18 September 2020  
+Amsterdam, **The Netherlands**
+
 [**HalfStack Vienna**](https://www.halfstackconf.com/vienna/)  
 18 September 2020  
 Vienna, **Austria**
@@ -67,6 +59,10 @@ Vienna, **Austria**
 [**JSConf Budapest 2020**](https://jsconfbp.com/)  
 24-25 September 2020  
 Budapest, **Hungary**
+
+[**Frontend Developer Love 2020**](https://www.frontenddeveloperlove.com/)  
+1-2 October 2020  
+Amsterdam, **The Netherlands**
 
 [**React Live**](https://reactlive.nl/)  
 2 October 2020  
