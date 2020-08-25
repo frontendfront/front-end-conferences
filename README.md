@@ -20,30 +20,6 @@ Tel Aviv, **Israel**
 *Postponed*  
 Munich, **Germany**
 
-[**JSCONF.BE**](https://jsconf.be/) - *Online*  
-22-23 June 2020  
-Brussels, **Belgium**
-
-[**enterJS**](https://enterjs.de/)  
-23-26 June 2020  
-Darmstadt, **Germany**
-
-[**CSSCAMP 2020**](https://csscamp.tech/)  
-15 July 2020  
-Barcelona, **Spain**
-
-[**JSCAMP 2020**](https://jscamp.tech/)  
-16-17 July 2020  
-Barcelona, **Spain**
-
-[**AngularNL 2020**](https://www.angularnl.com/)  
-24th July 2020  
-Amsterdam, **The Netherlands**
-
-[**FrontCon 2020**](https://2020.frontcon.com/)  
-12-14 August 2020  
-Riga, **Latvia**
-
 [**Vue Global 2020**](https://www.vuejs.amsterdam/)  
 17-18th September 2020  
 Amsterdam, **The Netherlands**
@@ -141,18 +117,6 @@ Larvik, **Norway**
 Newquay, **United Kingdom**
 
 ## North America
-
-[**ForwardJS San Francisco**](https://forwardjs.com) - *Online*  
-20-24 July 2020  
-San Francisco, CA, **USA**
-
-[**Lead Dev New York 2020**](https://newyork2020.theleaddeveloper.com)  
-11–12 August 2020  
-NYC, NY, **USA**
-
-[**HalfStack New York**](https://www.halfstackconf.com/newyork/)  
-14 August 2020  
-NYC, NY, **USA**
 
 [**React New York**](https://reactnewyork.com/)  
 11 September 2020  
