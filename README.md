@@ -28,10 +28,6 @@ Brussels, **Belgium**
 23-26 June 2020  
 Darmstadt, **Germany**
 
-[**Lead Dev Manager of Managers London 2020**](https://managerofmanagerslondon2020.theleaddeveloper.com/)  
-*Postponed*  
-London, **United Kingdom**
-
 [**CSSCAMP 2020**](https://csscamp.tech/)  
 15 July 2020  
 Barcelona, **Spain**
@@ -127,6 +123,10 @@ London, **United Kingdom**
 [**ReactiveConf**](https://reactiveconf.com/)  
 8-9 March 2021  
 Prague, **Czech Republic**
+
+[**Lead Dev Manager of Managers London 2020**](https://managerofmanagerslondon2020.theleaddeveloper.com/)  
+10 June 2021  
+London, **United Kingdom**
 
 [**CSS Day 2021 + dsgnday**](https://cssday.nl/)  
 10—11 June 2021  
