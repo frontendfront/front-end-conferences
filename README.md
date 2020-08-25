@@ -40,7 +40,7 @@ Vilnius, **Lithuania**
 11th September 2020
 Amsterdam, **The Netherlands**
 
-[**International JavaScript Conference**](https://javascript-conference.com/)  
+[**International JavaScript Conference**](https://javascript-conference.com/) - *Online*  
 2-4 September 2020  
 London, **UK**
 
@@ -105,7 +105,7 @@ Prague, **Czech Republic**
 London, **United Kingdom**
 
 [**CSS Day 2021 + dsgnday**](https://cssday.nl/)  
-10—11 June 2021  
+10-11 June 2021  
 Amsterdam, **The Netherlands**
 
 [**React Norway**](https://reactnorway.com/)  
@@ -146,7 +146,7 @@ San Francisco, CA, **USA**
 11 December 2020  
 Charlotte, NC, **USA**
 
-[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)
+[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
 15 January 2021  
 Chandler, AZ, **USA**
 
