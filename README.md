@@ -149,8 +149,8 @@ Chandler, AZ, **USA**
 
 ## South America
 
-[**BrazilJS.live**](https://braziljs.live/)
-2-3 October 2020
+[**BrazilJS.live**](https://braziljs.live/)  
+2-3 October 2020  
 Live, **Brazil**
 
 [**NodeConf Argentina 2020**](https://2020.nodeconfar.com)  
