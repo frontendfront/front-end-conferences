@@ -134,6 +134,10 @@ NYC, NY, **USA**
 26-28 October 2020  
 Chicago, IL, **USA**
 
+[**VueConf Toronto 2020 Online**](https://vuetoronto.com/)  
+4-6 November 2020  
+Toronto, ON, **Canada**
+
 [**SmashingConf San Francisco 2020**](https://smashingconf.com/sf-2020/)  
 10-11 November 2020  
 San Francisco, CA, **USA**
