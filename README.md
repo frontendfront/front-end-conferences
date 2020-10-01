@@ -96,6 +96,10 @@ London, **United Kingdom**
 8-9 March 2021  
 Prague, **Czech Republic**
 
+[**International JavaScript Conference**](https://javascript-conference.com/)  
+21-23 April 2021  
+London, **UK**  
+
 [**Lead Dev Manager of Managers London 2020**](https://managerofmanagerslondon2020.theleaddeveloper.com/)  
 10 June 2021  
 London, **United Kingdom**
