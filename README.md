@@ -119,7 +119,7 @@ Newquay, **United Kingdom**
 ## North America
 
 [**React New York**](https://reactnewyork.com/)  
-11 September 2020  
+10 September 2021
 NYC, NY, **USA**
 
 [**Lead Dev San Francisco 2020**](https://sanfrancisco2020.theleaddeveloper.com/)  
