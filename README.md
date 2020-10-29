@@ -96,7 +96,7 @@ London, **United Kingdom**
 8-9 March 2021  
 Prague, **Czech Republic**
 
-[**International JavaScript Conference**](https://javascript-conference.com/)  
+[**International JavaScript Conference**](https://javascript-conference.com/london/)  
 21-23 April 2021  
 London, **UK**  
 
