@@ -10,6 +10,14 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 1-2 February 2021  
 London, **United Kingdom**
 
+[**JSworld Conference 2021**](https://www.jsworldconference.com)  
+22-27 February 2021  
+**Online**
+
+[**Vuejs Amsterdam 2021**](https://vuejs.amsterdam/)  
+26-27 February 2021  
+**Online**
+
 [**ReactiveConf**](https://reactiveconf.com/)  
 8-9 March 2021  
 Prague, **Czech Republic**
