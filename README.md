@@ -18,9 +18,21 @@ London, **United Kingdom**
 26-27 February 2021  
 **Online**
 
+[**Node Congress**](https://nodecongress.com/)  
+28-29 February 2021  
+**Online**
+
 [**ReactiveConf**](https://reactiveconf.com/)  
 8-9 March 2021  
 Prague, **Czech Republic**
+
+[**DevOps.js**](https://devopsjsconf.com/)  
+29-30 March 2021  
+**Online**
+
+[**React Summit Remote Edition**](https://remote.reactsummit.com/)  
+14-16 April 2021  
+**Online**
 
 [**International JavaScript Conference**](https://javascript-conference.com/london/)  
 21-23 April 2021  
