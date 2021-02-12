@@ -6,9 +6,9 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**Lead Dev London 2020**](https://london2020.theleaddeveloper.com/)  
-1-2 February 2021  
-London, **United Kingdom**
+[**Node Congress**](https://nodecongress.com/)  
+18-19 February 2021  
+**Online**
 
 [**JSworld Conference 2021**](https://www.jsworldconference.com)  
 22-27 February 2021  
@@ -16,10 +16,6 @@ London, **United Kingdom**
 
 [**Vuejs Amsterdam 2021**](https://vuejs.amsterdam/)  
 26-27 February 2021  
-**Online**
-
-[**Node Congress**](https://nodecongress.com/)  
-28-29 February 2021  
 **Online**
 
 [**ReactiveConf**](https://reactiveconf.com/)  
@@ -55,10 +51,6 @@ Larvik, **Norway**
 Newquay, **United Kingdom**
 
 ## North America
-
-[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
-15 January 2021  
-Chandler, AZ, **USA**
 
 [**React New York**](https://reactnewyork.com/)  
 10 September 2021
