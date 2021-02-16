@@ -34,7 +34,7 @@ Prague, **Czech Republic**
 21-23 April 2021  
 London, **UK**  
 
-[**JSNation Live**](https://jsnation.com)  
+[**JSNation Live**](https://live.jsnation.com)  
 9-10 June 2021  
 **Online**
 
