@@ -55,3 +55,21 @@ Newquay, **United Kingdom**
 [**React New York**](https://reactnewyork.com/)  
 10 September 2021
 NYC, NY, **USA**
+
+## Online
+
+[**Hover CSS Conference**](https://webdirections.org/hover/)  
+23 & 30 April 2021  
+**Online**  
+
+[**Lazy Load Front End Performance Conference**](https://webdirections.org/lazyload/)  
+21 & 28 May 2021  
+**Online**  
+
+[**Global Scope JavaScript Conference**](https://webdirections.org/globalscope/)  
+18 & 25 June 2021  
+**Online**  
+
+[**Code PWA developer Conference**](https://webdirections.org/lazyload/)  
+18 & 25 September 2021  
+**Online**  
