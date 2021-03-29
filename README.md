@@ -34,6 +34,10 @@ Prague, **Czech Republic**
 21-23 April 2021  
 London, **UK**  
 
+[**Webinale 2021 Hybrid**](https://webinale.de/en/)
+7‒11 June 2021
+Berlin, **Germany** or **Online**
+
 [**JSNation Live**](https://live.jsnation.com)  
 9-10 June 2021  
 **Online**
