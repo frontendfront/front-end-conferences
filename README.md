@@ -60,6 +60,10 @@ Newquay, **United Kingdom**
 10 September 2021
 NYC, NY, **USA**
 
+[**JSWorld Conference USA 2021**](https://usa.jsworldconference.com/)  
+21 May 2021  
+NYC, **USA**  
+
 ## Online
 
 [**Hover CSS Conference**](https://webdirections.org/hover/)  
