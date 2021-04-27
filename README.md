@@ -58,6 +58,10 @@ Larvik, **Norway**
 02 July 2021  
 Newquay, **United Kingdom**
 
+[**React Advanced London 2021**](https://reactadvanced.com/)  
+20-22 October 2021  
+London, **United Kingdom**
+
 ## North America
 
 [**React New York**](https://reactnewyork.com/)  
