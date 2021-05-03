@@ -70,7 +70,11 @@ NYC, NY, **USA**
 
 [**JSWorld Conference USA 2021**](https://usa.jsworldconference.com/)  
 21 May 2021  
-NYC, **USA**  
+NYC, **USA**
+
+[**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
+27-30 September 2021  
+NYC or online, **USA**
 
 ## Online
 
