@@ -62,6 +62,10 @@ Newquay, **United Kingdom**
 20-22 October 2021  
 London, **United Kingdom**
 
+[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
+25-29 October 2021  
+Munich or online, **Germany**
+
 ## North America
 
 [**React New York**](https://reactnewyork.com/)  
