@@ -58,6 +58,10 @@ Larvik, **Norway**
 02 July 2021  
 Newquay, **United Kingdom**
 
+[**React Conference Live**](https://reactlive.nl)  
+7-8 October 2021  
+Amsterdam, **The Netherlands** or **0nline**
+
 [**React Advanced London 2021**](https://reactadvanced.com/)  
 20-22 October 2021  
 London, **United Kingdom**
@@ -97,6 +101,10 @@ NYC or online, **USA**
 [**Global Scope JavaScript Conference**](https://webdirections.org/globalscope/)  
 18 & 25 June 2021  
 **Online**  
+
+[**Vuejs Global**](https://vuejs.amsterdam)  
+9 & 10 September 2021  
+**Online**
 
 [**Code PWA developer Conference**](https://webdirections.org/lazyload/)  
 18 & 25 September 2021  
