@@ -58,6 +58,10 @@ Larvik, **Norway**
 02 July 2021  
 Newquay, **United Kingdom**
 
+[**Vue Global**](https://vuejs.amsterdam/)  
+1-4 October 2021  
+Amsterdam, **The Netherlands** or **0nline**
+
 [**React Conference Live**](https://reactlive.nl)  
 7-8 October 2021  
 Amsterdam, **The Netherlands** or **0nline**
