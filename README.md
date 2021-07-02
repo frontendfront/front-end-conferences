@@ -66,8 +66,12 @@ Amsterdam, **The Netherlands** or **0nline**
 7-8 October 2021  
 Amsterdam, **The Netherlands** or **0nline**
 
+[**Vue.js London 2021**](https://portal.gitnation.org/events)  
+20-21 October 2021  
+London, **United Kingdom**
+
 [**React Advanced London 2021**](https://reactadvanced.com/)  
-20-22 October 2021  
+22-23 October 2021  
 London, **United Kingdom**
 
 [**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
