@@ -106,8 +106,8 @@ NYC or online, **USA**
 21 & 28 May 2021  
 **Online**  
 
-[**Next.js Conf**](https://nextjs.org/conf#room-czdvv)  
-15 June 2021  
+[**Next.js Conf**](https://nextjs.org/conf)  
+26 October 2021  
 **Online**
 
 [**Global Scope JavaScript Conference**](https://webdirections.org/globalscope/)  
