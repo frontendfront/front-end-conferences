@@ -82,6 +82,10 @@ London, **United Kingdom**
 25-29 October 2021  
 Munich or online, **Germany**
 
+[**International JavaScript Conference London**](https://javascript-conference.com/london/)  
+25-28 April 2022  
+London or online, **United Kingdom**
+
 ## North America
 
 [**React New York**](https://reactnewyork.com/)  
