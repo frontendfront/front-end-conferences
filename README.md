@@ -125,3 +125,7 @@ NYC or online, **USA**
 [**Code PWA developer Conference**](https://webdirections.org/lazyload/)  
 18 & 25 September 2021  
 **Online**  
+
+[**We Love Speed 2021**](https://www.welovespeed.com/en/2021/)  
+16 December 2021  
+Lyon, France
