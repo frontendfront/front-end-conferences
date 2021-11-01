@@ -10,14 +10,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 18-19 February 2021  
 **Online**
 
-[**JSWORLD Conference 2022**](https://jsworldconference.com?ref=frontendfront)  
-9-11 February 2022  
-Amsterdam, **The Netherlands** (+**Online**)
-
-[**Vuejs Amsterdam 2022**](https://vuejs.amsterdam?ref=frontendfront)  
-10 & 11 February 2022  
-Amsterdam, **The Netherlands** (+**Online**)
-
 [**ReactiveConf**](https://reactiveconf.com/)  
 8-9 March 2021  
 Prague, **Czech Republic**
@@ -34,8 +26,8 @@ Prague, **Czech Republic**
 21-23 April 2021  
 London, **UK**  
 
-[**Webinale 2021 Hybrid**](https://webinale.de/en/)
-7‒11 June 2021
+[**Webinale 2021 Hybrid**](https://webinale.de/en/)  
+7‒11 June 2021  
 Berlin, **Germany** or **Online**
 
 [**JSNation Live**](https://live.jsnation.com)  
@@ -82,9 +74,21 @@ London, **United Kingdom**
 25-29 October 2021  
 Munich or online, **Germany**
 
+[**We Love Speed 2021**](https://www.welovespeed.com/en/2021/)  
+16 December 2021  
+Lyon, **France**
+
+[**JSWORLD Conference 2022**](https://jsworldconference.com?ref=frontendfront)  
+9-11 February 2022  
+Amsterdam, **The Netherlands** and **Online**
+
+[**Vuejs Amsterdam 2022**](https://vuejs.amsterdam?ref=frontendfront)  
+10 & 11 February 2022  
+Amsterdam, **The Netherlands** and **Online**
+
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
 25-28 April 2022  
-London or online, **United Kingdom**
+London, **United Kingdom** or **0nline**
 
 ## North America
 
@@ -98,34 +102,4 @@ NYC, **USA**
 
 [**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
 27-30 September 2021  
-NYC or online, **USA**
-
-## Online
-
-[**Hover CSS Conference**](https://webdirections.org/hover/)  
-23 & 30 April 2021  
-**Online**  
-
-[**Lazy Load Front End Performance Conference**](https://webdirections.org/lazyload/)  
-21 & 28 May 2021  
-**Online**  
-
-[**Next.js Conf**](https://nextjs.org/conf)  
-26 October 2021  
-**Online**
-
-[**Global Scope JavaScript Conference**](https://webdirections.org/globalscope/)  
-18 & 25 June 2021  
-**Online**  
-
-[**Vuejs Global**](https://vuejs.amsterdam)  
-9 & 10 September 2021  
-**Online**
-
-[**Code PWA developer Conference**](https://webdirections.org/lazyload/)  
-18 & 25 September 2021  
-**Online**  
-
-[**We Love Speed 2021**](https://www.welovespeed.com/en/2021/)  
-16 December 2021  
-Lyon, France
+NYC, **USA** or **0nline**
