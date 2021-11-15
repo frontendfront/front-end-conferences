@@ -86,6 +86,10 @@ Amsterdam, **The Netherlands** and **Online**
 10 & 11 February 2022  
 Amsterdam, **The Netherlands** and **Online**
 
+[**cssday 2022**](https://cssday.it)  
+1 April 2022  
+Faenza, **The Netherlands** and **Online**
+
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
 25-28 April 2022  
 London, **United Kingdom** or **0nline**
