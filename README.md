@@ -26,6 +26,10 @@ Faenza, **Italy** and **Online**
 25-28 April 2022  
 London, **United Kingdom** or **0nline**
 
+[**webinale 2022**](https://webinale.de/en/)  
+May 30 - June 3, 2022  
+Berlin, **Germany** or **0nline**
+
 ## North America
 
 [**React Miami**](https://www.reactmiami.com/)  
