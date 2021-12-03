@@ -6,6 +6,10 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
+[**We Love Speed 2021**](https://www.welovespeed.com/en/2021/)  
+16 December 2021  
+Lyon, **France**
+
 [**JSWORLD Conference 2022**](https://jsworldconference.com?ref=frontendfront)  
 9-11 February 2022  
 Amsterdam, **The Netherlands** and **Online**
@@ -22,8 +26,12 @@ Faenza, **Italy** and **Online**
 25-28 April 2022  
 London, **United Kingdom** or **0nline**
 
+[**webinale 2022**](https://webinale.de/en/)  
+May 30 - June 3, 2022  
+Berlin, **Germany** or **0nline**
+
 ## North America
 
 [**React Miami**](https://www.reactmiami.com/)  
-18-19 April 2022
+18-19 April 2022  
 Miami, FL, **USA**
