@@ -15,7 +15,7 @@ Lyon, **France**
 Amsterdam, **The Netherlands** and **Online**
 
 [**Vuejs Amsterdam 2022**](https://vuejs.amsterdam?ref=frontendfront)  
-10 & 11 February 2022  
+10-11 February 2022  
 Amsterdam, **The Netherlands** and **Online**
 
 [**cssday 2022**](https://cssday.it)  
@@ -27,7 +27,7 @@ Faenza, **Italy** and **Online**
 London, **United Kingdom** or **0nline**
 
 [**webinale 2022**](https://webinale.de/en/)  
-May 30 - June 3, 2022  
+30 May - 3 June, 2022  
 Berlin, **Germany** or **0nline**
 
 ## North America
@@ -35,3 +35,9 @@ Berlin, **Germany** or **0nline**
 [**React Miami**](https://www.reactmiami.com/)  
 18-19 April 2022  
 Miami, FL, **USA**
+
+## Online
+
+[**VUE.JS NATION CONFERENCE 2022**](https://vuejsnation.com/)  
+26-27 January 2022
+Online
