@@ -30,6 +30,10 @@ London, **United Kingdom** or **0nline**
 30 May - 3 June, 2022  
 Berlin, **Germany** or **0nline**
 
+[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2022)  
+10 June 2022  
+Bristol, **United Kingdom**  
+
 ## North America
 
 [**React Miami**](https://www.reactmiami.com/)  
