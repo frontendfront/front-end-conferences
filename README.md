@@ -30,6 +30,10 @@ London, **United Kingdom** or **0nline**
 30 May - 3 June, 2022  
 Berlin, **Germany** or **0nline**
 
+[**App.js Conf 2022**](https://appjs.co)  
+08 June - 10 June, 2022  
+Kraków, **Poland** or **0nline**
+
 [**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2022)  
 10 June 2022  
 Bristol, **United Kingdom**  
