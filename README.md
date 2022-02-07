@@ -18,6 +18,10 @@ Amsterdam, **The Netherlands** and **Online**
 10-11 February 2022  
 Amsterdam, **The Netherlands** and **Online**
 
+[**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
+21-24 March 2022  
+Online
+
 [**cssday 2022**](https://cssday.it)  
 1 April 2022  
 Faenza, **Italy** and **Online**
