@@ -10,14 +10,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 16 December 2021  
 Lyon, **France**
 
-[**JSWORLD Conference 2022**](https://jsworldconference.com?ref=frontendfront)  
-9-11 February 2022  
-Amsterdam, **The Netherlands** and **Online**
-
-[**Vuejs Amsterdam 2022**](https://vuejs.amsterdam?ref=frontendfront)  
-10-11 February 2022  
-Amsterdam, **The Netherlands** and **Online**
-
 [**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
 21-24 March 2022  
 Online
@@ -33,6 +25,14 @@ London, **United Kingdom** or **0nline**
 [**webinale 2022**](https://webinale.de/en/)  
 30 May - 3 June, 2022  
 Berlin, **Germany** or **0nline**
+
+[**JSWORLD Conference 2022**](https://jsworldconference.com?ref=frontendfront)  
+1-3 June 2022  
+Amsterdam, **The Netherlands** and **Online**
+
+[**Vuejs Amsterdam 2022**](https://vuejs.amsterdam?ref=frontendfront)  
+2-3 June 2022  
+Amsterdam, **The Netherlands** and **Online**
 
 [**App.js Conf 2022**](https://appjs.co)  
 08 June - 10 June, 2022  
