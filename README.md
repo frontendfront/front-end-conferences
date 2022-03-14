@@ -6,41 +6,61 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**We Love Speed 2021**](https://www.welovespeed.com/en/2021/)  
-16 December 2021  
-Lyon, **France**
-
-[**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
-21-24 March 2022  
-Online
-
-[**cssday 2022**](https://cssday.it)  
+[**cssday 2022**](https://cssday.it/)  
 1 April 2022  
 Faenza, **Italy** and **Online**
 
-[**International JavaScript Conference London**](https://javascript-conference.com/london/)  
+[**React Conference Live**](https://reactlive.nl)  
+1 April 2022  
+Amsterdam, **The Netherlands**
+
+[**International JavaScript Conference**](https://javascript-conference.com/london/)  
 25-28 April 2022  
-London, **United Kingdom** or **0nline**
+London, **United Kingdom** or **Online**
+
+[**BeJS Conf**](https://www.bejs.io/conf)  
+13 May 2022  
+Brussels, **Belgium** and **Online**
 
 [**webinale 2022**](https://webinale.de/en/)  
-30 May - 3 June, 2022  
-Berlin, **Germany** or **0nline**
+30 May - 3 June 2022  
+Berlin, **Germany** or **Online**
 
-[**JSWORLD Conference 2022**](https://jsworldconference.com?ref=frontendfront)  
+[**JSWorld Conference**](https://jsworldconference.com/)  
 1-3 June 2022  
-Amsterdam, **The Netherlands** and **Online**
+Amsterdam, **The Netherlands**
 
-[**Vuejs Amsterdam 2022**](https://vuejs.amsterdam?ref=frontendfront)  
+[**Vuejs Amsterdam**](https://vuejs.amsterdam)  
 2-3 June 2022  
-Amsterdam, **The Netherlands** and **Online**
+Amsterdam, **The Netherlands**
 
-[**App.js Conf 2022**](https://appjs.co)  
-08 June - 10 June, 2022  
-Kraków, **Poland** or **0nline**
+[**App.js Conf 2022**](https://appjs.co/)  
+8-10 June 2022  
+Kraków, **Poland**
+
+[**CSS Day 2022**](https://cssday.nl/)  
+9-10 June 2022  
+Amsterdam, **The Netherlands**
 
 [**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2022)  
 10 June 2022  
-Bristol, **United Kingdom**  
+Bristol, **United Kingdom**
+
+[**JSNation Conference 2022**](https://jsnation.com)  
+16 June 2022  
+Amsterdam, **The Netherlands**  
+20 June 2022  
+**Online**
+
+[**React Summit**](https://reactsummit.com/)  
+17 June 2022  
+Amsterdam, **The Netherlands**  
+21 June 2022  
+**Online**
+
+[**HalfStack Newquay**](https://www.halfstackconf.com/newquay/)  
+1 July 2022  
+Newquay, **United Kingdom**  
 
 ## North America
 
@@ -50,6 +70,10 @@ Miami, FL, **USA**
 
 ## Online
 
-[**VUE.JS NATION CONFERENCE 2022**](https://vuejsnation.com/)  
-26-27 January 2022
-Online
+[**JavaScript Days, Angular Days, React Days und HTML &amp; CSS Days**](https://javascript-days.de/muenchen/)  
+21-24 March 2022  
+**Online**
+
+[**DevOps.js**](https://devopsjsconf.com/)  
+24-25 March 2022  
+**Online**
