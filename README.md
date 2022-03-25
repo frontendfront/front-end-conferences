@@ -14,6 +14,10 @@ Faenza, **Italy** and **Online**
 1 April 2022  
 Amsterdam, **The Netherlands**
 
+[**Developer Growth Summit 2022](https://www.codementor.io/events/developer-growth-summit)
+20 - 21 April 2022
+**Online**
+
 [**International JavaScript Conference**](https://javascript-conference.com/london/)  
 25-28 April 2022  
 London, **United Kingdom** or **Online**
