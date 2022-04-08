@@ -62,6 +62,10 @@ Amsterdam, **The Netherlands**
 1 July 2022  
 Newquay, **United Kingdom**  
 
+[**Full Stack Europe 2022**](https://www.fullstackeurope.com/2022/)  
+5-7 October 2022  
+Antwerp, **Belgium**  
+
 ## North America
 
 [**React Miami**](https://www.reactmiami.com/)  
