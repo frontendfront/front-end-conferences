@@ -66,6 +66,10 @@ Newquay, **United Kingdom**
 5-7 October 2022  
 Antwerp, **Belgium**  
 
+[**Performance.now()**](https://perfnow.nl/)
+27-28 October 2022
+Amsterdam, **The Netherlands**
+
 ## North America
 
 [**React Miami**](https://www.reactmiami.com/)  
