@@ -6,22 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**cssday 2022**](https://cssday.it/)  
-1 April 2022  
-Faenza, **Italy** and **Online**
-
-[**React Conference Live**](https://reactlive.nl)  
-1 April 2022  
-Amsterdam, **The Netherlands**
-
-[**International JavaScript Conference**](https://javascript-conference.com/london/)  
-25-28 April 2022  
-London, **United Kingdom** or **Online**
-
-[**BeJS Conf**](https://www.bejs.io/conf)  
-13 May 2022  
-Brussels, **Belgium** and **Online**
-
 [**webinale 2022**](https://webinale.de/en/)  
 30 May - 3 June 2022  
 Berlin, **Germany** or **Online**
@@ -66,30 +50,16 @@ Newquay, **United Kingdom**
 5-7 October 2022  
 Antwerp, **Belgium**  
 
-[**Performance.now()**](https://perfnow.nl/)
-27-28 October 2022
+[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
+24-28 October 2022  
+Munich, **Germany** or **Online**
+
+[**Performance.now()**](https://perfnow.nl/)  
+27-28 October 2022  
 Amsterdam, **The Netherlands**
 
 ## North America
 
-[**React Miami**](https://www.reactmiami.com/)  
-18-19 April 2022  
-Miami, FL, **USA**
-
-## Online
-
-[**JavaScript Days, Angular Days, React Days und HTML &amp; CSS Days**](https://javascript-days.de/muenchen/)  
-21-24 March 2022  
-**Online**
-
-[**DevOps.js**](https://devopsjsconf.com/)  
-24-25 March 2022  
-**Online**
-
-[**Developer Growth Summit 2022**](https://www.codementor.io/events/developer-growth-summit)  
-20-21 April 2022  
-**Online**
-
-[**Devs For Ukraine**](https://www.devsforukraine.io/)  
-25-26 April 2022  
-**Online**
+[**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
+26-29 September 2022  
+New York, **USA** or **Online**
