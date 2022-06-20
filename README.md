@@ -58,6 +58,10 @@ Berlin, **Germany**
 6-7 October 2022  
 Berlin, **Germany**  
 
+[**JavaScript Days, Angular Days, React Days and HTML & CSS Days**](https://javascript-days.de/berlin/)  
+17-20 October 2022  
+Berlin, **Germany** or **Online**
+
 [**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
 24-28 October 2022  
 Munich, **Germany** or **Online**
