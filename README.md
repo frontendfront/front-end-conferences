@@ -50,8 +50,16 @@ Newquay, **United Kingdom**
 5-7 October 2022  
 Antwerp, **Belgium**  
 
+[**NG-DE 2022**](https://ng-de.org/)  
+6-7 October 2022  
+Berlin, **Germany**  
+
+[**vuejs.de Conf 2022**](https://conf.vuejs.de/)  
+6-7 October 2022  
+Berlin, **Germany**  
+
 [**JavaScript Days, Angular Days, React Days and HTML & CSS Days**](https://javascript-days.de/berlin/)  
-17-20 October 2022
+17-20 October 2022  
 Berlin, **Germany** or **Online**
 
 [**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
