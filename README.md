@@ -70,6 +70,12 @@ Munich, **Germany** or **Online**
 27-28 October 2022  
 Amsterdam, **The Netherlands**
 
+
+[**Oπe\n Conf Athens 2022**](https://www.open-conf.gr/)  
+02-03 December 2022  
+[CFP Deadline: 31 Auguest 2022](https://sessionize.com/open_conf/)  
+Athens, **Greece**
+
 ## North America
 
 [**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
