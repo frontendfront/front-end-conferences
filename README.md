@@ -46,8 +46,8 @@ Amsterdam, **The Netherlands**
 1 July 2022  
 Newquay, **United Kingdom**  
 
-[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2022/)
-5–7 September 2022
+[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2022/)  
+5–7 September 2022  
 Freiburg, **Germany** or **Online**
 
 [**Full Stack Europe 2022**](https://www.fullstackeurope.com/2022/)  
@@ -80,6 +80,6 @@ Amsterdam, **The Netherlands**
 26-29 September 2022  
 New York, **USA** or **Online**
 
-[**SmashingConf New York**](https://smashingconf.com/ny-2022/)
-10–13 October 2022
+[**SmashingConf New York**](https://smashingconf.com/ny-2022/)  
+10–13 October 2022  
 New York, **USA** or **Online**
