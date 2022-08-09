@@ -74,6 +74,18 @@ Munich, **Germany** or **Online**
 27-28 October 2022  
 Amsterdam, **The Netherlands**
 
+[**TestJS Summit**](https://testjssummit.com)  
+4 November 2022  
+**Online**
+
+[**React Day Berlin**](https://reactday.berlin)  
+2 December 2022  
+Berlin, **Germany** or **Online**
+
+[**GraphQL Galaxy**](https://graphqlgalaxy.com)  
+9 December 2022  
+**Online**
+
 ## North America
 
 [**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
