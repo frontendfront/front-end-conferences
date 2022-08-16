@@ -62,7 +62,7 @@ Berlin, **Germany**
 6-7 October 2022  
 Berlin, **Germany**  
 
-[**angularday 2022](https://2022.angularday.it/)
+[**angularday 2022**](https://2022.angularday.it/)
 7 October 2022  
 Verona, **Italy** 
 
@@ -70,7 +70,7 @@ Verona, **Italy**
 17-20 October 2022  
 Berlin, **Germany** or **Online**
 
-[**reactjsday 2022](https://2022.reactjsday.it/)
+[**reactjsday 2022**](https://2022.reactjsday.it/)
 21 October 2022  
 Verona, **Italy** 
 
@@ -86,7 +86,7 @@ Amsterdam, **The Netherlands**
 4 November 2022  
 **Online**
 
-[**vueday 2022](https://2022.vueday.it)
+[**vueday 2022**](https://2022.vueday.it)
 18 November 2022  
 Verona, **Italy** 
 
