@@ -62,9 +62,17 @@ Berlin, **Germany**
 6-7 October 2022  
 Berlin, **Germany**  
 
+[**angularday 2022](https://2022.angularday.it/)
+7 October 2022  
+Verona, **Italy** 
+
 [**JavaScript Days, Angular Days, React Days and HTML & CSS Days**](https://javascript-days.de/berlin/)  
 17-20 October 2022  
 Berlin, **Germany** or **Online**
+
+[**reactjsday 2022](https://2022.reactjsday.it/)
+21 October 2022  
+Verona, **Italy** 
 
 [**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
 24-28 October 2022  
@@ -73,6 +81,11 @@ Munich, **Germany** or **Online**
 [**Performance.now()**](https://perfnow.nl/)  
 27-28 October 2022  
 Amsterdam, **The Netherlands**
+
+[**vueday 2022](https://2022.vueday.it)
+18 November 2022  
+Verona, **Italy** 
+
 
 ## North America
 
