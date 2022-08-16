@@ -82,10 +82,21 @@ Munich, **Germany** or **Online**
 27-28 October 2022  
 Amsterdam, **The Netherlands**
 
+[**TestJS Summit**](https://testjssummit.com)  
+4 November 2022  
+**Online**
+
 [**vueday 2022](https://2022.vueday.it)
 18 November 2022  
 Verona, **Italy** 
 
+[**React Day Berlin**](https://reactday.berlin)  
+2 December 2022  
+Berlin, **Germany** or **Online**
+
+[**GraphQL Galaxy**](https://graphqlgalaxy.com)  
+9 December 2022  
+**Online**
 
 ## North America
 
