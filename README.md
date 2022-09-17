@@ -107,3 +107,7 @@ New York, **USA** or **Online**
 [**SmashingConf New York**](https://smashingconf.com/ny-2022/)  
 10–13 October 2022  
 New York, **USA** or **Online**
+
+[**JSWORLD Conference USA 2022**](https://usa.jsworldconference.com/)  
+11 November 2022  
+San Francisco, **USA**
