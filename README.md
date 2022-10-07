@@ -86,6 +86,10 @@ Amsterdam, **The Netherlands**
 4 November 2022  
 **Online**
 
+[**c't \<webdev\>**](https://ctwebdev.de)  
+7-9 November 2022  
+Cologne, **Germany** or **Online**  
+
 [**Adobe Developers Live: Headless**](https://adobe.ly/3ehbP59)  
 9 November 2022  
 **Online**
