@@ -86,6 +86,10 @@ Amsterdam, **The Netherlands**
 4 November 2022  
 **Online**
 
+[**c't \<webdev\>**](https://ctwebdev.de)  
+7-9 November 2022  
+Cologne, **Germany** or **Online**  
+
 [**vueday 2022**](https://2022.vueday.it)  
 18 November 2022  
 Verona, **Italy** 
