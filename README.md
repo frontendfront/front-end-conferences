@@ -90,6 +90,10 @@ Amsterdam, **The Netherlands**
 7-9 November 2022  
 Cologne, **Germany** or **Online**  
 
+[**Adobe Developers Live: Headless**](https://adobe.ly/3ehbP59)  
+9 November 2022  
+**Online**
+
 [**vueday 2022**](https://2022.vueday.it)  
 18 November 2022  
 Verona, **Italy** 
@@ -111,6 +115,10 @@ New York, **USA** or **Online**
 [**SmashingConf New York**](https://smashingconf.com/ny-2022/)  
 10–13 October 2022  
 New York, **USA** or **Online**
+
+[**Adobe Developers Live: Headless**](https://adobe.ly/3ehbP59)  
+9 November 2022  
+**Online**
 
 [**JSWORLD Conference USA 2022**](https://usa.jsworldconference.com/)  
 11 November 2022  
