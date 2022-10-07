@@ -112,6 +112,10 @@ New York, **USA** or **Online**
 10–13 October 2022  
 New York, **USA** or **Online**
 
+[**Adobe Developers Live: Headless**](https://adobe.ly/3ehbP59)  
+9 November 2022  
+**Online**
+
 [**JSWORLD Conference USA 2022**](https://usa.jsworldconference.com/)  
 11 November 2022  
 San Francisco, **USA**
