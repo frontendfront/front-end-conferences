@@ -98,6 +98,10 @@ Berlin, **Germany** or **Online**
 9 December 2022  
 **Online**
 
+[**Wey Wey Web**](https://weyweyweb.com)  
+15-16 December 2022  
+Malaga, **Spain** 
+
 ## North America
 
 [**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
