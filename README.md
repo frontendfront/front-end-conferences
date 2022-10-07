@@ -86,6 +86,10 @@ Amsterdam, **The Netherlands**
 4 November 2022  
 **Online**
 
+[**Adobe Developers Live: Headless**](https://adobe.ly/3ehbP59)  
+9 November 2022  
+**Online**
+
 [**vueday 2022**](https://2022.vueday.it)  
 18 November 2022  
 Verona, **Italy** 
