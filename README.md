@@ -110,6 +110,10 @@ Berlin, **Germany** or **Online**
 9 December 2022  
 **Online**
 
+[**App.js Conf 2023**](https://appjs.co/)  
+10-12 May 2023  
+Kraków, **Poland** or **Online**
+
 ## North America
 
 [**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
