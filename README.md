@@ -114,6 +114,15 @@ Berlin, **Germany** or **Online**
 15-16 December 2022  
 Malaga, **Spain** 
 
+
+[**JSworld Conference 2023**](https://jsworldconference.com)  
+8-10 February 2023  
+Amsterdam, **The Netherlands**
+
+[**Vuejs Amsterdam 2023**](https://vuejs.amsterdam)  
+9-10 February 2023  
+Amsterdam, **The Netherlands**
+
 [**App.js Conf 2023**](https://appjs.co/)  
 10-12 May 2023  
 Kraków, **Poland** or **Online**
@@ -136,3 +145,7 @@ New York, **USA** or **Online**
 [**JSWORLD Conference USA 2022**](https://usa.jsworldconference.com/)  
 11 November 2022  
 San Francisco, **USA**
+
+[**React Miami 2023**](https://reactmiami.com)  
+20-21 April 2023  
+Miami, **United States**
