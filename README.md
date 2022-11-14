@@ -6,46 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**webinale 2022**](https://webinale.de/en/)  
-30 May - 3 June 2022  
-Berlin, **Germany** or **Online**
-
-[**JSWorld Conference**](https://jsworldconference.com/)  
-1-3 June 2022  
-Amsterdam, **The Netherlands**
-
-[**Vuejs Amsterdam**](https://vuejs.amsterdam)  
-2-3 June 2022  
-Amsterdam, **The Netherlands**
-
-[**App.js Conf 2022**](https://appjs.co/)  
-8-10 June 2022  
-Kraków, **Poland**
-
-[**CSS Day 2022**](https://cssday.nl/)  
-9-10 June 2022  
-Amsterdam, **The Netherlands**
-
-[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2022)  
-10 June 2022  
-Bristol, **United Kingdom**
-
-[**JSNation Conference 2022**](https://jsnation.com)  
-16 June 2022  
-Amsterdam, **The Netherlands**  
-20 June 2022  
-**Online**
-
-[**React Summit**](https://reactsummit.com/)  
-17 June 2022  
-Amsterdam, **The Netherlands**  
-21 June 2022  
-**Online**
-
-[**HalfStack Newquay**](https://www.halfstackconf.com/newquay/)  
-1 July 2022  
-Newquay, **United Kingdom**  
-
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2022/)  
 5–7 September 2022  
 Freiburg, **Germany** or **Online**
