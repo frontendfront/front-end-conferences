@@ -110,9 +110,14 @@ Berlin, **Germany** or **Online**
 9 December 2022  
 **Online**
 
+[**Wey Wey Web**](https://weyweyweb.com)  
+15-16 December 2022  
+Malaga, **Spain** 
+
 [**App.js Conf 2023**](https://appjs.co/)  
 10-12 May 2023  
 Kraków, **Poland** or **Online**
+
 
 ## North America
 
