@@ -6,6 +6,10 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
+[**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
+20. - 23. March 2023 
+**Munich** or **Online**
+
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2022/)  
 5–7 September 2022  
 Freiburg, **Germany** or **Online**
