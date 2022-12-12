@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
-20. - 23. March 2023 
-**Munich** or **Online**
-
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2022/)  
 5–7 September 2022  
 Freiburg, **Germany** or **Online**
@@ -78,7 +74,6 @@ Berlin, **Germany** or **Online**
 15-16 December 2022  
 Malaga, **Spain** 
 
-
 [**JSworld Conference 2023**](https://jsworldconference.com)  
 8-10 February 2023  
 Amsterdam, **The Netherlands**
@@ -86,6 +81,10 @@ Amsterdam, **The Netherlands**
 [**Vuejs Amsterdam 2023**](https://vuejs.amsterdam)  
 9-10 February 2023  
 Amsterdam, **The Netherlands**
+
+[**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
+20-23 March 2023  
+**Munich** or **Online**
 
 [**App.js Conf 2023**](https://appjs.co/)  
 10-12 May 2023  
