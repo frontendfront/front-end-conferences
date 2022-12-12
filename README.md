@@ -84,7 +84,7 @@ Amsterdam, **The Netherlands**
 
 [**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
 20-23 March 2023  
-**Munich** or **Online**
+Munich, **Germany** or **Online**
 
 [**App.js Conf 2023**](https://appjs.co/)  
 10-12 May 2023  
