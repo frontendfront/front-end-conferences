@@ -38,5 +38,5 @@ Freiburg, **Germany** or **Online**
 Miami, **United States**
 
 [**SmashingConf San Francisco**](https://smashingconf.com/sf-2023/)  
-23–26 May 2022  
-New York, **USA** or **Online**
+23–26 May 2023  
+San Francisco, **USA** or **Online**
