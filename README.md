@@ -18,6 +18,10 @@ Amsterdam, **The Netherlands**
 20-23 March 2023  
 Munich, **Germany** or **Online**
 
+[**International JavaScript Conference London**](https://javascript-conference.com/london)  
+24–27 April 2023  
+London, **United Kingdom** or **Online**
+
 [**App.js Conf 2023**](https://appjs.co/)  
 10-12 May 2023  
 Kraków, **Poland** or **Online**
