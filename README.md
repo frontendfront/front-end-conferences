@@ -6,10 +6,6 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2022/)  
-5–7 September 2022  
-Freiburg, **Germany** or **Online**
-
 [**Full Stack Europe 2022**](https://www.fullstackeurope.com/2022/)  
 5-7 October 2022  
 Antwerp, **Belgium**  
@@ -82,6 +78,10 @@ Amsterdam, **The Netherlands**
 9-10 February 2023  
 Amsterdam, **The Netherlands**
 
+[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2023/)  
+4–6 September 2023  
+Freiburg, **Germany** or **Online**
+
 [**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
 20-23 March 2023  
 Munich, **Germany** or **Online**
@@ -97,10 +97,6 @@ Kraków, **Poland** or **Online**
 26-29 September 2022  
 New York, **USA** or **Online**
 
-[**SmashingConf New York**](https://smashingconf.com/ny-2022/)  
-10–13 October 2022  
-New York, **USA** or **Online**
-
 [**Adobe Developers Live: Headless**](https://adobe.ly/3ehbP59)  
 9 November 2022  
 **Online**
@@ -112,3 +108,7 @@ San Francisco, **USA**
 [**React Miami 2023**](https://reactmiami.com)  
 20-21 April 2023  
 Miami, **United States**
+
+[**SmashingConf San Francisco**](https://smashingconf.com/sf-2023/)  
+23–26 May 2022  
+New York, **USA** or **Online**
