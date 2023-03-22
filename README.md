@@ -26,6 +26,10 @@ London, **United Kingdom** or **Online**
 10-12 May 2023  
 Kraków, **Poland** or **Online**
 
+[**Name: IT Security Summit - Das große Trainingsevent für IT-Security**](https://it-security-summit.de/)
+22-24 May 2023  
+Berlin, **Germany**
+
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2023/)  
 4–6 September 2023  
 Freiburg, **Germany** or **Online**
