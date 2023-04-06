@@ -22,7 +22,7 @@ Munich, **Germany** or **Online**
 24–27 April 2023  
 London, **United Kingdom** or **Online**
 
-[**We Love Speed 2023**](https://www.welovespeed.com/2023/)
+[**We Love Speed 2023**](https://www.welovespeed.com/2023/)  
 10 May 2023  
 Paris, **France** (recorded and later available **Online**)
 
