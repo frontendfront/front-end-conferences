@@ -34,9 +34,21 @@ Kraków, **Poland** or **Online**
 4–6 September 2023  
 Freiburg, **Germany** or **Online**
 
+[**uxday**](https://2023.uxday.it/)  
+29 September 2023  
+Verona, **Italy** or **Online**
+
 [**JavaScript Days, Angular Days, React Days und HTML & CSS Days - Berlin**](https://javascript-days.de/berlin/)  
 16-19 October 2023  
 Berlin, **Germany** or **Online**
+
+[**reactjsday**](https://2023.reactjsday.it/)  
+29 October 2023  
+Verona, **Italy** or **Online**
+
+[**angularday**](https://www.angularday.it/)  
+24 November 2023  
+Verona, **Italy** or **Online**
 
 ## North America
 
