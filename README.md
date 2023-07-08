@@ -46,6 +46,10 @@ Berlin, **Germany** or **Online**
 29 October 2023  
 Verona, **Italy** or **Online**
 
+[**Wey Wey Web**](https://www.weyweyweb.com/)  
+23-24 November 2023  
+Malaga, **Spain** 
+
 [**angularday**](https://www.angularday.it/)  
 24 November 2023  
 Verona, **Italy** or **Online**
