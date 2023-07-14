@@ -6,64 +6,90 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
-[**JSworld Conference 2023**](https://jsworldconference.com)  
-8-10 February 2023  
+[**cssday 2022**](https://cssday.it/)  
+1 April 2022  
+Faenza, **Italy** and **Online**
+
+[**React Conference Live**](https://reactlive.nl)  
+1 April 2022  
 Amsterdam, **The Netherlands**
 
-[**Vuejs Amsterdam 2023**](https://vuejs.amsterdam)  
-9-10 February 2023  
-Amsterdam, **The Netherlands**
-
-[**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
-20-23 March 2023  
-Munich, **Germany** or **Online**
-
-[**International JavaScript Conference London**](https://javascript-conference.com/london)  
-24–27 April 2023  
+[**International JavaScript Conference**](https://javascript-conference.com/london/)  
+25-28 April 2022  
 London, **United Kingdom** or **Online**
 
-[**We Love Speed 2023**](https://www.welovespeed.com/2023/)  
-10 May 2023  
-Paris, **France** (recorded and later available **Online**)
+[**BeJS Conf**](https://www.bejs.io/conf)  
+13 May 2022  
+Brussels, **Belgium** and **Online**
 
-[**App.js Conf 2023**](https://appjs.co/)  
-10-12 May 2023  
-Kraków, **Poland** or **Online**
+[**IT Security Summit 2022**](https://it-security-summit.de/muenchen)  
+16. - 18. May 2022  
+Munich, **Germany**
 
-[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2023/)  
-4–6 September 2023  
-Freiburg, **Germany** or **Online**
-
-[**uxday**](https://2023.uxday.it/)  
-29 September 2023  
-Verona, **Italy** or **Online**
-
-[**React Live Conference**](https://reactlive.nl/)  
-29 September 2023  
-Amsterdam, **The Netherlands**
-
-[**JavaScript Days, Angular Days, React Days und HTML & CSS Days - Berlin**](https://javascript-days.de/berlin/)  
-16-19 October 2023  
+[**webinale 2022**](https://webinale.de/en/)  
+30 May - 3 June 2022  
 Berlin, **Germany** or **Online**
 
-[**reactjsday**](https://2023.reactjsday.it/)  
-29 October 2023  
-Verona, **Italy** or **Online**
+[**JSWorld Conference**](https://jsworldconference.com/)  
+1-3 June 2022  
+Amsterdam, **The Netherlands**
 
-[**Wey Wey Web**](https://www.weyweyweb.com/)  
-23-24 November 2023  
-Malaga, **Spain** 
+[**Vuejs Amsterdam**](https://vuejs.amsterdam)  
+2-3 June 2022  
+Amsterdam, **The Netherlands**
 
-[**angularday**](https://www.angularday.it/)  
-24 November 2023  
-Verona, **Italy** or **Online**
+[**App.js Conf 2022**](https://appjs.co/)  
+8-10 June 2022  
+Kraków, **Poland**
+
+[**CSS Day 2022**](https://cssday.nl/)  
+9-10 June 2022  
+Amsterdam, **The Netherlands**
+
+[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2022)  
+10 June 2022  
+Bristol, **United Kingdom**
+
+[**JSNation Conference 2022**](https://jsnation.com)  
+16 June 2022  
+Amsterdam, **The Netherlands**  
+20 June 2022  
+**Online**
+
+[**React Summit**](https://reactsummit.com/)  
+17 June 2022  
+Amsterdam, **The Netherlands**  
+21 June 2022  
+**Online**
+
+[**HalfStack Newquay**](https://www.halfstackconf.com/newquay/)  
+1 July 2022  
+Newquay, **United Kingdom**  
+
+[**Full Stack Europe 2022**](https://www.fullstackeurope.com/2022/)  
+5-7 October 2022  
+Antwerp, **Belgium**  
 
 ## North America
 
-[**React Miami 2023**](https://reactmiami.com)  
-20-21 April 2023  
-Miami, **United States**
+[**React Miami**](https://www.reactmiami.com/)  
+18-19 April 2022  
+Miami, FL, **USA**
 
-[**SmashingConf San Francisco**](https://smashingconf.com/sf-2023/)  
-23–26 May 2023  
-San Francisco, **USA** or **Online**
+## Online
+
+[**JavaScript Days, Angular Days, React Days und HTML &amp; CSS Days**](https://javascript-days.de/muenchen/)  
+21-24 March 2022  
+**Online**
+
+[**DevOps.js**](https://devopsjsconf.com/)  
+24-25 March 2022  
+**Online**
+
+[**Developer Growth Summit 2022**](https://www.codementor.io/events/developer-growth-summit)  
+20-21 April 2022  
+**Online**
+
+[**Devs For Ukraine**](https://www.devsforukraine.io/)  
+25-26 April 2022  
+**Online**
