@@ -50,6 +50,10 @@ Berlin, **Germany** or **Online**
 29 October 2023  
 Verona, **Italy** or **Online**
 
+[**ffconf**](https://2023.ffconf.org/)
+10 November 2023
+Brighton, **United Kingdom**
+
 [**Wey Wey Web**](https://www.weyweyweb.com/)  
 23-24 November 2023  
 Malaga, **Spain** 
