@@ -6,6 +6,10 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Europe
 
+[**App.js Conf 2024**](https://appjs.co/)  
+22-24 May 2024  
+Kraków, **Poland** or **Online**
+
 [**JSworld Conference 2023**](https://jsworldconference.com)  
 8-10 February 2023  
 Amsterdam, **The Netherlands**
@@ -25,10 +29,6 @@ London, **United Kingdom** or **Online**
 [**We Love Speed 2023**](https://www.welovespeed.com/2023/)  
 10 May 2023  
 Paris, **France** (recorded and later available **Online**)
-
-[**App.js Conf 2023**](https://appjs.co/)  
-10-12 May 2023  
-Kraków, **Poland** or **Online**
 
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2023/)  
 4–6 September 2023  
