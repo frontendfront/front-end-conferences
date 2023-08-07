@@ -46,6 +46,10 @@ Amsterdam, **The Netherlands**
 16-19 October 2023  
 Berlin, **Germany** or **Online**
 
+[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
+23-27 October 2023
+Munich, **Germany** or **Online**
+
 [**reactjsday**](https://2023.reactjsday.it/)  
 29 October 2023  
 Verona, **Italy** or **Online**
