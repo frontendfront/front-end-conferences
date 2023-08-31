@@ -75,3 +75,8 @@ Miami, **United States**
 [**SmashingConf San Francisco**](https://smashingconf.com/sf-2023/)  
 23–26 May 2023  
 San Francisco, **USA** or **Online**
+
+
+[**ConFoo Montreal**](https://confoo.ca/en/2024)  
+21–23 Février 2024  
+Montreal, **Canada**
