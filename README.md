@@ -76,7 +76,6 @@ Miami, **United States**
 23–26 May 2023  
 San Francisco, **USA** or **Online**
 
-
 [**ConFoo Montreal**](https://confoo.ca/en/2024)  
-21–23 Février 2024  
+21–23 February 2024  
 Montreal, **Canada**
