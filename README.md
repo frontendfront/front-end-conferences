@@ -4,6 +4,12 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 *The following content can also be found on [https://frontendfront.com/conferences](https://frontendfront.com/conferences).*
 
+## Asia
+
+[**International JavaScript Conference Singapore**](https://javascript-conference.com/singapore/)  
+11-14 December 2023  
+Singapore, **Singapore** or **Online**
+
 ## Europe
 
 [**JSworld Conference 2023**](https://jsworldconference.com)  
@@ -68,13 +74,9 @@ Kraków, **Poland** or **Online**
 
 ## North America
 
-[**React Miami 2023**](https://reactmiami.com)  
-20-21 April 2023  
-Miami, **United States**
-
-[**SmashingConf San Francisco**](https://smashingconf.com/sf-2023/)  
-23–26 May 2023  
-San Francisco, **USA** or **Online**
+[**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
+25-28 September 2023  
+New York, **USA** or **Online**
 
 [**ConFoo Montreal**](https://confoo.ca/en/2024)  
 21–23 February 2024  
