@@ -68,6 +68,18 @@ Malaga, **Spain**
 24 November 2023  
 Verona, **Italy** or **Online**
 
+[**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
+28-29 Feb & 1 March 2024  
+Amsterdam, **Netherlands** 
+
+[**JSworld Conference**](https://jsworldconference.com/)  
+28-29 Feb & 1 March 2024  
+Amsterdam, **Netherlands** 
+
+[**Devworld Conference**](https://devworldconference.com/)  
+28-29 February 2024  
+Amsterdam, **Netherlands** 
+
 [**App.js Conf 2024**](https://appjs.co/)  
 22-24 May 2024  
 Kraków, **Poland** or **Online**
