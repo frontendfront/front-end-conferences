@@ -80,6 +80,10 @@ Amsterdam, **Netherlands**
 28-29 February 2024  
 Amsterdam, **Netherlands** 
 
+[**International JavaScript Conference London**](https://javascript-conference.com/london/)  
+8–11 April 2024  
+London, **United Kingdom**
+
 [**App.js Conf 2024**](https://appjs.co/)  
 22-24 May 2024  
 Kraków, **Poland** or **Online**
