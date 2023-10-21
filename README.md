@@ -69,11 +69,11 @@ Malaga, **Spain**
 Verona, **Italy** or **Online**
 
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
-28-29 Feb & 1 March 2024  
+28-29 February & 1 March 2024  
 Amsterdam, **Netherlands** 
 
 [**JSworld Conference**](https://jsworldconference.com/)  
-28-29 Feb & 1 March 2024  
+28-29 February & 1 March 2024  
 Amsterdam, **Netherlands** 
 
 [**Devworld Conference**](https://devworldconference.com/)  
