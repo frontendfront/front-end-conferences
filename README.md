@@ -88,6 +88,14 @@ London, **United Kingdom**
 22-24 May 2024  
 Kraków, **Poland** or **Online**
 
+[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2024/)  
+9–11 September 2024  
+Freiburg, **Germany** or **Online**
+
+[**SmashingConf Antwerp**](https://smashingconf.com/antwerp-2024/)  
+28–31 October 2024  
+Antwerp, **Belgium** or **Online**
+
 ## North America
 
 [**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
@@ -97,3 +105,7 @@ New York, **USA** or **Online**
 [**ConFoo Montreal**](https://confoo.ca/en/2024)  
 21–23 February 2024  
 Montreal, **Canada**
+
+[**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
+7–10 October 2024  
+New York, **USA** or **Online**
