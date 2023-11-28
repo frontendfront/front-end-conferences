@@ -88,6 +88,14 @@ London, **United Kingdom**
 22-24 May 2024  
 Kraków, **Poland** or **Online**
 
+[**C3 Dev Festival**](https://c3fest.com/)  
+14-16 June 2024  
+Amsterdam, **Netherlands**
+
+[**JSNation 2024**](https://jsnation.com/)  
+13-17 June 2024  
+Amsterdam, **Netherlands** or **Online**
+
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2024/)  
 9–11 September 2024  
 Freiburg, **Germany** or **Online**
