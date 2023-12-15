@@ -88,7 +88,7 @@ London, **United Kingdom**
 22-24 May 2024  
 Kraków, **Poland** or **Online**
 
-[**JSHeroes 2024**](https://jsheroes.io/)  
+[**JSHeroes**](https://jsheroes.io/)  
 23-24 May 2024  
 Cluj-Napoca, **Romania**
 
