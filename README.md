@@ -88,6 +88,10 @@ London, **United Kingdom**
 22-24 May 2024  
 Kraków, **Poland** or **Online**
 
+[**JSHeroes**](https://jsheroes.io/)  
+23-24 May 2024  
+Cluj-Napoca, **Romania**
+
 [**C3 Dev Festival**](https://c3fest.com/)  
 14-16 June 2024  
 Amsterdam, **Netherlands**
