@@ -90,12 +90,13 @@ Munich, **Germany** or **Online**
 
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
 8–11 April 2024  
-London, **United Kingdom**
+Park Plaza Victoria, London, **United Kingdom**
 
 [**App.js Conf 2024**](https://appjs.co/)  
 22-24 May 2024  
 Kraków, **Poland** or **Online**
 
+<<<<<<< HEAD
 [**JSHeroes**](https://jsheroes.io/)  
 23-24 May 2024  
 Cluj-Napoca, **Romania**
@@ -115,6 +116,8 @@ Freiburg, **Germany** or **Online**
 [**SmashingConf Antwerp**](https://smashingconf.com/antwerp-2024/)  
 28–31 October 2024  
 Antwerp, **Belgium** or **Online**
+=======
+>>>>>>> e3d1d660f96d2380060893ee0b1b669f622dba7f
 
 ## North America
 
@@ -126,10 +129,13 @@ New York, **USA** or **Online**
 21–23 February 2024  
 Montreal, **Canada**
 
+<<<<<<< HEAD
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
 7–10 October 2024  
 New York, **USA** or **Online**
 
+=======
+>>>>>>> e3d1d660f96d2380060893ee0b1b669f622dba7f
 [**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)  
 May 20 – 23, 2024 
 Hyatt Regency La Jolla At Aventine, San Diego, **USA**
