@@ -69,7 +69,7 @@ Malaga, **Spain**
 Verona, **Italy** or **Online**
 
 [**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/berlin/)  
-December 4 - 6, 2023
+December 4 - 6, 2023 <br>
 Berlin, **Germany** 
 
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
@@ -85,7 +85,7 @@ Amsterdam, **Netherlands**
 Amsterdam, **Netherlands** 
 
 [**JavaScript Days: JavaScript, Angular, React und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
-March 18 - 21, 2024 
+March 18 - 21, 2024 <br>
 Munich, **Germany** or **Online**
 
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
