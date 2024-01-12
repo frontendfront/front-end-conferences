@@ -127,6 +127,7 @@ New York, **USA** or **Online**
 Montreal, **Canada**
 
 [**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)
+
 May 20 – 23, 2024 
 Hyatt Regency La Jolla At Aventine, San Diego, **USA**
 
