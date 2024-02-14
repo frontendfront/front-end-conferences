@@ -12,66 +12,6 @@ Singapore, **Singapore** or **Online**
 
 ## Europe
 
-[**JSworld Conference 2023**](https://jsworldconference.com)  
-8-10 February 2023  
-Amsterdam, **The Netherlands**
-
-[**Vuejs Amsterdam 2023**](https://vuejs.amsterdam)  
-9-10 February 2023  
-Amsterdam, **The Netherlands**
-
-[**JavaScript Days, Angular Days, React Days und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
-20-23 March 2023  
-Munich, **Germany** or **Online**
-
-[**International JavaScript Conference London**](https://javascript-conference.com/london)  
-24–27 April 2023  
-London, **United Kingdom** or **Online**
-
-[**We Love Speed 2023**](https://www.welovespeed.com/2023/)  
-10 May 2023  
-Paris, **France** (recorded and later available **Online**)
-
-[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2023/)  
-4–6 September 2023  
-Freiburg, **Germany** or **Online**
-
-[**uxday**](https://2023.uxday.it/)  
-29 September 2023  
-Verona, **Italy** or **Online**
-
-[**React Live Conference**](https://reactlive.nl/)  
-29 September 2023  
-Amsterdam, **The Netherlands**
-
-[**JavaScript Days, Angular Days, React Days und HTML & CSS Days - Berlin**](https://javascript-days.de/berlin/)  
-16-19 October 2023  
-Berlin, **Germany** or **Online**
-
-[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
-23-27 October 2023  
-Munich, **Germany** or **Online**
-
-[**reactjsday**](https://2023.reactjsday.it/)  
-29 October 2023  
-Verona, **Italy** or **Online**
-
-[**ffconf**](https://2023.ffconf.org/)  
-10 November 2023  
-Brighton, **United Kingdom**
-
-[**Wey Wey Web**](https://www.weyweyweb.com/)  
-23-24 November 2023  
-Malaga, **Spain** 
-
-[**angularday**](https://www.angularday.it/)  
-24 November 2023  
-Verona, **Italy** or **Online**
-
-[**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/berlin/)  
-4 - 6 December 2023 <br>
-Berlin, **Germany** 
-
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
 28-29 February & 1 March 2024  
 Amsterdam, **Netherlands** 
@@ -85,7 +25,7 @@ Amsterdam, **Netherlands**
 Amsterdam, **Netherlands** 
 
 [**JavaScript Days: JavaScript, Angular, React und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
-18-21 March 2024 <br>
+18-21 March 2024  
 Munich, **Germany** or **Online**
 
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
@@ -126,17 +66,13 @@ Antwerp, **Belgium** or **Online**
 
 ## North America
 
-[**International JavaScript Conference New York**](https://javascript-conference.com/new-york/)  
-25-28 September 2023  
-New York, **USA** or **Online**
-
 [**ConFoo Montreal**](https://confoo.ca/en/2024)  
 21–23 February 2024  
 Montreal, **Canada**
 
-[**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)<br>
-20–23 May 2024 <br>
-Hyatt Regency La Jolla At Aventine, San Diego, **USA**
+[**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)  
+20–23 May 2024  
+San Diego, **USA** or **Online**
 
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
 7–10 October 2024  
