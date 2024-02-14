@@ -100,6 +100,10 @@ Kraków, **Poland** or **Online**
 23-24 May 2024  
 Cluj-Napoca, **Romania**
 
+[**CSS Day**](https://cssday.nl/2024)  
+6-7 June 2024  
+Amsterdam, **Netherlands**
+
 [**C3 Dev Festival**](https://c3fest.com/)  
 14-16 June 2024  
 Amsterdam, **Netherlands**
@@ -107,6 +111,10 @@ Amsterdam, **Netherlands**
 [**JSNation 2024**](https://jsnation.com/)  
 13-17 June 2024  
 Amsterdam, **Netherlands** or **Online**
+
+[**FrontConf**](https://frontconference.com/)  
+29-30 Aug 2024  
+Zurich, **Switzerland**
 
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2024/)  
 9–11 September 2024  
