@@ -68,6 +68,10 @@ Malaga, **Spain**
 24 November 2023  
 Verona, **Italy** or **Online**
 
+[**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/berlin/)  
+4 - 6 December 2023 <br>
+Berlin, **Germany** 
+
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
 28-29 February & 1 March 2024  
 Amsterdam, **Netherlands** 
@@ -79,6 +83,10 @@ Amsterdam, **Netherlands**
 [**Devworld Conference**](https://devworldconference.com/)  
 28-29 February 2024  
 Amsterdam, **Netherlands** 
+
+[**JavaScript Days: JavaScript, Angular, React und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
+18-21 March 2024 <br>
+Munich, **Germany** or **Online**
 
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
 8–11 April 2024  
@@ -117,6 +125,10 @@ New York, **USA** or **Online**
 [**ConFoo Montreal**](https://confoo.ca/en/2024)  
 21–23 February 2024  
 Montreal, **Canada**
+
+[**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)<br>
+20–23 May 2024 <br>
+Hyatt Regency La Jolla At Aventine, San Diego, **USA**
 
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
 7–10 October 2024  
