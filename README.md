@@ -68,9 +68,9 @@ Malaga, **Spain**
 24 November 2023  
 Verona, **Italy** or **Online**
 
-[**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/berlin/)  
-4 - 6 December 2023 <br>
-Berlin, **Germany** 
+[**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/muenchen/)  
+12 - 12 June 2024 <br>
+München, **Germany** 
 
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
 28-29 February & 1 March 2024  
