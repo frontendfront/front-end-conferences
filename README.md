@@ -69,7 +69,7 @@ Malaga, **Spain**
 Verona, **Italy** or **Online**
 
 [**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/muenchen/)  
-12 - 12 June 2024 <br>
+10-12 June 2024 <br>
 München, **Germany** 
 
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
