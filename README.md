@@ -44,6 +44,10 @@ Cluj-Napoca, **Romania**
 6-7 June 2024  
 Amsterdam, **Netherlands**
 
+[**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/muenchen/)  
+10-12 June 2024  
+München, **Germany**
+
 [**C3 Dev Festival**](https://c3fest.com/)  
 14-15 June 2024  
 Amsterdam, **Netherlands**
