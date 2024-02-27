@@ -81,3 +81,7 @@ San Diego, **USA** or **Online**
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
 7–10 October 2024  
 New York, **USA** or **Online**
+
+[**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
+7–10 October 2024  
+New York Marriott At The Brooklyn Bridge, **USA** or **Online**
