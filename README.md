@@ -77,3 +77,7 @@ San Diego, **USA** or **Online**
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
 7–10 October 2024  
 New York, **USA** or **Online**
+
+[**JSNation US**](https://jsnation.us/)  
+18-21 November 2024  
+New York, **USA** or **Online**
