@@ -7,8 +7,8 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 ## Asia
 
 [**International JavaScript Conference Singapore**](https://javascript-conference.com/singapore/)  
-11-14 December 2023  
-Singapore, **Singapore** or **Online**
+25-28 November 2024  
+Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 
 ## Europe
 
@@ -44,6 +44,10 @@ Cluj-Napoca, **Romania**
 6-7 June 2024  
 Amsterdam, **Netherlands**
 
+[**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/muenchen/)  
+10-12 June 2024  
+München, **Germany**
+
 [**C3 Dev Festival**](https://c3fest.com/)  
 14-15 June 2024  
 Amsterdam, **Netherlands**
@@ -64,6 +68,10 @@ Freiburg, **Germany** or **Online**
 28–31 October 2024  
 Antwerp, **Belgium** or **Online**
 
+[**Frontend Barcelona Conference 2024**](https://frontend.barcelona/)  
+03–04 December 2024  
+Barcelona, **Spain**
+
 ## North America
 
 [**ConFoo Montreal**](https://confoo.ca/en/2024)  
@@ -77,6 +85,10 @@ San Diego, **USA** or **Online**
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
 7–10 October 2024  
 New York, **USA** or **Online**
+
+[**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
+7–10 October 2024  
+New York Marriott At The Brooklyn Bridge, **USA** or **Online**
 
 [**JSNation US**](https://jsnation.us/)  
 18-21 November 2024  
