@@ -7,8 +7,8 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 ## Asia
 
 [**International JavaScript Conference Singapore**](https://javascript-conference.com/singapore/)  
-11-14 December 2023  
-Singapore, **Singapore** or **Online**
+25-28 November 2024  
+Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 
 ## Europe
 
