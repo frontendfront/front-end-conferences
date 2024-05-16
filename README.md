@@ -56,6 +56,10 @@ Amsterdam, **Netherlands**
 13-17 June 2024  
 Amsterdam, **Netherlands** or **Online**
 
+[**Middlesbrough Front End 2024**](https://middlesbroughfe.co.uk/)  
+17 July 2024  
+Middlesbrough, **United Kingdom**
+
 [**FrontConf**](https://frontconference.com/)  
 29-30 Aug 2024  
 Zurich, **Switzerland**
