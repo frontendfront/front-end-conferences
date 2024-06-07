@@ -72,6 +72,10 @@ Freiburg, **Germany** or **Online**
 28–31 October 2024  
 Antwerp, **Belgium** or **Online**
 
+[**Wey Wey Web**](https://weyweyweb.com/)  
+27-29 November 2024  
+Malaga, **Spain**
+
 [**Frontend Barcelona Conference 2024**](https://frontend.barcelona/)  
 03–04 December 2024  
 Barcelona, **Spain**
