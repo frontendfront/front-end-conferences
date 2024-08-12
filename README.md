@@ -76,14 +76,6 @@ Berlin, **Germany** or **Online**
 28–31 October 2024  
 Antwerp, **Belgium** or **Online**
 
-[**EKON 28: Die Entwickler Konferenz für Delphi**](https://entwickler-konferenz.de/de/)  
-4-6 November 2024  
-Duesseldorf, **Germany**
-
-[**MAD Summit**](https://mad-summit.de/berlin/)  
-25-27 November 2024  
-Berlin, **Germany**
-
 [**Frontend Barcelona Conference 2024**](https://frontend.barcelona/)  
 03–04 December 2024  
 Barcelona, **Spain**
