@@ -76,9 +76,17 @@ Berlin, **Germany** or **Online**
 28–31 October 2024  
 Antwerp, **Belgium** or **Online**
 
+[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
+11–15 November 2024
+Munich, **Germany** or **Online**
+
 [**Frontend Barcelona Conference 2024**](https://frontend.barcelona/)  
 03–04 December 2024  
 Barcelona, **Spain**
+
+[**International JavaScript Conference London**](https://javascript-conference.com/london/)  
+12–25 May 2025  
+London, **United Kingdom** or **Online**
 
 ## North America
 
