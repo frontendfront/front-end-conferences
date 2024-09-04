@@ -77,7 +77,7 @@ Berlin, **Germany** or **Online**
 Antwerp, **Belgium** or **Online**
 
 [**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
-11–15 November 2024
+11–15 November 2024  
 Munich, **Germany** or **Online**
 
 [**Frontend Barcelona Conference 2024**](https://frontend.barcelona/)  
@@ -109,7 +109,6 @@ New York Marriott At The Brooklyn Bridge, **USA** or **Online**
 [**JSNation US**](https://jsnation.us/)  
 18-21 November 2024  
 New York, **USA** or **Online**
-
 
 [**ConFoo Montreal**](https://confoo.ca/en/2025)  
 26–28 February 2025  
