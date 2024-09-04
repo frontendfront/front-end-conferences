@@ -109,3 +109,8 @@ New York Marriott At The Brooklyn Bridge, **USA** or **Online**
 [**JSNation US**](https://jsnation.us/)  
 18-21 November 2024  
 New York, **USA** or **Online**
+
+
+[**ConFoo Montreal**](https://confoo.ca/en/2025)  
+26–28 February 2025  
+Montreal, **Canada**
