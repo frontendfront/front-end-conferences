@@ -12,34 +12,6 @@ Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 
 ## Europe
 
-[**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
-28-29 February & 1 March 2024  
-Amsterdam, **Netherlands** 
-
-[**JSworld Conference**](https://jsworldconference.com/)  
-28-29 February & 1 March 2024  
-Amsterdam, **Netherlands** 
-
-[**Devworld Conference**](https://devworldconference.com/)  
-28-29 February 2024  
-Amsterdam, **Netherlands** 
-
-[**JavaScript Days: JavaScript, Angular, React und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
-18-21 March 2024  
-Munich, **Germany** or **Online**
-
-[**International JavaScript Conference London**](https://javascript-conference.com/london/)  
-8–11 April 2024  
-London, **United Kingdom**
-
-[**App.js Conf 2024**](https://appjs.co/)  
-22-24 May 2024  
-Kraków, **Poland** or **Online**
-
-[**JSHeroes**](https://jsheroes.io/)  
-23-24 May 2024  
-Cluj-Napoca, **Romania**
-
 [**CSS Day**](https://cssday.nl/2024)  
 6-7 June 2024  
 Amsterdam, **Netherlands**
@@ -84,19 +56,43 @@ Munich, **Germany** or **Online**
 03–04 December 2024  
 Barcelona, **Spain**
 
+[**Devworld Conference**](https://devworldconference.com/)  
+27-28 February 2025  
+Amsterdam, **Netherlands** 
+
+[**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
+12-13 March 2025  
+Amsterdam, **Netherlands**
+
+[**JSworld Conference**](https://jsworldconference.com/)  
+12-14 March 2025  
+Amsterdam, **Netherlands**
+
+[**JavaScript Days: JavaScript, Angular, React und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
+17-20 March 2025  
+Munich, **Germany** or **Online**
+
+[**dotJS 2025**](https://www.dotjs.io/)  
+3 April 2025  
+Paris, **France**
+
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
-12–25 May 2025  
+12–15 May 2025  
 London, **United Kingdom** or **Online**
 
+[**App.js Conf 2024**](https://appjs.co/)  
+28-30 May 2025  
+Kraków, **Poland** or **Online**
+
+[**JSHeroes**](https://jsheroes.io/)  
+29-30 May 2025  
+Cluj-Napoca, **Romania**
+
+[**Pixel Pioneers Bristol**](https://pixelpioneers.co/)  
+20 June 2025  
+Bristol, **United Kingdom**
+
 ## North America
-
-[**ConFoo Montreal**](https://confoo.ca/en/2024)  
-21–23 February 2024  
-Montreal, **Canada**
-
-[**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)  
-20–23 May 2024  
-San Diego, **USA** or **Online**
 
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
 7–10 October 2024  
@@ -113,3 +109,7 @@ New York, **USA** or **Online**
 [**ConFoo Montreal**](https://confoo.ca/en/2025)  
 26–28 February 2025  
 Montreal, **Canada**
+
+[**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)  
+19–22 May 2025  
+San Diego, **USA** or **Online**
