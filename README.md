@@ -92,6 +92,11 @@ Cluj-Napoca, **Romania**
 20 June 2025  
 Bristol, **United Kingdom**
 
+[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2025/)  
+8–11 September 2025  
+Freiburg, **Germany** or **Online**
+
+
 ## North America
 
 [**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
@@ -117,3 +122,7 @@ San Diego, **USA** or **Online**
 [**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
 29 September – 2 October 2025  
 New York Marriott At The Brooklyn Bridge, **USA** or **Online**
+
+[**SmashingConf New York**](https://smashingconf.com/ny-2025/)  
+6–9 October 2025  
+New York, **USA** or **Online**
