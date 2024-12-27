@@ -119,6 +119,10 @@ Montreal, **Canada**
 19–22 May 2025  
 San Diego, **USA** or **Online**
 
+[**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
+29 September – 2 October 2025  
+New York Marriott At The Brooklyn Bridge, **USA** or **Online**
+
 [**SmashingConf New York**](https://smashingconf.com/ny-2025/)  
 6–9 October 2025  
 New York, **USA** or **Online**
