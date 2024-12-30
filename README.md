@@ -88,6 +88,10 @@ Kraków, **Poland** or **Online**
 29-30 May 2025  
 Cluj-Napoca, **Romania**
 
+[**JSNation**](https://jsnation.com/)  
+12-16 June 2025  
+Amsterdam, **Netherlands** or **Online**
+
 [**Pixel Pioneers Bristol**](https://pixelpioneers.co/)  
 20 June 2025  
 Bristol, **United Kingdom**
