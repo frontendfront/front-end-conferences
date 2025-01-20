@@ -12,50 +12,6 @@ Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 
 ## Europe
 
-[**CSS Day**](https://cssday.nl/2024)  
-6-7 June 2024  
-Amsterdam, **Netherlands**
-
-[**MAD Summit - Modularization, API-Design, DDD**](https://mad-summit.de/muenchen/)  
-10-12 June 2024  
-München, **Germany**
-
-[**C3 Dev Festival**](https://c3fest.com/)  
-14-15 June 2024  
-Amsterdam, **Netherlands**
-
-[**JSNation**](https://jsnation.com/)  
-13-17 June 2024  
-Amsterdam, **Netherlands** or **Online**
-
-[**Middlesbrough Front End 2024**](https://middlesbroughfe.co.uk/)  
-17 July 2024  
-Middlesbrough, **United Kingdom**
-
-[**FrontConf**](https://frontconference.com/)  
-29-30 Aug 2024  
-Zurich, **Switzerland**
-
-[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2024/)  
-9–11 September 2024  
-Freiburg, **Germany** or **Online**
-
-[**JavaScript Days: JavaScript & Angular Days**](https://javascript-days.de/berlin/)  
-21-24 October 2024  
-Berlin, **Germany** or **Online**
-
-[**SmashingConf Antwerp**](https://smashingconf.com/antwerp-2024/)  
-28–31 October 2024  
-Antwerp, **Belgium** or **Online**
-
-[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
-11–15 November 2024  
-Munich, **Germany** or **Online**
-
-[**Frontend Barcelona Conference 2024**](https://frontend.barcelona/)  
-03–04 December 2024  
-Barcelona, **Spain**
-
 [**Devworld Conference**](https://devworldconference.com/)  
 27-28 February 2025  
 Amsterdam, **Netherlands** 
@@ -102,18 +58,6 @@ Freiburg, **Germany** or **Online**
 
 
 ## North America
-
-[**SmashingConf New York**](https://smashingconf.com/ny-2024/)  
-7–10 October 2024  
-New York, **USA** or **Online**
-
-[**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
-7–10 October 2024  
-New York Marriott At The Brooklyn Bridge, **USA** or **Online**
-
-[**JSNation US**](https://jsnation.us/)  
-18-21 November 2024  
-New York, **USA** or **Online**
 
 [**ConFoo Montreal**](https://confoo.ca/en/2025)  
 26–28 February 2025  
