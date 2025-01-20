@@ -68,7 +68,7 @@ Amsterdam, **Netherlands**
 12-14 March 2025  
 Amsterdam, **Netherlands**
 
-[**JavaScript Days: JavaScript, Angular, React und HTML & CSS Days**](https://javascript-days.de/muenchen/)  
+[**JavaScript & Angular Days**](https://javascript-days.de/muenchen/)  
 17-20 March 2025  
 Munich, **Germany** or **Online**
 
