@@ -48,6 +48,10 @@ Cluj-Napoca, **Romania**
 12-16 June 2025  
 Amsterdam, **Netherlands** or **Online**
 
+[**Middlesbrough Front End**](https://www.middlesbroughfe.co.uk/events/conferences/2025)
+12 June 2025
+Middlesbrough, **United Kingdom**
+
 [**Pixel Pioneers Bristol**](https://pixelpioneers.co/)  
 20 June 2025  
 Bristol, **United Kingdom**
