@@ -78,3 +78,7 @@ New York Marriott At The Brooklyn Bridge, **USA** or **Online**
 [**SmashingConf New York**](https://smashingconf.com/ny-2025/)  
 6–9 October 2025  
 New York, **USA** or **Online**
+
+[**JSNation US**](https://jsnation.us/)  
+17-20 November 2025  
+New York, **USA** or **Online**
