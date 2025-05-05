@@ -40,6 +40,10 @@ London, **United Kingdom** or **Online**
 28-30 May 2025  
 Kraków, **Poland** or **Online**
 
+[**MadVue 2025 – Vue.js Conf**](https://madvue.es/?utm_source=frontendfront)  
+29 May 2025  
+Madrid, **Spain**
+
 [**JSHeroes**](https://jsheroes.io/)  
 29-30 May 2025  
 Cluj-Napoca, **Romania**
