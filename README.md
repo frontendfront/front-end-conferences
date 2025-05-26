@@ -64,6 +64,10 @@ Bristol, **United Kingdom**
 8–11 September 2025  
 Freiburg, **Germany** or **Online**
 
+[**Wey Wey Web 25**](https://www.weyweyweb.com/)  
+17-18 November 2025  
+Malaga, **Spain**
+
 
 ## North America
 
