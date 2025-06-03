@@ -68,6 +68,10 @@ Freiburg, **Germany** or **Online**
 27–31 October 2025  
 Munich, **Germany** or **Online**
 
+[**Wey Wey Web 25**](https://www.weyweyweb.com/)  
+17-18 November 2025  
+Malaga, **Spain**
+
 ## North America
 
 [**ConFoo Montreal**](https://confoo.ca/en/2025)  
