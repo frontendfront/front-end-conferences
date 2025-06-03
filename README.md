@@ -64,10 +64,13 @@ Bristol, **United Kingdom**
 8–11 September 2025  
 Freiburg, **Germany** or **Online**
 
+[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
+27–31 October 2025  
+Munich, **Germany** or **Online**
+
 [**Wey Wey Web 25**](https://www.weyweyweb.com/)  
 17-18 November 2025  
 Malaga, **Spain**
-
 
 ## North America
 
@@ -80,7 +83,7 @@ Montreal, **Canada**
 San Diego, **USA** or **Online**
 
 [**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
-29 September – 2 October 2025  
+29 September – 3 October 2025  
 New York Marriott At The Brooklyn Bridge, **USA** or **Online**
 
 [**SmashingConf New York**](https://smashingconf.com/ny-2025/)  
