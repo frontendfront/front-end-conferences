@@ -64,6 +64,10 @@ Bristol, **United Kingdom**
 8–11 September 2025  
 Freiburg, **Germany** or **Online**
 
+[**PragVue**](https://pragvue.com/)  
+23 September 2025  
+Prague, **Czechia**
+
 [**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
 27–31 October 2025  
 Munich, **Germany** or **Online**
