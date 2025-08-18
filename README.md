@@ -97,3 +97,7 @@ New York, **USA** or **Online**
 [**JSNation US**](https://jsnation.us/)  
 17-20 November 2025  
 New York, **USA** or **Online**
+
+[**ConFoo Montreal**](https://confoo.ca/en/2026)  
+25–27 February 2026  
+Montreal, **Canada**
