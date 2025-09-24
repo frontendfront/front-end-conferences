@@ -53,7 +53,7 @@ London, **United Kingdom** or **Online**
 Cluj-Napoca, **Romania**
 
 [**MadVue 2026 – Vue.js Conf**](https://madvue.es/?utm_source=frontendfront)  
-22 May 2026
+22 May 2026  
 Madrid, **Spain**
 
 [**React Norway**](https://reactnorway.com/)  
