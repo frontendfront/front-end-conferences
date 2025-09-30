@@ -16,6 +16,10 @@ Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 23 September 2025  
 Prague, **Czechia**
 
+[**JavaScript & Angular Days**](https://javascript-days.de/berlin/)  
+20. - 24. October 2025  
+Berlin, **Germany** or **Online**
+
 [**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
 27–31 October 2025  
 Munich, **Germany** or **Online**
