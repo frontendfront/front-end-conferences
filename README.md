@@ -32,10 +32,6 @@ London, **United Kingdom**
 17-18 November 2025  
 Malaga, **Spain**
 
-[**Devworld Conference**](https://devworldconference.com/)  
-7-8 February 2026  
-Amsterdam, **Netherlands**
-
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
 12-13 March 2026  
 Amsterdam, **Netherlands**
@@ -46,6 +42,10 @@ Munich, **Germany** or **Online**
 
 [**SmashingConf Amsterdam 2026**](https://smashingconf.com/amsterdam-2026)  
 13-16 April 2026  
+Amsterdam, **Netherlands**
+
+[**Devworld Conference**](https://devworldconference.com/)  
+7-8 May 2026  
 Amsterdam, **Netherlands**
 
 [**International JavaScript Conference London**](https://javascript-conference.com/london/)  
