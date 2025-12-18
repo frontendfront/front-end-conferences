@@ -40,6 +40,14 @@ Amsterdam, **Netherlands**
 12-13 March 2026  
 Amsterdam, **Netherlands**
 
+[**GenAI Bootcamp**](https://javascript-days.de/muenchen/angular-bootcamp/)  
+19. – 20. March 2026  
+Munich, **Germany**
+
+[**JavaScript Bootcamp**](https://javascript-days.de/muenchen/javascript-bootcamp/)  
+19. – 20. March 2026  
+Munich, **Germany**
+
 [**JavaScript & Angular Days**](https://javascript-days.de/muenchen/)  
 March 2026  
 Munich, **Germany** or **Online**
