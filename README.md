@@ -64,6 +64,14 @@ Madrid, **Spain**
 5 June 2026  
 Oslo, **Norway** or **Online**
 
+[**CSS Day**](https://cssday.nl)  
+11-12 June 2026  
+Amsterdam, **Netherlands** or **Online**
+
+[**performance.now()**](https://perfnow.nl)  
+19-20 November 2026  
+Amsterdam, **Netherlands** or **Online**
+
 ## North America
 
 [**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
