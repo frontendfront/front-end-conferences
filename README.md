@@ -12,26 +12,6 @@ Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 
 ## Europe
 
-[**PragVue**](https://pragvue.com/)  
-23 September 2025  
-Prague, **Czechia**
-
-[**JavaScript & Angular Days**](https://javascript-days.de/berlin/)  
-20. - 24. October 2025  
-Berlin, **Germany** or **Online**
-
-[**International JavaScript Conference Munich**](https://javascript-conference.com/munich/)  
-27–31 October 2025  
-Munich, **Germany** or **Online**
-
-[**HalfStack London**](https://www.halfstackconf.com/london/)  
-12 November 2025  
-London, **United Kingdom**
-
-[**Wey Wey Web 25**](https://www.weyweyweb.com/)  
-17-18 November 2025  
-Malaga, **Spain**
-
 [**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
 12-13 March 2026  
 Amsterdam, **Netherlands**
@@ -68,23 +48,15 @@ Oslo, **Norway** or **Online**
 11-12 June 2026  
 Amsterdam, **Netherlands** or **Online**
 
+[**JSNation 2026**](https://jsnation.com/)  
+11-15 June 2026  
+Amsterdam , **Netherlands** or **Online**
+
 [**performance.now()**](https://perfnow.nl)  
 19-20 November 2026  
 Amsterdam, **Netherlands** or **Online**
 
 ## North America
-
-[**International Javascript Conference New York**](https://javascript-conference.com/new-york/)  
-29 September – 3 October 2025  
-New York Marriott At The Brooklyn Bridge, **USA** or **Online**
-
-[**SmashingConf New York**](https://smashingconf.com/ny-2025/)  
-6–9 October 2025  
-New York, **USA** or **Online**
-
-[**JSNation US**](https://jsnation.us/)  
-17-20 November 2025  
-New York, **USA** or **Online**
 
 [**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
 30 January 2026  
