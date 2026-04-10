@@ -12,14 +12,6 @@ Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 
 ## Europe
 
-[**Vuejs Amsterdam**](https://vuejs.amsterdam/)  
-12-13 March 2026  
-Amsterdam, **Netherlands**
-
-[**JavaScript & Angular Days**](https://javascript-days.de/muenchen/)  
-March 2026  
-Munich, **Germany** or **Online**
-
 [**SmashingConf Amsterdam 2026**](https://smashingconf.com/amsterdam-2026)  
 13-16 April 2026  
 Amsterdam, **Netherlands**
@@ -56,6 +48,10 @@ Amsterdam , **Netherlands** or **Online**
 19 June 2026  
 Bristol , **United Kingdom**
 
+[**React Advanced 2026**](https://reactadvanced.com/)  
+23 & 26 October 2026  
+London, **United Kingdom** or **Online**
+
 [**Wey Wey Web 2026**](https://weyweyweb.com/)  
 29-30 October 2026  
 Torremolinos, Málaga, **Spain** or **Online**
@@ -66,14 +62,14 @@ Amsterdam, **Netherlands** or **Online**
 
 ## North America
 
-[**HalfStack Phoenix**](https://www.halfstackconf.com/phoenix/)  
-30 January 2026  
-Gilbert, AZ, **USA**
-
-[**ConFoo Montreal**](https://confoo.ca/en/2026)  
-25–27 February 2026  
-Montreal, **Canada**
-
 [**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)  
 1-5 June 2026  
 San Diego, **USA** or **Online**
+
+[**JSNation US 2026**](https://jsnation.us/)  
+16 & 19 November 2026  
+New York, **USA** or **Online**
+
+[**React Summit US 2026**](https://reactsummit.us/)  
+17 & 20 November 2026  
+New York, **USA** or **Online**
