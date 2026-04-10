@@ -52,6 +52,10 @@ Bristol , **United Kingdom**
 23 & 26 October 2026  
 London, **United Kingdom** or **Online**
 
+[**International JavaScript Conference Munich 2026**](https://javascript-conference.com/munich/)  
+26-30 October 2026  
+Munich, **Germany** or **Online**
+
 [**Wey Wey Web 2026**](https://weyweyweb.com/)  
 29-30 October 2026  
 Torremolinos, Málaga, **Spain** or **Online**
@@ -72,4 +76,8 @@ New York, **USA** or **Online**
 
 [**React Summit US 2026**](https://reactsummit.us/)  
 17 & 20 November 2026  
+New York, **USA** or **Online**
+
+[**International JavaScript Conference NYC 2026**](https://javascript-conference.com/new-york/)  
+28 September - 2 October 2026  
 New York, **USA** or **Online**
