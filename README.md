@@ -48,6 +48,10 @@ Amsterdam , **Netherlands** or **Online**
 19 June 2026  
 Bristol , **United Kingdom**
 
+[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2026)  
+7—10 September 2026  
+Freiburg, **Germany** or **Online**
+
 [**React Advanced 2026**](https://reactadvanced.com/)  
 23 & 26 October 2026  
 London, **United Kingdom** or **Online**
