@@ -89,3 +89,9 @@ New York, **USA** or **Online**
 [**ConFoo Montreal 2027**](https://confoo.ca/en/2027)  
 24 -26 February 2027  
 Montreal, **Canada**
+
+## Online
+
+[**JS Days 2026**](https://www.jsdays.io/)  
+16-17 September 2026  
+**Online**
