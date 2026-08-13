@@ -12,44 +12,8 @@ Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
 
 ## Europe
 
-[**SmashingConf Amsterdam 2026**](https://smashingconf.com/amsterdam-2026)  
-13-16 April 2026  
-Amsterdam, **Netherlands**
-
-[**Devworld Conference**](https://devworldconference.com/)  
-7-8 May 2026  
-Amsterdam, **Netherlands**
-
-[**International JavaScript Conference London**](https://javascript-conference.com/london/)  
-11–15 May 2026  
-London, **United Kingdom** or **Online**
-
-[**JSHeroes**](https://jsheroes.io/)  
-14-15 May 2026  
-Cluj-Napoca, **Romania**
-
-[**MadVue 2026 – Vue.js Conf**](https://madvue.es/?utm_source=frontendfront)  
-22 May 2026  
-Madrid, **Spain**
-
-[**React Norway**](https://reactnorway.com/)  
-5 June 2026  
-Oslo, **Norway** or **Online**
-
-[**CSS Day**](https://cssday.nl)  
-11-12 June 2026  
-Amsterdam, **Netherlands** or **Online**
-
-[**JSNation 2026**](https://jsnation.com/)  
-11-15 June 2026  
-Amsterdam , **Netherlands** or **Online**
-
-[**Pixel Pioneers Bristol**](https://pixelpioneers.co/events/bristol-2026)  
-19 June 2026  
-Bristol , **United Kingdom**
-
 [**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2026)  
-7—10 September 2026  
+7-10 September 2026  
 Freiburg, **Germany** or **Online**
 
 [**React Advanced 2026**](https://reactadvanced.com/)  
@@ -70,10 +34,6 @@ Amsterdam, **Netherlands** or **Online**
 
 ## North America
 
-[**International JavaScript Conference San Diego**](https://javascript-conference.com/san-diego/)  
-1-5 June 2026  
-San Diego, **USA** or **Online**
-
 [**JSNation US 2026**](https://jsnation.us/)  
 16 & 19 November 2026  
 New York, **USA** or **Online**
@@ -87,7 +47,7 @@ New York, **USA** or **Online**
 New York, **USA** or **Online**
 
 [**ConFoo Montreal 2027**](https://confoo.ca/en/2027)  
-24 -26 February 2027  
+24-26 February 2027  
 Montreal, **Canada**
 
 ## Online
