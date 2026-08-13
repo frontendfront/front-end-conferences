@@ -81,3 +81,7 @@ New York, **USA** or **Online**
 [**International JavaScript Conference NYC 2026**](https://javascript-conference.com/new-york/)  
 28 September - 2 October 2026  
 New York, **USA** or **Online**
+
+[**ConFoo Montreal 2027**](https://confoo.ca/en/2027)  
+24 -26 February 2027  
+Montreal, **Canada**
