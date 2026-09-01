@@ -34,16 +34,16 @@ Amsterdam, **Netherlands** or **Online**
 
 ## North America
 
+[**International JavaScript Conference NYC 2026**](https://javascript-conference.com/new-york/)  
+28 September - 2 October 2026  
+New York, **USA** or **Online**
+
 [**JSNation US 2026**](https://jsnation.us/)  
 16 & 19 November 2026  
 New York, **USA** or **Online**
 
 [**React Summit US 2026**](https://reactsummit.us/)  
 17 & 20 November 2026  
-New York, **USA** or **Online**
-
-[**International JavaScript Conference NYC 2026**](https://javascript-conference.com/new-york/)  
-28 September - 2 October 2026  
 New York, **USA** or **Online**
 
 [**ConFoo Montreal 2027**](https://confoo.ca/en/2027)  
