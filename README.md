@@ -6,19 +6,11 @@ This is a list of upcoming front-end related conferences. If you know of any oth
 
 ## Asia
 
-[**International JavaScript Conference Singapore**](https://javascript-conference.com/singapore/)  
-25-28 November 2024  
-Suntec Singapore Convention & Exhibition Center, **Singapore** or **Online**
+[**React Summit Asia 2027**](https://reactsummit.asia/)  
+15 & 19 April 2027  
+Singapore, **Singapore** or **Online**
 
 ## Europe
-
-[**SmashingConf Freiburg**](https://smashingconf.com/freiburg-2026)  
-7-10 September 2026  
-Freiburg, **Germany** or **Online**
-
-[**JavaScript & Angular Days Berlin**](https://javascript-days.de/berlin/)  
-12-16 October 2026  
-Berlin, **Germany** or **Online**
 
 [**React Advanced 2026**](https://reactadvanced.com/)  
 23 & 26 October 2026  
@@ -54,10 +46,6 @@ Düsseldorf, **Germany**
 
 ## North America
 
-[**International JavaScript Conference NYC 2026**](https://javascript-conference.com/new-york/)  
-28 September - 2 October 2026  
-New York, **USA** or **Online**
-
 [**JSNation US 2026**](https://jsnation.us/)  
 16 & 19 November 2026  
 New York, **USA** or **Online**
@@ -73,9 +61,3 @@ Phoenix, AZ, **USA**
 [**ConFoo Montreal 2027**](https://confoo.ca/en/2027)  
 24-26 February 2027  
 Montreal, **Canada**
-
-## Online
-
-[**JS Days 2026**](https://www.jsdays.io/)  
-16-17 September 2026  
-**Online**
